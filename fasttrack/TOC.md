@@ -1,0 +1,13 @@
+# [FastTrack for Office 365 的優點](fasttrack-benefit-for-office-365.md)
+## [合格服務與計劃](eligible-services-and-plans.md)
+## [FastTrack Center 權益概觀](fasttrack-benefit-overview.md)
+### [FastTrack 處理程序 _Konverze](fasttrack-process.md)
+### [來源環境預期](environment-expectations.md)
+### [上架及移轉階段](onboarding-and-migration.md)
+### [資料移轉](data-migration.md)
+### [FastTrack 責任](fasttrack-responsibilities.md)
+### [您的責任](your-responsibilities.md)
+### [附錄 A：從 IBM Domino 移轉至 Exchange Online](from-ibm-domino-to-exchange-online.md)
+### [附錄 B：FastTrack Center 其他權益](fasttrack-additional-benefits.md)
+### [附錄 c： FastTrack 中心 HIPAA 業務關聯協議](hipaa-business-associate-agreement.md)
+

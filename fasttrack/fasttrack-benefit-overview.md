@@ -3,7 +3,7 @@ title: FastTrack Center 權益概觀
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
 description: 利用「適用於 Office 365 的 FastTrack Center 權益」，您可以遠端與 FastTrack 專家合作，使 Office 365 環境準備就緒可供使用並計劃組織內的推行和使用。若要深入了解是否合格，請參閱＜適用於 Office 365 的 FastTrack Center 權益＞。
-ms.openlocfilehash: 9fb67df2a28eb6c3b31e22811a46a87784e57119
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 4b54fd05314f9eac96b6f3781e14e988e1282c6c
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21498840"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449067"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>FastTrack Center 權益概觀
 
@@ -28,7 +28,7 @@ ms.locfileid: "21498840"
   
 - [FastTrack 處理程序](fasttrack-process.md)
     
-- [來源環境預期](environment-expectations.md)
+- [來源環境預期](source-environment-expectations.md)
     
 - [上架及移轉階段](onboarding-and-migration.md)
     
@@ -50,7 +50,7 @@ ms.locfileid: "21498840"
     
   - 單一 Active Directory 樹系環境。
     
-  - 支援的多樹系 Active Directory 拓撲。如需支援的拓撲，請參閱＜[來源環境的期望](environment-expectations.md)＞。
+  - 支援的多樹系 Active Directory 拓撲。如需支援的拓撲，請參閱＜[來源環境的期望](source-environment-expectations.md)＞。
     
 - 包含下列情況的 Office 365 帳戶同盟身分識別：
     

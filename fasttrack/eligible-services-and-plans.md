@@ -3,7 +3,7 @@ title: 合格服務與計劃
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: overview
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cf8ecce3-713f-4943-8217-afca0ce31434
 description: 購買任何 Office 365 服務 (下列中的說明「合格服務」一節) 時，FastTrack 專家會提供您指引以便上架到 Office 365 並開始使用它們。
-ms.openlocfilehash: 7547cf5528086e287bd3f156e39a5f5532a8fefd
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 2ba931c6aad66cd21bbab140c3550cb4aae0e57d
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21499070"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449069"
 ---
 # <a name="eligible-services-and-plans"></a>合格服務與計劃
 
@@ -182,7 +182,7 @@ FastTrack 服務中不合格的方案包含 (但不限於)：
     
 - 由 21Vianet 運作的 Office 365\*\*
     
-\*如需有關適用於美國政府的 FastTrack 權益詳細資訊，請參閱 [Office 365 US Government](https://go.microsoft.com/fwlink/?linkid=2005430)。
+\*如需有關適用於美國政府的 FastTrack 權益詳細資訊，請參閱 [Office 365 US Government](https://aka.ms/aboutgovcloud)。
   
 \*\*如需關於由 21Vianet 運作之「適用於 Office 365 的 FastTrack 權益」的詳細資訊，請連絡 [21Vianet 支援](https://go.microsoft.com/fwlink/?linkid=852156)。
   

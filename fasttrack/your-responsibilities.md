@@ -3,7 +3,7 @@ title: 您的責任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 64c7c548-87af-496b-b48e-04b9fa9f54f8
 description: 在上架期間您需擔負下列責任。
-ms.openlocfilehash: 9d51fdf901d70c780dc3aa2a997e51cb1a0ad232
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 6b572bb44edc1b4ae8312cfe1a59cbd005899a8f
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21499100"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449066"
 ---
 # <a name="your-responsibilities"></a>您的責任
 
-在上架期間您需擔負下列責任。
+在上架期間您需擔負下列責任。\*
   
 ## <a name="general"></a>一般
 
@@ -91,7 +91,7 @@ ms.locfileid: "21499100"
     
 - 參與專案啟動會議、管理並領導組織的參與者，並確認修復時間表。
     
-- 針對 Office 365 服務 (例如：SharePoint Online、Exchange Online、Yammer Enterprise) 提供您的目標，以及組織目標。
+- 針對 Office 365 服務 (例如：SharePoint Online、Exchange Online、Microsoft Teams 和 Office 365 專業增強版) 提供您的目標，以及組織目標。
     
 ## <a name="assess-phase"></a>評估階段
 
@@ -163,6 +163,6 @@ ms.locfileid: "21499100"
     
 - 更新您的 Apple 推播通知服務 (APNS) 憑證。
     
-
+\*如需您對 Office 365 US Government 的責任詳細資訊，請參閱[您對 Office 365 US Government 的責任](US-Gov-appendix-your-responsibilities.md)。
   
 

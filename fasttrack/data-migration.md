@@ -3,7 +3,7 @@ title: 資料移轉
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: e0c40008-4373-48d3-96bb-08f0afd08248
 description: FastTrack 專家提供將資料移轉到 Office 365 的步驟指引。我們將使用工具和文件的組合，並在適用且可行的情況下執行設定工作，為您提供指引。這適用於 Exchange Online、商務用 OneDrive 和 SharePoint Online 的 Office 365 服務所有符合資格的客戶。
-ms.openlocfilehash: 8a3157281947fbc9996a104014a29bb564fe7e13
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 1080da2cd5252a077a1c5f895aa0c7f22d68b5b3
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21498880"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449075"
 ---
 # <a name="data-migration"></a>資料移轉
 
@@ -43,7 +43,7 @@ FastTrack 專家提供將資料移轉到 Office 365 的步驟指引。我們將�
 
 |**活動**|**來源環境預期**|
 |:-----|:-----|
-|Exchange Online 移轉  <br/> | Microsoft 會移轉下列其中二個來源環境組合，一次一個。我們可以使用 FastTrack Center 來移轉上架郵件系統，或如果它通過 FastTrack Center 檢查。這包含：<br/>  若以 Exchange 2010+ 為基礎的混合式已實作於個別組織且 Exchange 郵件系統是 2003+，則為擁有單一或多個 Exchange 組織的單一或多個 Active Directory 樹系。  <br/> 單一 IBM Domino 7.0.3+ 環境 ([附錄 A：從 IBM Domino 移轉至 Exchange Online](from-ibm-domino-to-exchange-online.md))。  <br/>  具備單一 IMAP 功能的電子郵件環境。  <br/>  單一 G Suite 環境 (僅限 Gmail、連絡人和行事曆)。  <br/>  單一 Novell GroupWise 7.0.4+ 環境。  <br/> <br/> **附註** 移轉之前，必須先完成 Exchange Online 上架。** <br/> <br/> **附註** FastTrack 只會移轉至作用中的 Office 365 信箱。** <br/> <br/> **附註** 如需內部部署 Exchange 相依性的詳細資訊，請參閱＜[混合部署必要條件](https://go.microsoft.com/fwlink/?LinkId=787528)＞(機器翻譯)。** <br/><br/> **附註** 移轉多個來源郵件環境 (如多個 Exchange 組織或多個 Domino 組織 ) 時，這些移轉會依序進行。**| 
+|Exchange Online 移轉  <br/> | Microsoft 會移轉下列來源環境的任意組合，一次一個。我們可以使用 FastTrack Center 來移轉上架郵件系統，或如果它通過 FastTrack Center 檢查。這包含：<br/>  若以 Exchange 2010+ 為基礎的混合式已實作於個別組織且 Exchange 郵件系統是 2003+，則為擁有單一或多個 Exchange 組織的單一或多個 Active Directory 樹系。  <br/> 單一 IBM Domino 7.0.3+ 環境 ([附錄 A：從 IBM Domino 移轉至 Exchange Online](from-ibm-domino-to-exchange-online.md))。  <br/>  具備單一 IMAP 功能的電子郵件環境。  <br/>  G Suite 環境 (僅限 Gmail、連絡人和行事曆)。  <br/>  單一 Novell GroupWise 7.0.4+ 環境。  <br/> <br/> **附註** 移轉之前，必須先完成 Exchange Online 上架。** <br/> <br/> **附註** FastTrack 只會移轉至作用中的 Office 365 信箱。** <br/> <br/> **附註** 如需內部部署 Exchange 相依性的詳細資訊，請參閱＜[混合部署必要條件](https://go.microsoft.com/fwlink/?LinkId=787528)＞(機器翻譯)。** <br/><br/> **附註** 移轉多個來源郵件環境 (如多個 Exchange 組織或多個 Domino 組織 ) 時，這些移轉會依序進行。**| 
 |SharePoint Online 移轉  <br/> | 檔案共用 (支援 SMB 2.0+ 之裝置的伺服器訊息區 (SMB) 檔案共用)。  <br/>  Box (Starter、Business、Enterprise)。  <br/> |
 |商務用 OneDrive 移轉  <br/> | 檔案共用 (支援 SMB 2.0+ 之裝置的 SMB 檔案共用)。  <br/>  單一 G Suite 環境 (僅限 Google 雲端硬碟)。  <br/>  Box (Starter、Business、Enterprise)。 <br/> <br/> **附註** FastTrack 只會移轉至作用中的 Office 365 磁碟機。 **|
    

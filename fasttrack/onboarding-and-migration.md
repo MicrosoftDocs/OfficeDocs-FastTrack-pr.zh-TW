@@ -3,7 +3,7 @@ title: 上架及移轉階段
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Office 365 上架有四個主要階段 - 啟始、評估、修復與啟用。您可以在這些階段後面選擇接著資料移轉階段，如下圖所示。
-ms.openlocfilehash: 77c13b6aee3fc37e5b3fcb876e310dbd67e4c958
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: ec7366da4df6306d0c33ee99e37a3190777d839a
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21498850"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449073"
 ---
 # <a name="onboarding-and-migration-phases"></a>上架及移轉階段
 
@@ -24,6 +24,9 @@ Office 365 上架有四個主要階段 - 啟始、評估、修復與啟用。您
   
 ![上架權益的階段](media/O365-Onboarding-Phases.png)
   
+> [!NOTE]
+>如需 Office 365 US Government 的上架和移轉詳細資訊，請參閱 [Office 365 US Government 的上架和移轉](US-Gov-appendix-onboarding-and-migration.md)。 
+
 如需了解每個階段的詳細工作，請參閱 [FastTrack 責任](fasttrack-responsibilities.md)和[您的責任](your-responsibilities.md)。
   
 ## <a name="initiate-phase"></a>啟始階段
@@ -49,7 +52,7 @@ Office 365 上架有四個主要階段 - 啟始、評估、修復與啟用。您
 
 您的 FastTrack 專案經理會透過電話與您和您的採用小組針對如何做出成功的規劃進行互動討論。在討論過程中，他會為您介紹您購買的合格服務的功能、讓計劃成功所需的關鍵基礎、促進服務使用量的方法，以及您可以用來獲取服務價值的案例。我們會協助您做出成功的規劃，並 (視需要) 就關鍵領域提供意見。
   
-FastTrack 專家將配合您評估您的來源環境和需求。我們會執行工具來取得資料，並引導您估計頻寬需求以及進行網際網路瀏覽器、用戶端作業系統、網域名稱系統 (DNS)、網路、基礎結構和身分識別系統的評估，以判斷針對上架是否需要進行任何變更。 
+FastTrack 專家將配合您評估您的來源環境和需求。我們為您提供工具來收集有關您環境的資料，並引導您估計頻寬需求以及進行網際網路瀏覽器、用戶端作業系統、網域名稱系統 (DNS)、網路、基礎結構和身分識別系統的評估，以判斷針對上架是否需要進行任何變更。 
   
 根據您目前的設定，我們將提供修復方案，該方案最高可將您的來源環境帶至成功上架為 Office 365 的最低系統需求，以及成功進行信箱和/或資料移轉 (如果需要)。我們會提供一組建議活動來增加使用者價值和採用率。我們也將對修復階段設定適當的檢查點通話。
   

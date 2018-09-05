@@ -1,23 +1,23 @@
 ---
-title: 附錄 D:ADO FastTrack 中心好處 Overview for Office 365 我們政府
+title: 附錄 D：適用於 Office 365 US Government 的 FastTrack Center 權益概觀
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/2/18
+ms.date: 09/04/2018
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 ms.assetid: 5c619c4e-2ac5-4c2f-8d8c-acccff3b9b20
 description: FastTrack 中心福利 for Office 365，您可以使用遠端處理 FastTrack 專家取得 Office 365 環境備妥可供使用與計劃導入和組織內的使用方式。
-ms.openlocfilehash: b27d9bf7b189f1e632f7641cbcdc1ac07d625055
-ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
+ms.openlocfilehash: 959a398e395d4dc1a4d401d4838f1c13f34a44ef
+ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/10/2018
-ms.locfileid: "22329952"
+ms.lasthandoff: 09/04/2018
+ms.locfileid: "23827951"
 ---
-# <a name="appendix-d-fasttrack-center-benefit-overview-for-office-365-us-government"></a>附錄 D:ADO FastTrack 中心好處 Overview for Office 365 我們政府
+# <a name="appendix-d-fasttrack-center-benefit-overview-for-office-365-us-government"></a>附錄 D：適用於 Office 365 US Government 的 FastTrack Center 權益概觀
 
 FastTrack 中心福利 for Office 365，您可以使用遠端處理 FastTrack 專家取得 Office 365 環境備妥可供使用與計劃導入和組織內的使用方式。 
   

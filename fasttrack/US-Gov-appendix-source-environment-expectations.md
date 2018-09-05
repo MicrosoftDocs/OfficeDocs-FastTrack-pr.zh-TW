@@ -3,7 +3,7 @@ title: 來源 for Office 365 的環境期望美國政府
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/2/18
+ms.date: 09/04/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 533063e2-2630-46f3-9a88-ad07bb7dac9a
 description: FastTrack Center 權益可提供指引，以利您設定與來源環境的整合層級 (例如，如果您有服務在來源環境中，且想要移至 Office 365 時)。
-ms.openlocfilehash: 1da871d2ea6c6a56db43f9d3f77db62d2cd53027
-ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
+ms.openlocfilehash: 8ead0c99bae39d3286dbf73e74deba131ad228b7
+ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/10/2018
-ms.locfileid: "22329972"
+ms.lasthandoff: 09/04/2018
+ms.locfileid: "23828021"
 ---
 # <a name="source-environment-expectations-for-office-365-us-government"></a>來源 for Office 365 的環境期望美國政府
 

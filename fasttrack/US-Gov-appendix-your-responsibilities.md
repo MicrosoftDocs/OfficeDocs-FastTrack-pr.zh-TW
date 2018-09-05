@@ -3,7 +3,7 @@ title: 您的 Office 365 的責任美國政府
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/2/18
+ms.date: 09/04/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 64c7c548-87af-496b-b48e-04b9fa9f54f8
 description: 在上架期間您需擔負下列責任。
-ms.openlocfilehash: c0ff252f3aeafcd866d8c506eb08f45c836b8025
-ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
+ms.openlocfilehash: 6f9ec7c77829de607ec4b9bd019667dd2b7e7ef0
+ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/10/2018
-ms.locfileid: "22329942"
+ms.lasthandoff: 09/04/2018
+ms.locfileid: "23827971"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>您的 Office 365 的責任美國政府
 
@@ -95,7 +95,7 @@ ms.locfileid: "22329942"
     
 - 參與專案啟動會議、管理並領導組織的參與者，並確認修復時間表。
     
-- 提供目標的 Office 365 服務 （例如，SharePoint Online、 Exchange Online、 Microsoft 小組與 Office 365 ProPlus） 和組織目標。
+- 針對 Office 365 服務 (例如：SharePoint Online、Exchange Online、Microsoft Teams 和 Office 365 專業增強版) 提供您的目標，以及組織目標。
     
 ## <a name="assess-phase"></a>評估階段
 

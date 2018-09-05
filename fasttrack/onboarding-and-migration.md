@@ -3,7 +3,7 @@ title: 上架及移轉階段
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/2/18
+ms.date: 09/04/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Office 365 上架有四個主要階段 - 啟始、評估、修復與啟用。您可以在這些階段後面選擇接著資料移轉階段，如下圖所示。
-ms.openlocfilehash: ec7366da4df6306d0c33ee99e37a3190777d839a
-ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
+ms.openlocfilehash: 63492c246f0845693bd1f6d5953a43d8dc696d4a
+ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/10/2018
-ms.locfileid: "22449073"
+ms.lasthandoff: 09/04/2018
+ms.locfileid: "23828011"
 ---
 # <a name="onboarding-and-migration-phases"></a>上架及移轉階段
 

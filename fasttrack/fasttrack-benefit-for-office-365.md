@@ -13,12 +13,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cb4d7c0f-ad86-4134-a5fe-92a250cd3003
 description: 當您為 Office 365 租用戶購買「至少」50 份合格服務或方案時，可使用「適用於 Office 365 的 FastTrack 中心權益」。您接著可與 FastTrack 專家合作來評估、修復、啟用、移轉及促進使用這些服務。這些專家也提供移轉指引。
-ms.openlocfilehash: fbaea58fa42c1a7c112f3fc51075df8d1ecf7573
-ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
+ms.openlocfilehash: 443e15fe77b46b4933d88607aa67bec489602e13
+ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2018
-ms.locfileid: "23828051"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24021665"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>適用於 Office 365 的 FastTrack Center 權益
 
@@ -35,8 +35,7 @@ ms.locfileid: "23828051"
   
 想要尋找[適用於 Enterprise Mobility Suite 的 FastTrack Center 權益](https://go.microsoft.com/fwlink/?linkid=2005312)嗎？其包含這些相關資訊：
   
-- Microsoft Intune
-    
+- Microsoft Intune    
 - Azure Active Directory Premium 
     
 > [!NOTE]

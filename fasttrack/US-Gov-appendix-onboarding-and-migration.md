@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Office 365 美國政府適用的 office 365 onboarding 具有四個主要階段 — 啟動 Assess、 Remediate，並啟用。您可以遵循這些階段使用選用的資料移轉階段，如下圖所示。
-ms.openlocfilehash: da634ef166b2ec2829bf886bf7e32e739f055ebb
-ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
+ms.openlocfilehash: e3e71d0b6fbb3b9db20f2d43aaf1f88d327dfe14
+ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2018
-ms.locfileid: "23828001"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24021715"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding 和移轉階段 for Office 365 美國政府
 
@@ -31,12 +31,9 @@ Office 365 上架有四個主要階段 - 啟始、評估、修復與啟用。您
 購買適當數量和類型的授權之後，請遵循購買確認電子郵件中的指示，將授權與您現有或新租用戶產生關聯。 
   
 - 您可以透過 Office 365 系統管理員中心或 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助。若要透過 Office 365 系統管理員中心取得協助，您的系統管理員需要登入至系統管理員中心，然後按一下 [需要協助？]**** 小工具。若要透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助，請在登入後按一下 [服務] ****，並填妥 [要求 Office 365 的協助]**** 表單。 
-    
     > [!NOTE]
     >  如果您有合作夥伴列在您的 Office 365 租用戶中，您將看不到這個選項。請洽詢您的合作夥伴，以取得協助。 
-  
-- 合作夥伴也可以透過 [](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助若要這樣做，合作夥伴登入網站後，請選取客戶記錄並按一下 [服務]****，然後填妥 [要求 Office 365 的協助]**** 表單。 
-    
+- 合作夥伴也可以透過 [](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助若要這樣做，合作夥伴登入網站後，請選取客戶記錄並按一下 [服務]****，然後填妥 [要求 Office 365 的協助]**** 表單。    
 - 您也可以從租用戶的可用服務清單中的 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698) 要求 FastTrack Center 協助。 
     
 在這個階段期間，我們將討論上架程序、驗證資料並設定啟動會議。
@@ -86,21 +83,14 @@ FastTrack 專家搭配您評估來源環境和需求。我們提供讓您收集�
 
 對於 Exchange Online，我們將引導您讓組織準備好使用電子郵件的程序。確切步驟因您的來源環境和電子郵件移轉方案有所不同，可能包含提供下列項目的指引：
   
-- 針對在 Office 365 中驗證的所有已啟用郵件的網域設定 Exchange Online Protection (EOP) 功能。
-    
+- 針對在 Office 365 中驗證的所有已啟用郵件的網域設定 Exchange Online Protection (EOP) 功能。   
     > [!NOTE]
-    > 您的郵件交換 (MX) 記錄必須指向 Office 365。 
-  
-- 設定 Exchange Online 進階威脅防護 (ATP) 功能，如果它在您的 MX 記錄指向 Office 365 之後是訂閱服務的一部分。這項功能設定為 Exchange Online Protection 反惡意程式碼設定的一部分。
-    
-- 設定防火牆連接埠。
-    
-- 視需要設定 DNS、併入需要的自動探索、寄件者原則架構 (SPF) 和 MX 記錄。 
-    
-- 如果需要，則設定您的來源訊息環境與 Exchange Online 間的電子郵件流程。
-    
-- 進行從來源郵件環境到 Office 365 的郵件移轉。
-    
+    > 您的郵件交換 (MX) 記錄必須指向 Office 365。   
+- 設定 Exchange Online 進階威脅防護 (ATP) 功能，如果它在您的 MX 記錄指向 Office 365 之後是訂閱服務的一部分。這項功能設定為 Exchange Online Protection 反惡意程式碼設定的一部分。   
+- 設定防火牆連接埠。   
+- 視需要設定 DNS、併入需要的自動探索、寄件者原則架構 (SPF) 和 MX 記錄。     
+- 如果需要，則設定您的來源訊息環境與 Exchange Online 間的電子郵件流程。   
+- 進行從來源郵件環境到 Office 365 的郵件移轉。   
     > [!NOTE]
     > 如需有關郵件與資料移轉的詳細資訊，請參閱 [資料移轉](data-migration.md)。 
   
@@ -108,14 +98,10 @@ FastTrack 專家搭配您評估來源環境和需求。我們提供讓您收集�
   
 ## <a name="sharepoint-online-and-onedrive-for-business"></a>SharePoint Online 和商務用 OneDrive
 
-對於 SharePoint Online 和商務用 OneDrive，我們提供下列項目的指引：
-  
-- 設立 DNS。
-    
-- 設定防火牆連接埠。
-    
-- 佈建使用者和授權。
-    
+對於 SharePoint Online 和商務用 OneDrive，我們提供下列項目的指引： 
+- 設立 DNS。   
+- 設定防火牆連接埠。   
+- 佈建使用者和授權。   
 - 設定 SharePoint 混合式 功能，如混合式搜尋、混合式網站、混合式分類、內容類型、混合式自助網站架設 (僅限 SharePoint Server 2013)、擴充的應用程式啟動器、混合式 商務用 OneDrive，以及外部網路網站。
     
 FastTrack 專家會提供將資料移轉到 Office 365 的指引，方法是使用工具和文件組合，以及在適用且可行的情況下執行設定工作。
@@ -130,18 +116,12 @@ FastTrack 專家會提供將資料移轉到 Office 365 的指引，方法是使�
   
 ## <a name="skype-for-business-online"></a>商務用 Skype Online
 
-對於商務用 Skype Online，我們提供下列項目的指引：
-  
-- 設定防火牆連接埠。
-    
-- 設立 DNS。
-    
-- 建立任何會議室系統裝置的帳戶。
-    
-- 部署支援的 商務用 Skype Online 用戶端。
-    
+對於商務用 Skype Online，我們提供下列項目的指引： 
+- 設定防火牆連接埠。    
+- 設立 DNS。    
+- 建立任何會議室系統裝置的帳戶。    
+- 部署支援的 商務用 Skype Online 用戶端。   
 - 建立您的內部部署 Lync 2010 之間分割網域伺服器的組態，Lync 2013 或商務 2015年伺服器環境的 Skype 以及 Skype 商務 online 租用戶 （如果適用）。
-
 - 讓呼叫計劃、 Skype 會議廣播，以及電話系統和呼叫計劃 （以提供市場 – GCC 高或 DoD 計劃中無法使用）。 
     
 ![啟用階段_1 期間的 Lync 上架步驟](media/O365-Onboarding-Enable-Lync.png)
@@ -153,38 +133,26 @@ FastTrack 專家會提供將資料移轉到 Office 365 的指引，方法是使�
 > [!NOTE]
 > 下列並未提供 GCC 高或 DoD 計劃。
 
-對於 Microsoft Teams，我們提供下列項目的指引：
-  
-- 確認最低需求。
-    
-- 設定防火牆連接埠。
-    
-- 設立 DNS。
-    
-- 確認您的 Office 365 租用戶上已啟用 Microsoft Teams。
-    
+對於 Microsoft Teams，我們提供下列項目的指引： 
+- 確認最低需求。   
+- 設定防火牆連接埠。   
+- 設立 DNS。  
+- 確認您的 Office 365 租用戶上已啟用 Microsoft Teams。    
 - 啟用或停用使用者授權。
     
 ![FastTrack Microsoft Teams 圖表 (啟用階段)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
   
 ## <a name="power-bi"></a>Power BI
 
-對於 Power BI，我們提供下列項目的指引： 
-  
-- 指派 Power BI 的授權。
-    
-- 部署 Power BI Desktop 應用程式。
-    
+對於 Power BI，我們提供下列項目的指引：  
+- 指派 Power BI 的授權。    
+- 部署 Power BI Desktop 應用程式。   
 ## <a name="project-online"></a>Microsoft Project Online
 
-對於 Microsoft Project Online，我們提供下列項目的指引：
-  
-- 確認 Microsoft Project Online 依賴的基本 SharePoint 功能。
-    
-- 將 Microsoft Project Online 服務新增到您的租用戶中 (包括新增使用者的訂閱)。
-    
-- 設定企業資源資料庫​​ (ERP)。
-    
+對於 Microsoft Project Online，我們提供下列項目的指引： 
+- 確認 Microsoft Project Online 依賴的基本 SharePoint 功能。    
+- 將 Microsoft Project Online 服務新增到您的租用戶中 (包括新增使用者的訂閱)。    
+- 設定企業資源資料庫​​ (ERP)。   
 - 建立您的第一個專案。 
     
 ![在 Microsoft Project Online 啟用階段產生的步驟](media/d8dd7d31-1df6-4df4-a1aa-4dbdd34b973e.png)
@@ -198,20 +166,13 @@ FastTrack 專家會提供將資料移轉到 Office 365 的指引，方法是使�
   
 ## <a name="office-365-proplus"></a>Office 365 專業增強版
 
-對於 Office 365 專業增強版，我們提供下列項目的指引：
-  
-- 解決部署問題。
-    
-- 使用 Office 365 系統管理中心 和 Windows PowerShell 指派使用者授權。
-    
-- 使用隨選即用從 Office 365 入口網站安裝 Office 365 專業增強版。
-    
-- 在您的 iOS、Android 或 Windows Mobile 裝置上安裝 Office Mobile 應用程式 (如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile)。 
-    
-- 使用 Office 部署工具來設定更新設定。
-    
-- 設定 Office 365 專業增強版 的單一內部網站發佈伺服器，包含建立搭配 Office 部署工具使用之 configuration.xml 檔案的相關協助。
-    
+對於 Office 365 專業增強版，我們提供下列項目的指引： 
+- 解決部署問題。    
+- 使用 Office 365 系統管理中心 和 Windows PowerShell 指派使用者授權。    
+- 使用隨選即用從 Office 365 入口網站安裝 Office 365 專業增強版。    
+- 在您的 iOS、Android 或 Windows Mobile 裝置上安裝 Office Mobile 應用程式 (如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile)。   
+- 使用 Office 部署工具來設定更新設定。    
+- 設定 Office 365 專業增強版 的單一內部網站發佈伺服器，包含建立搭配 Office 部署工具使用之 configuration.xml 檔案的相關協助。    
 - 使用 Microsoft System Center Configuration Manager 部署，包含建立 System Center Configuration Manager 封裝的協助。
     
 ![Office 專業增強版上架步驟](media/O365-Onboarding-Enable-OProPlus.png)

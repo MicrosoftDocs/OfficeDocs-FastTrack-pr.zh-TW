@@ -13,22 +13,22 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cb4d7c0f-ad86-4134-a5fe-92a250cd3003
 description: 當您購買「至少」** 150 份合格服務或方案的授權時，可使用適用於 Windows 10 的 FastTrack 中心權益。
-ms.openlocfilehash: 5cb7666633826e64315980c4a6f6cfcdf8c662f3
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 5226f73f5f31e087d045f4caf0c3013e8bdc43d3
+ms.sourcegitcommit: c993f9ed7adf792a123e7c59d1bb280776b9cf02
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353600"
+ms.lasthandoff: 10/15/2018
+ms.locfileid: "25565569"
 ---
-# <a name="fasttrack-center-benefit-for-windows-10"></a><span data-ttu-id="c1f09-103">適用於 Windows 10 的 FastTrack 中心權益</span><span class="sxs-lookup"><span data-stu-id="c1f09-103">FastTrack Center Benefit for Windows 10</span></span>
+# <a name="fasttrack-center-benefit-for-windows-10"></a><span data-ttu-id="61622-103">適用於 Windows 10 的 FastTrack 中心權益</span><span class="sxs-lookup"><span data-stu-id="61622-103">FastTrack Center Benefit for Windows 10</span></span>
 
-<span data-ttu-id="c1f09-p101">當您購買「至少」\*\* 150 份合格服務或方案的授權時，可使用適用於 Windows 10 的 FastTrack 中心權益。然後您與 FastTrack 專家合作，該名專家提供建議和修復指引，在客戶部署至 Windows 10 和 Office 365 專業增強版時給予支援，並且讓客戶保持在最新狀態而不需要額外成本 (具有合格訂用帳戶)。</span><span class="sxs-lookup"><span data-stu-id="c1f09-p101">You use the FastTrack Center Benefit for Windows 10 when you purchase  *at least*  150 licenses for an eligible service or plan.  You then work with FastTrack Specialists who provide advisory and remediation guidance to support customers as they deploy to Windows 10 and Office 365 ProPlus and stay up-to-date at no additional cost (with an eligible subscription).</span></span> 
+<span data-ttu-id="61622-p101">當您購買「至少」\*\* 150 份合格服務或方案的授權時，可使用適用於 Windows 10 的 FastTrack 中心權益。然後您與 FastTrack 專家合作，該名專家提供建議和修復指引，在客戶部署至 Windows 10 和 Office 365 專業增強版時給予支援，並且讓客戶保持在最新狀態而不需要額外成本 (具有合格訂用帳戶)。</span><span class="sxs-lookup"><span data-stu-id="61622-p101">You use the FastTrack Center Benefit for Windows 10 when you purchase  *at least*  150 licenses for an eligible service or plan.  You then work with FastTrack Specialists who provide advisory and remediation guidance to support customers as they deploy to Windows 10 and Office 365 ProPlus and stay up-to-date at no additional cost (with an eligible subscription).</span></span> 
   
 > [!NOTE]
-> <span data-ttu-id="c1f09-106">以這份文件來說，FastTrack 的專家可能包含 Microsoft 員工、Microsoft 核准的廠商以及 Microsoft 核准的合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="c1f09-106">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span> 
+> <span data-ttu-id="61622-106">以這份文件來說，FastTrack 的專家可能包含 Microsoft 員工、Microsoft 核准的廠商以及 Microsoft 核准的合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="61622-106">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span> 
     
 > [!NOTE]
-> <span data-ttu-id="c1f09-107">僅供參考之用。</span><span class="sxs-lookup"><span data-stu-id="c1f09-107">For informational purposes only.</span></span> 
+> <span data-ttu-id="61622-107">僅供參考之用。</span><span class="sxs-lookup"><span data-stu-id="61622-107">For informational purposes only.</span></span> 
   
 
   

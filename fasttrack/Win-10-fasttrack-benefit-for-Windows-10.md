@@ -13,12 +13,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cb4d7c0f-ad86-4134-a5fe-92a250cd3003
 description: 當您購買「至少」** 150 份合格服務或方案的授權時，可使用適用於 Windows 10 的 FastTrack 中心權益。
-ms.openlocfilehash: 5cb7666633826e64315980c4a6f6cfcdf8c662f3
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 5226f73f5f31e087d045f4caf0c3013e8bdc43d3
+ms.sourcegitcommit: c993f9ed7adf792a123e7c59d1bb280776b9cf02
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353600"
+ms.lasthandoff: 10/15/2018
+ms.locfileid: "25565569"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>適用於 Windows 10 的 FastTrack 中心權益
 

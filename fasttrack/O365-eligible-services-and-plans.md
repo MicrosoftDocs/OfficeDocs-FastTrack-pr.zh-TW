@@ -1,5 +1,5 @@
 ---
-title: 合格服務與計劃
+title: 合格服務與方案
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
@@ -11,14 +11,14 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cf8ecce3-713f-4943-8217-afca0ce31434
 description: 購買任何 Office 365 服務 (下列中的說明「合格服務」一節) 時，FastTrack 專家會提供您指引以便上架到 Office 365 並開始使用它們。
-ms.openlocfilehash: fc77165f725ab48dd16237c62f11589792df39cf
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 2a3d1c0b010a24429da884956d1dd785df656e5f
+ms.sourcegitcommit: c993f9ed7adf792a123e7c59d1bb280776b9cf02
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353640"
+ms.lasthandoff: 10/15/2018
+ms.locfileid: "25565557"
 ---
-# <a name="eligible-services-and-plans"></a>合格服務與計劃
+# <a name="eligible-services-and-plans"></a>合格服務與方案
 
 購買任何 Office 365 服務 (下列中的說明「合格服務」**** 一節) 時，FastTrack 專家會提供您指引以便上架到 Office 365 並開始使用它們。 
   
@@ -45,9 +45,9 @@ FastTrack Center 提供下列 [Office 365 服務](https://go.microsoft.com/fwlin
 - Office 365 專業增強版
 - Microsoft StaffHub
     
-## <a name="eligible-commercial-plans"></a>合格的商業方案
+## <a name="eligible-plans"></a>合格方案
 
-您必須從下列合格的方案 (包含相等 FastTrack Germany 方案) 購買至少 50 個授權時，才可以收到 Office 365 服務：
+您必須從下列合格方案清單中購買至少 150 個授權，才會收到 FastTrack 服務：
   
  **Office 365**
   
@@ -66,12 +66,22 @@ FastTrack Center 提供下列 [Office 365 服務](https://go.microsoft.com/fwlin
 - Office 365 美國政府版 F1\*
 - Office 365 專業增強版
     
+ **Office 365 教育版**
+  
+- Office 365 A3
+- Office 365 A5
+
  **Microsoft 365 企業版**
   
 - Microsoft 365 E3\*\*\*
 - Microsoft 365 E5\*\*\*
 - Microsoft 365 商務版\*\*\*
     
+ **Microsoft 365 教育版**
+  
+- Microsoft 365 A3\*\*\*
+- Microsoft 365 A5\*\*\*
+
  **Exchange Online**
   
 - Exchange Online Plan 1
@@ -106,27 +116,9 @@ FastTrack Center 提供下列 [Office 365 服務](https://go.microsoft.com/fwlin
     
  **Yammer**
   
-- Yammer Enterprise
-    
-## <a name="eligible-education-plans"></a>適用的教育版方案
-
-只有當您從下列合格方案購買至少 1000 個授權時，Office 365 for Education 和 Microsoft 365 for Education 才可以使用 FastTrack 服務：
-  
- **Office 365 教育版**
-  
-- Office 365 A3
-- Office 365 A5
-    
- **Microsoft 365 教育版**
-  
-- Microsoft 365 A3\*\*\*
-- Microsoft 365 A5\*\*\*
-    
+- Yammer Enterprise 
 > [!NOTE]
-> 如果您在 2017 年 12 月 1 日之前購買或更新 Office 365 A5 方案，您目前訂用帳戶期間的最小付費基座要求是 50 個基座，才符合 FastTrack 優惠。如果您在 2017 年 12 月 1 日之後購買或更新 Office 365 A5 方案，最小付費基座要求是 1000 個基座，才符合 FastTrack 優惠。 
-  
-> [!NOTE]
-> 免費使用的方案 (例如 Office 365 A1 或學生使用優惠方案) 不符合 FastTrack 支援。 
+> FastTrack 中心權益的資格取決於購買先前所述合格方案的付費授權。免費提供的方案 (如 Office 365 A1、Office 365 非營利組織商務基本版和學生使用優惠方案) 不符合 FastTrack 支援的資格。 
   
 ## <a name="ineligible-plans"></a>不合格方案
 
@@ -145,7 +137,7 @@ FastTrack 服務中不合格的方案包含 (但不限於)：
   
 \*\*\*\*當透過符合資格的方案 (例如 Enterprise E3 和 E5) 取得時，此方案的 FastTrack 指南可供使用。
   
-## <a name="fasttrack-center-additional-benefit-eligibility"></a>FastTrack Center 其他權益合格
+## <a name="fasttrack-center-additional-benefit-eligibility"></a>FastTrack Center 其他權益資格
 
 為 Office 365 租用戶購買至少 20,000 個授權的客戶符合 FastTrack Center 附加服務的資格。如需詳細資訊，請參閱＜[附錄 B：FastTrack Center 其他權益](O365-fasttrack-additional-benefits.md)＞。
   

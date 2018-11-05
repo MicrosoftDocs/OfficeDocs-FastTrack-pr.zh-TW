@@ -3,7 +3,7 @@ title: FastTrack 責任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: 在上架期間 FastTrack 專家需擔負下列責任。
-ms.openlocfilehash: 813fc4c1f4fdb48bdae8184b9afc0528dcb4feb7
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 2c02450376b3a64e1e7e63b966d284f3223567f9
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353730"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895640"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 責任
 
@@ -103,8 +103,9 @@ ms.locfileid: "25353730"
 - 啟用來源訊息系統與 Office 365 環境間的電子郵件路由。 
 - 設定 Exchange Online Protection 功能 (包括 Exchange Online 進階威脅防護 功能，如果在您的訂閱中可用)，並確認您的 MX 記錄針對所有已驗證已啟用郵件的網域指向 Office 365。
 - 在單一內部部署 Exchange 組織與 Office 365 之間，「或者」** 在多重內部部署 Exchange 組織與 Office 365 之間進行混合設定。 
+- 設定信箱用戶端 (Outlook for Windows、Outlook 網頁版，以及 Outlook for iOS 和 Android)。
     
-如需資料移轉責任的詳細資訊，請參閱＜[資料移轉](O365-data-migration.md)＞。
+如需資料移轉責任的詳細資訊，請參閱[資料移轉](O365-data-migration.md)。
   
 ## <a name="sharepoint-online"></a>SharePoint Online
 
@@ -191,7 +192,7 @@ ms.locfileid: "25353730"
 
 提供以下的相關指引：
 - 解決部署問題。
-- 使用 Office 365 系統管理中心 和 Windows PowerShell 指派使用者授權。
+- 使用 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 指派使用者授權。
 - 從入口網站下載並安裝 Microsoft Project Online 桌面用戶端。   
 - 使用 Office 部署工具或群組原則範本來設定更新設定。
 - 設定 Microsoft Project Online 桌面用戶端 的單一內部網站發佈伺服器，包含建立 Office 2016 部署工具之 configuration.xml 檔案的相關指引。 
@@ -205,9 +206,9 @@ ms.locfileid: "25353730"
 
 提供以下的相關指引：
 - 解決部署問題。
-- 使用 Office 365 系統管理中心 和 Windows PowerShell 指派使用者授權。
+- 使用 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 指派使用者授權。
 - 使用隨選即用從 Office 365 入口網站安裝 Office 365 專業增強版。
-- 在您的 iOS、Android 或 Windows Mobile 裝置上安裝 Office Mobile 應用程式 (如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile)。 
+- 在您的 iOS、Android 或 Windows Mobile 裝置上安裝 Office Mobile 應用程式 (如 Outlook for iOS 和 Android、Word Mobile、Excel Mobile 和 PowerPoint Mobile)。 
 - 使用 Office 2016 部署工具或群組原則範本來設定更新設定。
 - 設定 Office 365 專業增強版 的單一內部網站發佈伺服器，包含建立搭配 Office 部署工具使用之 configuration.xml 檔案的相關協助。
 - 使用 System Center Configuration Manager 部署，包含建立 System Center Configuration Manager 封裝的協助。
@@ -220,5 +221,11 @@ ms.locfileid: "25353730"
 - 核心產品功能。
 - 下載 Microsoft StaffHub 的位置。
     
+## <a name="outlook-for-ios-and-android"></a>Outlook for iOS 和 Android
+
+提供以下的相關指引：
+- 將 Outlook下載至 iOS 和 Android 裝置。
+- 在 Outlook 內設定電子郵件帳戶。
+
 \*如需 Office 365 US Government 的 FastTrack 責任詳細資訊，請參閱 [Office 365 US Government 的 FastTrack 責任](US-Gov-appendix-fasttrack-responsibilities.md)。
 

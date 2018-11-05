@@ -3,7 +3,7 @@ title: FastTrack 中心權益概觀
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -13,16 +13,16 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
 description: 當您購買任何 Windows 10 或 Microsoft 365 服務時，FastTrack 專家會提供部署至 Windows 10 和 Office 365 專業增強版的建議和修復指引，並且讓您保持在最新狀態而不需額外成本 (具有合格訂用帳戶)。
-ms.openlocfilehash: 493e38ad0e091c77eec78bd2e388f8429fe223c0
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 603873c06dcc1ed0c11031f4e8e6093b62c92fbd
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353670"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895616"
 ---
 # <a name="assistance-offered-and-eligible-plans"></a>提供協助和適用方案   
 
-當您購買任何 Windows 10 或 Microsoft 365 服務 (在下列 [合格方案]**** 區段中詳述) 時，FastTrack 專家會提供部署至 Windows 10 和 Office 365 專業增強版的建議和修復指引，並且讓您保持在最新狀態而不需額外成本 (具有合格訂用帳戶)。
+當您購買任何 Windows 10 或 Microsoft 365 服務 (在下列 [合格方案]**** 區段中詳述) 時，如果您在部署至 Windows 10 和 Office 365 專業增強版時遇到應用程式相容性問題，則 FastTrack 專家會提供建議和修復指引，並且讓您保持在最新狀態而不需額外成本 (具有合格訂用帳戶)。
 
 若要取得協助，請完成[桌面應用程式保證服務要求](https://go.microsoft.com/fwlink/?linkid=2022721)。
 

@@ -3,7 +3,7 @@ title: FastTrack 處理程序
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 34e2f038-4778-4ab0-a6b5-d46fa85de3e8
 description: FastTrack 程序提供上架和使用者採用服務。
-ms.openlocfilehash: 3a41e1a41bae421472af6c5d8645808410a0664f
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: d5f2ec3442dabda1cff09577a65992942e09611e
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353590"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895664"
 ---
 # <a name="the-fasttrack-process"></a>FastTrack 處理程序
 
@@ -38,8 +38,15 @@ FastTrack 程序提供上架和使用者採用服務。
   
 ![使用上架權益的時間表](media/O365-Onboarding-Timeline.png)
   
-您可以透過 Office 365 系統管理員中心或 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助。若要透過 Office 365 系統管理員中心取得協助，您的系統管理員需要登入至系統管理員中心，然後按一下 [需要協助？]**** 小工具。若要透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助，請在登入後按一下 [服務] ****，並填妥 [要求 Office 365 的協助]**** 表單。 
-    
+您可以透過 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)或 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助。 
+
+若要透過 [Microsoft 365 系統管理員中心](https://go.microsoft.com/fwlink/?linkid=2032704)取得協助，您的系統管理員需要登入至系統管理員中心，然後按一下 [需要協助？]**** Widget。 
+
+若要透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助： 
+1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
+2.  選取 [FastTrack]****。
+3.  選取 [服務]****。
+4.  填妥**要求協助使用 Microsoft 365** 表單。 
 > [!NOTE]
 >  如果您有合作夥伴列在您的 Office 365 租用戶中，您將看不到這個選項。請洽詢您的合作夥伴，以取得協助。 
   
@@ -47,7 +54,13 @@ FastTrack 程序提供上架和使用者採用服務。
     
  一旦上架協助啟動，我們將設定線上會議的排程。
     
-合作夥伴也可以透過 [](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助若要這樣做，合作夥伴登入網站後，請選取客戶記錄並按一下 [服務]****，然後填妥 [要求 Office 365 的協助]**** 表單。 
+合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。作法如下：
+1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
+2.  選取 [FastTrack]****。
+3.  選取 [我的客戶]****。
+4.  搜尋您的客戶或從客戶清單中選取他們。
+5.  選取 [服務]****。
+6.  填妥**要求協助使用 Microsoft 365** 表單。 
 
 下表列出該程序的角色與責任。
     

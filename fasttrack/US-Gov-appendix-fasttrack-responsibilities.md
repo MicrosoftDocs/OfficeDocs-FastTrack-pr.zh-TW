@@ -3,7 +3,7 @@ title: Office 365 FastTrack 責任美國政府
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: 在上架期間 FastTrack 專家需擔負下列責任。
-ms.openlocfilehash: 7d1ed63bc4986238b649669788c6790c49b962be
-ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
+ms.openlocfilehash: 573856cf2de70bc84f52df7962fa4e7be68172a4
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24021635"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895544"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 FastTrack 責任美國政府
 
@@ -103,7 +103,7 @@ ms.locfileid: "24021635"
 - 在單一內部部署 Exchange 組織與 Office 365 之間，「或者」** 在多重內部部署 Exchange 組織與 Office 365 之間進行混合設定。 
 - 設定設定整合通訊 (UM) 與 Exchange Online （UM 不 GCC DoD 計劃中提供）。 
     
-如需資料移轉責任的詳細資訊，請參閱＜[資料移轉](data-migration.md)＞。
+如需資料移轉責任的詳細資訊，請參閱＜[資料移轉](O365-data-migration.md)＞。
   
 ## <a name="sharepoint-online"></a>SharePoint Online
 
@@ -200,7 +200,7 @@ ms.locfileid: "24021635"
 
 提供以下的相關指引：
 - 解決部署問題。   
-- 使用 Office 365 系統管理中心 和 Windows PowerShell 指派使用者授權。  
+- 指派使用者授權使用[Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)及 Windows PowerShell。  
 - 使用隨選即用從 Office 365 入口網站安裝 Office 365 專業增強版。   
 - 在您的 iOS、Android 或 Windows Mobile 裝置上安裝 Office Mobile 應用程式 (如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile)。   
 - 使用 Office 2016 部署工具或群組原則範本來設定更新設定。   

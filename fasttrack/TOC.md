@@ -11,22 +11,14 @@
 ### [附錄 B：FastTrack Center 其他權益](O365-fasttrack-additional-benefits.md)
 ### [附錄 C：FastTrack Center HIPAA 業務關聯協議](O365-hipaa-business-associate-agreement.md)
 ### [附錄 D：適用於 Office 365 US Government 的 FastTrack 中心權益概觀](US-Gov-appendix-overview.md)
-# 
-  [適用於 Enterprise Mobility + Security (EMS) 的 FastTrack Center 權益](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/enterprise-mobility-fasttrack-program?toc=/fasttrack/fasttrack/toc.json)
-## 
-  [合格的 FastTrack Center 權益服務和計劃](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-for-enterprise-mobility-suite-ems?toc=/fasttrack/fasttrack/toc.json)
-## 
-  [適用於 Enterprise Mobility + Security (EMS) 的 FastTrack Center 權益程序](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems?toc=/fasttrack/fasttrack/toc.json)
-### 
-  [FastTrack Center 權益概觀](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-overview?toc=/fasttrack/fasttrack/toc.json)
-### 
-  [來源環境預期](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-environment-expectations?toc=/fasttrack/fasttrack/toc.json)
-### 
-  [上架階段](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-phases?toc=/fasttrack/fasttrack/toc.json)
-### 
-  [FastTrack 責任](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-fasttrack-responsibilities?toc=/fasttrack/fasttrack/toc.json)
-### 
-  [您的責任](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-your-responsibilities?toc=/fasttrack/fasttrack/toc.json)
+# [適用於 Enterprise Mobility + Security (EMS) 的 FastTrack Center 權益](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/enterprise-mobility-fasttrack-program?toc=/fasttrack/fasttrack/toc.json)
+## [合格的 FastTrack Center 權益服務和計劃](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-for-enterprise-mobility-suite-ems?toc=/fasttrack/fasttrack/toc.json)
+## [適用於 Enterprise Mobility + Security (EMS) 的 FastTrack Center 權益程序](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems?toc=/fasttrack/fasttrack/toc.json)
+### [FastTrack Center 權益概觀](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-overview?toc=/fasttrack/fasttrack/toc.json)
+### [來源環境預期](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-environment-expectations?toc=/fasttrack/fasttrack/toc.json)
+### [上架階段](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-phases?toc=/fasttrack/fasttrack/toc.json)
+### [FastTrack 責任](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-fasttrack-responsibilities?toc=/fasttrack/fasttrack/toc.json)
+### [您的責任](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-your-responsibilities?toc=/fasttrack/fasttrack/toc.json)
 # [適用於 Windows 10 的 FastTrack 中心權益](Win-10-fasttrack-benefit-for-Windows-10.md)
 ## [桌面應用程式保證](Win-10-desktop-app-assure.md)
 ### [提供協助和適用方案](Win-10-daa-assistance-offered-and-plans.md)

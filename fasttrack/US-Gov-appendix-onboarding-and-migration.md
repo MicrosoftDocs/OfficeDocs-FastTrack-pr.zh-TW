@@ -3,7 +3,7 @@ title: Onboarding 和移轉階段 for Office 365 美國政府
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,30 +11,46 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Office 365 美國政府適用的 office 365 onboarding 具有四個主要階段 — 啟動 Assess、 Remediate，並啟用。您可以遵循這些階段使用選用的資料移轉階段，如下圖所示。
-ms.openlocfilehash: e3e71d0b6fbb3b9db20f2d43aaf1f88d327dfe14
-ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
+ms.openlocfilehash: cd98e88d8b602c67eb3a449145a3e29399595801
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24021715"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895604"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding 和移轉階段 for Office 365 美國政府
 
-Office 365 上架有四個主要階段 - 啟始、評估、修復與啟用。您可以在這些階段後面選擇接著資料移轉階段，如下圖所示。
+Office 365 上架有四個主要階段 - 起始、評估、修復與啟用。您可以在這些階段後面選擇接著資料移轉階段，如下圖所示。
   
 ![上架權益的階段](media/O365-Onboarding-Phases.png)
   
 針對每個階段的詳細工作，請參閱[的 Office 365 美國政府 FastTrack 責任](US-Gov-appendix-fasttrack-responsibilities.md)和[您的 Office 365 美國政府的責任](US-Gov-appendix-your-responsibilities.md)。
   
-## <a name="initiate-phase"></a>啟始階段
+## <a name="initiate-phase"></a>起始階段
 
 購買適當數量和類型的授權之後，請遵循購買確認電子郵件中的指示，將授權與您現有或新租用戶產生關聯。 
   
-- 您可以透過 Office 365 系統管理員中心或 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助。若要透過 Office 365 系統管理員中心取得協助，您的系統管理員需要登入至系統管理員中心，然後按一下 [需要協助？]**** 小工具。若要透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助，請在登入後按一下 [服務] ****，並填妥 [要求 Office 365 的協助]**** 表單。 
+您可以透過 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)或 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助。 
+ 
+若要透過 [Microsoft 365 系統管理員中心](https://go.microsoft.com/fwlink/?linkid=2032704)取得協助，您的系統管理員需要登入至系統管理員中心，然後按一下 [需要協助？]**** Widget。 
+
+若要透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助： 
+1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
+2.  選取 [FastTrack]****。
+3.  選取 [服務]****。
+4.  填妥**要求協助使用 Microsoft 365** 表單。 
     > [!NOTE]
     >  如果您有合作夥伴列在您的 Office 365 租用戶中，您將看不到這個選項。請洽詢您的合作夥伴，以取得協助。 
-- 合作夥伴也可以透過 [](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助若要這樣做，合作夥伴登入網站後，請選取客戶記錄並按一下 [服務]****，然後填妥 [要求 Office 365 的協助]**** 表單。    
-- 您也可以從租用戶的可用服務清單中的 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698) 要求 FastTrack Center 協助。 
+
+合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。作法如下：
+1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
+2.  選取 [FastTrack]****。
+3.  選取 [我的客戶]****。
+4.  搜尋您的客戶或從客戶清單中選取他們。
+5.  選取 [服務]****。
+6.  填妥**要求協助使用 Microsoft 365** 表單。   
+
+您也可以從租用戶的可用服務清單中的 FastTrack Center[FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)要求協助。 
     
 在這個階段期間，我們將討論上架程序、驗證資料並設定啟動會議。
   
@@ -92,7 +108,7 @@ FastTrack 專家搭配您評估來源環境和需求。我們提供讓您收集�
 - 如果需要，則設定您的來源訊息環境與 Exchange Online 間的電子郵件流程。   
 - 進行從來源郵件環境到 Office 365 的郵件移轉。   
     > [!NOTE]
-    > 如需有關郵件與資料移轉的詳細資訊，請參閱 [資料移轉](data-migration.md)。 
+    > 如需有關郵件與資料移轉的詳細資訊，請參閱 [資料移轉](O365-data-migration.md)。 
   
 ![啟用階段期間的 Exchange 上架步驟](media/O365-Onboarding-Enable-Exchange.png)
   
@@ -168,7 +184,7 @@ FastTrack 專家會提供將資料移轉到 Office 365 的指引，方法是使�
 
 對於 Office 365 專業增強版，我們提供下列項目的指引： 
 - 解決部署問題。    
-- 使用 Office 365 系統管理中心 和 Windows PowerShell 指派使用者授權。    
+- 使用 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 指派使用者授權。    
 - 使用隨選即用從 Office 365 入口網站安裝 Office 365 專業增強版。    
 - 在您的 iOS、Android 或 Windows Mobile 裝置上安裝 Office Mobile 應用程式 (如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile)。   
 - 使用 Office 部署工具來設定更新設定。    

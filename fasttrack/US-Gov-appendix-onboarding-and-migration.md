@@ -3,7 +3,7 @@ title: Onboarding 和移轉階段 for Office 365 美國政府
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Office 365 美國政府適用的 office 365 onboarding 具有四個主要階段 — 啟動 Assess、 Remediate，並啟用。您可以遵循這些階段使用選用的資料移轉階段，如下圖所示。
-ms.openlocfilehash: cd98e88d8b602c67eb3a449145a3e29399595801
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: 7484350fd3bc5c3999e925b8d2d863e09c284f7a
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895604"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27133071"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding 和移轉階段 for Office 365 美國政府
 

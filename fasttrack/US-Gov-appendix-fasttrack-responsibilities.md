@@ -3,7 +3,7 @@ title: Office 365 FastTrack 責任美國政府
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: 在上架期間 FastTrack 專家需擔負下列責任。
-ms.openlocfilehash: 573856cf2de70bc84f52df7962fa4e7be68172a4
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: 9a126fe0d75d2342384172c2930b05c46cc2ff0b
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895544"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27133119"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 FastTrack 責任美國政府
 
@@ -27,7 +27,7 @@ ms.locfileid: "25895544"
 - 如同詳細的階段說明中所述，會針對成功計劃發展、實作及必要的組態活動，為您提供遠端支援協助。
 - 提供可用的文件及軟體工具、管理主控台和指令碼，提供您指引以減少或消除組態工作，並成功地規劃資源。 
     
-## <a name="initiate-phase"></a>啟始階段
+## <a name="initiate-phase"></a>起始階段
 
 - 與您協同作業以了解您的目的、組織目標，以及服務的使用計劃。 
 - 搭配使用 Office 365 共同作業服務 (例如 Microsoft Teams) 來登入。 
@@ -103,7 +103,7 @@ ms.locfileid: "25895544"
 - 在單一內部部署 Exchange 組織與 Office 365 之間，「或者」** 在多重內部部署 Exchange 組織與 Office 365 之間進行混合設定。 
 - 設定設定整合通訊 (UM) 與 Exchange Online （UM 不 GCC DoD 計劃中提供）。 
     
-如需資料移轉責任的詳細資訊，請參閱＜[資料移轉](O365-data-migration.md)＞。
+如需資料移轉責任的詳細資訊，請參閱[資料移轉](O365-data-migration.md)。
   
 ## <a name="sharepoint-online"></a>SharePoint Online
 
@@ -200,7 +200,7 @@ ms.locfileid: "25895544"
 
 提供以下的相關指引：
 - 解決部署問題。   
-- 指派使用者授權使用[Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)及 Windows PowerShell。  
+- 使用 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 指派使用者授權。  
 - 使用隨選即用從 Office 365 入口網站安裝 Office 365 專業增強版。   
 - 在您的 iOS、Android 或 Windows Mobile 裝置上安裝 Office Mobile 應用程式 (如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile)。   
 - 使用 Office 2016 部署工具或群組原則範本來設定更新設定。   

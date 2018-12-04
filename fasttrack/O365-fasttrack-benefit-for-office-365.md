@@ -3,7 +3,7 @@ title: 適用於 Office 365 的 FastTrack 中心權益
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cb4d7c0f-ad86-4134-a5fe-92a250cd3003
 description: 當您為 Office 365 租用戶購買至少 150 份合格服務或方案時，可使用「適用於 Office 365 的 FastTrack 中心權益」。您接著可與 FastTrack 專家合作來評估、修復、啟用、移轉及促進使用這些服務。這些專家也提供移轉指引。
-ms.openlocfilehash: 092ca25271edccf05274c11b7f7b019391811dad
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: d8252e28903f88250056dbc20b49dac3fef0fb7f
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895784"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27132939"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>適用於 Office 365 的 FastTrack 中心權益
 

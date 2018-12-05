@@ -3,7 +3,7 @@ title: 資料移轉
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: e0c40008-4373-48d3-96bb-08f0afd08248
 description: FastTrack 專家提供將資料移轉至 Office 365 的步驟指引。這適用於 Exchange Online、商務用 OneDrive 和 SharePoint Online 的 Office 365 服務所有符合資格的客戶。
-ms.openlocfilehash: cf4093bbaa775c0d4be1bac2fa895aa6b48f83fc
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: 253a0a33727581f6531b95685dc27375e685dc4c
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895772"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27133155"
 ---
 # <a name="data-migration"></a>資料移轉
 
@@ -219,8 +219,11 @@ FastTrack 專家會在移轉期間執行下列工作：
 - 執行移轉後的移轉補救措施 (如果適用)。
 - 規劃及實作變更管理與使用者通訊 (若適用)。   
 - 管理和設定來源系統和裝置 (成功完成評估及移轉活動所需) 的任何變更。
+
+> [!NOTE]
+> Microsoft 不保證檔案移轉的速度。
     
-## <a name="migration-to-onedrive-for-business"></a>移轉至 商務用 OneDrive
+## <a name="migration-to-onedrive-for-business"></a>移轉至商務用 OneDrive
 
  **啟用即可移轉**
   
@@ -294,5 +297,6 @@ FastTrack 專家會在移轉期間執行下列工作：
 - 規劃及實作變更管理與使用者通訊 (若適用)。  
 - 管理和設定來源系統和裝置 (成功完成評估及移轉活動所需) 的任何變更。
     
-  
+> [!NOTE]
+> Microsoft 不保證檔案移轉的速度。  
 

@@ -1,9 +1,9 @@
 ---
-title: FastTrack 中心權益概觀
+title: 提供協助和適用方案
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
 description: 當您購買任何 Windows 10 或 Microsoft 365 服務時，FastTrack 專家會提供部署至 Windows 10 和 Office 365 專業增強版的建議和修復指引，並且讓您保持在最新狀態而不需額外成本 (具有合格訂用帳戶)。
-ms.openlocfilehash: 603873c06dcc1ed0c11031f4e8e6093b62c92fbd
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: 2834c0e68b37aeb316efa2f157f3388fb5ee83e7
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895616"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27132975"
 ---
 # <a name="assistance-offered-and-eligible-plans"></a>提供協助和適用方案   
 

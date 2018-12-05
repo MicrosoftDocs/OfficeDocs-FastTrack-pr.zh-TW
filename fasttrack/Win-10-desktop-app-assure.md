@@ -1,9 +1,9 @@
 ---
-title: FastTrack 中心權益概觀
+title: 桌面應用程式保證
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,13 +12,13 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
-description: 適用於 Windows 10 的 FastTrack 中心權益提供對於桌面應用程式保證的存取，該保證是新的服務，其設計目的是解決 Windows 10 和 Office 365 專業增強版應用程式相容性的問題。
-ms.openlocfilehash: 09d76a0744fc07f412d1ec7e217c6f5cad69b21b
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+description: 適用於 Windows 10 的 FastTrack 中心權益提供對於桌面應用程式保證的存取，該保證為服務，其設計目的是解決 Windows 10 和 Office 365 專業增強版應用程式相容性的問題。
+ms.openlocfilehash: b18b27a191ced81d9d84088f383f9fbdca51f082
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895592"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27132915"
 ---
 # <a name="desktop-app-assure"></a>桌面應用程式保證
 

@@ -6,7 +6,36 @@
 ## <a name="week-of-december-17-2018"></a>2018 年 12 月 17 日當週
 
 
-| 發佈於 |主題標題 | 變更 |
+| 發佈時間 |主題標題 | 變更 |
 |------|------------|--------|
-| 12/21/2018 | [適用於 Microsoft 365 的 FastTrack 中心權益](/FastTrack/m365-fasttrack-benefit-overview) | 新增 |
-| 12/21/2018 | [Microsoft FastTrack 文件和資源](/FastTrack/index) | 修改時間 |
+| 2018 年 12 月 21 日 | [適用於 Microsoft 365 的 FastTrack 中心權益](/FastTrack/m365-fasttrack-benefit-overview) | 新增 |
+| 2018 年 12 月 21 日 | [Microsoft FastTrack 文件和資源](/FastTrack/index) | 修改時間 |
+
+
+## <a name="week-of-december-31-2018"></a>2018 年 12 月 31 日當週
+
+
+| 發佈時間 |主題標題 | 變更 |
+|------|------------|--------|
+| 1/2/2019 | [適用的服務與方案](/FastTrack/m365-eligible-services-and-plans) | 新增 |
+| 1/2/2019 | [適用於 Microsoft 365 的 FastTrack 中心權益](/FastTrack/m365-fasttrack-benefit-overview) | 修改時間 |
+| 1/2/2019 | [資料移轉](/FastTrack/o365-data-migration) | 修改時間 |
+| 1/2/2019 | 適用的服務與方案 | 移除 |
+| 1/2/2019 | [附錄 B：FastTrack 中心其他權益](/FastTrack/o365-fasttrack-additional-benefits) | 修改時間 |
+| 1/2/2019 | [適用於 Office 365 的 FastTrack Center 權益](/FastTrack/o365-fasttrack-benefit-for-office-365) | 修改時間 |
+| 1/2/2019 | [FastTrack 中心權益概觀](/FastTrack/o365-fasttrack-benefit-overview) | 修改時間 |
+| 1/2/2019 | [FastTrack 處理程序](/FastTrack/o365-fasttrack-process) | 修改時間 |
+| 1/2/2019 | [FastTrack 責任](/FastTrack/o365-fasttrack-responsibilities) | 修改時間 |
+| 1/2/2019 | [附錄 A：從 IBM Domino 移轉至 Exchange Online](/FastTrack/o365-from-ibm-domino-to-exchange-online) | 修改時間 |
+| 1/2/2019 | [附錄 C：FastTrack Center HIPAA 業務關聯協議](/FastTrack/o365-hipaa-business-associate-agreement) | 修改時間 |
+| 1/2/2019 | [上架及移轉階段](/FastTrack/o365-onboarding-and-migration) | 修改時間 |
+| 1/2/2019 | [來源環境預期](/FastTrack/o365-source-environment-expectations) | 修改時間 |
+| 1/2/2019 | [您的責任](/FastTrack/o365-your-responsibilities) | 修改時間 |
+| 1/2/2019 | [Office 365 FastTrack 責任美國政府](/FastTrack/us-gov-appendix-fasttrack-responsibilities) | 修改時間 |
+| 1/2/2019 | [Onboarding 和移轉階段 for Office 365 美國政府](/FastTrack/us-gov-appendix-onboarding-and-migration) | 修改時間 |
+| 1/2/2019 | [附錄 D：適用於 Office 365 US Government 的 FastTrack Center 權益概觀](/FastTrack/us-gov-appendix-overview) | 修改時間 |
+| 1/2/2019 | [來源 for Office 365 的環境期望美國政府](/FastTrack/us-gov-appendix-source-environment-expectations) | 修改時間 |
+| 1/2/2019 | [您的 Office 365 的責任美國政府](/FastTrack/us-gov-appendix-your-responsibilities) | 修改時間 |
+| 1/2/2019 | [提供的協助](/FastTrack/win-10-daa-assistance-offered) | 重新命名 |
+| 1/2/2019 | [傳統型應用程式保證](/FastTrack/win-10-desktop-app-assure) | 修改時間 |
+| 1/2/2019 | [適用於 Windows 10 的 FastTrack 中心權益](/FastTrack/win-10-fasttrack-benefit-for-windows-10) | 修改時間 |

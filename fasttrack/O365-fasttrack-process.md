@@ -3,20 +3,19 @@ title: FastTrack 處理程序
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: 34e2f038-4778-4ab0-a6b5-d46fa85de3e8
 description: FastTrack 程序提供上架和使用者採用服務。
-ms.openlocfilehash: d4e090f6a9e692ae3de2238b9626a78bc806ccfe
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: 401faec69b6d33cd4f07814c6e598cc5e5ccf359
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133011"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696732"
 ---
 # <a name="the-fasttrack-process"></a>FastTrack 處理程序
 
@@ -44,9 +43,8 @@ FastTrack 程序提供上架和使用者採用服務。
 
 若要透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助： 
 1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  選取 [FastTrack]****。
-3.  選取 [服務]****。
-4.  填妥**要求協助使用 Microsoft 365** 表單。 
+2.  選取 [服務]****。
+3.  填妥**要求協助使用 Microsoft 365** 表單。 
 > [!NOTE]
 >  如果您有合作夥伴列在您的 Office 365 租用戶中，您將看不到這個選項。請洽詢您的合作夥伴，以取得協助。 
   
@@ -56,11 +54,10 @@ FastTrack 程序提供上架和使用者採用服務。
     
 合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。作法如下：
 1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  選取 [FastTrack]****。
-3.  選取 [我的客戶]****。
-4.  搜尋您的客戶或從客戶清單中選取他們。
-5.  選取 [服務]****。
-6.  填妥**要求協助使用 Microsoft 365** 表單。 
+2.  選取 [我的客戶]****。
+3.  搜尋您的客戶或從客戶清單中選取他們。
+4.  選取 [服務]****。
+5.  填妥**要求協助使用 Microsoft 365** 表單。 
 
 下表列出該程序的角色與責任。
     

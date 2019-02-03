@@ -3,20 +3,19 @@ title: 上架及移轉階段
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Office 365 上架有四個主要階段 - 起始、評估、修復與啟用。您可以在這些階段後面選擇接著資料移轉階段。
-ms.openlocfilehash: 4f5f089a05def67e3b7bee9d4ace5cbce636c4c3
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: b77b4f02256c4b443c41f4740036e4a88519202d
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133179"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696840"
 ---
 # <a name="onboarding-and-migration-phases"></a>上架及移轉階段
 
@@ -39,19 +38,17 @@ Office 365 上架有四個主要階段 - 起始、評估、修復與啟用。您
 
 若要透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助： 
 1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  選取 [FastTrack]****。
-3.  選取 [服務]****。
-4.  填妥**要求協助使用 Microsoft 365** 表單。 
+2.  選取 [服務]****。
+3.  填妥**要求協助使用 Microsoft 365** 表單。 
 > [!NOTE]
 >  如果您有合作夥伴列在您的 Office 365 租用戶中，您將看不到這個選項。請洽詢您的合作夥伴，以取得協助。 
   
 合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。作法如下：
 1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  選取 [FastTrack]****。
-3.  選取 [我的客戶]****。
-4.  搜尋您的客戶或從客戶清單中選取他們。
-5.  選取 [服務]****。
-6.  填妥**要求協助使用 Microsoft 365** 表單。
+2.  選取 [我的客戶]****。
+3.  搜尋您的客戶或從客戶清單中選取他們。
+4.  選取 [服務]****。
+5.  填妥**要求協助使用 Microsoft 365** 表單。
 
 您也可以從租用戶的可用服務清單中的 FastTrack Center[FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)要求協助。 
     
@@ -102,7 +99,9 @@ FastTrack 專家將配合您評估您的來源環境和需求。我們為您提�
 - 針對在 Office 365 中驗證的所有已啟用郵件的網域設定 Exchange Online Protection (EOP) 功能。
     > [!NOTE]
     > 您的郵件交換 (MX) 記錄必須指向 Office 365。 
-- 設定 Exchange Online 進階威脅防護 (ATP) 功能，如果它在您的 MX 記錄指向 Office 365 之後是訂閱服務的一部分。這項功能設定為 Exchange Online Protection 反惡意程式碼設定的一部分。
+- 如果您的訂閱服務包含 Exchange Online 進階威脅防護 (ATP) 功能，請設定此功能。將您的 MX 記錄指向 Office 365 之後即完成此項設定。這項功能設定屬於 Exchange Online Protection 反惡意程式碼設定的一部分。
+- 為 Office 365 中經驗證之所有已啟用郵件的網域設定資料遺失保護 (DLP) 功能，作為訂閱服務的一部分。將您的 MX 記錄指向 Office 365 之後即完成此項設定。
+- 為 Office 365 中經驗證之所有已啟用郵件的網域設定 Office 365 訊息加密 (OME) 功能，作為訂閱服務的一部分。將您的 MX 記錄指向 Office 365 之後即完成此項設定。
 - 設定防火牆連接埠。
 - 視需要設定 DNS、併入需要的自動探索、寄件者原則架構 (SPF) 和 MX 記錄。 
 - 如果需要，則設定您的來源訊息環境與 Exchange Online 間的電子郵件流程。
@@ -119,7 +118,7 @@ FastTrack 專家將配合您評估您的來源環境和需求。我們為您提�
 - 設立 DNS。
 - 設定防火牆連接埠。
 - 佈建使用者和授權。   
-- 設定 SharePoint 混合式 功能，如混合式搜尋、混合式網站、混合式分類、內容類型、混合式自助網站架設 (僅限 SharePoint Server 2013)、擴充的應用程式啟動器、混合式 商務用 OneDrive，以及外部網路網站。
+- 設定 SharePoint 混合式功能，如混合式搜尋、混合式網站、混合式分類、內容類型、混合式自助網站架設 (僅限 SharePoint Server 2013)、擴充的應用程式啟動器、混合式商務用 OneDrive，以及外部網路網站。
     
 FastTrack 專家會提供將資料移轉到 Office 365 的指引，方法是使用工具和文件組合，以及在適用且可行的情況下執行設定工作。
   
@@ -131,6 +130,19 @@ FastTrack 專家會提供將資料移轉到 Office 365 的指引，方法是使�
   
 ![啟用階段期間的 OneDrive 上架步驟](media/O365-Onboarding-Enable-ODB.png)
   
+## <a name="microsoft-teams"></a>Microsoft Teams
+
+對於 Microsoft Teams，我們提供下列項目的指引：
+- 確認最低需求。  
+- 設定防火牆連接埠。   
+- 設立 DNS。 
+- 確認您的 Office 365 租用戶上已啟用 Microsoft Teams。  
+- 啟用或停用使用者授權。
+    
+![FastTrack Microsoft Teams 圖表 (啟用階段)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
+
+![Microsoft Teams 共用的 Skype 功能](media/Teams-Skype-features.png)
+
 ## <a name="skype-for-business-online"></a>商務用 Skype Online
 
 對於商務用 Skype Online，我們提供下列項目的指引：
@@ -143,17 +155,6 @@ FastTrack 專家會提供將資料移轉到 Office 365 的指引，方法是使�
 ![啟用階段_1 期間的 Lync 上架步驟](media/O365-Onboarding-Enable-Lync.png)
   
 ![啟用_2 期間的商務用 Skype 上架步驟](media/SfBOifappborderupdate.png)
-  
-## <a name="microsoft-teams"></a>Microsoft Teams
-
-對於 Microsoft Teams，我們提供下列項目的指引：
-- 確認最低需求。  
-- 設定防火牆連接埠。   
-- 設立 DNS。 
-- 確認您的 Office 365 租用戶上已啟用 Microsoft Teams。  
-- 啟用或停用使用者授權。
-    
-![FastTrack Microsoft Teams 圖表 (啟用階段)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
   
 ## <a name="power-bi"></a>Power BI
 
@@ -177,10 +178,10 @@ FastTrack 專家會提供將資料移轉到 Office 365 的指引，方法是使�
 對於 Microsoft Project Online 專業版和 Microsoft Project Online 進階版，我們提供下列項目的指引：
 - 解決部署問題。
 - 使用 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 指派使用者授權。  
-- 使用隨選即用從 Office 365 入口網站安裝 Microsoft Project Online 桌面用戶端。
-- 使用 Office 部署工具來設定更新設定。  
-- 設定 Microsoft Project Online 桌面用戶端 的單一內部網站發佈伺服器，包含建立搭配 Office 部署工具使用之 configuration.xml 檔案的相關協助。  
-- 正在將 Microsoft Project Online 桌面用戶端 連接至 Microsoft Project Online 專業版 或 Microsoft Project Online 進階版。
+- 使用隨選即用從 Office 365 入口網站安裝 Project Online 桌面用戶端。
+- 使用 Office 365 部署工具來設定更新設定。  
+- 設定 Project Online 桌面用戶端的單一內部網站發佈伺服器，包含建立搭配 Office 365 部署工具使用之 configuration.xml 檔案的相關協助。  
+- 正在將 Project Online 桌面用戶端連線至 Project Online 專業版或 Project Online 進階版。
     
 ![在 Project for Office 365 啟用階段產生的步驟。](media/f0133291-7c12-4db0-af61-75ec5e71451c.png)
   
@@ -195,8 +196,8 @@ FastTrack 專家會提供將資料移轉到 Office 365 的指引，方法是使�
 - 使用 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 指派使用者授權。 
 - 使用隨選即用從 Office 365 入口網站安裝 Office 365 專業增強版。   
 - 在您的 iOS、Android 或 Windows Mobile 裝置上安裝 Office Mobile 應用程式 (如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile)。   
-- 使用 Office 部署工具來設定更新設定。   
-- 設定 Office 365 專業增強版 的單一內部網站發佈伺服器，包含建立搭配 Office 部署工具使用之 configuration.xml 檔案的相關協助。  
+- 使用 Office 365 部署工具來設定更新設定。   
+- 設定 Office 365 專業增強版的單一內部網站發佈伺服器，包含建立搭配 Office 365 部署工具使用之 configuration.xml 檔案的相關協助。  
 - 使用 Microsoft System Center Configuration Manager 部署，包含建立 System Center Configuration Manager 封裝的協助。
     
 ![Office 專業增強版上架步驟](media/O365-Onboarding-Enable-OProPlus.png)

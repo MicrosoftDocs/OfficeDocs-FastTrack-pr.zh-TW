@@ -3,20 +3,19 @@ title: FastTrack 責任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: 在上架期間 FastTrack 專家需擔負下列責任。
-ms.openlocfilehash: 27961b81a4add1342ba194c2e3d04c93aca32ca5
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: e90c9e54b62f57c27ba1424f5d2fb84d7b56626e
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133095"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696828"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 責任
 
@@ -46,17 +45,17 @@ ms.locfileid: "27133095"
 - 建立修復服務活動的時間表。
 - 提供修復檢查清單。 
 - 評定現有的 SharePoint Server 2013 或 SharePoint Server 2016 基礎結構，包括：
-  - SharePoint Online 混合式 的必要條件。 
-  - SharePoint Online 混合式 功能的內部部署基礎結構整備狀態。
+  - SharePoint Online 混合式的必要條件。 
+  - SharePoint Online 混合式功能的內部部署基礎結構整備狀態。
   - 存取所需的 SharePoint Online 端點。
-  - 商務用 OneDrive 混合式 的對象。 
-- 評定現有的 Lync 或 商務用 Skype Online 基礎結構，包括：
-  - 支援的 商務用 Skype 用戶端部署策略。
+  - 商務用 OneDrive 混合式的適用對象。 
+- 評估現有的 Lync、商務用 Skype Online 或 Microsoft Teams 基礎結構，包括：
+  - 支援的商務用 Skype 用戶端或 Teams 用戶端部署策略。
   - 存取端點。
   - 連線品質。
   - 頻寬估計。
   - 支援分割網域伺服器組態的先決條件。
-  - 讓已識別的使用者準備移至 商務用 Skype Online。
+  - 讓已識別的使用者移至商務用 Skype Online 或 Teams 的整備狀態。
 - 評估訊息基礎結構，包括： 
   - 整體郵件流程和路由準則。
   - 用戶端存取 (包括現有已發佈的用戶端存取端點)。
@@ -101,7 +100,7 @@ ms.locfileid: "27133095"
 提供以下的相關指引：
 - 建立或更新 DNS 記錄。 
 - 啟用來源訊息系統與 Office 365 環境間的電子郵件路由。 
-- 設定 Exchange Online Protection 功能 (包括 Exchange Online 進階威脅防護 功能，如果在您的訂閱中可用)，並確認您的 MX 記錄針對所有已驗證已啟用郵件的網域指向 Office 365。
+- 設定 Exchange Online Protection、資料遺失保護 (DLP) 及 Office 365 訊息加密 (OME) 功能 (如果您的訂閱中有，則包括 Exchange Online 進階威脅防護功能)，並確認您的 MX 記錄在所有已驗證之已啟用郵件的網域中指向 Office 365。
 - 在單一內部部署 Exchange 組織與 Office 365 之間，「或者」** 在多重內部部署 Exchange 組織與 Office 365 之間進行混合設定。 
 - 設定信箱用戶端 (Outlook for Windows、Outlook 網頁版，以及 Outlook for iOS 和 Android)。
     
@@ -117,11 +116,11 @@ ms.locfileid: "27133095"
 - 啟用個人網站和社交功能。
 - 設定 SharePoint Online 功能。 
 - 若使用 FastTrack Center 資料移轉服務且您符合資格，就會提供資料移轉。
-- 評估 SharePoint Online 混合式 所需的內部部署 SharePoint 伺服器陣基礎結構組態。 
+- 評估 SharePoint Online 混合式所需的內部部署 SharePoint 伺服器陣列基礎結構組態。 
 - 使用工具及自動化以︰
   - 設定內部部署雲端 Search Service 應用程式。 
   - 設定 SharePoint 內部部署與雲端環境之間的信任。
-- 設定內部部署 SharePoint 網站以使用 SharePoint Online 混合式 功能。
+- 設定內部部署 SharePoint 網站以使用 SharePoint Online 混合式功能。
     
 ## <a name="onedrive-for-business"></a>商務用 OneDrive
 
@@ -140,6 +139,32 @@ ms.locfileid: "27133095"
 - 如何設定 SharePoint Online 混合式商務用 OneDrive 重新導向 (僅限 SharePoint 2013 和 SharePoint 2016)。
 - 若使用 FastTrack Center 資料移轉服務且您符合資格，就會進行資料移轉。
     
+## <a name="microsoft-teams"></a>Microsoft Teams
+
+提供以下的相關指引：
+- 確認最低需求。
+- 設定防火牆連接埠。
+- 設立 DNS。  
+- 確認您的 Office 365 租用戶上已啟用 Teams。
+- 啟用或停用使用者授權。
+- Teams 用戶端發佈。
+- IT 專業人員和系統管理功能。
+- 核心產品功能。
+- 客戶成功範本。
+- 建立要與支援的會議室系統裝置產生關聯的帳戶 (最多 10 個帳戶)。 
+- 啟用直接路由。
+- 啟用音訊會議。
+- 會議橋接預設設定的組織設定。
+- 將會議橋接指派給授權使用者。
+- 啟用電話系統。
+- 啟用電話系統和通話方案上架 (於適用市場)。
+- 授權使用者號碼的指派。
+- 透過 UI 的本機號碼移轉指引最多至 999。
+- 本機號碼移轉 SR 支援超過 999。 
+- 啟用 Teams 即時活動。 
+- 組織設定與 Microsoft Stream 整合。
+
+
 ## <a name="skype-for-business-online"></a>商務用 Skype Online
 
 提供以下的相關指引：
@@ -158,19 +183,6 @@ ms.locfileid: "27133095"
 - 啟用商務用 Skype 會議廣播：
   - 啟用商務用 Skype 會議廣播上架指引。
   - 針對會議廣播服務同盟的組織設定。
-    
-## <a name="microsoft-teams"></a>Microsoft Teams
-
-提供以下的相關指引：
-- 確認最低需求。
-- 設定防火牆連接埠。
-- 設立 DNS。  
-- 確認您的 Office 365 租用戶上已啟用 Microsoft Teams。
-- 啟用或停用使用者授權。
-- Microsoft Teams 用戶端發佈。
-- IT 專業人員和系統管理功能。
-- 核心產品功能。
-- 客戶成功的範本。
     
 ## <a name="power-bi"></a>Power BI
 
@@ -193,8 +205,8 @@ ms.locfileid: "27133095"
 提供以下的相關指引：
 - 解決部署問題。
 - 使用 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 指派使用者授權。
-- 從入口網站下載並安裝 Microsoft Project Online 桌面用戶端。   
-- 使用 Office 部署工具或群組原則範本來設定更新設定。
+- 從入口網站下載並安裝 Project Online 桌面用戶端。   
+- 使用 Office 365 部署工具或群組原則範本來設定更新設定。
 - 設定 Microsoft Project Online 桌面用戶端 的單一內部網站發佈伺服器，包含建立 Office 2016 部署工具之 configuration.xml 檔案的相關指引。 
 - 正在將 Microsoft Project Online 桌面用戶端連接至 Microsoft Project Online。
     
@@ -210,7 +222,7 @@ ms.locfileid: "27133095"
 - 使用隨選即用從 Office 365 入口網站安裝 Office 365 專業增強版。
 - 在您的 iOS、Android 或 Windows Mobile 裝置上安裝 Office Mobile 應用程式 (如 Outlook for iOS 和 Android、Word Mobile、Excel Mobile 和 PowerPoint Mobile)。 
 - 使用 Office 2016 部署工具或群組原則範本來設定更新設定。
-- 設定 Office 365 專業增強版 的單一內部網站發佈伺服器，包含建立搭配 Office 部署工具使用之 configuration.xml 檔案的相關協助。
+- 設定 Office 365 專業增強版的單一內部網站發佈伺服器，包含建立搭配 Office 365 部署工具使用之 configuration.xml 檔案的相關協助。
 - 使用 System Center Configuration Manager 部署，包含建立 System Center Configuration Manager 封裝的協助。
     
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub

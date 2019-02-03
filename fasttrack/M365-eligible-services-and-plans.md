@@ -3,19 +3,19 @@ title: 適用的服務與方案
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/3/2019
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 當您購買任何 Microsoft 365 服務，FastTrack 專家可提供您 Microsoft 365 的上架指引，讓您即刻開始使用。
-ms.openlocfilehash: 167568338d4d4a9e1132761c821fcaa63868bc0a
-ms.sourcegitcommit: 661b0a8110714395c120949a9182e7cd48a0b5fa
+ms.openlocfilehash: 37e898664c2718eb3fffaae96a93a5ace3f95fc5
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/02/2019
-ms.locfileid: "27472801"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696804"
 ---
 # <a name="eligible-services-and-plans"></a>適用的服務與方案
 
@@ -30,19 +30,17 @@ ms.locfileid: "27472801"
 
 若要透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助： 
 1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  選取 [FastTrack]****。
-3.  選取 [服務]****。
-4.  填妥**要求協助使用 Microsoft 365** 表單。
+2.  選取 [服務]****。
+3.  填妥**要求協助使用 Microsoft 365** 表單。
     > [!NOTE]
     >  如果您有合作夥伴列在您的 Office 365 租用戶中，您將看不到這個選項。請洽詢您的合作夥伴，以取得協助。 
 
 合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。作法如下：
 1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  選取 [FastTrack]****。
-3.  選取 [我的客戶]****。
-4.  搜尋您的客戶或從客戶清單中選取他們。
-5.  選取 [服務]****。
-6.  填妥**要求協助使用 Microsoft 365** 表單。
+2.  選取 [我的客戶]****。
+3.  搜尋您的客戶或從客戶清單中選取他們。
+4.  選取 [服務]****。
+5.  填妥**要求協助使用 Microsoft 365** 表單。
 
 您也可以從租用戶的可用服務清單中的 FastTrack Center[FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)要求協助。 
 
@@ -56,8 +54,8 @@ FastTrack 中心提供下列服務的協助：
 - Exchange Online
 - SharePoint Online
 - 商務用 OneDrive
-- 商務用 Skype Online
 - Microsoft Teams
+- 商務用 Skype Online
 - Power BI
 - Microsoft Project Online
 - Yammer Enterprise 
@@ -71,9 +69,9 @@ FastTrack 中心提供下列服務的協助：
   
  **Microsoft 365 企業版**
 
-- Microsoft 365 E3
-- Microsoft 365 E5
-- Microsoft 365 商務版
+- Microsoft 365 E3\*
+- Microsoft 365 E5\*
+- Microsoft 365 商務版\*
     
  **Microsoft 365 教育版**
 
@@ -134,9 +132,9 @@ FastTrack 中心提供下列服務的協助：
     
  **商務用 Skype Online**
   
--  電話系統 
--  通話方案 
--  音訊會議 
+-  電話系統\*\*\* 
+-  通話方案\*\*\* 
+-  音訊會議\*\*\*
 -  商務用 Skype Online 方案 1  
 -  商務用 Skype Online 方案 2
     
@@ -147,6 +145,8 @@ FastTrack 中心提供下列服務的協助：
 \*僅適用此權益描述中所列之有資格獲得 FastTrack 協助的雲端服務和功能。
 
 \*\*如需有關適用於美國政府的 FastTrack 權益詳細資訊，請參閱 [Office 365 美國政府](https://aka.ms/aboutgovcloud) (機器翻譯)。
+
+\*\*\*商務用 Skype Online 和 Microsoft Teams 授權使用者皆可使用。
 
 > [!NOTE]
 > 需購買上述適用方案的付費授權，才適用 FastTrack 中心權益。 

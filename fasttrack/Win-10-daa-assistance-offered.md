@@ -3,7 +3,7 @@ title: 提供的協助
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/3/2019
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 當您購買任何 Windows 10 或 Microsoft 365 服務時，FastTrack 專家會提供部署至 Windows 10 和 Office 365 專業增強版的建議和修復指引，並且讓您保持在最新狀態而不需額外成本 (具有合格訂用帳戶)。
-ms.openlocfilehash: 895807ab93688552e200eb6aba6d1c77b982db87
-ms.sourcegitcommit: 661b0a8110714395c120949a9182e7cd48a0b5fa
+ms.openlocfilehash: d7d79c78102d229d15e0b55dfc18d1063371ef17
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/02/2019
-ms.locfileid: "27472789"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696624"
 ---
 # <a name="assistance-offered"></a>提供的協助  
 
@@ -39,6 +39,12 @@ FastTrack 提供以下協助：
     - Windows 10 桌面和 Web 應用程式。
 > [!NOTE]
 > FastTrack 會盡全力解決相容性問題。 
+
+> [!NOTE]
+> 如果 Windows 10 支援較新的版本，FastTrack 無法修復舊版的 ISV 應用程序。
+
+> [!NOTE]
+> 如果軟體供應商具有 Office 365 ProPlus 支援的較新版本，則FastTrack 無法修復舊版第三方增益集軟體。
 
 ## <a name="out-of-scope"></a>超出範圍
 

@@ -3,20 +3,19 @@ title: Onboarding 和移轉階段 for Office 365 美國政府
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Office 365 美國政府適用的 office 365 onboarding 具有四個主要階段 — 啟動 Assess、 Remediate，並啟用。您可以遵循這些階段使用選用的資料移轉階段，如下圖所示。
-ms.openlocfilehash: 7484350fd3bc5c3999e925b8d2d863e09c284f7a
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: 259f7f175b369aed5ed9089ff7dff0efc5797963
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133071"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696768"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding 和移轉階段 for Office 365 美國政府
 
@@ -118,7 +117,7 @@ FastTrack 專家搭配您評估來源環境和需求。我們提供讓您收集�
 - 設立 DNS。   
 - 設定防火牆連接埠。   
 - 佈建使用者和授權。   
-- 設定 SharePoint 混合式 功能，如混合式搜尋、混合式網站、混合式分類、內容類型、混合式自助網站架設 (僅限 SharePoint Server 2013)、擴充的應用程式啟動器、混合式 商務用 OneDrive，以及外部網路網站。
+- 設定 SharePoint 混合式功能，如混合式搜尋、混合式網站、混合式分類、內容類型、混合式自助網站架設 (僅限 SharePoint Server 2013)、擴充的應用程式啟動器、混合式商務用 OneDrive，以及外部網路網站。
     
 FastTrack 專家會提供將資料移轉到 Office 365 的指引，方法是使用工具和文件組合，以及在適用且可行的情況下執行設定工作。
   
@@ -187,8 +186,8 @@ FastTrack 專家會提供將資料移轉到 Office 365 的指引，方法是使�
 - 使用 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 指派使用者授權。    
 - 使用隨選即用從 Office 365 入口網站安裝 Office 365 專業增強版。    
 - 在您的 iOS、Android 或 Windows Mobile 裝置上安裝 Office Mobile 應用程式 (如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile)。   
-- 使用 Office 部署工具來設定更新設定。    
-- 設定 Office 365 專業增強版 的單一內部網站發佈伺服器，包含建立搭配 Office 部署工具使用之 configuration.xml 檔案的相關協助。    
+- 使用 Office 365 部署工具來設定更新設定。    
+- 設定 Office 365 專業增強版的單一內部網站發佈伺服器，包含建立搭配 Office 365 部署工具使用之 configuration.xml 檔案的相關協助。    
 - 使用 Microsoft System Center Configuration Manager 部署，包含建立 System Center Configuration Manager 封裝的協助。
     
 ![Office 專業增強版上架步驟](media/O365-Onboarding-Enable-OProPlus.png)

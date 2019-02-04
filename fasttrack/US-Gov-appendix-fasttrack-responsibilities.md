@@ -3,20 +3,19 @@ title: Office 365 FastTrack 責任美國政府
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: 在上架期間 FastTrack 專家需擔負下列責任。
-ms.openlocfilehash: 9a126fe0d75d2342384172c2930b05c46cc2ff0b
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: bfdbd890dd357c22ea80fd01cdf47903cccb868e
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133119"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696780"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 FastTrack 責任美國政府
 
@@ -46,10 +45,10 @@ ms.locfileid: "27133119"
 - 建立修復服務活動的時間表。
 - 提供修復檢查清單。   
 - 評定現有的 SharePoint Server 2013 或 SharePoint Server 2016 基礎結構，包括：  
-  - SharePoint Online 混合式 的必要條件。  
-  - SharePoint Online 混合式 功能的內部部署基礎結構整備狀態。  
+  - SharePoint Online 混合式的必要條件。  
+  - SharePoint Online 混合式功能的內部部署基礎結構整備狀態。  
   - 存取所需的 SharePoint Online 端點。 
-  - 商務用 OneDrive 混合式 的對象。    
+  - 商務用 OneDrive 混合式的適用對象。    
 - 評定現有的 Lync 或 商務用 Skype Online 基礎結構，包括：  
   - 支援的 商務用 Skype 用戶端部署策略。  
   - 存取端點。  
@@ -115,11 +114,11 @@ ms.locfileid: "27133119"
 - 啟用個人網站和社交功能。   
 - 設定 SharePoint Online 功能。    
 - 若使用 FastTrack Center 資料移轉服務且您符合資格，就會提供資料移轉。  
-- 評估 SharePoint Online 混合式 所需的內部部署 SharePoint 伺服器陣基礎結構組態。    
+- 評估 SharePoint Online 混合式所需的內部部署 SharePoint 伺服器陣列基礎結構組態。    
 - 使用工具及自動化以︰ 
   - 設定內部部署雲端 Search Service 應用程式。    
   - 設定 SharePoint 內部部署與雲端環境之間的信任。   
-- 設定內部部署 SharePoint 網站以使用 SharePoint Online 混合式 功能。
+- 設定內部部署 SharePoint 網站以使用 SharePoint Online 混合式功能。
     
 ## <a name="onedrive-for-business"></a>商務用 OneDrive
 
@@ -180,7 +179,7 @@ ms.locfileid: "27133119"
 - 新增 Power BI 服務。    
 - 下載 Power BI Desktop 應用程式。
     
-## <a name="project-online"></a>Project Online
+## <a name="project-online"></a>Microsoft Project Online
 
 提供以下的相關指引：  
 - 檢閱訂用計劃。  
@@ -204,7 +203,7 @@ ms.locfileid: "27133119"
 - 使用隨選即用從 Office 365 入口網站安裝 Office 365 專業增強版。   
 - 在您的 iOS、Android 或 Windows Mobile 裝置上安裝 Office Mobile 應用程式 (如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile)。   
 - 使用 Office 2016 部署工具或群組原則範本來設定更新設定。   
-- 設定 Office 365 專業增強版 的單一內部網站發佈伺服器，包含建立搭配 Office 部署工具使用之 configuration.xml 檔案的相關協助。   
+- 設定 Office 365 專業增強版的單一內部網站發佈伺服器，包含建立搭配 Office 365 部署工具使用之 configuration.xml 檔案的相關協助。   
 - 使用 System Center Configuration Manager 部署，包含建立 System Center Configuration Manager 封裝的協助。
 
     

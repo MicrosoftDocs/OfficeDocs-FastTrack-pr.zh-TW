@@ -3,7 +3,7 @@ title: 適用於 Microsoft 365 的 FastTrack 中心權益
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 適用於 Microsoft 365 的 FastTrack 提供規劃、部署及採用的指導方針，包含遠端存取 Microsoft 工程專業知識、最佳做法、工具及資源。適用於 Microsoft 365 的 FastTrack 可協助組織及其合作夥伴加速部署，並獲得使用者採用 Office 365、Windows 10，以及企業行動力 + 安全性。
-ms.openlocfilehash: 272b2aab2900f8d9febd24b22a9a2642d7b24ff8
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: e0ac93c1debcffe644117054c6fda2d8ac2d5b60
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696612"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355113"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>適用於 Microsoft 365 的 FastTrack 中心權益
 
@@ -29,11 +29,9 @@ ms.locfileid: "29696612"
   
 若要深入了解，請參閱：
 
-- [適用於 Office 365 的 FastTrack Center 權益](https://go.microsoft.com/fwlink/?linkid=2044752) 
-- [適用於 Enterprise Mobility + Security (EMS) 的 FastTrack Center 權益](https://go.microsoft.com/fwlink/?linkid=2005312)
-- [適用於 Windows 10 的 FastTrack 中心權益](https://go.microsoft.com/fwlink/?linkid=2044661) 
-
-您也可以立即從 FastTrack 瀏覽 FastTrack 服務和[要求協助](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。
+- [適用於 Office 365 的 FastTrack Center 權益](O365-fasttrack-benefit-for-office-365.md) 
+- [適用於 Enterprise Mobility + Security (EMS) 的 FastTrack Center 權益](EMS-fasttrack-benefit-for-EMS.md)
+- [適用於 Windows 10 的 FastTrack 中心權益](Win-10-fasttrack-benefit-for-Windows-10.md)您也可以立即從 FastTrack 瀏覽 FastTrack 服務和[要求協助](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。
 
 FastTrack 是您成功的 Microsoft 365 合作夥伴。
   

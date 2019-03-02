@@ -3,7 +3,7 @@ title: 提供的協助
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 當您購買任何 Windows 10 或 Microsoft 365 服務時，FastTrack 專家會提供部署至 Windows 10 和 Office 365 專業增強版的建議和修復指引，並且讓您保持在最新狀態而不需額外成本 (具有合格訂用帳戶)。
-ms.openlocfilehash: d7d79c78102d229d15e0b55dfc18d1063371ef17
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 071d1bdc76f2d450f7c9dde88f1e07858c3af36d
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696624"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355185"
 ---
 # <a name="assistance-offered"></a>提供的協助  
 
@@ -26,6 +26,9 @@ ms.locfileid: "29696624"
 若要取得協助，請填寫[傳統型應用程式保證服務要求](https://go.microsoft.com/fwlink/?linkid=2022721)。
 
 合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。若要這樣做，合作夥伴登入網站後，請選取客戶記錄並按一下 [服務]****，然後填妥 [要求桌面應用程式保證的協助]**** 表單。
+
+> [!NOTE]
+> 協助提供的語言有：繁體中文和簡體中文 (僅限說中文的資源)、英文、法文、德文、義大利文、日文、韓文、葡萄牙文 (巴西)、西班牙文。 
 
 ## <a name="assistance"></a>協助
 
@@ -40,19 +43,17 @@ FastTrack 提供以下協助：
 > [!NOTE]
 > FastTrack 會盡全力解決相容性問題。 
 
-> [!NOTE]
-> 如果 Windows 10 支援較新的版本，FastTrack 無法修復舊版的 ISV 應用程序。
-
-> [!NOTE]
-> 如果軟體供應商具有 Office 365 ProPlus 支援的較新版本，則FastTrack 無法修復舊版第三方增益集軟體。
-
 ## <a name="out-of-scope"></a>超出範圍
 
 FastTrack 未提供以下協助：
-- 應用程式目錄和測試，以判斷可在 Windows 10 上運作和無法運作的功能。如需詳細資訊，請參閱[現代化電腦評估客戶申請表](https://go.microsoft.com/fwlink/?linkid=2053818) (英文)。
+- 應用程式清查和測試，以判斷可否在 Windows 10 和 Office 365 專業增強版上運作。如需更多有關此程序的指引，請造訪[現代化電腦的部署中心](https://go.microsoft.com/fwlink/?linkid=2080140)。如果您對深度升級整備評估感到興趣，請填寫[現代化電腦評估客戶申請表](https://go.microsoft.com/fwlink/?linkid=2053818)表單。
 - 針對 Windows 10 相容性和支援狀態，研究第三方 ISV 應用程式。如需詳細資訊，請參閱[您的應用程式準備好可以支援現代化桌面了嗎？](https://go.microsoft.com/fwlink/?linkid=2054580)
 - 應用程式僅限封裝服務。不過，桌面應用程式保證小組會將我們針對 Windows 10 修復的應用程式封裝起來，以確保這些應用程式可以在客戶的環境中部署。
-    > [!NOTE]
-    > Microsoft 無法變更您的原始程式碼。不過，桌面應用程式保證小組可以在來源程式碼適用於您的應用程式時，為應用程式開發人員提供指引。
 
-
+客戶責任包括：
+- 建立應用程式清查。
+- 在 Windows 10 和 Office 365 專業增強版上驗證這些應用程式。
+> [!NOTE]
+> Microsoft 無法變更您的原始程式碼。不過，桌面應用程式保證小組可以在來源程式碼適用於您的應用程式時，為應用程式開發人員提供指引。 [!NOTE]
+> 如果 Windows 10 或 Office 365 專業增強版支援較新版本的 ISV 應用程式、增益集或巨集，則 FastTrack 無法修復較舊版本。[!NOTE]
+> 請連絡 [Microsoft 合作夥伴](https://go.microsoft.com/fwlink/?linkid=2080150) 以提供協助和視為範圍外的服務。

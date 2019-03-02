@@ -3,7 +3,7 @@ title: 適用於 Office 365 的 FastTrack 中心權益
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 當您為 Office 365 租用戶購買至少 150 份合格服務或方案時，可使用「適用於 Office 365 的 FastTrack 中心權益」。您接著可與 FastTrack 專家合作來評估、修復、啟用、移轉及促進使用這些服務。這些專家也提供移轉指引。
-ms.openlocfilehash: 73363c63590545b7ede05b068a7bbd38fbc9cb0d
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 4b3cd472783781342265797ebf3b71cc9debc8cf
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696636"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355137"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>適用於 Office 365 的 FastTrack 中心權益
 
@@ -32,7 +32,7 @@ ms.locfileid: "29696636"
   
 若要了解 FastTrack Center 程序與相關人員的負責工作，請參閱＜[FastTrack Center 權益概觀](O365-fasttrack-benefit-overview.md)＞。
   
-想要尋找[適用於 Enterprise Mobility Suite 的 FastTrack Center 權益](https://go.microsoft.com/fwlink/?linkid=2005312)嗎？其包含這些相關資訊：
+想要尋找[適用於 Enterprise Mobility Suite 的 FastTrack Center 權益](EMS-fasttrack-benefit-for-EMS.md)嗎？其包含這些相關資訊：
   
 - Microsoft Intune    
 - Azure Active Directory Premium 

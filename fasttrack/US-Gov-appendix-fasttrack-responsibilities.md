@@ -1,210 +1,210 @@
 ---
-title: Office 365 FastTrack 責任美國政府
+title: FastTrack 責任 for Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 在上架期間 FastTrack 專家需擔負下列責任。
-ms.openlocfilehash: bfdbd890dd357c22ea80fd01cdf47903cccb868e
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 2989b841d247ec1e05f8e033a7000e2b2a756e24
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696780"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355281"
 ---
-# <a name="fasttrack-responsibilities-for-office-365-us-government"></a><span data-ttu-id="95ab6-103">Office 365 FastTrack 責任美國政府</span><span class="sxs-lookup"><span data-stu-id="95ab6-103">FastTrack Responsibilities for Office 365 US Government</span></span>
+# <a name="fasttrack-responsibilities-for-office-365-us-government"></a><span data-ttu-id="c5d7a-103">FastTrack 責任 for Office 365 US Government</span><span class="sxs-lookup"><span data-stu-id="c5d7a-103">FastTrack Responsibilities for Office 365 US Government</span></span>
 
-<span data-ttu-id="95ab6-104">在上架期間 FastTrack 專家需擔負下列責任。</span><span class="sxs-lookup"><span data-stu-id="95ab6-104">FastTrack Specialists have the following responsibilities during onboarding.</span></span>
+<span data-ttu-id="c5d7a-104">在上架期間 FastTrack 專家需擔負下列責任。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-104">FastTrack Specialists have the following responsibilities during onboarding.</span></span>
   
-## <a name="general"></a><span data-ttu-id="95ab6-105">一般</span><span class="sxs-lookup"><span data-stu-id="95ab6-105">General</span></span>
+## <a name="general"></a><span data-ttu-id="c5d7a-105">一般</span><span class="sxs-lookup"><span data-stu-id="c5d7a-105">General</span></span>
 
-- <span data-ttu-id="95ab6-106">如同詳細的階段說明中所述，會針對成功計劃發展、實作及必要的組態活動，為您提供遠端支援協助。</span><span class="sxs-lookup"><span data-stu-id="95ab6-106">Provide remote support assistance to you in success planning development and implementation, and for the required configuration activities as detailed in the phase descriptions.</span></span>
-- <span data-ttu-id="95ab6-107">提供可用的文件及軟體工具、管理主控台和指令碼，提供您指引以減少或消除組態工作，並成功地規劃資源。</span><span class="sxs-lookup"><span data-stu-id="95ab6-107">Provide available documentation and software tools, admin consoles, and scripts to provide guidance for you to reduce or eliminate configuration tasks, and success planning resources.</span></span> 
+- <span data-ttu-id="c5d7a-106">如同詳細的階段說明中所述，會針對成功計劃發展、實作及必要的組態活動，為您提供遠端支援協助。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-106">Provide remote support assistance to you in success planning development and implementation, and for the required configuration activities as detailed in the phase descriptions.</span></span>
+- <span data-ttu-id="c5d7a-107">提供可用的文件及軟體工具、管理主控台和指令碼，提供您指引以減少或消除組態工作，並成功地規劃資源。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-107">Provide available documentation and software tools, admin consoles, and scripts to provide guidance for you to reduce or eliminate configuration tasks, and success planning resources.</span></span> 
     
-## <a name="initiate-phase"></a><span data-ttu-id="95ab6-108">起始階段</span><span class="sxs-lookup"><span data-stu-id="95ab6-108">Initiate phase</span></span>
+## <a name="initiate-phase"></a><span data-ttu-id="c5d7a-108">起始階段</span><span class="sxs-lookup"><span data-stu-id="c5d7a-108">Initiate phase</span></span>
 
-- <span data-ttu-id="95ab6-109">與您協同作業以了解您的目的、組織目標，以及服務的使用計劃。</span><span class="sxs-lookup"><span data-stu-id="95ab6-109">Work with you to understand your intent, organizational goals, and usage plans for the service.</span></span> 
-- <span data-ttu-id="95ab6-110">搭配使用 Office 365 共同作業服務 (例如 Microsoft Teams) 來登入。</span><span class="sxs-lookup"><span data-stu-id="95ab6-110">Work with you using Office 365 collaboration services (like Microsoft Teams) to begin onboarding.</span></span> 
-- <span data-ttu-id="95ab6-111">定義您要上架的合格服務。</span><span class="sxs-lookup"><span data-stu-id="95ab6-111">Define which eligible services you want to onboard.</span></span> 
+- <span data-ttu-id="c5d7a-109">與您協同作業以了解您的目的、組織目標，以及服務的使用計劃。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-109">Work with you to understand your intent, organizational goals, and usage plans for the service.</span></span> 
+- <span data-ttu-id="c5d7a-110">搭配使用 Office 365 共同作業服務 (例如 Microsoft Teams) 來登入。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-110">Work with you using Office 365 collaboration services (like Microsoft Teams) to begin onboarding.</span></span> 
+- <span data-ttu-id="c5d7a-111">定義您要上架的合格服務。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-111">Define which eligible services you want to onboard.</span></span> 
     
-## <a name="assess-phase"></a><span data-ttu-id="95ab6-112">評估階段</span><span class="sxs-lookup"><span data-stu-id="95ab6-112">Assess phase</span></span>
+## <a name="assess-phase"></a><span data-ttu-id="c5d7a-112">評估階段</span><span class="sxs-lookup"><span data-stu-id="c5d7a-112">Assess phase</span></span>
 
-- <span data-ttu-id="95ab6-113">進行成功計劃會議，提供指引以利您成功地達成使用者採用。</span><span class="sxs-lookup"><span data-stu-id="95ab6-113">Hold a success planning call to provide guidance with you for successful user adoption.</span></span>  
-- <span data-ttu-id="95ab6-114">提供管理概觀。</span><span class="sxs-lookup"><span data-stu-id="95ab6-114">Provide an administrative overview.</span></span>  
-- <span data-ttu-id="95ab6-115">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="95ab6-115">Provide guidance about:</span></span> 
-  - <span data-ttu-id="95ab6-116">網域名稱系統 (DNS)、網路和基礎結構需求。</span><span class="sxs-lookup"><span data-stu-id="95ab6-116">Domain Name System (DNS), network, and infrastructure needs.</span></span>  
-  - <span data-ttu-id="95ab6-117">用戶端需求 (網際網路瀏覽器、用戶端作業系統、行動裝置和服務的需求)。</span><span class="sxs-lookup"><span data-stu-id="95ab6-117">Client needs (internet browser, client operating system, mobile device, and services' needs).</span></span>
-  - <span data-ttu-id="95ab6-118">使用者身分識別與佈建。</span><span class="sxs-lookup"><span data-stu-id="95ab6-118">User identity and provisioning.</span></span> 
-  - <span data-ttu-id="95ab6-119">啟用所購買且定義為上架一部分的合格服務。</span><span class="sxs-lookup"><span data-stu-id="95ab6-119">Enabling eligible services that are purchased and defined as a part of onboarding.</span></span>
-  - <span data-ttu-id="95ab6-120">驅動成功服務採用和價值。</span><span class="sxs-lookup"><span data-stu-id="95ab6-120">Driving successful service adoption and value.</span></span>   
-- <span data-ttu-id="95ab6-121">建立修復服務活動的時間表。</span><span class="sxs-lookup"><span data-stu-id="95ab6-121">Establish the timeline for remediation activities.</span></span>
-- <span data-ttu-id="95ab6-122">提供修復檢查清單。</span><span class="sxs-lookup"><span data-stu-id="95ab6-122">Provide a remediation checklist.</span></span>   
-- <span data-ttu-id="95ab6-123">評定現有的 SharePoint Server 2013 或 SharePoint Server 2016 基礎結構，包括：</span><span class="sxs-lookup"><span data-stu-id="95ab6-123">Assess the existing SharePoint Server 2013 or SharePoint Server 2016 infrastructure including:</span></span>  
-  - <span data-ttu-id="95ab6-124">SharePoint Online 混合式的必要條件。</span><span class="sxs-lookup"><span data-stu-id="95ab6-124">Prerequisites for SharePoint Online hybrid.</span></span>  
-  - <span data-ttu-id="95ab6-125">SharePoint Online 混合式功能的內部部署基礎結構整備狀態。</span><span class="sxs-lookup"><span data-stu-id="95ab6-125">On-premises infrastructure readiness for SharePoint Online hybrid features.</span></span>  
-  - <span data-ttu-id="95ab6-126">存取所需的 SharePoint Online 端點。</span><span class="sxs-lookup"><span data-stu-id="95ab6-126">Access to required SharePoint Online endpoints.</span></span> 
-  - <span data-ttu-id="95ab6-127">商務用 OneDrive 混合式的適用對象。</span><span class="sxs-lookup"><span data-stu-id="95ab6-127">Audiences for OneDrive for Business hybrid.</span></span>    
-- <span data-ttu-id="95ab6-128">評定現有的 Lync 或 商務用 Skype Online 基礎結構，包括：</span><span class="sxs-lookup"><span data-stu-id="95ab6-128">Assess the existing Lync or Skype for Business Online infrastructure including:</span></span>  
-  - <span data-ttu-id="95ab6-129">支援的 商務用 Skype 用戶端部署策略。</span><span class="sxs-lookup"><span data-stu-id="95ab6-129">Supported Skype for Business client deployment strategy.</span></span>  
-  - <span data-ttu-id="95ab6-130">存取端點。</span><span class="sxs-lookup"><span data-stu-id="95ab6-130">Access to endpoints.</span></span>  
-  - <span data-ttu-id="95ab6-131">連線品質。</span><span class="sxs-lookup"><span data-stu-id="95ab6-131">Connection quality.</span></span>  
-  - <span data-ttu-id="95ab6-132">頻寬估計。</span><span class="sxs-lookup"><span data-stu-id="95ab6-132">Bandwidth estimates.</span></span>  
-  - <span data-ttu-id="95ab6-133">支援分割網域伺服器組態的先決條件。</span><span class="sxs-lookup"><span data-stu-id="95ab6-133">Prerequisites to support split domain server configuration.</span></span>  
-  - <span data-ttu-id="95ab6-134">讓已識別的使用者準備移至 商務用 Skype Online。</span><span class="sxs-lookup"><span data-stu-id="95ab6-134">Readiness of identified users to move onto Skype for Business Online.</span></span>  
-- <span data-ttu-id="95ab6-135">評估訊息基礎結構，包括：</span><span class="sxs-lookup"><span data-stu-id="95ab6-135">Assess the messaging infrastructure, including:</span></span>   
-  - <span data-ttu-id="95ab6-136">整體郵件流程和路由準則。</span><span class="sxs-lookup"><span data-stu-id="95ab6-136">Overall mail flow and routing principles.</span></span>  
-  - <span data-ttu-id="95ab6-137">用戶端存取 (包括現有已發佈的用戶端存取端點)。</span><span class="sxs-lookup"><span data-stu-id="95ab6-137">Client access (including existing published client-access endpoints).</span></span>  
-  - <span data-ttu-id="95ab6-138">整合所需的來源訊息環境。</span><span class="sxs-lookup"><span data-stu-id="95ab6-138">Source messaging environment for integration needs.</span></span> 
-- <span data-ttu-id="95ab6-139">若使用 FastTrack Center 資料移轉服務且您符合資格，就會提供資料移轉。</span><span class="sxs-lookup"><span data-stu-id="95ab6-139">Provide data migration if the FastTrack Center data migration service is used and if you meet eligibility.</span></span>
+- <span data-ttu-id="c5d7a-113">進行成功計劃會議，提供指引以利您成功地達成使用者採用。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-113">Hold a success planning call to provide guidance with you for successful user adoption.</span></span>  
+- <span data-ttu-id="c5d7a-114">提供管理概觀。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-114">Provide an administrative overview.</span></span>  
+- <span data-ttu-id="c5d7a-115">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="c5d7a-115">Provide guidance about:</span></span> 
+  - <span data-ttu-id="c5d7a-116">網域名稱系統 (DNS)、網路和基礎結構需求。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-116">Domain Name System (DNS), network, and infrastructure needs.</span></span>  
+  - <span data-ttu-id="c5d7a-117">用戶端需求 (網際網路瀏覽器、用戶端作業系統、行動裝置和服務的需求)。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-117">Client needs (internet browser, client operating system, mobile device, and services' needs).</span></span>
+  - <span data-ttu-id="c5d7a-118">使用者身分識別與佈建。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-118">User identity and provisioning.</span></span> 
+  - <span data-ttu-id="c5d7a-119">啟用所購買且定義為上架一部分的合格服務。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-119">Enabling eligible services that are purchased and defined as a part of onboarding.</span></span>
+  - <span data-ttu-id="c5d7a-120">驅動成功服務採用和價值。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-120">Driving successful service adoption and value.</span></span>   
+- <span data-ttu-id="c5d7a-121">建立修復服務活動的時間表。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-121">Establish the timeline for remediation activities.</span></span>
+- <span data-ttu-id="c5d7a-122">提供修復檢查清單。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-122">Provide a remediation checklist.</span></span>   
+- <span data-ttu-id="c5d7a-123">評定現有的 SharePoint Server 2013 或 SharePoint Server 2016 基礎結構，包括：</span><span class="sxs-lookup"><span data-stu-id="c5d7a-123">Assess the existing SharePoint Server 2013 or SharePoint Server 2016 infrastructure including:</span></span>  
+  - <span data-ttu-id="c5d7a-124">SharePoint Online 混合式的必要條件。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-124">Prerequisites for SharePoint Online hybrid.</span></span>  
+  - <span data-ttu-id="c5d7a-125">SharePoint Online 混合式功能的內部部署基礎結構整備狀態。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-125">On-premises infrastructure readiness for SharePoint Online hybrid features.</span></span>  
+  - <span data-ttu-id="c5d7a-126">存取所需的 SharePoint Online 端點。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-126">Access to required SharePoint Online endpoints.</span></span> 
+  - <span data-ttu-id="c5d7a-127">商務用 OneDrive 混合式的適用對象。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-127">Audiences for OneDrive for Business hybrid.</span></span>    
+- <span data-ttu-id="c5d7a-128">評定現有的 Lync 或 商務用 Skype Online 基礎結構，包括：</span><span class="sxs-lookup"><span data-stu-id="c5d7a-128">Assess the existing Lync or Skype for Business Online infrastructure including:</span></span>  
+  - <span data-ttu-id="c5d7a-129">支援的 商務用 Skype 用戶端部署策略。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-129">Supported Skype for Business client deployment strategy.</span></span>  
+  - <span data-ttu-id="c5d7a-130">存取端點。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-130">Access to endpoints.</span></span>  
+  - <span data-ttu-id="c5d7a-131">連線品質。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-131">Connection quality.</span></span>  
+  - <span data-ttu-id="c5d7a-132">頻寬估計。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-132">Bandwidth estimates.</span></span>  
+  - <span data-ttu-id="c5d7a-133">支援分割網域伺服器組態的先決條件。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-133">Prerequisites to support split domain server configuration.</span></span>  
+  - <span data-ttu-id="c5d7a-134">讓已識別的使用者準備移至 商務用 Skype Online。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-134">Readiness of identified users to move onto Skype for Business Online.</span></span>  
+- <span data-ttu-id="c5d7a-135">評估訊息基礎結構，包括：</span><span class="sxs-lookup"><span data-stu-id="c5d7a-135">Assess the messaging infrastructure, including:</span></span>   
+  - <span data-ttu-id="c5d7a-136">整體郵件流程和路由準則。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-136">Overall mail flow and routing principles.</span></span>  
+  - <span data-ttu-id="c5d7a-137">用戶端存取 (包括現有已發佈的用戶端存取端點)。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-137">Client access (including existing published client-access endpoints).</span></span>  
+  - <span data-ttu-id="c5d7a-138">整合所需的來源訊息環境。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-138">Source messaging environment for integration needs.</span></span> 
+- <span data-ttu-id="c5d7a-139">若使用 FastTrack Center 資料移轉服務且您符合資格，就會提供資料移轉。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-139">Provide data migration if the FastTrack Center data migration service is used and if you meet eligibility.</span></span>
     
-## <a name="remediate-phase"></a><span data-ttu-id="95ab6-140">修復階段</span><span class="sxs-lookup"><span data-stu-id="95ab6-140">Remediate phase</span></span>
+## <a name="remediate-phase"></a><span data-ttu-id="c5d7a-140">修復階段</span><span class="sxs-lookup"><span data-stu-id="c5d7a-140">Remediate phase</span></span>
 
-- <span data-ttu-id="95ab6-141">就約定的排程與您進行電話會議，以審視修復活動及成功規劃的進度。</span><span class="sxs-lookup"><span data-stu-id="95ab6-141">Hold conference calls with you according to the agreed schedule to review the progress of the remediation activities and success planning.</span></span>   
-- <span data-ttu-id="95ab6-142">逐步引導您執行評估工具以識別並修正問題，並解譯結果。</span><span class="sxs-lookup"><span data-stu-id="95ab6-142">Guide you through running assessment tools to identify and remediate issues and interpret the results.</span></span>
+- <span data-ttu-id="c5d7a-141">就約定的排程與您進行電話會議，以審視修復活動及成功規劃的進度。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-141">Hold conference calls with you according to the agreed schedule to review the progress of the remediation activities and success planning.</span></span>   
+- <span data-ttu-id="c5d7a-142">逐步引導您執行評估工具以識別並修正問題，並解譯結果。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-142">Guide you through running assessment tools to identify and remediate issues and interpret the results.</span></span>
     
-## <a name="enable-phase"></a><span data-ttu-id="95ab6-143">啟用階段</span><span class="sxs-lookup"><span data-stu-id="95ab6-143">Enable phase</span></span>
+## <a name="enable-phase"></a><span data-ttu-id="c5d7a-143">啟用階段</span><span class="sxs-lookup"><span data-stu-id="c5d7a-143">Enable phase</span></span>
 
-<span data-ttu-id="95ab6-144">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="95ab6-144">Provide guidance about:</span></span> 
-- <span data-ttu-id="95ab6-145">在成功計畫中評估進度並判斷您需要怎樣的進一步協助。</span><span class="sxs-lookup"><span data-stu-id="95ab6-145">Evaluating progress on success planning and determining what further assistance you need.</span></span>    
-- <span data-ttu-id="95ab6-146">啟動您的 Office 365 租用戶。</span><span class="sxs-lookup"><span data-stu-id="95ab6-146">Activating your Office 365 tenant.</span></span>
-- <span data-ttu-id="95ab6-147">設定 TCP/IP 通訊協定和防火牆連接埠。</span><span class="sxs-lookup"><span data-stu-id="95ab6-147">Configuring TCP/IP protocols and firewall ports.</span></span>   
-- <span data-ttu-id="95ab6-148">設定合格服務 DNS。</span><span class="sxs-lookup"><span data-stu-id="95ab6-148">Configuring DNS for eligible services.</span></span>   
-- <span data-ttu-id="95ab6-149">驗證對 Office 365 的連線。</span><span class="sxs-lookup"><span data-stu-id="95ab6-149">Validating connectivity to Office 365.</span></span>   
-- <span data-ttu-id="95ab6-150">使用 Azure Active Directory 連接您的內部部署 Active Directory：</span><span class="sxs-lookup"><span data-stu-id="95ab6-150">Connecting your on-premises Active Directory with Azure Active Directory:</span></span>   
-  - <span data-ttu-id="95ab6-151">在您的 Active Directory 網域服務 (AD DS) 和 Office 365 之間安裝目錄同步作業伺服器 (如有必要)。</span><span class="sxs-lookup"><span data-stu-id="95ab6-151">Installing a directory synchronization server between your Active Directory Domain Services (AD DS) and Office 365, if required.</span></span>   
-  - <span data-ttu-id="95ab6-152">使用 Azure Active Directory Connect 工具設定密碼同步處理 (密碼雜湊) 至 Office 365 (Azure Active Directory) (如有需要)。</span><span class="sxs-lookup"><span data-stu-id="95ab6-152">Configuring password synchronization (password hash) to Office 365 (Azure Active Directory) with the Azure Active Directory Connect tool, if required.</span></span>  
-  - <span data-ttu-id="95ab6-153">單一與多重樹系環境：</span><span class="sxs-lookup"><span data-stu-id="95ab6-153">For single- and multiple-forest environments:</span></span>
-      - <span data-ttu-id="95ab6-154">如果設定 Azure Active Directory 通過驗證，需要 （不適用於 GCC 高或 DoD 計劃）。</span><span class="sxs-lookup"><span data-stu-id="95ab6-154">Configuring Azure Active Directory Pass-through Authentication, if required (not available in GCC High or DoD plans).</span></span>
-      - <span data-ttu-id="95ab6-155">如果設定 Azure Active Directory 順暢單一登入 (SSO)、 需要 （不適用於 GCC 高或 DoD 計劃）。</span><span class="sxs-lookup"><span data-stu-id="95ab6-155">Configuring Azure Active Directory Seamless Single Sign-On (SSO), if required (not available in GCC High or DoD plans).</span></span>
+<span data-ttu-id="c5d7a-144">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="c5d7a-144">Provide guidance about:</span></span> 
+- <span data-ttu-id="c5d7a-145">在成功計畫中評估進度並判斷您需要怎樣的進一步協助。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-145">Evaluating progress on success planning and determining what further assistance you need.</span></span>    
+- <span data-ttu-id="c5d7a-146">啟動您的 Office 365 租用戶。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-146">Activating your Office 365 tenant.</span></span>
+- <span data-ttu-id="c5d7a-147">設定 TCP/IP 通訊協定和防火牆連接埠。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-147">Configuring TCP/IP protocols and firewall ports.</span></span>   
+- <span data-ttu-id="c5d7a-148">設定合格服務 DNS。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-148">Configuring DNS for eligible services.</span></span>   
+- <span data-ttu-id="c5d7a-149">驗證對 Office 365 的連線。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-149">Validating connectivity to Office 365.</span></span>   
+- <span data-ttu-id="c5d7a-150">使用 Azure Active Directory 連接您的內部部署 Active Directory：</span><span class="sxs-lookup"><span data-stu-id="c5d7a-150">Connecting your on-premises Active Directory with Azure Active Directory:</span></span>   
+  - <span data-ttu-id="c5d7a-151">在您的 Active Directory 網域服務 (AD DS) 和 Office 365 之間安裝目錄同步作業伺服器 (如有必要)。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-151">Installing a directory synchronization server between your Active Directory Domain Services (AD DS) and Office 365, if required.</span></span>   
+  - <span data-ttu-id="c5d7a-152">使用 Azure Active Directory Connect 工具設定密碼同步處理 (密碼雜湊) 至 Office 365 (Azure Active Directory) (如有需要)。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-152">Configuring password synchronization (password hash) to Office 365 (Azure Active Directory) with the Azure Active Directory Connect tool, if required.</span></span>  
+  - <span data-ttu-id="c5d7a-153">單一與多重樹系環境：</span><span class="sxs-lookup"><span data-stu-id="c5d7a-153">For single- and multiple-forest environments:</span></span>
+      - <span data-ttu-id="c5d7a-154">如果設定 Azure Active Directory 通過驗證，需要 （不適用於 GCC High 或 DoD 計劃）。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-154">Configuring Azure Active Directory Pass-through Authentication, if required (not available in GCC High or DoD plans).</span></span>
+      - <span data-ttu-id="c5d7a-155">設定 Azure Active Directory 無縫單一登入 (SSO)，如果需要 （不適用於 GCC High 或 DoD 計劃）。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-155">Configuring Azure Active Directory Seamless Single Sign-On (SSO), if required (not available in GCC High or DoD plans).</span></span>
     > [!NOTE]
-    > <span data-ttu-id="95ab6-p101">如果在您的 Active Directory 之間有樹系信任且正確配置了名稱尾碼路由，則會支援多重樹系環境的Azure Active Directory 通過驗證。其他代理程式可安裝在多個內部部署伺服器，以提供高可用性的登入要求。如需詳細資訊，請參閱 [：快速入門](https://go.microsoft.com/fwlink/?linkid=860094)與 [Azure Active Directory 無縫單一登入：快速入門](https://go.microsoft.com/fwlink/?linkid=860095)。</span><span class="sxs-lookup"><span data-stu-id="95ab6-p101">Azure Active Directory Pass-through Authentication for multiple-forest environments is supported if there are forest trusts between your Active Directory forests and if name suffix routing is correctly configured. Additional agents can be installed on multiple on-premises servers to provide high availability for sign-in requests. For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://go.microsoft.com/fwlink/?linkid=860094) and [Azure Active Directory Seamless Single Sign-On: Quick start](https://go.microsoft.com/fwlink/?linkid=860095). </span></span>[!NOTE]
-    > <span data-ttu-id="95ab6-p102">如需通過驗證的詳細資訊，請參閱＜[Azure Active Directory 傳遞驗證：目前的限制](https://go.microsoft.com/fwlink/?linkid=860356)＞。</span><span class="sxs-lookup"><span data-stu-id="95ab6-p102">For more information about pass-through authentication limits, see [Azure Active Directory Pass-through Authentication: Current limitations](https://go.microsoft.com/fwlink/?linkid=860356). </span></span>[!NOTE]
-    > <span data-ttu-id="95ab6-160">如需無縫 SSO 問題的詳細資訊，請參閱 [Azure Active Directory 無縫單一登入疑難排解](https://go.microsoft.com/fwlink/?linkid=841926)。</span><span class="sxs-lookup"><span data-stu-id="95ab6-160">For more information about Seamless SSO issues, see [Troubleshoot Azure Active Directory Seamless Single Sign-On](https://go.microsoft.com/fwlink/?linkid=841926).</span></span> 
-- <span data-ttu-id="95ab6-161">對於當同盟身分識別為目標時的單一樹系：</span><span class="sxs-lookup"><span data-stu-id="95ab6-161">For a single forest when federated identities is the target:</span></span> 
-  - <span data-ttu-id="95ab6-162">若需要，在單一站台、容錯組態中，針對向 Office 365 的本機網域驗證安裝和設定 AD FS。</span><span class="sxs-lookup"><span data-stu-id="95ab6-162">Installing and configuring AD FS for local domain authentication with Office 365 in a single-site, fault-tolerant configuration, if required.</span></span>  
-  - <span data-ttu-id="95ab6-163">安裝和設定 WAP 以在必要時將您的 AD FS 基礎結構發佈至網路中。</span><span class="sxs-lookup"><span data-stu-id="95ab6-163">Installing and configuring WAP for publishing your AD FS infrastructure to the internet, when necessary.</span></span> 
+    > <span data-ttu-id="c5d7a-p101">如果在您的 Active Directory 之間有樹系信任且正確配置了名稱尾碼路由，則會支援多重樹系環境的Azure Active Directory 通過驗證。其他代理程式可安裝在多個內部部署伺服器，以提供高可用性的登入要求。如需詳細資訊，請參閱 [：快速入門](https://go.microsoft.com/fwlink/?linkid=860094)與 [Azure Active Directory 無縫單一登入：快速入門](https://go.microsoft.com/fwlink/?linkid=860095)。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-p101">Azure Active Directory Pass-through Authentication for multiple-forest environments is supported if there are forest trusts between your Active Directory forests and if name suffix routing is correctly configured. Additional agents can be installed on multiple on-premises servers to provide high availability for sign-in requests. For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://go.microsoft.com/fwlink/?linkid=860094) and [Azure Active Directory Seamless Single Sign-On: Quick start](https://go.microsoft.com/fwlink/?linkid=860095). </span></span>[!NOTE]
+    > <span data-ttu-id="c5d7a-p102">如需通過驗證的詳細資訊，請參閱 [。目前限制](https://go.microsoft.com/fwlink/?linkid=860356)。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-p102">For more information about pass-through authentication limits, see [Azure Active Directory Pass-through Authentication: Current limitations](https://go.microsoft.com/fwlink/?linkid=860356). </span></span>[!NOTE]
+    > <span data-ttu-id="c5d7a-160">如需無縫 SSO 問題的詳細資訊，請參閱 [Azure Active Directory 無縫單一登入疑難排解](https://go.microsoft.com/fwlink/?linkid=841926)。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-160">For more information about Seamless SSO issues, see [Troubleshoot Azure Active Directory Seamless Single Sign-On](https://go.microsoft.com/fwlink/?linkid=841926).</span></span> 
+- <span data-ttu-id="c5d7a-161">對於當同盟身分識別為目標時的單一樹系：</span><span class="sxs-lookup"><span data-stu-id="c5d7a-161">For a single forest when federated identities is the target:</span></span> 
+  - <span data-ttu-id="c5d7a-162">若需要，在單一站台、容錯組態中，針對向 Office 365 的本機網域驗證安裝和設定 AD FS。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-162">Installing and configuring AD FS for local domain authentication with Office 365 in a single-site, fault-tolerant configuration, if required.</span></span>  
+  - <span data-ttu-id="c5d7a-163">安裝和設定 WAP 以在必要時將您的 AD FS 基礎結構發佈至網路中。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-163">Installing and configuring WAP for publishing your AD FS infrastructure to the internet, when necessary.</span></span> 
     > [!NOTE]
-    > <span data-ttu-id="95ab6-164">對於所有多重樹系組態，AD FS 部署是在範圍外。</span><span class="sxs-lookup"><span data-stu-id="95ab6-164">For all multiple forests configurations, AD FS deployments are out-of-scope.</span></span> 
-- <span data-ttu-id="95ab6-165">測試 SSO 功能 (若已部署)。</span><span class="sxs-lookup"><span data-stu-id="95ab6-165">Testing SSO functionality if deployed.</span></span>   
-- <span data-ttu-id="95ab6-166">驅動成功服務採用和價值。</span><span class="sxs-lookup"><span data-stu-id="95ab6-166">Driving successful service adoption and value.</span></span>
+    > <span data-ttu-id="c5d7a-164">對於所有多重樹系組態，AD FS 部署是在範圍外。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-164">For all multiple forests configurations, AD FS deployments are out-of-scope.</span></span> 
+- <span data-ttu-id="c5d7a-165">測試 SSO 功能 (若已部署)。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-165">Testing SSO functionality if deployed.</span></span>   
+- <span data-ttu-id="c5d7a-166">驅動成功服務採用和價值。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-166">Driving successful service adoption and value.</span></span>
     
-## <a name="exchange-online"></a><span data-ttu-id="95ab6-167">Exchange Online</span><span class="sxs-lookup"><span data-stu-id="95ab6-167">Exchange Online</span></span>
+## <a name="exchange-online"></a><span data-ttu-id="c5d7a-167">Exchange Online</span><span class="sxs-lookup"><span data-stu-id="c5d7a-167">Exchange Online</span></span>
 
-<span data-ttu-id="95ab6-168">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="95ab6-168">Provide guidance about:</span></span> 
-- <span data-ttu-id="95ab6-169">建立或更新 DNS 記錄。</span><span class="sxs-lookup"><span data-stu-id="95ab6-169">Creating or updating DNS records.</span></span>    
-- <span data-ttu-id="95ab6-170">啟用來源訊息系統與 Office 365 環境間的電子郵件路由。</span><span class="sxs-lookup"><span data-stu-id="95ab6-170">Enabling email routing between the source messaging system and Office 365 environments.</span></span>    
-- <span data-ttu-id="95ab6-171">設定 Exchange Online Protection 功能 (包括 Exchange Online 進階威脅防護 功能，如果在您的訂閱中可用)，並確認您的 MX 記錄針對所有已驗證已啟用郵件的網域指向 Office 365。</span><span class="sxs-lookup"><span data-stu-id="95ab6-171">Configuring Exchange Online Protection features (including Exchange Online Advanced Threat Protection features if available in your subscription) and verifying your MX records point to Office 365 for all validated mail-enabled domains.</span></span>   
-- <span data-ttu-id="95ab6-172">在單一內部部署 Exchange 組織與 Office 365 之間，「或者」\*\* 在多重內部部署 Exchange 組織與 Office 365 之間進行混合設定。</span><span class="sxs-lookup"><span data-stu-id="95ab6-172">Configuring hybrid setup either between a single on-premises Exchange organization and Office 365  *or*  between multiple on-premises Exchange organizations and Office 365.</span></span> 
-- <span data-ttu-id="95ab6-173">設定設定整合通訊 (UM) 與 Exchange Online （UM 不 GCC DoD 計劃中提供）。</span><span class="sxs-lookup"><span data-stu-id="95ab6-173">Setting up Unified Messaging (UM) with Exchange Online (UM is not available in GCC DoD plans).</span></span> 
+<span data-ttu-id="c5d7a-168">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="c5d7a-168">Provide guidance about:</span></span> 
+- <span data-ttu-id="c5d7a-169">建立或更新 DNS 記錄。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-169">Creating or updating DNS records.</span></span>    
+- <span data-ttu-id="c5d7a-170">啟用來源訊息系統與 Office 365 環境間的電子郵件路由。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-170">Enabling email routing between the source messaging system and Office 365 environments.</span></span>    
+- <span data-ttu-id="c5d7a-171">設定 Exchange Online Protection 功能 (包括 Exchange Online 進階威脅防護 功能，如果在您的訂閱中可用)，並確認您的 MX 記錄針對所有已驗證已啟用郵件的網域指向 Office 365。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-171">Configuring Exchange Online Protection features (including Exchange Online Advanced Threat Protection features if available in your subscription) and verifying your MX records point to Office 365 for all validated mail-enabled domains.</span></span>   
+- <span data-ttu-id="c5d7a-172">在單一內部部署 Exchange 組織與 Office 365 之間，「或者」\*\* 在多重內部部署 Exchange 組織與 Office 365 之間進行混合設定。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-172">Configuring hybrid setup either between a single on-premises Exchange organization and Office 365  *or*  between multiple on-premises Exchange organizations and Office 365.</span></span> 
+- <span data-ttu-id="c5d7a-173">設定整合通訊 (UM) 與 Exchange Online （UM 不 GCC DoD 計劃中提供）。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-173">Setting up Unified Messaging (UM) with Exchange Online (UM is not available in GCC DoD plans).</span></span> 
     
-<span data-ttu-id="95ab6-174">如需資料移轉責任的詳細資訊，請參閱[資料移轉](O365-data-migration.md)。</span><span class="sxs-lookup"><span data-stu-id="95ab6-174">For more information about data migration responsibilities, see [Data Migration](O365-data-migration.md).</span></span>
+<span data-ttu-id="c5d7a-174">如需資料移轉責任的詳細資訊，請參閱[資料移轉](O365-data-migration.md)。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-174">For more information about data migration responsibilities, see [Data Migration](O365-data-migration.md).</span></span>
   
-## <a name="sharepoint-online"></a><span data-ttu-id="95ab6-175">SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="95ab6-175">SharePoint Online</span></span>
+## <a name="sharepoint-online"></a><span data-ttu-id="c5d7a-175">SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="c5d7a-175">SharePoint Online</span></span>
 
-<span data-ttu-id="95ab6-176">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="95ab6-176">Provide guidance about:</span></span>
-- <span data-ttu-id="95ab6-177">設定包括授權在內的使用者佈建。</span><span class="sxs-lookup"><span data-stu-id="95ab6-177">Setting up user provisioning including licensing.</span></span>   
-- <span data-ttu-id="95ab6-178">啟用 SharePoint Online 管理員的網站架設。</span><span class="sxs-lookup"><span data-stu-id="95ab6-178">Enabling site creation for your SharePoint Online admin.</span></span>   
-- <span data-ttu-id="95ab6-179">規劃網站集合。</span><span class="sxs-lookup"><span data-stu-id="95ab6-179">Planning site collections.</span></span>   
-- <span data-ttu-id="95ab6-180">保護內容與管理權限。</span><span class="sxs-lookup"><span data-stu-id="95ab6-180">Securing content and managing permissions.</span></span>   
-- <span data-ttu-id="95ab6-181">啟用個人網站和社交功能。</span><span class="sxs-lookup"><span data-stu-id="95ab6-181">Enabling personal sites and social features.</span></span>   
-- <span data-ttu-id="95ab6-182">設定 SharePoint Online 功能。</span><span class="sxs-lookup"><span data-stu-id="95ab6-182">Configuring SharePoint Online features.</span></span>    
-- <span data-ttu-id="95ab6-183">若使用 FastTrack Center 資料移轉服務且您符合資格，就會提供資料移轉。</span><span class="sxs-lookup"><span data-stu-id="95ab6-183">Providing data migration if the FastTrack Center data migration service is used and if you meet eligibility.</span></span>  
-- <span data-ttu-id="95ab6-184">評估 SharePoint Online 混合式所需的內部部署 SharePoint 伺服器陣列基礎結構組態。</span><span class="sxs-lookup"><span data-stu-id="95ab6-184">Evaluating the on-premises SharePoint farm infrastructure configuration needed for SharePoint Online hybrid.</span></span>    
-- <span data-ttu-id="95ab6-185">使用工具及自動化以︰</span><span class="sxs-lookup"><span data-stu-id="95ab6-185">Using tools and automation to:</span></span> 
-  - <span data-ttu-id="95ab6-186">設定內部部署雲端 Search Service 應用程式。</span><span class="sxs-lookup"><span data-stu-id="95ab6-186">Configure on-premises cloud search service applications.</span></span>    
-  - <span data-ttu-id="95ab6-187">設定 SharePoint 內部部署與雲端環境之間的信任。</span><span class="sxs-lookup"><span data-stu-id="95ab6-187">Configure trust between SharePoint on-premises and cloud environments.</span></span>   
-- <span data-ttu-id="95ab6-188">設定內部部署 SharePoint 網站以使用 SharePoint Online 混合式功能。</span><span class="sxs-lookup"><span data-stu-id="95ab6-188">Configuring on-premises SharePoint sites to use SharePoint Online hybrid features.</span></span>
+<span data-ttu-id="c5d7a-176">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="c5d7a-176">Provide guidance about:</span></span>
+- <span data-ttu-id="c5d7a-177">設定包括授權在內的使用者佈建。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-177">Setting up user provisioning including licensing.</span></span>   
+- <span data-ttu-id="c5d7a-178">啟用 SharePoint Online 管理員的網站架設。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-178">Enabling site creation for your SharePoint Online admin.</span></span>   
+- <span data-ttu-id="c5d7a-179">規劃網站集合。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-179">Planning site collections.</span></span>   
+- <span data-ttu-id="c5d7a-180">保護內容與管理權限。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-180">Securing content and managing permissions.</span></span>   
+- <span data-ttu-id="c5d7a-181">啟用個人網站和社交功能。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-181">Enabling personal sites and social features.</span></span>   
+- <span data-ttu-id="c5d7a-182">設定 SharePoint Online 功能。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-182">Configuring SharePoint Online features.</span></span>    
+- <span data-ttu-id="c5d7a-183">若使用 FastTrack Center 資料移轉服務且您符合資格，就會提供資料移轉。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-183">Providing data migration if the FastTrack Center data migration service is used and if you meet eligibility.</span></span>  
+- <span data-ttu-id="c5d7a-184">評估 SharePoint Online 混合式所需的內部部署 SharePoint 伺服器陣列基礎結構組態。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-184">Evaluating the on-premises SharePoint farm infrastructure configuration needed for SharePoint Online hybrid.</span></span>    
+- <span data-ttu-id="c5d7a-185">使用工具及自動化以︰</span><span class="sxs-lookup"><span data-stu-id="c5d7a-185">Using tools and automation to:</span></span> 
+  - <span data-ttu-id="c5d7a-186">設定內部部署雲端 Search Service 應用程式。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-186">Configure on-premises cloud search service applications.</span></span>    
+  - <span data-ttu-id="c5d7a-187">設定 SharePoint 內部部署與雲端環境之間的信任。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-187">Configure trust between SharePoint on-premises and cloud environments.</span></span>   
+- <span data-ttu-id="c5d7a-188">設定內部部署 SharePoint 網站以使用 SharePoint Online 混合式功能。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-188">Configuring on-premises SharePoint sites to use SharePoint Online hybrid features.</span></span>
     
-## <a name="onedrive-for-business"></a><span data-ttu-id="95ab6-189">商務用 OneDrive</span><span class="sxs-lookup"><span data-stu-id="95ab6-189">OneDrive for Business</span></span>
+## <a name="onedrive-for-business"></a><span data-ttu-id="c5d7a-189">商務用 OneDrive</span><span class="sxs-lookup"><span data-stu-id="c5d7a-189">OneDrive for Business</span></span>
 
-<span data-ttu-id="95ab6-190">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="95ab6-190">Provide guidance about:</span></span> 
-- <span data-ttu-id="95ab6-191">識別內部部署 SharePoint 版本和整合選項。</span><span class="sxs-lookup"><span data-stu-id="95ab6-191">Identifying the on-premises SharePoint version and integration options.</span></span>    
-- <span data-ttu-id="95ab6-192">識別同步處理和身分識別選項。</span><span class="sxs-lookup"><span data-stu-id="95ab6-192">Identifying synchronization and identity options.</span></span>   
-- <span data-ttu-id="95ab6-193">選取首度發行選項：</span><span class="sxs-lookup"><span data-stu-id="95ab6-193">Selecting a rollout option:</span></span>   
-  - <span data-ttu-id="95ab6-194">Just-In-Time 首度發行。</span><span class="sxs-lookup"><span data-stu-id="95ab6-194">Just-in-time rollout.</span></span>  
-  - <span data-ttu-id="95ab6-195">階段式首度發行 (循序與分階段)。</span><span class="sxs-lookup"><span data-stu-id="95ab6-195">Staged rollout (sequenced and phased).</span></span>   
-- <span data-ttu-id="95ab6-196">準備用於 商務用 OneDrive 部署的內部部署環境：</span><span class="sxs-lookup"><span data-stu-id="95ab6-196">Preparing the on-premises environment for OneDrive for Business deployment:</span></span>  
-  - <span data-ttu-id="95ab6-197">識別正確的 商務用 OneDrive 同步用戶端。</span><span class="sxs-lookup"><span data-stu-id="95ab6-197">Identifying the correct OneDrive for Business sync client.</span></span> 
-  - <span data-ttu-id="95ab6-198">設定 DNS、網路連接埠和防火牆。</span><span class="sxs-lookup"><span data-stu-id="95ab6-198">Configuration of DNS, network ports, and firewall.</span></span>   
-- <span data-ttu-id="95ab6-199">指派使用者授權。</span><span class="sxs-lookup"><span data-stu-id="95ab6-199">Assigning end-user licenses.</span></span>   
-- <span data-ttu-id="95ab6-200">設定 SharePoint Online 對象，以控制和控制取得 商務用 OneDrive 的對象。</span><span class="sxs-lookup"><span data-stu-id="95ab6-200">Setting up SharePoint Online audiences to control and govern who gets OneDrive for Business.</span></span>    
-- <span data-ttu-id="95ab6-201">將商務用 OneDrive 同步處理用戶端部署至桌上型電腦。</span><span class="sxs-lookup"><span data-stu-id="95ab6-201">Deploying the OneDrive for Business sync client to desktops.</span></span>   
-- <span data-ttu-id="95ab6-202">如何設定 SharePoint Online 混合式商務用 OneDrive 重新導向 (僅限 SharePoint 2013 和 SharePoint 2016)。</span><span class="sxs-lookup"><span data-stu-id="95ab6-202">How to configure SharePoint Online hybrid OneDrive for Business redirection (SharePoint 2013 and SharePoint 2016 only).</span></span>  
-- <span data-ttu-id="95ab6-203">若使用 FastTrack Center 資料移轉服務且您符合資格，就會進行資料移轉。</span><span class="sxs-lookup"><span data-stu-id="95ab6-203">Data migration if the FastTrack Center data migration service is used and if you meet eligibility.</span></span>
+<span data-ttu-id="c5d7a-190">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="c5d7a-190">Provide guidance about:</span></span> 
+- <span data-ttu-id="c5d7a-191">識別內部部署 SharePoint 版本和整合選項。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-191">Identifying the on-premises SharePoint version and integration options.</span></span>    
+- <span data-ttu-id="c5d7a-192">識別同步處理和身分識別選項。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-192">Identifying synchronization and identity options.</span></span>   
+- <span data-ttu-id="c5d7a-193">選取首度發行選項：</span><span class="sxs-lookup"><span data-stu-id="c5d7a-193">Selecting a rollout option:</span></span>   
+  - <span data-ttu-id="c5d7a-194">Just-In-Time 首度發行。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-194">Just-in-time rollout.</span></span>  
+  - <span data-ttu-id="c5d7a-195">階段式首度發行 (循序與分階段)。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-195">Staged rollout (sequenced and phased).</span></span>   
+- <span data-ttu-id="c5d7a-196">準備用於 商務用 OneDrive 部署的內部部署環境：</span><span class="sxs-lookup"><span data-stu-id="c5d7a-196">Preparing the on-premises environment for OneDrive for Business deployment:</span></span>  
+  - <span data-ttu-id="c5d7a-197">識別正確的 商務用 OneDrive 同步用戶端。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-197">Identifying the correct OneDrive for Business sync client.</span></span> 
+  - <span data-ttu-id="c5d7a-198">設定 DNS、網路連接埠和防火牆。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-198">Configuration of DNS, network ports, and firewall.</span></span>   
+- <span data-ttu-id="c5d7a-199">指派使用者授權。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-199">Assigning end-user licenses.</span></span>   
+- <span data-ttu-id="c5d7a-200">設定 SharePoint Online 對象，以控制和控制取得 商務用 OneDrive 的對象。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-200">Setting up SharePoint Online audiences to control and govern who gets OneDrive for Business.</span></span>    
+- <span data-ttu-id="c5d7a-201">將商務用 OneDrive 同步處理用戶端部署至桌上型電腦。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-201">Deploying the OneDrive for Business sync client to desktops.</span></span>   
+- <span data-ttu-id="c5d7a-202">如何設定 SharePoint Online 混合式商務用 OneDrive 重新導向 (僅限 SharePoint 2013 和 SharePoint 2016)。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-202">How to configure SharePoint Online hybrid OneDrive for Business redirection (SharePoint 2013 and SharePoint 2016 only).</span></span>  
+- <span data-ttu-id="c5d7a-203">若使用 FastTrack Center 資料移轉服務且您符合資格，就會進行資料移轉。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-203">Data migration if the FastTrack Center data migration service is used and if you meet eligibility.</span></span>
     
-## <a name="skype-for-business-online"></a><span data-ttu-id="95ab6-204">商務用 Skype Online</span><span class="sxs-lookup"><span data-stu-id="95ab6-204">Skype for Business Online</span></span>
+## <a name="skype-for-business-online"></a><span data-ttu-id="c5d7a-204">商務用 Skype Online</span><span class="sxs-lookup"><span data-stu-id="c5d7a-204">Skype for Business Online</span></span>
 
-<span data-ttu-id="95ab6-205">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="95ab6-205">Provide guidance about:</span></span>
-- <span data-ttu-id="95ab6-206">針對 Office 365 佈建商務用 Skype 身分識別。</span><span class="sxs-lookup"><span data-stu-id="95ab6-206">Provisioning Skype for Business identities for Office 365.</span></span>   
-- <span data-ttu-id="95ab6-207">啟用 Office 365 的線上會議、立即訊息 (IM) 及顯示狀態功能。</span><span class="sxs-lookup"><span data-stu-id="95ab6-207">Enabling online conferencing, instant messaging (IM), and presence features for Office 365.</span></span>  
-- <span data-ttu-id="95ab6-208">建立要與支援的會議室系統裝置產生關聯的帳戶 (最多 10 個帳戶)。</span><span class="sxs-lookup"><span data-stu-id="95ab6-208">Creating accounts to associate to supported room system devices (up to 10 accounts).</span></span>    
-- <span data-ttu-id="95ab6-209">設定分割網域伺服器環境以支援 Lync 混合式或 商務用 Skype Online 混合案例 (如果適用)。</span><span class="sxs-lookup"><span data-stu-id="95ab6-209">Configuring a split domain server environment to support Lync hybrid or Skype for Business Online hybrid scenarios (if applicable).</span></span>   
-- <span data-ttu-id="95ab6-210">啟用音訊會議：</span><span class="sxs-lookup"><span data-stu-id="95ab6-210">Enabling Audio Conferencing:</span></span>   
-  - <span data-ttu-id="95ab6-211">會議橋接預設設定的組織設定。</span><span class="sxs-lookup"><span data-stu-id="95ab6-211">Organization setup for conference bridge default settings.</span></span>   
-  - <span data-ttu-id="95ab6-212">對授權使用者會議橋接的指派。</span><span class="sxs-lookup"><span data-stu-id="95ab6-212">Assignment of a conference bridge to licensed users.</span></span> 
-- <span data-ttu-id="95ab6-213">啟用電話系統 （不適用於 GCC 高或 DoD 計劃）：</span><span class="sxs-lookup"><span data-stu-id="95ab6-213">Enabling Phone System (not available in GCC High or DoD plans):</span></span>  
-  - <span data-ttu-id="95ab6-214">啟用電話系統和通話方案上架 (在可用的市場)。</span><span class="sxs-lookup"><span data-stu-id="95ab6-214">Enabling Phone System and Calling Plans onboarding (in available markets).</span></span> 
-  - <span data-ttu-id="95ab6-215">授權使用者號碼的指派。</span><span class="sxs-lookup"><span data-stu-id="95ab6-215">Assignment of numbers to licensed users.</span></span>  
-  - <span data-ttu-id="95ab6-216">透過 UI 的本機號碼移轉指引最多至 999。</span><span class="sxs-lookup"><span data-stu-id="95ab6-216">Local number porting guidance through UI up to 999.</span></span>  
-  - <span data-ttu-id="95ab6-217">本機號碼移轉 SR 支援超過 999。</span><span class="sxs-lookup"><span data-stu-id="95ab6-217">Local number porting SR support over 999.</span></span>  
-- <span data-ttu-id="95ab6-218">啟用 Skype 商務會議廣播 （不適用於 GCC 高或 DoD 計劃）：</span><span class="sxs-lookup"><span data-stu-id="95ab6-218">Enabling Skype for Business Meeting Broadcast (not available in GCC High or DoD plans):</span></span>  
-  - <span data-ttu-id="95ab6-219">啟用商務用 Skype 會議廣播上架指引。</span><span class="sxs-lookup"><span data-stu-id="95ab6-219">Enabling Skype for Business Meeting Broadcast onboarding guidance.</span></span>  
-  - <span data-ttu-id="95ab6-220">針對會議廣播服務同盟的組織設定。</span><span class="sxs-lookup"><span data-stu-id="95ab6-220">Organization setup for federation with Meeting Broadcast service.</span></span>
+<span data-ttu-id="c5d7a-205">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="c5d7a-205">Provide guidance about:</span></span>
+- <span data-ttu-id="c5d7a-206">針對 Office 365 佈建商務用 Skype 身分識別。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-206">Provisioning Skype for Business identities for Office 365.</span></span>   
+- <span data-ttu-id="c5d7a-207">啟用 Office 365 的線上會議、立即訊息 (IM) 及顯示狀態功能。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-207">Enabling online conferencing, instant messaging (IM), and presence features for Office 365.</span></span>  
+- <span data-ttu-id="c5d7a-208">建立要與支援的會議室系統裝置產生關聯的帳戶 (最多 10 個帳戶)。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-208">Creating accounts to associate to supported room system devices (up to 10 accounts).</span></span>    
+- <span data-ttu-id="c5d7a-209">設定分割網域伺服器環境以支援 Lync 混合式或 商務用 Skype Online 混合案例 (如果適用)。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-209">Configuring a split domain server environment to support Lync hybrid or Skype for Business Online hybrid scenarios (if applicable).</span></span>   
+- <span data-ttu-id="c5d7a-210">啟用音訊會議：</span><span class="sxs-lookup"><span data-stu-id="c5d7a-210">Enabling Audio Conferencing:</span></span>   
+  - <span data-ttu-id="c5d7a-211">會議橋接預設設定的組織設定。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-211">Organization setup for conference bridge default settings.</span></span>   
+  - <span data-ttu-id="c5d7a-212">對授權使用者會議橋接的指派。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-212">Assignment of a conference bridge to licensed users.</span></span> 
+- <span data-ttu-id="c5d7a-213">啟用電話系統 （不適用於 GCC High 或 DoD 方案）：</span><span class="sxs-lookup"><span data-stu-id="c5d7a-213">Enabling Phone System (not available in GCC High or DoD plans):</span></span>  
+  - <span data-ttu-id="c5d7a-214">啟用電話系統和通話方案上架 (在可用的市場)。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-214">Enabling Phone System and Calling Plans onboarding (in available markets).</span></span> 
+  - <span data-ttu-id="c5d7a-215">授權使用者號碼的指派。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-215">Assignment of numbers to licensed users.</span></span>  
+  - <span data-ttu-id="c5d7a-216">透過 UI 的本機號碼移轉指引最多至 999。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-216">Local number porting guidance through UI up to 999.</span></span>  
+  - <span data-ttu-id="c5d7a-217">本機號碼移轉 SR 支援超過 999。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-217">Local number porting SR support over 999.</span></span>  
+- <span data-ttu-id="c5d7a-218">啟用 Skype 商務會議廣播 （不適用於 GCC High 或 DoD 方案）：</span><span class="sxs-lookup"><span data-stu-id="c5d7a-218">Enabling Skype for Business Meeting Broadcast (not available in GCC High or DoD plans):</span></span>  
+  - <span data-ttu-id="c5d7a-219">啟用商務用 Skype 會議廣播上架指引。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-219">Enabling Skype for Business Meeting Broadcast onboarding guidance.</span></span>  
+  - <span data-ttu-id="c5d7a-220">針對會議廣播服務同盟的組織設定。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-220">Organization setup for federation with Meeting Broadcast service.</span></span>
     
-## <a name="microsoft-teams"></a><span data-ttu-id="95ab6-221">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="95ab6-221">Microsoft Teams</span></span>
+## <a name="microsoft-teams"></a><span data-ttu-id="c5d7a-221">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="c5d7a-221">Microsoft Teams</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="95ab6-222">下列並未提供 GCC 高或 DoD 計劃。</span><span class="sxs-lookup"><span data-stu-id="95ab6-222">The following isn’t available in GCC High or DoD plans.</span></span>
+> <span data-ttu-id="c5d7a-222">下列不適用於 GCC High 或 DoD 計劃。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-222">The following isn’t available in GCC High or DoD plans.</span></span>
 
-<span data-ttu-id="95ab6-223">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="95ab6-223">Provide guidance about:</span></span>
-- <span data-ttu-id="95ab6-224">確認最低需求。</span><span class="sxs-lookup"><span data-stu-id="95ab6-224">Confirming minimum requirements.</span></span>   
-- <span data-ttu-id="95ab6-225">設定防火牆連接埠。</span><span class="sxs-lookup"><span data-stu-id="95ab6-225">Configuring firewall ports.</span></span>  
-- <span data-ttu-id="95ab6-226">設立 DNS。</span><span class="sxs-lookup"><span data-stu-id="95ab6-226">Setting up DNS.</span></span>  
-- <span data-ttu-id="95ab6-227">確認您的 Office 365 租用戶上已啟用 Microsoft Teams。</span><span class="sxs-lookup"><span data-stu-id="95ab6-227">Confirming Microsoft Teams is enabled on your Office 365 tenant.</span></span>   
-- <span data-ttu-id="95ab6-228">啟用或停用使用者授權。</span><span class="sxs-lookup"><span data-stu-id="95ab6-228">Enabling or disabling user licenses.</span></span>  
-- <span data-ttu-id="95ab6-229">Microsoft Teams 用戶端發佈。</span><span class="sxs-lookup"><span data-stu-id="95ab6-229">Microsoft Teams client distribution.</span></span>    
-- <span data-ttu-id="95ab6-230">IT 專業人員和系統管理功能。</span><span class="sxs-lookup"><span data-stu-id="95ab6-230">IT Pro and admin features.</span></span> 
-- <span data-ttu-id="95ab6-231">核心產品功能。</span><span class="sxs-lookup"><span data-stu-id="95ab6-231">Core product features.</span></span>  
-- <span data-ttu-id="95ab6-232">客戶成功的範本。</span><span class="sxs-lookup"><span data-stu-id="95ab6-232">Customer success templates.</span></span>
+<span data-ttu-id="c5d7a-223">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="c5d7a-223">Provide guidance about:</span></span>
+- <span data-ttu-id="c5d7a-224">確認最低需求。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-224">Confirming minimum requirements.</span></span>   
+- <span data-ttu-id="c5d7a-225">設定防火牆連接埠。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-225">Configuring firewall ports.</span></span>  
+- <span data-ttu-id="c5d7a-226">設立 DNS。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-226">Setting up DNS.</span></span>  
+- <span data-ttu-id="c5d7a-227">確認您的 Office 365 租用戶上已啟用 Microsoft Teams。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-227">Confirming Microsoft Teams is enabled on your Office 365 tenant.</span></span>   
+- <span data-ttu-id="c5d7a-228">啟用或停用使用者授權。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-228">Enabling or disabling user licenses.</span></span>  
+- <span data-ttu-id="c5d7a-229">Microsoft Teams 用戶端發佈。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-229">Microsoft Teams client distribution.</span></span>    
+- <span data-ttu-id="c5d7a-230">IT 專業人員和系統管理功能。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-230">IT Pro and admin features.</span></span> 
+- <span data-ttu-id="c5d7a-231">核心產品功能。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-231">Core product features.</span></span>  
+- <span data-ttu-id="c5d7a-232">客戶成功的範本。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-232">Customer success templates.</span></span>
     
-## <a name="power-bi"></a><span data-ttu-id="95ab6-233">Power BI</span><span class="sxs-lookup"><span data-stu-id="95ab6-233">Power BI</span></span>
+## <a name="power-bi"></a><span data-ttu-id="c5d7a-233">Power BI</span><span class="sxs-lookup"><span data-stu-id="c5d7a-233">Power BI</span></span>
 
-<span data-ttu-id="95ab6-234">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="95ab6-234">Provide guidance about:</span></span>
-- <span data-ttu-id="95ab6-235">檢閱 Power BI 訂閱計劃。</span><span class="sxs-lookup"><span data-stu-id="95ab6-235">Reviewing the Power BI subscription plans.</span></span>    
-- <span data-ttu-id="95ab6-236">新增 Power BI 服務。</span><span class="sxs-lookup"><span data-stu-id="95ab6-236">Adding the Power BI service.</span></span>    
-- <span data-ttu-id="95ab6-237">下載 Power BI Desktop 應用程式。</span><span class="sxs-lookup"><span data-stu-id="95ab6-237">Downloading the Power BI Desktop app.</span></span>
+<span data-ttu-id="c5d7a-234">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="c5d7a-234">Provide guidance about:</span></span>
+- <span data-ttu-id="c5d7a-235">檢閱 Power BI 訂閱計劃。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-235">Reviewing the Power BI subscription plans.</span></span>    
+- <span data-ttu-id="c5d7a-236">新增 Power BI 服務。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-236">Adding the Power BI service.</span></span>    
+- <span data-ttu-id="c5d7a-237">下載 Power BI Desktop 應用程式。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-237">Downloading the Power BI Desktop app.</span></span>
     
-## <a name="project-online"></a><span data-ttu-id="95ab6-238">Microsoft Project Online</span><span class="sxs-lookup"><span data-stu-id="95ab6-238">Project Online</span></span>
+## <a name="project-online"></a><span data-ttu-id="c5d7a-238">Microsoft Project Online</span><span class="sxs-lookup"><span data-stu-id="c5d7a-238">Project Online</span></span>
 
-<span data-ttu-id="95ab6-239">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="95ab6-239">Provide guidance about:</span></span>  
-- <span data-ttu-id="95ab6-240">檢閱訂用計劃。</span><span class="sxs-lookup"><span data-stu-id="95ab6-240">Reviewing subscription plans.</span></span>  
-- <span data-ttu-id="95ab6-241">驗證基本 SharePoint 功能。</span><span class="sxs-lookup"><span data-stu-id="95ab6-241">Verifying basic SharePoint functionality.</span></span>    
-- <span data-ttu-id="95ab6-242">新增 Microsoft Project Online 服務。</span><span class="sxs-lookup"><span data-stu-id="95ab6-242">Adding the Project Online service.</span></span>  
-- <span data-ttu-id="95ab6-243">將使用者新增至 Microsoft Project Online，包括 ERP Sync。</span><span class="sxs-lookup"><span data-stu-id="95ab6-243">Adding users to Project Online including ERP Sync.</span></span>  
-- <span data-ttu-id="95ab6-244">建立專案以驗證基本 Microsoft Project Online 功能。</span><span class="sxs-lookup"><span data-stu-id="95ab6-244">Verifying basic Project Online functionality by creating a project.</span></span>
+<span data-ttu-id="c5d7a-239">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="c5d7a-239">Provide guidance about:</span></span>  
+- <span data-ttu-id="c5d7a-240">檢閱訂用計劃。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-240">Reviewing subscription plans.</span></span>  
+- <span data-ttu-id="c5d7a-241">驗證基本 SharePoint 功能。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-241">Verifying basic SharePoint functionality.</span></span>    
+- <span data-ttu-id="c5d7a-242">新增 Microsoft Project Online 服務。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-242">Adding the Project Online service.</span></span>  
+- <span data-ttu-id="c5d7a-243">將使用者新增至 Microsoft Project Online，包括 ERP Sync。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-243">Adding users to Project Online including ERP Sync.</span></span>  
+- <span data-ttu-id="c5d7a-244">建立專案以驗證基本 Microsoft Project Online 功能。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-244">Verifying basic Project Online functionality by creating a project.</span></span>
     
-## <a name="yammer-enterprise"></a><span data-ttu-id="95ab6-245">Yammer Enterprise</span><span class="sxs-lookup"><span data-stu-id="95ab6-245">Yammer Enterprise</span></span>
+## <a name="yammer-enterprise"></a><span data-ttu-id="c5d7a-245">Yammer Enterprise</span><span class="sxs-lookup"><span data-stu-id="c5d7a-245">Yammer Enterprise</span></span>
 
-<span data-ttu-id="95ab6-246">提供將您的單一 Yammer Basic 網路轉換成單一 Yammer Enterprise 網路的指導。</span><span class="sxs-lookup"><span data-stu-id="95ab6-246">Provide guidance about converting your single Yammer Basic network into a single Yammer Enterprise network.</span></span>
+<span data-ttu-id="c5d7a-246">提供將您的單一 Yammer Basic 網路轉換成單一 Yammer Enterprise 網路的指導。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-246">Provide guidance about converting your single Yammer Basic network into a single Yammer Enterprise network.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="95ab6-p103">Yammer Enterprise 不是 Office 365 美國政府的元件，但可以取得免費為每位使用者的獨立優惠 for Office 365 中以 GCC 授權。此產品項目是目前僅限於購買 Office 365 GCC 企業協議與企業訂閱協議下的客戶。Yammer 並未提供 GCC 高或 DoD 計劃。</span><span class="sxs-lookup"><span data-stu-id="95ab6-p103">Yammer Enterprise isn’t a component of Office 365 US Government but can be acquired at no cost as a standalone offer for each user licensed for Office 365 in GCC. This offer is currently limited to customers that purchase Office 365 GCC under Enterprise Agreements and Enterprise Subscription Agreements. Yammer isn’t available in GCC High or DoD plans.</span></span>
+> <span data-ttu-id="c5d7a-247">Yammer Enterprise 不 Office 365 US Government 的元件，但可以在為每位使用者的獨立優惠授權 office 365 中 GCC 免費取得。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-247">Yammer Enterprise isn’t a component of Office 365 US Government but can be acquired at no cost as a standalone offer for each user licensed for Office 365 in GCC.</span></span> <span data-ttu-id="c5d7a-248">此提供的功能是目前僅限於購買 Office 365 GCC Enterprise 合約及 Enterprise 訂閱合約的客戶。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-248">This offer is currently limited to customers that purchase Office 365 GCC under Enterprise Agreements and Enterprise Subscription Agreements.</span></span> <span data-ttu-id="c5d7a-249">Yammer 不 GCC 高] 或 [DoD 計劃中提供。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-249">Yammer isn’t available in GCC High or DoD plans.</span></span>
   
-## <a name="office-365-proplus"></a><span data-ttu-id="95ab6-250">Office 365 專業增強版</span><span class="sxs-lookup"><span data-stu-id="95ab6-250">Office 365 ProPlus</span></span>
+## <a name="office-365-proplus"></a><span data-ttu-id="c5d7a-250">Office 365 專業增強版</span><span class="sxs-lookup"><span data-stu-id="c5d7a-250">Office 365 ProPlus</span></span>
 
-<span data-ttu-id="95ab6-251">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="95ab6-251">Provide guidance about:</span></span>
-- <span data-ttu-id="95ab6-252">解決部署問題。</span><span class="sxs-lookup"><span data-stu-id="95ab6-252">Addressing deployment issues.</span></span>   
-- <span data-ttu-id="95ab6-253">使用 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 指派使用者授權。</span><span class="sxs-lookup"><span data-stu-id="95ab6-253">Assigning end-user licenses using the [Microsoft 365 admin center](https://go.microsoft.com/fwlink/?linkid=2032704) and Windows PowerShell.</span></span>  
-- <span data-ttu-id="95ab6-254">使用隨選即用從 Office 365 入口網站安裝 Office 365 專業增強版。</span><span class="sxs-lookup"><span data-stu-id="95ab6-254">Installing Office 365 ProPlus from the Office 365 portal using Click-to-Run.</span></span>   
-- <span data-ttu-id="95ab6-255">在您的 iOS、Android 或 Windows Mobile 裝置上安裝 Office Mobile 應用程式 (如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile)。</span><span class="sxs-lookup"><span data-stu-id="95ab6-255">Installing Office Mobile apps (like Outlook Mobile, Word Mobile, Excel Mobile, and PowerPoint Mobile) on your iOS, Android, or Windows Mobile devices.</span></span>   
-- <span data-ttu-id="95ab6-256">使用 Office 2016 部署工具或群組原則範本來設定更新設定。</span><span class="sxs-lookup"><span data-stu-id="95ab6-256">Configuring update settings using the Office 2016 Deployment Tool or Group Policy templates.</span></span>   
-- <span data-ttu-id="95ab6-257">設定 Office 365 專業增強版的單一內部網站發佈伺服器，包含建立搭配 Office 365 部署工具使用之 configuration.xml 檔案的相關協助。</span><span class="sxs-lookup"><span data-stu-id="95ab6-257">Setting up a single on-site distribution server for Office 365 ProPlus, including assistance with the creation of a configuration.xml file for use with the Office 365 Deployment Tool.</span></span>   
-- <span data-ttu-id="95ab6-258">使用 System Center Configuration Manager 部署，包含建立 System Center Configuration Manager 封裝的協助。</span><span class="sxs-lookup"><span data-stu-id="95ab6-258">Deployment using System Center Configuration Manager, including assistance with the creation of System Center Configuration Manager packaging.</span></span>
+<span data-ttu-id="c5d7a-251">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="c5d7a-251">Provide guidance about:</span></span>
+- <span data-ttu-id="c5d7a-252">解決部署問題。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-252">Addressing deployment issues.</span></span>   
+- <span data-ttu-id="c5d7a-253">使用 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 指派使用者授權。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-253">Assigning end-user licenses using the [Microsoft 365 admin center](https://go.microsoft.com/fwlink/?linkid=2032704) and Windows PowerShell.</span></span>  
+- <span data-ttu-id="c5d7a-254">使用隨選即用從 Office 365 入口網站安裝 Office 365 專業增強版。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-254">Installing Office 365 ProPlus from the Office 365 portal using Click-to-Run.</span></span>   
+- <span data-ttu-id="c5d7a-255">在您的 iOS、Android 或 Windows Mobile 裝置上安裝 Office Mobile 應用程式 (如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile)。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-255">Installing Office Mobile apps (like Outlook Mobile, Word Mobile, Excel Mobile, and PowerPoint Mobile) on your iOS, Android, or Windows Mobile devices.</span></span>   
+- <span data-ttu-id="c5d7a-256">使用 Office 2016 部署工具或群組原則範本來設定更新設定。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-256">Configuring update settings using the Office 2016 Deployment Tool or Group Policy templates.</span></span>   
+- <span data-ttu-id="c5d7a-257">設定 Office 365 專業增強版的單一內部網站發佈伺服器，包含建立搭配 Office 365 部署工具使用之 configuration.xml 檔案的相關協助。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-257">Setting up a single on-site distribution server for Office 365 ProPlus, including assistance with the creation of a configuration.xml file for use with the Office 365 Deployment Tool.</span></span>   
+- <span data-ttu-id="c5d7a-258">使用 System Center Configuration Manager 部署，包含建立 System Center Configuration Manager 封裝的協助。</span><span class="sxs-lookup"><span data-stu-id="c5d7a-258">Deployment using System Center Configuration Manager, including assistance with the creation of System Center Configuration Manager packaging.</span></span>
 
     
 

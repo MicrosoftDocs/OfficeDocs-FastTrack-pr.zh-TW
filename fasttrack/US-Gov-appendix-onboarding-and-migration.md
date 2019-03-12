@@ -1,29 +1,29 @@
 ---
-title: Onboarding 和移轉階段 for Office 365 美國政府
+title: 上架及移轉階段 for Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-description: Office 365 美國政府適用的 office 365 onboarding 具有四個主要階段 — 啟動 Assess、 Remediate，並啟用。您可以遵循這些階段使用選用的資料移轉階段，如下圖所示。
-ms.openlocfilehash: 259f7f175b369aed5ed9089ff7dff0efc5797963
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+description: Office 365 US government 的 office 365 上架有四個主要階段-啟始、 評估、 修復與啟用。 您可以在這些階段後面選擇接著資料移轉階段，如下圖所示。
+ms.openlocfilehash: 60f931d6c558709e34dd638304a77c739efb43c4
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696768"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355257"
 ---
-# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding 和移轉階段 for Office 365 美國政府
+# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>上架及移轉階段 for Office 365 US Government
 
 Office 365 上架有四個主要階段 - 起始、評估、修復與啟用。您可以在這些階段後面選擇接著資料移轉階段，如下圖所示。
   
 ![上架權益的階段](media/O365-Onboarding-Phases.png)
   
-針對每個階段的詳細工作，請參閱[的 Office 365 美國政府 FastTrack 責任](US-Gov-appendix-fasttrack-responsibilities.md)和[您的 Office 365 美國政府的責任](US-Gov-appendix-your-responsibilities.md)。
+每個階段的詳細工作，請參閱[Office 365 US Government 的 FastTrack 責任](US-Gov-appendix-fasttrack-responsibilities.md)和[您 Office 365 US government 的責任](US-Gov-appendix-your-responsibilities.md)。
   
 ## <a name="initiate-phase"></a>起始階段
 
@@ -55,13 +55,13 @@ Office 365 上架有四個主要階段 - 起始、評估、修復與啟用。您
   
 這包括與您合作以了解您要如何使用服務以及您的組織為了促進服務使用量所提出的目標和計劃。
   
-![啟始階段期間的上架步驟](media/O365-Onboarding-Initiate.png)
+![起始階段期間的上架步驟](media/O365-Onboarding-Initiate.png)
   
 ## <a name="assess-phase"></a>評估階段
 
 您的 FastTrack 專案經理會透過電話與您和您的採用小組針對如何做出成功的規劃進行互動討論。在討論過程中，他會為您介紹您購買的合格服務的功能、讓計劃成功所需的關鍵基礎、促進服務使用量的方法，以及您可以用來獲取服務價值的案例。我們會協助您做出成功的規劃，並 (視需要) 就關鍵領域提供意見。
   
-FastTrack 專家搭配您評估來源環境和需求。我們提供讓您收集您環境的相關資料及引導您透過評估頻寬需求並評估您網際網路瀏覽器、 用戶端作業系統、 網域名稱系統 (DNS)、 網路、 基礎結構及身分識別系統的工具決定是否需要 onboarding 的任何變更。 
+FastTrack 專家將配合您評估您的來源環境和需求。 我們將提供您收集有關您環境的資料，並帶領您評估頻寬需求並評估網際網路瀏覽器、 用戶端作業系統、 網域名稱系統 (DNS)、 網路、 基礎結構及身分識別系統的工具決定是否需要上架的任何變更。 
   
 根據您目前的設定，我們將提供修復方案，該方案最高可將您的來源環境帶至成功上架為 Office 365 的最低系統需求，以及成功進行信箱和/或資料移轉 (如果需要)。我們會提供一組建議活動來增加使用者價值和採用率。我們也將對修復階段設定適當的檢查點通話。
   
@@ -136,8 +136,8 @@ FastTrack 專家會提供將資料移轉到 Office 365 的指引，方法是使�
 - 設立 DNS。    
 - 建立任何會議室系統裝置的帳戶。    
 - 部署支援的 商務用 Skype Online 用戶端。   
-- 建立您的內部部署 Lync 2010 之間分割網域伺服器的組態，Lync 2013 或商務 2015年伺服器環境的 Skype 以及 Skype 商務 online 租用戶 （如果適用）。
-- 讓呼叫計劃、 Skype 會議廣播，以及電話系統和呼叫計劃 （以提供市場 – GCC 高或 DoD 計劃中無法使用）。 
+- 建立您的內部部署 Lync 2010 之間分割網域伺服器組態、 Lync 2013 或 Skype for Business 2015 server 環境與 Skype for Business Online 租用戶 （如果適用）。
+- 啟用通話計劃、 Skype 會議廣播，電話系統和通話方案 （在可用的市場 – GCC 高] 或 [DoD 計劃中無法使用）。 
     
 ![啟用階段_1 期間的 Lync 上架步驟](media/O365-Onboarding-Enable-Lync.png)
   
@@ -146,7 +146,7 @@ FastTrack 專家會提供將資料移轉到 Office 365 的指引，方法是使�
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> 下列並未提供 GCC 高或 DoD 計劃。
+> 下列不適用於 GCC High 或 DoD 計劃。
 
 對於 Microsoft Teams，我們提供下列項目的指引： 
 - 確認最低需求。   
@@ -177,7 +177,7 @@ FastTrack 專家會提供將資料移轉到 Office 365 的指引，方法是使�
 對於 Yammer Enterprise，我們提供啟用 Yammer Enterprise 服務的指引。
 
 > [!NOTE]
-> Yammer Enterprise 不是 Office 365 美國政府的元件，但可以取得免費為每位使用者的獨立優惠 for Office 365 中以 GCC 授權。此產品項目是目前僅限於購買 Office 365 GCC 企業協議與企業訂閱協議下的客戶。Yammer 並未提供 GCC 高或 DoD 計劃。 
+> Yammer Enterprise 不 Office 365 US Government 的元件，但可以在為每位使用者的獨立優惠授權 office 365 中 GCC 免費取得。 此提供的功能是目前僅限於購買 Office 365 GCC Enterprise 合約及 Enterprise 訂閱合約的客戶。 Yammer 不 GCC 高] 或 [DoD 計劃中提供。 
   
 ## <a name="office-365-proplus"></a>Office 365 專業增強版
 

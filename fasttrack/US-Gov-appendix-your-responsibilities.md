@@ -1,23 +1,23 @@
 ---
-title: 您的 Office 365 的責任美國政府
+title: 您的責任 for Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 在上架期間您需擔負下列責任。
-ms.openlocfilehash: 9a4c5d05fd068d797a168ba4b9fb8a63d5185cf8
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 39737115cb4ff157782d559d1125a8edbc76cf40
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696684"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355209"
 ---
-# <a name="your-responsibilities-for-office-365-us-government"></a>您的 Office 365 的責任美國政府
+# <a name="your-responsibilities-for-office-365-us-government"></a>您的責任 for Office 365 US Government
 
 在上架期間您需擔負下列責任。
   
@@ -41,8 +41,8 @@ ms.locfileid: "29696684"
 - 管理、設定並套用安全性原則。    
 - 啟動行動裝置。    
 - 提供網路組態、分析、頻寬驗證、測試和監視。 
-- Alter 防火牆規則，以支援之特定 Url 和 IP 位址範圍使用 Office 365 服務 （如有需要）。
-- 提供內部會回復到 Microsoft proxy 端點 （如有需要）。     
+- Alter 防火牆規則，以支援特定 Url 和 IP 位址範圍 （如有必要），由 Office 365 服務使用。
+- 提供內部部署會回復到 Microsoft proxy 端點 （如有必要）。     
 - 改變網路以提供 商務用 Skype Online 服務所需的頻寬。   
 - 管理技術變更管理核准程序，並建立支援文件。    
 - 指定並定義使用者、工作站和伺服器管理的群組原則。    
@@ -58,7 +58,7 @@ ms.locfileid: "29696684"
     
 ## <a name="initiate-phase"></a>啟始階段
 
-- 設定 onboarding 合作關係的共同作業的 Microsoft 小組空間，並邀請 FastTrack 中心小組成員 （不適用於 GCC 高或 DoD 計劃）。   
+- 設定為加入合作關係的共同作業 Microsoft Teams 空間，並邀請 FastTrack Center 小組成員 （不適用於 GCC High 或 DoD 計劃）。   
 - 與 FastTrack 專家合作開始將合格服務上架。    
 - 參與專案啟動會議、管理並領導組織的參與者，並確認修復時間表。    
 - 針對 Office 365 服務 (例如：SharePoint Online、Exchange Online、Microsoft Teams 和 Office 365 專業增強版) 提供您的目標，以及組織目標。

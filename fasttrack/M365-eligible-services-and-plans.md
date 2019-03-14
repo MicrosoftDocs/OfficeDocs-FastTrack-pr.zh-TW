@@ -3,19 +3,19 @@ title: 適用的服務與方案
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 當您購買任何 Microsoft 365 服務，FastTrack 專家可提供您 Microsoft 365 的上架指引，讓您即刻開始使用。
-ms.openlocfilehash: 37e898664c2718eb3fffaae96a93a5ace3f95fc5
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 25223a7e738a679ac2d110f05e87ebcf571ac03c
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696804"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355293"
 ---
 # <a name="eligible-services-and-plans"></a>適用的服務與方案
 
@@ -71,6 +71,7 @@ FastTrack 中心提供下列服務的協助：
 
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
+- Microsoft 365 E5 Security\*
 - Microsoft 365 商務版\*
     
  **Microsoft 365 教育版**
@@ -163,11 +164,11 @@ FastTrack 中心提供下列服務的協助：
 |**Microsoft Intune**    |   適用於以獨立方案形式購買，或以隨附於 E3 或 E5 方式取得該軟體。      |
 |**Cloud Attach**     |    適用於以獨立方案形式購買，或以隨附於 E3 或 E5 方式取得該軟體。     |
 |**Microsoft Intune 教育版**     |  適用於以獨立方案形式購買，或以隨附於 A3 或 A5 方式取得該軟體。       |
-|**Microsoft Advanced Threat Protection**     |    資格有限。僅限以獨立方案形式購買的軟體。若要以獨立方案形式購買，請前往 [Microsoft 365 FastTrack 入口網站](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。   |
-|**Microsoft Advanced Threat Analytics**   |        資格有限。僅限以獨立方案形式購買的軟體。若要以獨立方案形式購買，請前往 [Microsoft 365 FastTrack 入口網站](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。    |
+|**Microsoft Advanced Threat Protection**     |    資格有限。 僅限以獨立方案形式購買的軟體。 若要以獨立方案形式購買，請前往 [Microsoft 365 FastTrack 入口網站](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。   |
+|**Microsoft Advanced Threat Analytics**   |        資格有限。 僅限以獨立方案形式購買的軟體。 若要以獨立方案形式購買，請前往 [Microsoft 365 FastTrack 入口網站](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。    |
 |**Microsoft Cloud App Security**    |       資格有限。僅限以獨立方案形式購買的軟體。若要以獨立方案形式購買，請前往 [Microsoft 365 FastTrack 入口網站](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。    |
 
-如需詳細資訊，請參閱[適用於 Enterprise Mobility + Security (EMS) 的 FastTrack 中心權益](https://go.microsoft.com/fwlink/?linkid=2005312)。
+如需詳細資訊，請參閱[適用於 Enterprise Mobility + Security (EMS) 的 FastTrack 中心權益](EMS-fasttrack-benefit-for-EMS.md)。
 
 ## <a name="eligible-windows-10-plans"></a>適用的 Windows 10 方案
 

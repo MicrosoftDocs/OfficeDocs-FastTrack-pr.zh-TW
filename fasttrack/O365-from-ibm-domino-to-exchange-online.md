@@ -3,19 +3,19 @@ title: 附錄 A：從 IBM Domino 移轉至 Exchange Online
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 從 IBM Domino 移轉至 Exchange Online 包含幾個重要的層面，包括下列階段期間發生的情況：
-ms.openlocfilehash: e2a4a06dd37c9a8eb5c04330cbde7f9dfff830b2
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 2b8bad92665f92abaa718b78151ad49b3920bac3
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696816"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355233"
 ---
 # <a name="appendix-a---migration-from-ibm-domino-to-exchange-online"></a>附錄 A：從 IBM Domino 移轉至 Exchange Online
 
@@ -28,7 +28,7 @@ ms.locfileid: "29696816"
     
 ## <a name="identities"></a>身分識別
 
-您是負責建立和管理身分識別 (僅限雲端、同步處理，或與其內部部署 Active Directory 同盟)。您必須在上架的早期階段，完成 Domino 與內部部署 Active Directory 或 Azure AD 之間的身份識別對應 (若未出現)。
+您負責建立和管理身分識別 (僅限雲端、同步處理，或與其內部部署 Active Directory 同盟)。 您必須在上架的早期階段，完成 Domino 與內部部署 Active Directory 或 Azure Active Directory 之間的身份識別對應 (若未存在)。
   
 ## <a name="coexistence"></a>共存
 
@@ -90,7 +90,7 @@ ms.locfileid: "29696816"
     >  雖然 FastTrack 會移轉多達允許的總目標大小的 85% 信箱，但嘗試移轉大於 2 GB 的信箱會帶來額外的風險，如：    <br/> 延長移轉持續時間。    <br/> 佔用移轉其他信箱時所用的資源。    <br/> 大幅增加錯誤率。 
 - 準備要移轉的郵件資料庫及其存取控制清單 (ACL)。您必須執行一些修復步驟，才能將郵件資料庫及其權限成功移轉至 Exchange Online 的共用信箱。其中部分步驟如下： 
   - 移除 Domino 目錄中的現有郵件資料庫項目並建立新的個人記錄。
-  - 在內部部署 Active Directory 中建立擁有郵件功能的萬用安全性群組，其同步至 Office 365 Azure AD，並且用來在 Exchange Online 中設定共用信箱上的權限。這會將郵件資料庫的權限集轉移至 Exchange Online 的共用信箱。
+  - 在內部部署 Active Directory 中建立擁有郵件功能的萬用安全性群組，其同步至 Office 365 Azure Active Directory，並且用來在 Exchange Online 中設定共用信箱上的權限。 這會將郵件資料庫的權限集轉移至 Exchange Online 的共用信箱。
     
 > [!NOTE]
 > 當一般使用者準備就緒，並且經過新的郵件系統與用戶端訓練後，即可立即啟動。 

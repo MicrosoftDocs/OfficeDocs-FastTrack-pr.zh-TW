@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 25602322bc92823cd50f4674a683762d9eeae10b
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: ca5de05adc154a6adb0119fd71de46280cb4cb23
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359957"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016909"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 責任
 
@@ -29,7 +29,7 @@ ms.locfileid: "30359957"
 
 -   提供可用文件、 軟體工具和系統管理主控台來幫助您減少或消除組態工作。
 
-## <a name="initiate-phase"></a>啟始階段
+## <a name="initiate-phase"></a>起始階段
 
 -   與您合作以開始上架。
 
@@ -41,13 +41,13 @@ ms.locfileid: "30359957"
 
 -   提供以下的相關指引：
 
-    -   DNS、網路和基礎結構需求。
+    -   DNS、 網路和基礎結構需求。
 
-    -   用戶端需求 (網際網路瀏覽器、用戶端作業系統和服務的需求)。
+    -   用戶端需求 （網際網路瀏覽器、 用戶端作業系統和服務的需求）。
 
     -   使用者身分識別與佈建。
 
-    -   啟用所購買且定義要在上架中進行的合格服務。
+    -   啟用所購買且定義要在上架一部分的合格服務。
 
 -   建立修復服務活動的時間表。
 
@@ -68,11 +68,11 @@ ms.locfileid: "30359957"
 
 -   驗證對 Microsoft 線上服務的連線。
 
--   對於單一樹系環境：
+-   單一樹系環境：
 
     -   安裝目錄同步處理伺服器之間您 Active Directory 網域服務 (AD DS) 和合格 Microsoft 線上服務 （僅限指引如有必要）。
 
-    -   使用 Azure Active Directory Connect 工具設定受管理的驗證 （密碼雜湊同步處理或通過驗證）。（僅限指引如有必要）。
+    -   使用 Azure Active Directory Connect 工具設定受管理的驗證 （密碼雜湊同步處理或通過驗證）。 （僅限指引如有必要）。
 
         > [!NOTE]
         > 開發並實作自訂規則延伸模組的會超出範圍。
@@ -96,7 +96,7 @@ ms.locfileid: "30359957"
 
 - 驗證對 Azure AD Premium 服務的連線。
 
-- 對於單一樹系環境：
+- 單一樹系環境：
 
   -   如有必要，請安裝目錄同步處理 Active Directory 網域服務 (AD DS) 與 Azure AD Connect，之間。
 
@@ -109,14 +109,14 @@ ms.locfileid: "30359957"
   - 設定 Azure Active Directory 通過驗證 (如有必要)。
   - 設定 Azure Active Directory 無縫單一登入 (SSO)，(如有必要)。
     > [!NOTE]
-    > 如果您的 Active Directory 樹系之間有樹系信任，則支援多重樹系環境的 azure Active Directory 通過驗證並如果名稱尾碼路由已正確設定。其他代理程式可以安裝在多部內部部署伺服器，以提供高可用性的登入要求。
+    > 如果在您的 Active Directory 之間有樹系信任且正確配置了名稱尾碼路由，則會支援多重樹系環境的Azure Active Directory 通過驗證。 其他代理程式可安裝在多個內部部署伺服器，以提供高可用性的登入要求。
 
   - 如需詳細資訊，請參閱 [：快速入門](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites)與 [Azure Active Directory 無縫單一登入：快速入門](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites)。
   - 如需通過驗證的詳細資訊，請參閱 [。目前限制](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations)。
   - 如需無縫 SSO 問題的詳細資訊，請參閱 [Azure Active Directory 無縫單一登入疑難排解](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso)。
 
       > [!NOTE]
-      > 密碼雜湊同步處理與密碼回寫支援多個樹系。不過，不支援其他案例中回寫。
+      > 密碼雜湊同步處理與密碼回寫支援多個樹系。 不過，不支援其他案例中回寫。
 
   - 設定內部部署 Active Directory 樹系和 Microsoft Azure Active Directory Premium directory (Azure Active Directory) 之間的同步處理。
 
@@ -169,7 +169,7 @@ ms.locfileid: "30359957"
 ### <a name="enable-phase---intune"></a>啟用階段-Intune
 
 > [!IMPORTANT]
-> FastTrack 不支援使用 Intune Windows 10 傳統電腦管理。FastTrack 只支援透過 Intune 行動裝置管理 (MDM) 的 Windows 10 管理。
+> FastTrack 不支援使用 Intune Windows 10 傳統電腦管理。 FastTrack 只支援透過 Intune 行動裝置管理 (MDM) 的 Windows 10 管理。
 
 提供的**指引**：
 

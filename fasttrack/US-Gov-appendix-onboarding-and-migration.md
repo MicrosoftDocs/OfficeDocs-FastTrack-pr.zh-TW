@@ -3,19 +3,19 @@ title: 上架及移轉階段 for Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 US government 的 office 365 上架有四個主要階段-啟始、 評估、 修復與啟用。 您可以在這些階段後面選擇接著資料移轉階段，如下圖所示。
-ms.openlocfilehash: 60f931d6c558709e34dd638304a77c739efb43c4
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 24134f7c13ff251351ffdcd50e532fa6153207f9
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355257"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016981"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>上架及移轉階段 for Office 365 US Government
 
@@ -107,7 +107,7 @@ FastTrack 專家將配合您評估您的來源環境和需求。 我們將提供
 - 如果需要，則設定您的來源訊息環境與 Exchange Online 間的電子郵件流程。   
 - 進行從來源郵件環境到 Office 365 的郵件移轉。   
     > [!NOTE]
-    > 如需有關郵件與資料移轉的詳細資訊，請參閱 [資料移轉](O365-data-migration.md)。 
+    > 如需有關郵件與資料移轉的詳細資訊，請參閱[資料移轉](O365-data-migration.md)。 
   
 ![啟用階段期間的 Exchange 上架步驟](media/O365-Onboarding-Enable-Exchange.png)
   

@@ -3,19 +3,19 @@ title: 資料移轉
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 專家提供將資料移轉至 Office 365 的步驟指引。這適用於 Exchange Online、商務用 OneDrive 和 SharePoint Online 的 Office 365 服務所有符合資格的客戶。
-ms.openlocfilehash: 5e7cc46807b7ec0e742c2a1097034dae8df14701
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 15efb99c47bbd1047b56c9dd5d5cf288013d99d3
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355341"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31017077"
 ---
 # <a name="data-migration"></a>資料移轉
 
@@ -220,7 +220,7 @@ FastTrack 專家會在移轉期間執行下列工作：
 - 針對評估和移轉活動提供基礎結構必要條件 (如有必要)。  
 - 將來源及目標環境的存取權和權限提供給 FastTrack 專家以執行移轉活動 (如有必要)。
     > [!NOTE]
-    > 移轉僅會使用依循上架期間所定義之安全需求的帳戶。 如果您沒有使用此類帳戶，您的移轉可能會遭到延遲。 
+    > 移轉僅會使用依循上架期間所定義之安全需求的帳戶。如果您沒有使用此類帳戶，您的移轉可能會遭到延遲。 
 - 提供必要條件並執行支援評定和移轉所需的活動。   
 - 安裝由 FastTrack 所提供的評估工具，並完成評估資料收集活動 (如果適用)。   
 - 在內部部署安裝由 FastTrack 所提供的移轉軟體 (如果適用)。   
@@ -307,7 +307,7 @@ FastTrack 專家會在移轉期間執行下列工作：
 - 針對評估和移轉活動提供基礎結構必要條件 (如有必要)。   
 - 將來源及目標環境的存取權和權限提供給 FastTrack 專家以執行移轉活動 (如有必要)。  
     > [!NOTE]
-    > 移轉僅會使用依循上架期間所定義之安全需求的帳戶。 如果您沒有使用此類帳戶，您的移轉可能會遭到延遲。 
+    > 移轉僅會使用依循上架期間所定義之安全需求的帳戶。如果您沒有使用此類帳戶，您的移轉可能會遭到延遲。 
 - 安裝由 FastTrack 所提供的評估工具，並完成評估資料收集活動 (如果適用)。
 - 在內部部署安裝由 FastTrack 所提供的移轉軟體 (如果適用)。  
 - 完成 FastTrack 所提供的補救報告中所述的補救動作　(如果適用)。   

@@ -5,27 +5,27 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: angrobe
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 1d11b2898176df059633cfb3fc2c6bb3f851c0b5
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: c1750da451d0d6714ef8363d943614f80ae685e3
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359909"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016897"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>FastTrack Center 權益概觀
 
-Microsoft Azure Active Directory Premium 和 Microsoft Intune 的 FastTrack Center 權益，您可以使用遠端與 FastTrack 專家以取得您的環境準備就緒，並規劃導入和組織內的使用狀況。若要深入了解合格，請參閱 < <b0>Enterprise Mobility + Security (EMS) 的 FastTrack Center 權益程序</b0>。
+Microsoft Azure Active Directory Premium 和 Microsoft Intune 的 FastTrack Center 權益，您可以使用遠端與 FastTrack 專家以取得您的環境準備就緒，並規劃導入和組織內的使用狀況。 若要深入了解合格，請參閱 < <b0>Enterprise Mobility + Security (EMS) 的 FastTrack Center 權益程序</b0>。
 
-「上架」有兩個主要元件：
+上架 」 有兩個主要元件：
 
--   **核心上架**-如有需要租用戶組態和與 Azure Active Directory 整合所需的工作。核心上架也提供基準上架其他 Microsoft Online 合格服務。
+-   **核心上架**-如有需要租用戶組態和與 Azure Active Directory 整合所需的工作。 核心上架也提供基準上架其他 Microsoft Online 合格服務。
 
 -   **服務上架**-設定 EMS 工作負載 （Azure AD Premium 和 Intune） 獨立變化的任何所需的工作。
 
@@ -35,7 +35,7 @@ Microsoft Azure Active Directory Premium 和 Microsoft Intune 的 FastTrack Cent
 
 處理程序的運作方式如下：
 
-- FastTrack Center 會嘗試與您連絡之後您購買授權的合格服務, 提供上架協助。您也可以要求[FastTrack Center](https://go.microsoft.com/fwlink/?linkid=780698)協助，如果您已準備好部署這些服務的組織。若要要求協助， [FastTrack Center](https://go.microsoft.com/fwlink/?linkid=780698)與您的公司或學校帳戶登入、 移至儀表板，依序展開 [**需要協助嗎？** 連結] 頁面上，右下角，然後依照提示以完成您的要求。一旦上架權益啟動，我們會將設定線上會議的排程。
+- FastTrack Center 會嘗試與您連絡之後您購買授權的合格服務, 提供上架協助。 您也可以要求[FastTrack Center](https://go.microsoft.com/fwlink/?linkid=780698)協助，如果您已準備好部署這些服務的組織。 若要要求協助， [FastTrack Center](https://go.microsoft.com/fwlink/?linkid=780698)與您的公司或學校帳戶登入、 移至儀表板，依序展開 [**需要協助嗎？** 連結] 頁面上，右下角，然後依照提示以完成您的要求。 一旦上架權益啟動，我們會將設定線上會議的排程。
 
 -   FastTrack 團隊可協助您第一次與核心功能 （如所有的 Microsoft Online Services 常見），然後使用上架每個合格服務。
 

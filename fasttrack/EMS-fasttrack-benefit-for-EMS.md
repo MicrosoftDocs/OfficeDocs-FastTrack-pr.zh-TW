@@ -5,23 +5,23 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: ea104f7bf9b4883624eda3ee40cdba516860097f
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 5d5213d7e7d5162841ddb121e03556e471f6701e
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359945"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016789"
 ---
 # <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a>適用於 Enterprise Mobility + Security (EMS) 的 FastTrack 中心權益
 
-當您在合格方案中購買至少 150 個授權 ems 或任何其個別雲端服務使用的 Enterprise Mobility + Security (EMS) 的 FastTrack Center 權益。您接著使用 FastTrack 專家以評估、 修復、 啟用及磁碟機的這些服務的使用狀況。這些專家也會提供移轉指引。
+當您在合格方案中購買至少 150 個授權 ems 或任何其個別雲端服務使用的 Enterprise Mobility + Security (EMS) 的 FastTrack Center 權益。 You then work with FastTrack Specialists to assess, remediate, enable, and drive usage of those services. These specialists also provide migration guidance.
 
 > [!IMPORTANT]
 > 以這份文件來說，FastTrack 的專家可能包含 Microsoft 員工、Microsoft 核准的廠商以及 Microsoft 核准的合作夥伴。

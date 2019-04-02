@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 614f8b31cfd4a49ce01520efb2315a5e7237dcda
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 7256128e17ab47f1383102b33fe2d86d47c4b226
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359801"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016926"
 ---
 # <a name="your-responsibilities"></a>您的責任
 
@@ -73,17 +73,17 @@ ms.locfileid: "30359801"
 
 -   註冊小組檢視器、 行動威脅防護及電信費用管理方案的訂閱。
 
--   註冊 Windows Defender 進階威脅防護授權。（Windows 版 E5 或 Microsoft E5 授權）。
+-   註冊 Windows Defender 進階威脅防護授權。 （Windows 版 E5 或 Microsoft E5 授權）。
 
 ## <a name="initiate-phase"></a>起始階段
 
 -   使用 FastTrack 小組，以開始將合格服務上的架。
 
--   參與專案啟動 (kick-off) 會議、管理並領導組織的參與者，並確認修復時間表。
+-   參與會議開始參與、 管理並領導組織的參與者及確認修復時間表。
 
 ## <a name="assess-phase"></a>評估階段
 
--   找出適當的專案關係人 (包括專案經理) 來完成必要的評估活動。
+-   識別適當的專案關係人 （包括專案經理） 來完成必要的評估活動。
 
 -   當執行評估工具針對您的環境、 EMS 或其個別雲端服務訂閱 （如果您選擇） 視指引，請與 FastTrack 團隊共用您的螢幕。
 
@@ -103,7 +103,7 @@ ms.locfileid: "30359801"
 
 ## <a name="enable-phase"></a>啟用階段
 
--   當執行評估工具針對您的環境、 EMS 或其個別雲端服務訂閱 （如果您選擇） 視指引，請與 FastTrack 團隊共用您的螢幕。視需要管理資源。
+-   當執行評估工具針對您的環境、 EMS 或其個別雲端服務訂閱 （如果您選擇） 視指引，請與 FastTrack 團隊共用您的螢幕。 視需要管理資源。
 
 -   設定網路相關項目依據 FastTrack 小組的指引來。
 

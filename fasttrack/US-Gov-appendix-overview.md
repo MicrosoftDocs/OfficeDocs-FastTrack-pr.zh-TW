@@ -1,26 +1,26 @@
 ---
-title: 附錄 D：適用於 Office 365 US Government 的 FastTrack Center 權益概觀
+title: 附錄 D：適用於 Office 365 US Government 的 FastTrack 中心權益概觀
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 description: Office 365 的 FastTrack Center 權益，您可以使用遠端與 FastTrack 專家以取得 Office 365 環境準備好使用並計劃導入和組織內的使用狀況。
-ms.openlocfilehash: 31782ca75f7ab5ce74415dcc7a9d754448740b6a
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: d56bbc0e78aa532cde6aaf80da6fa3c3f8625996
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355065"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016850"
 ---
-# <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a>附錄 D：適用於 Office 365 US Government 的 FastTrack Center 權益概觀
+# <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a>附錄 D：適用於 Office 365 US Government 的 FastTrack 中心權益概觀
 
 Office 365 的 FastTrack Center 權益，您可以使用遠端與 FastTrack 專家以取得 Office 365 環境準備好使用並計劃導入和組織內的使用狀況。 
   
-雖然大部分的產品與功能是 Office 365 Suite 和 Office 365 US Government 之間相同，但並非所有的功能是所有計劃中目前無法使用。檢閱[Office 365 US Government](https://aka.ms/aboutgovcloud)服務描述的最新清單的功能。
+雖然大部分的產品與功能是 Office 365 Suite 和 Office 365 US Government 之間相同，但並非所有的功能是所有計劃中目前無法使用。 檢閱[Office 365 US Government](https://aka.ms/aboutgovcloud)服務描述的最新清單的功能。
 
 > [!NOTE]
 > 若要收到 FastTrack 服務，請前往[FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)] 及 [要求協助。  

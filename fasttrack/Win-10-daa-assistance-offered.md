@@ -3,7 +3,7 @@ title: 提供的協助
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 當您購買任何 Windows 10 或 Microsoft 365 服務時，FastTrack 專家會提供部署至 Windows 10 和 Office 365 專業增強版的建議和修復指引，並且讓您保持在最新狀態而不需額外成本 (具有合格訂用帳戶)。
-ms.openlocfilehash: 071d1bdc76f2d450f7c9dde88f1e07858c3af36d
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: ac175893fe4afb2aa553740d0e85dceeb6582d69
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355185"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016869"
 ---
 # <a name="assistance-offered"></a>提供的協助  
 
@@ -46,7 +46,7 @@ FastTrack 提供以下協助：
 ## <a name="out-of-scope"></a>超出範圍
 
 FastTrack 未提供以下協助：
-- 應用程式清查和測試，以判斷可否在 Windows 10 和 Office 365 專業增強版上運作。如需更多有關此程序的指引，請造訪[現代化電腦的部署中心](https://go.microsoft.com/fwlink/?linkid=2080140)。如果您對深度升級整備評估感到興趣，請填寫[現代化電腦評估客戶申請表](https://go.microsoft.com/fwlink/?linkid=2053818)表單。
+- 應用程式清查和測試，以判斷可否在 Windows 10 和 Office 365 專業增強版上運作。 如需有關此程序的詳細指示，請瀏覽[電腦部署中心](https://go.microsoft.com/fwlink/?linkid=2080140)。 如果您對於深入的升級整備評定有興趣，請填寫[客戶要求現代化電腦評定](https://go.microsoft.com/fwlink/?linkid=2053818)表單。
 - 針對 Windows 10 相容性和支援狀態，研究第三方 ISV 應用程式。如需詳細資訊，請參閱[您的應用程式準備好可以支援現代化桌面了嗎？](https://go.microsoft.com/fwlink/?linkid=2054580)
 - 應用程式僅限封裝服務。不過，桌面應用程式保證小組會將我們針對 Windows 10 修復的應用程式封裝起來，以確保這些應用程式可以在客戶的環境中部署。
 

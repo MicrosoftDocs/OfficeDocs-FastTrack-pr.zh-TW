@@ -3,19 +3,19 @@ title: 適用的服務與方案
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 當您購買任何 Microsoft 365 服務，FastTrack 專家可提供您 Microsoft 365 的上架指引，讓您即刻開始使用。
-ms.openlocfilehash: 25223a7e738a679ac2d110f05e87ebcf571ac03c
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 83454be52bd22ea232de5d92194d120819f0d522
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355293"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016993"
 ---
 # <a name="eligible-services-and-plans"></a>適用的服務與方案
 
@@ -112,7 +112,7 @@ FastTrack 中心提供下列服務的協助：
 - Exchange Online Plan 2 
 - Exchange Online Kiosk
 - Exchange Online Protection
-- Exchange Online 進階威脅防護
+- Office 365 進階威脅防護
     
  **Microsoft Project Online**
   
@@ -165,7 +165,7 @@ FastTrack 中心提供下列服務的協助：
 |**Cloud Attach**     |    適用於以獨立方案形式購買，或以隨附於 E3 或 E5 方式取得該軟體。     |
 |**Microsoft Intune 教育版**     |  適用於以獨立方案形式購買，或以隨附於 A3 或 A5 方式取得該軟體。       |
 |**Microsoft Advanced Threat Protection**     |    資格有限。 僅限以獨立方案形式購買的軟體。 若要以獨立方案形式購買，請前往 [Microsoft 365 FastTrack 入口網站](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。   |
-|**Microsoft Advanced Threat Analytics**   |        資格有限。 僅限以獨立方案形式購買的軟體。 若要以獨立方案形式購買，請前往 [Microsoft 365 FastTrack 入口網站](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。    |
+|**Microsoft Advanced Threat Analytics**   |        資格有限。僅限以獨立方案形式購買的軟體。若要以獨立方案形式購買，請前往 [Microsoft 365 FastTrack 入口網站](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。    |
 |**Microsoft Cloud App Security**    |       資格有限。僅限以獨立方案形式購買的軟體。若要以獨立方案形式購買，請前往 [Microsoft 365 FastTrack 入口網站](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。    |
 
 如需詳細資訊，請參閱[適用於 Enterprise Mobility + Security (EMS) 的 FastTrack 中心權益](EMS-fasttrack-benefit-for-EMS.md)。

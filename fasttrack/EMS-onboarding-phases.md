@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 04/02/2019
+ms.date: 04/09/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 9f41ee105af4ff7d0a250d69a56756577d47b0a7
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 1e849f562316f3b8854dacf199889a2a8486b5bc
+ms.sourcegitcommit: 48d77313a4f035c81b9ad10bc2a415e1c7db23c5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31017017"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31767292"
 ---
 # <a name="onboarding-phases"></a>上架階段
 
@@ -25,7 +25,7 @@ ms.locfileid: "31017017"
 
 上架有四個主要階段：
 
-![FastTrack 上架程序的四個階段](./media/ft-onboarding-benefit.png)
+![FastTrack 上架程序的四個階段](./media/O365-Onboarding-Phases.png)
 
 
 ## <a name="initiate-phase"></a>起始階段

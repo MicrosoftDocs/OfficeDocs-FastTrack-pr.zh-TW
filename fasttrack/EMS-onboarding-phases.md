@@ -5,23 +5,23 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 04/09/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 1e849f562316f3b8854dacf199889a2a8486b5bc
-ms.sourcegitcommit: 48d77313a4f035c81b9ad10bc2a415e1c7db23c5
+ms.openlocfilehash: eb7f106437f51283b36185bd8e19ab8821ba0f4f
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31767292"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513466"
 ---
 # <a name="onboarding-phases"></a>上架階段
 
-當您使用的[合格服務與計劃](M365-eligible-services-and-plans.md)來取得 Microsoft Azure Active Directory Premium 和 Microsoft Intune 供使用，有數個階段程序中。 下列各節說明每個階段的上架程序。
+當您使用的[合格服務與計劃](M365-eligible-services-and-plans.md)來取得 Microsoft Azure Active Directory 進階版、 Microsoft Intune 和 Azure 資訊保護供使用，有數個階段程序中。 下列各節說明每個階段的上架程序。
 
 上架有四個主要階段：
 
@@ -82,7 +82,7 @@ FastTrack Center 也讓您連線如何驅動成功採用合格服務的相關指
 
 **啟用階段-核心功能**
 
-核心上架包括服務佈建和租用戶與身分識別整合。 它還包括提供基礎以讓上架的線上服務，例如 Azure AD Premium 和 Intune 的步驟。
+核心上架包括服務佈建和租用戶與身分識別整合。 它還包括提供基礎以上架線上服務，例如 Azure AD Premium、 Intune，與 Azure 資訊保護的步驟。
 
 ![上架啟用階段-核心功能](./media/ft-enable-phase-core-01.png)
 
@@ -269,6 +269,23 @@ FastTrack 也提供您指引如何驅動成功採用合格服務。
 ![上架啟用階段-Intune](./media/ft-enable-phase_intune_mdm-mam_cloudonly.png)
 
 ![上架啟用階段-共同撰寫管理](./media/ft-9-enable-phase-comanagement.png)
+
+#### <a name="enable-phase--azure-information-protection"></a>啟用階段 – Azure 資訊保護
+
+Azure 資訊保護提供支援： 
+
+- 自動分類和標籤 Office 應用程式 （如 Word、 PowerPoint、 Excel 和 Outlook） 中的資訊的客戶在 Windows 上執行，並使用 Azure 資訊保護用戶端。 
+- 使用 Azure 資訊保護掃描器靜態檔案。
+- 使用 Exchange Online 的郵件流程規則的傳輸中的電子郵件。 
+
+要套用保護使用 Microsoft Azure Rights Management Services (Azure RMS)、 Office 365 郵件加密 (OME)，以及資料外洩防護 (DLP) 的客戶也提供支援。 
+
+客戶如何提供下列項目的指引： 
+
+- 啟動並設定其租用戶。
+- 建立及設定標籤和原則。
+- 將資訊保護套用至文件。 
+
 
 > [!NOTE]
 > **想要了解更多？** 請參閱[Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)。

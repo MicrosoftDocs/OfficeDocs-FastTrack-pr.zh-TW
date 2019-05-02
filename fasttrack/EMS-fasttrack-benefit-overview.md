@@ -5,29 +5,29 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: angrobe
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: c1750da451d0d6714ef8363d943614f80ae685e3
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 42d6c23dd4da1ed8071092ccf4cc045c5128d856
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016897"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513163"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>FastTrack Center 權益概觀
 
-Microsoft Azure Active Directory Premium 和 Microsoft Intune 的 FastTrack Center 權益，您可以使用遠端與 FastTrack 專家以取得您的環境準備就緒，並規劃導入和組織內的使用狀況。 若要深入了解合格，請參閱 < <b0>Enterprise Mobility + Security (EMS) 的 FastTrack Center 權益程序</b0>。
+Microsoft Azure Active Directory 進階版、 Microsoft Intune 和 Azure 資訊保護的 FastTrack Center 權益，您可以使用遠端與 FastTrack 專家以取得您的環境準備就緒，並規劃的推行和使用中的您組織。 若要深入了解合格，請參閱 < <b0>Enterprise Mobility + Security (EMS) 的 FastTrack Center 權益程序</b0>。
 
 上架 」 有兩個主要元件：
 
 -   **核心上架**-如有需要租用戶組態和與 Azure Active Directory 整合所需的工作。 核心上架也提供基準上架其他 Microsoft Online 合格服務。
 
--   **服務上架**-設定 EMS 工作負載 （Azure AD Premium 和 Intune） 獨立變化的任何所需的工作。
+-   **服務上架**-設定 EMS 工作負載 （Azure AD Premium、 Intune 和 Azure 資訊保護） 獨立變化的任何所需的工作。
 
 下圖說明的高層級的上架階段 FastTrack Center 權益。
 

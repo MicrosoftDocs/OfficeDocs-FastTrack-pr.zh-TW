@@ -3,19 +3,19 @@ title: FastTrack 責任 for Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 在上架期間 FastTrack 專家需擔負下列責任。
-ms.openlocfilehash: 04fe6d448afa6b54bbc8f31b1001f2835f039e0f
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 4b527f43bd3030f810f3334f7405d7fc357d2d1f
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016969"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513124"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack 責任 for Office 365 US Government
 

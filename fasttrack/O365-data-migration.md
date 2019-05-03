@@ -3,19 +3,19 @@ title: 資料移轉
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 專家提供將資料移轉至 Office 365 的步驟指引。這適用於 Exchange Online、商務用 OneDrive 和 SharePoint Online 的 Office 365 服務所有符合資格的客戶。
-ms.openlocfilehash: 15efb99c47bbd1047b56c9dd5d5cf288013d99d3
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: f000cd86aa49b335202dbd6d94a28c4888a6a8cf
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31017077"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513748"
 ---
 # <a name="data-migration"></a>資料移轉
 
@@ -23,7 +23,7 @@ FastTrack 專家提供將資料移轉到 Office 365 的步驟指引。我們將�
   
 下表所述的資料移轉服務可供擁有 500 個或更多 Office 365 授權的租用戶使用。\*例如，您可能有資料在來源環境中，且必須移轉到 Office 365。FastTrack Center 優惠包含提供來源環境整合的指引以便於移轉內容。
   
-\* 如果您在 2017 年 9 月 1 日之前購買或更新商業方案，您目前訂閱期間的最小基座要求是 150 個基座，以獲得移轉優惠。教育版方案僅限教職員具有移轉服務的資格。 
+\* 如果您在 2017 年 9 月 1 日之前購買或更新商業方案，您目前訂閱期間的最小基座要求是 150 個基座，以獲得移轉優惠。教育版方案僅限教職員付費授權具有移轉服務的資格。 
   
 > [!NOTE]
 > 透過 FastTrack 服務來轉移的資料，得於任何一處 Microsoft 的維護設備間進行傳輸、儲存及處理 (除非您特定的 FastTrack 合約另有規定)。FastTrack 服務並非專為受特殊法律或法規規範所約束之資料而設計。 

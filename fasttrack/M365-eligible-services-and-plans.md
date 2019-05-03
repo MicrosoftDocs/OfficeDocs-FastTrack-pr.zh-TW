@@ -3,19 +3,19 @@ title: 適用的服務與方案
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 當您購買任何 Microsoft 365 服務，FastTrack 專家可提供您 Microsoft 365 的上架指引，讓您即刻開始使用。
-ms.openlocfilehash: 83454be52bd22ea232de5d92194d120819f0d522
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 4ac47eb14dac40cd348bfe009f017b60d32c1dba
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016993"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513088"
 ---
 # <a name="eligible-services-and-plans"></a>適用的服務與方案
 
@@ -147,7 +147,7 @@ FastTrack 中心提供下列服務的協助：
 
 \*\*如需有關適用於美國政府的 FastTrack 權益詳細資訊，請參閱 [Office 365 美國政府](https://aka.ms/aboutgovcloud) (機器翻譯)。
 
-\*\*\*商務用 Skype Online 和 Microsoft Teams 授權使用者皆可使用。
+\*\*\*商務用 Skype Online 和 Microsoft Teams 授權使用者皆可使用。 需要合格購買商務用 Skype 或 Microsoft Teams。 
 
 > [!NOTE]
 > 需購買上述適用方案的付費授權，才適用 FastTrack 中心權益。 
@@ -160,7 +160,7 @@ FastTrack 中心提供下列服務的協助：
 |---------|---------|
 |**E3 或 E5 中的 Enterprise Mobility + Security (EMS)**       |   適用符合 FastTrack 權益資格的雲端服務。若未符合，將轉介給 FastTrack 專家或合作夥伴。        |
 |**Microsoft Azure Active Directory Premium**     |  適用於以獨立方案形式購買，或以隨附於 E3 或 E5 方式取得該軟體。       |
-|**Microsoft Azure 資訊保護**    |  適用於 P2、以隨附於 E5 方式取得該軟體或以獨立方案形式購買。若未符合，將轉介給 FastTrack 專家或合作夥伴。        |
+|**Microsoft Azure 資訊保護**    |  適用於 P2，以隨附於 EMS E5 方式或以獨立方案形式。 否則，這會轉介給 FastTrack 專家或合作夥伴。        |
 |**Microsoft Intune**    |   適用於以獨立方案形式購買，或以隨附於 E3 或 E5 方式取得該軟體。      |
 |**Cloud Attach**     |    適用於以獨立方案形式購買，或以隨附於 E3 或 E5 方式取得該軟體。     |
 |**Microsoft Intune 教育版**     |  適用於以獨立方案形式購買，或以隨附於 A3 或 A5 方式取得該軟體。       |

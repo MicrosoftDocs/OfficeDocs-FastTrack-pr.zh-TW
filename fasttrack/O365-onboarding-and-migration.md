@@ -3,19 +3,19 @@ title: 上架及移轉階段
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 上架有四個主要階段 - 起始、評估、修復與啟用。您可以在這些階段後面選擇接著資料移轉階段。
-ms.openlocfilehash: 69f381f7ed84ad601d7c7b273abffcb306c5b56a
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 3fcd64283c419fdfee775b31983d17eec63783b8
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31017041"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513877"
 ---
 # <a name="onboarding-and-migration-phases"></a>上架及移轉階段
 
@@ -197,7 +197,8 @@ FastTrack 專家會提供將資料移轉到 Office 365 的指引，方法是使�
 - 使用隨選即用從 Office 365 入口網站安裝 Office 365 專業增強版。   
 - 在您的 iOS、Android 或 Windows Mobile 裝置上安裝 Office Mobile 應用程式 (如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile)。   
 - 使用 Office 365 部署工具來設定更新設定。   
-- 設定 Office 365 專業增強版的單一內部網站發佈伺服器，包含建立搭配 Office 365 部署工具使用之 configuration.xml 檔案的相關協助。  
+- 本地或雲端安裝的選取項目和設定。 
+- 使用 Office 自訂工具或原生 XML 建立 Office 部署工具，以設定部署套件。  
 - 使用 Microsoft System Center Configuration Manager 部署，包含建立 System Center Configuration Manager 封裝的協助。
     
 ![Office 專業增強版上架步驟](media/O365-Onboarding-Enable-OProPlus.png)

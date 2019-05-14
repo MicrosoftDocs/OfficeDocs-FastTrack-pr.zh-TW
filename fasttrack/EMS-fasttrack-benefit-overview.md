@@ -12,12 +12,12 @@ ms.service: microsoft-intune
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 42d6c23dd4da1ed8071092ccf4cc045c5128d856
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 46d9720545a2b92fbe4318f676308504c53ec315
+ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513163"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "33967934"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>FastTrack Center 權益概觀
 
@@ -35,17 +35,17 @@ Microsoft Azure Active Directory 進階版、 Microsoft Intune 和 Azure 資訊�
 
 處理程序的運作方式如下：
 
-- FastTrack Center 會嘗試與您連絡之後您購買授權的合格服務, 提供上架協助。 您也可以要求[FastTrack Center](https://go.microsoft.com/fwlink/?linkid=780698)協助，如果您已準備好部署這些服務的組織。 若要要求協助， [FastTrack Center](https://go.microsoft.com/fwlink/?linkid=780698)與您的公司或學校帳戶登入、 移至儀表板，依序展開 [**需要協助嗎？** 連結] 頁面上，右下角，然後依照提示以完成您的要求。 一旦上架權益啟動，我們會將設定線上會議的排程。
+- FastTrack Center 會嘗試與您連絡之後您購買授權的合格服務, 提供上架協助。 您也可以要求[FastTrack Center](https://go.microsoft.com/fwlink/?linkid=780698)協助，如果您已準備好部署這些服務的組織。 若要要求協助， [FastTrack Center](https://go.microsoft.com/fwlink/?linkid=780698)與您的公司或學校帳戶登入、 移至儀表板，依序展開 [**需要協助嗎？** 連結] 頁面上，右下角，然後依照提示以完成您的要求。 一旦上架啟動，我們會將設定線上會議的排程。
 
 -   FastTrack 團隊可協助您第一次與核心功能 （如所有的 Microsoft Online Services 常見），然後使用上架每個合格服務。
 
-所有上架支援是由獲派 FastTrack 人員自遠端提供：
+由獲派 FastTrack 人員自遠端提供所有上架指引：
 
 -   FastTrack 團隊遠端可協助您使用各種不同的上架活動使用工具、 說明文件與指引組合。
 
--   上架支援由 FastTrack Center，提供，並且是在指定地區的一般上班時段提供。
+-   上架指引由 FastTrack Center，提供，並且是在指定地區的一般上班時段提供。
 
--   上架支援有： 繁體中文、 簡體中文 （中文的資源中文只）、 英文、 法文、 德文、 義大利文、 日文、 韓文、 葡萄牙文 （巴西）、 西班牙文、 泰文和越南文。
+-   上架協助有： 繁體中文、 簡體中文 （中文的資源中文只）、 英文、 法文、 德文、 義大利文、 日文、 韓文、 葡萄牙文 （巴西）、 西班牙文、 泰文和越南文。
 
 -   FastTrack 團隊可直接與您或您的代表配合運作。
 

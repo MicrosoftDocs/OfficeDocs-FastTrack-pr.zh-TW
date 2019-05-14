@@ -12,12 +12,12 @@ ms.service: microsoft-intune
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: eb7f106437f51283b36185bd8e19ab8821ba0f4f
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: ed490839cda702174d356b2735469a54636fa591
+ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513466"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "33967982"
 ---
 # <a name="onboarding-phases"></a>上架階段
 
@@ -272,7 +272,7 @@ FastTrack 也提供您指引如何驅動成功採用合格服務。
 
 #### <a name="enable-phase--azure-information-protection"></a>啟用階段 – Azure 資訊保護
 
-Azure 資訊保護提供支援： 
+Azure 資訊保護提供的指引： 
 
 - 自動分類和標籤 Office 應用程式 （如 Word、 PowerPoint、 Excel 和 Outlook） 中的資訊的客戶在 Windows 上執行，並使用 Azure 資訊保護用戶端。 
 - 使用 Azure 資訊保護掃描器靜態檔案。

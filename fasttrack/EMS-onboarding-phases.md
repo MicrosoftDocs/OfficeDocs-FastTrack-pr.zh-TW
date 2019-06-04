@@ -5,19 +5,21 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
+localization_priority: Priority
+ms.collection: FastTrack
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: ed490839cda702174d356b2735469a54636fa591
-ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
+ms.openlocfilehash: 3725a730a5191bfbe38958403b88ace00ed5bd02
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2019
-ms.locfileid: "33967982"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673556"
 ---
 # <a name="onboarding-phases"></a>上架階段
 
@@ -272,20 +274,16 @@ FastTrack 也提供您指引如何驅動成功採用合格服務。
 
 #### <a name="enable-phase--azure-information-protection"></a>啟用階段 – Azure 資訊保護
 
-Azure 資訊保護提供的指引： 
-
-- 自動分類和標籤 Office 應用程式 （如 Word、 PowerPoint、 Excel 和 Outlook） 中的資訊的客戶在 Windows 上執行，並使用 Azure 資訊保護用戶端。 
-- 使用 Azure 資訊保護掃描器靜態檔案。
-- 使用 Exchange Online 的郵件流程規則的傳輸中的電子郵件。 
-
-要套用保護使用 Microsoft Azure Rights Management Services (Azure RMS)、 Office 365 郵件加密 (OME)，以及資料外洩防護 (DLP) 的客戶也提供支援。 
-
 客戶如何提供下列項目的指引： 
 
 - 啟動並設定其租用戶。
 - 建立及設定標籤和原則。
 - 將資訊保護套用至文件。 
+- 自動分類和標籤 Office 應用程式 （如 Word、 PowerPoint、 Excel 和 Outlook） 中的資訊在 Windows 上執行，並使用 Azure 資訊保護用戶端。
+- 使用 Azure 資訊保護掃描器靜態使用的檔案。
+- 監視傳輸使用 Exchange Online 的郵件流程規則中的電子郵件。
 
+要套用保護使用 Microsoft Azure Rights Management Services (Azure RMS)、 Office 365 郵件加密 (OME)，以及資料外洩防護 (DLP) 的客戶也提供指引。
 
 > [!NOTE]
 > **想要了解更多？** 請參閱[Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)。

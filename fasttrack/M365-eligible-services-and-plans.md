@@ -3,19 +3,19 @@ title: 適用的服務與方案
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 當您購買任何 Microsoft 365 服務，FastTrack 專家可提供您 Microsoft 365 的上架指引，讓您即刻開始使用。
-ms.openlocfilehash: 4ac47eb14dac40cd348bfe009f017b60d32c1dba
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 58ab0f1cccc88720cc8c323d8a083c9a9ff1f67e
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513088"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673604"
 ---
 # <a name="eligible-services-and-plans"></a>適用的服務與方案
 
@@ -63,6 +63,7 @@ FastTrack 中心提供下列服務的協助：
 - Microsoft StaffHub
 - Windows 10
 - Azure Active Directory Premium
+- Azure 資訊保護
 - Microsoft Intune
     
 ## <a name="eligible-microsoft-365-plans"></a>適用的 Microsoft 365 方案
@@ -160,7 +161,7 @@ FastTrack 中心提供下列服務的協助：
 |---------|---------|
 |**E3 或 E5 中的 Enterprise Mobility + Security (EMS)**       |   適用符合 FastTrack 權益資格的雲端服務。若未符合，將轉介給 FastTrack 專家或合作夥伴。        |
 |**Microsoft Azure Active Directory Premium**     |  適用於以獨立方案形式購買，或以隨附於 E3 或 E5 方式取得該軟體。       |
-|**Microsoft Azure 資訊保護**    |  適用於 P2，以隨附於 EMS E5 方式或以獨立方案形式。 否則，這會轉介給 FastTrack 專家或合作夥伴。        |
+|**Microsoft Azure 資訊保護**    |  適用於 P2，以隨附於 E5 方式或以獨立方案形式。 適用於符合 FastTrack 權益的雲端服務。 若為雲端服務 P1，FastTrack 會共用自我部署指南。       |
 |**Microsoft Intune**    |   適用於以獨立方案形式購買，或以隨附於 E3 或 E5 方式取得該軟體。      |
 |**Cloud Attach**     |    適用於以獨立方案形式購買，或以隨附於 E3 或 E5 方式取得該軟體。     |
 |**Microsoft Intune 教育版**     |  適用於以獨立方案形式購買，或以隨附於 A3 或 A5 方式取得該軟體。       |

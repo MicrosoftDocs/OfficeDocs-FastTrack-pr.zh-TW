@@ -3,19 +3,19 @@ title: 資料移轉
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 專家提供將資料移轉至 Office 365 的步驟指引。這適用於 Exchange Online、商務用 OneDrive 和 SharePoint Online 的 Office 365 服務所有符合資格的客戶。
-ms.openlocfilehash: f000cd86aa49b335202dbd6d94a28c4888a6a8cf
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 370c7c29d8409715191617dbeb3e80e7fe30659a
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513748"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673472"
 ---
 # <a name="data-migration"></a>資料移轉
 
@@ -276,7 +276,7 @@ FastTrack 專家會在移轉期間執行下列工作：
 |||||
 |:-----|:-----|:-----|:-----|
 |**來源環境**|**移轉類型**|**什麼會移轉**|**不會移轉哪些內容**|
-|**單一 G Suite 環境 (僅限 Google 雲端硬碟)**  <br/> |單一傳遞  <br/> | Google 文件、試算表及投影片 (檔案轉換為 Office 等同格式)  <br/>  Google 文件繪圖 (檔案轉換為 SVG 或 PNG 格式)  <br/>  檔案與資料夾結構  <br/>  使用者層級資料夾權限  <br/>  群組層級資料夾權限  <br/>  小於 15 GB 的檔案  <br/>  基本文件與資料夾的中繼資料：  <br/>  建立日期  <br/>  修改日期  <br/>  建立者  <br/>  上次修改者  <br/>  正在移轉之 Google 雲端硬碟所擁有的共用內容 (如果明確與使用者或群組共用)*  <br/> | 擁有權歷程記錄、先前的版本和註解  <br/>  檔案與資料夾描述、資料夾顏色  <br/>  內容中的內嵌 URL 轉換  <br/>  使用者層級檔案權限  <br/>  群組層級檔案權限  <br/> 丟到垃圾筒的項目  <br/>  無法存取或損毀的文件  <br/>  遭封鎖或非作用中的使用者  <br/>  組織外部的共用內容  <br/>  Google 相簿、表單、地圖及其他連線的應用程式  <br/>  檔案或資料夾超過目前 [Sharepoint 的規定和限制](https://go.microsoft.com/fwlink/?linkid=846724) <br/> |
+|**單一 G Suite 環境 (僅限 Google 雲端硬碟)**  <br/> |單一或兩個階段  <br/> | Google 文件、試算表及投影片 (檔案轉換為 Office 等同格式)  <br/>  檔案與資料夾結構  <br/>  使用者層級資料夾權限  <br/>  群組層級資料夾權限  <br/>  小於 15 GB 的檔案  <br/>  基本文件與資料夾的中繼資料：  <br/>  建立日期  <br/>  修改日期  <br/>  建立者  <br/>  上次修改者  <br/>  正在移轉之 Google 雲端硬碟所擁有的共用內容 (如果明確與使用者或群組共用)*  <br/> | 擁有權歷程記錄、先前的版本和註解  <br/>  檔案與資料夾描述、資料夾顏色  <br/>  內容中的內嵌 URL 轉換  <br/>  使用者層級檔案權限  <br/>  群組層級檔案權限  <br/> 丟到垃圾筒的項目  <br/>  無法存取或損毀的文件  <br/>  遭封鎖或非作用中的使用者  <br/>  組織外部的共用內容  <br/>  Google 相簿、表單、地圖及其他連線的應用程式  <br/>  Google 繪圖  <br/>  檔案或資料夾超過目前 [Sharepoint 的規定和限制](https://go.microsoft.com/fwlink/?linkid=846724) <br/> |
 |**任何支援 SMB 2.0+ 的檔案共用裝置**  <br/> |單一傳遞  <br/> | 文件  <br/>  檔案與資料夾結構  <br/>  使用者層級檔案和資料夾權限\*  <br/>  群組層級檔案和資料夾權限\*  <br/>  小於 15 GB 的檔案  <br/>  基本文件與資料夾的中繼資料：  <br/>  建立日期  <br/>  修改日期  <br/>  建立者  <br/>  上次修改者  <br/> <br/>\*需要設定目錄同步處理。只移轉公開給 [Windows 檔案總管] 的 NTFS 權限。不移轉直接在檔案共用裝置上管理的權限。若資料儲存在 SMB 2.0 裝置上，將會移轉 SMB 通訊協定公開的 NTFS 等同權限。** <br/> | 擁有權歷程記錄與先前的版本  <br/>  內容中的內嵌 URL 轉換  <br/>  舊版  <br/>  Windows 檔案和資料夾屬性 (例如唯讀、隱藏)  <br/>  非 Windows New Technology File System (NTFS) 和 NTFS 的進階權限和特殊設定：  <br/>  明確拒絕權限 (在移轉之後移除，內容受限於平行權限或上層資料夾權限)  <br/>  NTFS 稽核組態  <br/>  FCI 提供的其他檔案中繼資料  <br/>  無法存取或損毀的文件  <br/>  隱藏的共用  <br/>  共用 (例如共用層級授與的權限)  <br/>  檔案或資料夾超過目前 [Sharepoint 的規定和限制](https://go.microsoft.com/fwlink/?linkid=846724) <br/> |
 |**Box (Starter、Business、Enterprise)**  <br/> |單一或多個階段  <br/> | 文件  <br/>  檔案與資料夾結構  <br/>  使用者層級資料夾權限  <br/>  群組層級資料夾權限  <br/>  小於 15 GB 的檔案  <br/>  基本文件與資料夾的中繼資料：  <br/>  建立日期  <br/>  修改日期  <br/>  建立者  <br/>  上次修改者  <br/>  正在移轉之 Box 帳戶所擁有的共用內容 (如果明確與使用者或群組共用)\*  <br/><br/> \*使用 Box 報告來識別外部帳戶。指示使用者在移轉之後再度分享其內容。** <br/> | 擁有權歷程記錄、先前的版本和註解  <br/>  檔案與資料夾描述  <br/>  使用者層級檔案權限  <br/>  群組層級檔案權限  <br/>  Box 標記和進階中繼資料  <br/>  檔案鎖定屬性  <br/>  內容中的內嵌 URL 轉換  <br/>  丟到垃圾筒的項目  <br/>  無法存取或損毀的文件  <br/>  遭封鎖或非作用中的使用者  <br/>  Box 附註 (因移轉時未轉換而無功能)  <br/>  Box 應用程式、書籤、我的最愛及工作流程  <br/>  內容不屬於移轉之 Box 帳戶 (共用資料夾)  <br/>  外部使用者的權限和中繼資料\*  <br/>  檔案或資料夾超過目前 [Sharepoint 的規定和限制](https://go.microsoft.com/fwlink/?linkid=846724) <br/> |
    

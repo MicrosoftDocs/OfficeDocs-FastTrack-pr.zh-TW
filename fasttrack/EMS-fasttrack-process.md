@@ -1,58 +1,60 @@
 ---
 title: FastTrack 程序
-description: FastTrack Center 權益上架程序的概觀
+description: FastTrack 中心權益上架程序概觀
 keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
+localization_priority: Priority
+ms.collection: FastTrack
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 1e3f34284cb4b6300a50116ad2bb1df3cb6ab0fe
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
-ms.translationtype: MT
+ms.openlocfilehash: 0b24a3d1b339836fb07137a7ad2138f85ed7709b
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513772"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673244"
 ---
 # <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a>適用於 Enterprise Mobility + Security (EMS) 的 FastTrack 中心權益程序
-如果您的組織不合格的 FastTrack Center 權益，ems，您可以可以遠端與 FastTrack 專家以取得 Microsoft Azure Active Directory 進階版、 Microsoft Intune 和 Azure 資訊保護可供使用。 您也可以要求 Azure 資訊保護、 Microsoft Cloud App Security 和 Microsoft Advanced Threat Analytics 透過[FastTrack 網站](https://www.microsoft.com/fasttrack/microsoft-365/ems)說明。 若要了解您的組織是否適用，請參閱[Eligible Services and Plans](M365-eligible-services-and-plans.md)。
+如果您的組織符合 EMS 的 FastTrack 中心權益資格，您可以透過遠端方式與 FastTrack 專家合作來預備使用 Microsoft Azure Active Directory 進階版、Microsoft Intune 和 Azure 資訊保護。 您也可以透過 [FastTrack 網站](https://www.microsoft.com/fasttrack/microsoft-365/ems)取得 Azure 資訊保護、Microsoft Cloud App Security 和 Microsoft 進階威脅分析的使用協助。 若要了解貴組織是否符合資格，請參閱[符合資格的服務與方案](M365-eligible-services-and-plans.md)。
 
 
-以下是將涵蓋有關上架程序：
+以下是我們會說明的上架程序：
 
 -   [上架程序的概觀](EMS-fasttrack-benefit-overview.md)
 
--   [來源環境預期](EMS-source-environment-expectations.md)
+-   [對您的來源環境的預期](EMS-source-environment-expectations.md)
 
 -   [上架程序的階段](EMS-onboarding-phases.md)
 
--   每個階段的[FastTrack 責任](EMS-fasttrack-responsibilities.md)
+-   各階段的 [FastTrack 責任](EMS-fasttrack-responsibilities.md)
 
--   每個階段的[客戶責任](EMS-your-responsibilities.md)
+-   各階段的[客戶責任](EMS-your-responsibilities.md)
 
-以下是上架完成時可以預期的項目：
+以下是上架完成後可預期的結果：
 
--   建立您所選取的服務您 EMS 租用戶。
+-   為您所選的服務建立 EMS 租用戶。
 
--   取得授權的使用者可以使用下列其中一個身分識別選項來存取 EMS 服務：
+-   授權使用者可以使用下列任一個身分識別選項來存取 EMS 服務：
 
-    -   雲端身分識別 （唯一 EMS 帳戶）。
+    -   雲端身分識別 (唯一的 EMS 帳戶)。
 
-    -   同步處理身分識別： EMS 帳戶同步處理從內部部署 Active Directory 使用 Azure Active Directory Connect 工具 （密碼雜湊同步處理或通過驗證）。 此選項適用於具有單一樹系或多個 Active Directory 樹系的客戶。
+    -   同步處理的身分識別：使用 Azure Active Directory Connect 工具 (密碼雜湊同步處理或通過驗證) 從您的內部部署 Active Directory 同步處理 EMS 帳戶。 這個選項適用於擁有單一樹系或多個 Active Directory 樹系的客戶。
 
-    -   同盟身分識別-與 Microsoft EMS 帳戶：
+    -   同盟身分識別--包含下列情況的 Microsoft EMS 帳戶：
 
-        -   使用 Azure AD Connect 工具，從 Active Directory 同步處理。 此選項適用於具有單一 Active Directory 樹系組態的客戶。
+        -   使用 Azure AD Connect 工具，從 Active Directory 同步處理。 這個選項適用於擁有單一 Active Directory 樹系組態的客戶。
 
-        -   與 Windows Server 2012 R2 Active Directory Federation Services (AD FS) 2.0 或更新版本從內部部署 Active Directory 同盟。
+        -   從您的內部部署 Active Directory與 Windows Server 2012 R2 Active Directory 同盟服務 (AD FS) 2.0 或更新版本同盟。
 
-        -   若要自動分類及保護資訊靜止和傳輸中使用 Azure 資訊保護功能。 
+        -   Azure 資訊保護功能可以在靜止和傳輸過程中自動分類和保護資訊。 
 
-        -   能夠與 Azure 資訊保護掃描器探索內部部署檔案共用和 SharePoint server 中的資訊。 
+        -   Azure 資訊保護掃描程式的功能可內部部署檔案共用和 SharePoint 伺服器上探索資訊。 
 
-        -   管理您的 Azure 資訊保護租用戶金鑰 Azure 金鑰保存庫內的能力。 
+        -   能夠在 Azure 金鑰保存庫中管理 Azure 資訊保護租用戶的金鑰。 

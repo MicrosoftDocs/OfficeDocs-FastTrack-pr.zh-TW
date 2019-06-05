@@ -5,53 +5,55 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: angrobe
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
+localization_priority: Priority
+ms.collection: FastTrack
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 46d9720545a2b92fbe4318f676308504c53ec315
-ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
-ms.translationtype: MT
+ms.openlocfilehash: ba29357695855236dbe0583e7667998fdf940bd0
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2019
-ms.locfileid: "33967934"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673316"
 ---
-# <a name="fasttrack-center-benefit-overview"></a>FastTrack Center 權益概觀
+# <a name="fasttrack-center-benefit-overview"></a>FastTrack 中心權益概觀
 
-Microsoft Azure Active Directory 進階版、 Microsoft Intune 和 Azure 資訊保護的 FastTrack Center 權益，您可以使用遠端與 FastTrack 專家以取得您的環境準備就緒，並規劃的推行和使用中的您組織。 若要深入了解合格，請參閱 < <b0>Enterprise Mobility + Security (EMS) 的 FastTrack Center 權益程序</b0>。
+若擁有 Microsoft Azure Active Directory 進階版、Microsoft Intune 和 Azure 資訊保護的 FastTrack 中心權益，您就可以透過遠端方式與 FastTrack 專家合作，預備您的環境以供使用，並規劃在組織內的推行與使用。 若要深入了解符合資格，請參閱[適用於 Enterprise Mobility + Security (EMS) 的 FastTrack 中心權益程序](EMS-fasttrack-process.md)。
 
-上架 」 有兩個主要元件：
+「上架」有兩個主要元件：
 
--   **核心上架**-如有需要租用戶組態和與 Azure Active Directory 整合所需的工作。 核心上架也提供基準上架其他 Microsoft Online 合格服務。
+-   **核心上架** - 租用戶組態和與 Azure Active Directory 整合 (若有需要) 所需的工作。 核心上架也能成為將其他符合 Microsoft Online 資格之服務上架的基準。
 
--   **服務上架**-設定 EMS 工作負載 （Azure AD Premium、 Intune 和 Azure 資訊保護） 獨立變化的任何所需的工作。
+-   **服務上架** - 設定 EMS 工作負載的任何獨立變體 (Azure AD 進階版、Intune 和 Azure 資訊保護) 所需的工作。
 
-下圖說明的高層級的上架階段 FastTrack Center 權益。
+下圖說明 FastTrack 中心權益的高階上架階段。
 
-![使用 FastTrack Center 權益的高層級的上架階段](./media/ft-onboarding-process.png)
+![使用 FastTrack 中心權益的高階上架階段](./media/ft-onboarding-process.png)
 
-處理程序的運作方式如下：
+以下是程序的運作方式：
 
-- FastTrack Center 會嘗試與您連絡之後您購買授權的合格服務, 提供上架協助。 您也可以要求[FastTrack Center](https://go.microsoft.com/fwlink/?linkid=780698)協助，如果您已準備好部署這些服務的組織。 若要要求協助， [FastTrack Center](https://go.microsoft.com/fwlink/?linkid=780698)與您的公司或學校帳戶登入、 移至儀表板，依序展開 [**需要協助嗎？** 連結] 頁面上，右下角，然後依照提示以完成您的要求。 一旦上架啟動，我們會將設定線上會議的排程。
+- 在您購買合格服務的授權之後，FastTrack 中心會嘗試連絡您以提供上架協助。 如果您已準備好要將這些服務部署到組織中，也可以從 [FastTrack 中心](https://go.microsoft.com/fwlink/?linkid=780698)要求協助。 若要要求協助，請使用公司或學校帳戶登入 [FastTrack 中心](https://go.microsoft.com/fwlink/?linkid=780698)、前往儀表板、展開頁面右下角的 [需要協助嗎？]**** 連結，然後依照提示完成您的要求。 上架開始後，我們將安排線上會議的時間。
 
--   FastTrack 團隊可協助您第一次與核心功能 （如所有的 Microsoft Online Services 常見），然後使用上架每個合格服務。
+-   FastTrack 團隊會先幫助您上架核心功能 (所有 Microsoft Online 服務的共同功能)，然後再上架個別合格服務。
 
-由獲派 FastTrack 人員自遠端提供所有上架指引：
+所有上架指導皆由專門的 FastTrack 人員從遠端進行：
 
--   FastTrack 團隊遠端可協助您使用各種不同的上架活動使用工具、 說明文件與指引組合。
+-   FastTrack 將透過遠端方式搭配使用各項工具、文件和指引來協助您進行不同的上架活動。
 
--   上架指引由 FastTrack Center，提供，並且是在指定地區的一般上班時段提供。
+-   上架指導由 FastTrack 中心提供，在指定地區的正常上班時間內提供。
 
--   上架協助有： 繁體中文、 簡體中文 （中文的資源中文只）、 英文、 法文、 德文、 義大利文、 日文、 韓文、 葡萄牙文 （巴西）、 西班牙文、 泰文和越南文。
+-   上架協助提供的語言有：繁體中文、簡體中文 (僅說中文的資源)、英文、法文、德文、義大利文、日文、韓文、葡萄牙文 (巴西)、西班牙文、泰文以及越南文。
 
--   FastTrack 團隊可直接與您或您的代表配合運作。
+-   FastTrack 團隊可直接與您或您的代表配合。
 
 > [!NOTE]
-> **想要了解更多？** 請參閱[Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility)。
+> **想要深入了解？** 請參閱 [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility)。
 
 ## <a name="next-steps"></a>後續步驟
 
-[FastTrack Center 權益 ems-來源環境預期](EMS-source-environment-expectations.md)
+[適用於 EMS 的 FastTrack 中心權益 - 來源環境期待](EMS-source-environment-expectations.md)

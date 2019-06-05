@@ -5,53 +5,55 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: angrobe
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
+localization_priority: Priority
+ms.collection: FastTrack
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 46d9720545a2b92fbe4318f676308504c53ec315
-ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
-ms.translationtype: MT
+ms.openlocfilehash: ba29357695855236dbe0583e7667998fdf940bd0
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2019
-ms.locfileid: "33967934"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673316"
 ---
-# <a name="fasttrack-center-benefit-overview"></a><span data-ttu-id="760d7-103">FastTrack Center 權益概觀</span><span class="sxs-lookup"><span data-stu-id="760d7-103">FastTrack Center Benefit Overview</span></span>
+# <a name="fasttrack-center-benefit-overview"></a><span data-ttu-id="ec9ac-103">FastTrack 中心權益概觀</span><span class="sxs-lookup"><span data-stu-id="ec9ac-103">FastTrack Center Benefit Overview</span></span>
 
-<span data-ttu-id="760d7-104">Microsoft Azure Active Directory 進階版、 Microsoft Intune 和 Azure 資訊保護的 FastTrack Center 權益，您可以使用遠端與 FastTrack 專家以取得您的環境準備就緒，並規劃的推行和使用中的您組織。</span><span class="sxs-lookup"><span data-stu-id="760d7-104">With FastTrack Center Benefit for Microsoft Azure Active Directory Premium, Microsoft Intune, and Azure Information Protection, you work remotely with FastTrack Specialists to get your environment ready for use and to plan the rollout and usage within your organization.</span></span> <span data-ttu-id="760d7-105">若要深入了解合格，請參閱 < <b0>Enterprise Mobility + Security (EMS) 的 FastTrack Center 權益程序</b0>。</span><span class="sxs-lookup"><span data-stu-id="760d7-105">To learn more about eligibility, see [FastTrack Center Benefit Process for Enterprise Mobility + Security (EMS)](EMS-fasttrack-process.md).</span></span>
+<span data-ttu-id="ec9ac-104">若擁有 Microsoft Azure Active Directory 進階版、Microsoft Intune 和 Azure 資訊保護的 FastTrack 中心權益，您就可以透過遠端方式與 FastTrack 專家合作，預備您的環境以供使用，並規劃在組織內的推行與使用。</span><span class="sxs-lookup"><span data-stu-id="ec9ac-104">With FastTrack Center Benefit for Microsoft Azure Active Directory Premium, Microsoft Intune, and Azure Information Protection, you work remotely with FastTrack Specialists to get your environment ready for use and to plan the rollout and usage within your organization.</span></span> <span data-ttu-id="ec9ac-105">若要深入了解符合資格，請參閱[適用於 Enterprise Mobility + Security (EMS) 的 FastTrack 中心權益程序](EMS-fasttrack-process.md)。</span><span class="sxs-lookup"><span data-stu-id="ec9ac-105">To learn more about eligibility, see [FastTrack Center Benefit Process for Enterprise Mobility + Security (EMS)](EMS-fasttrack-process.md).</span></span>
 
-<span data-ttu-id="760d7-106">上架 」 有兩個主要元件：</span><span class="sxs-lookup"><span data-stu-id="760d7-106">Onboarding has two major components:</span></span>
+<span data-ttu-id="ec9ac-106">「上架」有兩個主要元件：</span><span class="sxs-lookup"><span data-stu-id="ec9ac-106">Onboarding has two major components:</span></span>
 
--   <span data-ttu-id="760d7-107">**核心上架**-如有需要租用戶組態和與 Azure Active Directory 整合所需的工作。</span><span class="sxs-lookup"><span data-stu-id="760d7-107">**Core onboarding** - Tasks required for tenant configuration and integration with Azure Active Directory, if needed.</span></span> <span data-ttu-id="760d7-108">核心上架也提供基準上架其他 Microsoft Online 合格服務。</span><span class="sxs-lookup"><span data-stu-id="760d7-108">Core onboarding also provides the baseline for onboarding other Microsoft Online eligible services.</span></span>
+-   <span data-ttu-id="ec9ac-107">**核心上架** - 租用戶組態和與 Azure Active Directory 整合 (若有需要) 所需的工作。</span><span class="sxs-lookup"><span data-stu-id="ec9ac-107">Core onboarding — These are tasks required for tenant configuration and integration with Azure Active Directory (Azure AD) if needed.</span></span> <span data-ttu-id="ec9ac-108">核心上架也能成為將其他符合 Microsoft Online 資格之服務上架的基準。</span><span class="sxs-lookup"><span data-stu-id="ec9ac-108">Core onboarding also provides the baseline for onboarding other eligible services.</span></span>
 
--   <span data-ttu-id="760d7-109">**服務上架**-設定 EMS 工作負載 （Azure AD Premium、 Intune 和 Azure 資訊保護） 獨立變化的任何所需的工作。</span><span class="sxs-lookup"><span data-stu-id="760d7-109">**Service onboarding** - Tasks required to configure any of the standalone variants of the EMS workload (Azure AD Premium, Intune, and Azure Information Protection).</span></span>
+-   <span data-ttu-id="ec9ac-109">**服務上架** - 設定 EMS 工作負載的任何獨立變體 (Azure AD 進階版、Intune 和 Azure 資訊保護) 所需的工作。</span><span class="sxs-lookup"><span data-stu-id="ec9ac-109">**Service onboarding** - Tasks required to configure any of the standalone variants of the EMS workload (Azure AD Premium, Intune, and Azure Information Protection).</span></span>
 
-<span data-ttu-id="760d7-110">下圖說明的高層級的上架階段 FastTrack Center 權益。</span><span class="sxs-lookup"><span data-stu-id="760d7-110">The following diagram describes the high-level onboarding phases for the the FastTrack Center Benefit.</span></span>
+<span data-ttu-id="ec9ac-110">下圖說明 FastTrack 中心權益的高階上架階段。</span><span class="sxs-lookup"><span data-stu-id="ec9ac-110">The following diagram describes the high-level onboarding phases for the the FastTrack Center Benefit.</span></span>
 
-![使用 FastTrack Center 權益的高層級的上架階段](./media/ft-onboarding-process.png)
+![使用 FastTrack 中心權益的高階上架階段](./media/ft-onboarding-process.png)
 
-<span data-ttu-id="760d7-112">處理程序的運作方式如下：</span><span class="sxs-lookup"><span data-stu-id="760d7-112">Here's how the process works:</span></span>
+<span data-ttu-id="ec9ac-112">以下是程序的運作方式：</span><span class="sxs-lookup"><span data-stu-id="ec9ac-112">Here's how the process works:</span></span>
 
-- <span data-ttu-id="760d7-113">FastTrack Center 會嘗試與您連絡之後您購買授權的合格服務, 提供上架協助。</span><span class="sxs-lookup"><span data-stu-id="760d7-113">The FastTrack Center tries to contact you to offer onboarding assistance after you purchase licenses of an eligible service.</span></span> <span data-ttu-id="760d7-114">您也可以要求[FastTrack Center](https://go.microsoft.com/fwlink/?linkid=780698)協助，如果您已準備好部署這些服務的組織。</span><span class="sxs-lookup"><span data-stu-id="760d7-114">You can also request assistance from the [FastTrack Center](https://go.microsoft.com/fwlink/?linkid=780698) if you're ready to deploy these services for your organization.</span></span> <span data-ttu-id="760d7-115">若要要求協助， [FastTrack Center](https://go.microsoft.com/fwlink/?linkid=780698)與您的公司或學校帳戶登入、 移至儀表板，依序展開 [**需要協助嗎？** 連結] 頁面上，右下角，然後依照提示以完成您的要求。</span><span class="sxs-lookup"><span data-stu-id="760d7-115">To request assistance, sign in to the [FastTrack Center](https://go.microsoft.com/fwlink/?linkid=780698) with your work or school account, go to the dashboard, expand the **Need Help?** link at the lower-right corner of the page, and then follow the prompts to complete your request.</span></span> <span data-ttu-id="760d7-116">一旦上架啟動，我們會將設定線上會議的排程。</span><span class="sxs-lookup"><span data-stu-id="760d7-116">Once onboarding starts, we’ll set up a schedule of online meetings.</span></span>
+- <span data-ttu-id="ec9ac-113">在您購買合格服務的授權之後，FastTrack 中心會嘗試連絡您以提供上架協助。</span><span class="sxs-lookup"><span data-stu-id="ec9ac-113">The FastTrack Center tries to contact you to offer onboarding assistance after you purchase licenses of an eligible service.</span></span> <span data-ttu-id="ec9ac-114">如果您已準備好要將這些服務部署到組織中，也可以從 [FastTrack 中心](https://go.microsoft.com/fwlink/?linkid=780698)要求協助。</span><span class="sxs-lookup"><span data-stu-id="ec9ac-114">You can also request assistance from the [FastTrack Center](https://go.microsoft.com/fwlink/?linkid=780698) if you're ready to deploy these services for your organization.</span></span> <span data-ttu-id="ec9ac-115">若要要求協助，請使用公司或學校帳戶登入 [FastTrack 中心](https://go.microsoft.com/fwlink/?linkid=780698)、前往儀表板、展開頁面右下角的 [需要協助嗎？]\*\*\*\* 連結，然後依照提示完成您的要求。</span><span class="sxs-lookup"><span data-stu-id="ec9ac-115">To request assistance, sign in to the [FastTrack Center](https://go.microsoft.com/fwlink/?linkid=780698) with your work or school account, go to the dashboard, expand the **Need Help?** link at the lower-right corner of the page, and then follow the prompts to complete your request.</span></span> <span data-ttu-id="ec9ac-116">上架開始後，我們將安排線上會議的時間。</span><span class="sxs-lookup"><span data-stu-id="ec9ac-116">Once onboarding assistance starts, we set up a schedule of online meetings.</span></span>
 
--   <span data-ttu-id="760d7-117">FastTrack 團隊可協助您第一次與核心功能 （如所有的 Microsoft Online Services 常見），然後使用上架每個合格服務。</span><span class="sxs-lookup"><span data-stu-id="760d7-117">The FastTrack team helps you first with core capabilities (common for all Microsoft Online Services) and then with onboarding each eligible service.</span></span>
+-   <span data-ttu-id="ec9ac-117">FastTrack 團隊會先幫助您上架核心功能 (所有 Microsoft Online 服務的共同功能)，然後再上架個別合格服務。</span><span class="sxs-lookup"><span data-stu-id="ec9ac-117">The FastTrack team helps you first with core capabilities (common for all Microsoft Online Services) and then with onboarding each eligible service.</span></span>
 
-<span data-ttu-id="760d7-118">由獲派 FastTrack 人員自遠端提供所有上架指引：</span><span class="sxs-lookup"><span data-stu-id="760d7-118">All onboarding guidance is provided remotely by assigned FastTrack personnel:</span></span>
+<span data-ttu-id="ec9ac-118">所有上架指導皆由專門的 FastTrack 人員從遠端進行：</span><span class="sxs-lookup"><span data-stu-id="ec9ac-118">All onboarding guidance is provided remotely by assigned FastTrack personnel:</span></span>
 
--   <span data-ttu-id="760d7-119">FastTrack 團隊遠端可協助您使用各種不同的上架活動使用工具、 說明文件與指引組合。</span><span class="sxs-lookup"><span data-stu-id="760d7-119">The FastTrack team remotely assists you with various onboarding activities by using a combination of tools, documentation, and guidance.</span></span>
+-   <span data-ttu-id="ec9ac-119">FastTrack 將透過遠端方式搭配使用各項工具、文件和指引來協助您進行不同的上架活動。</span><span class="sxs-lookup"><span data-stu-id="ec9ac-119">The FastTrack team remotely assists you with various onboarding activities by using a combination of tools, documentation, and guidance.</span></span>
 
--   <span data-ttu-id="760d7-120">上架指引由 FastTrack Center，提供，並且是在指定地區的一般上班時段提供。</span><span class="sxs-lookup"><span data-stu-id="760d7-120">Onboarding guidance is provided by the FastTrack Center, and is available during normal business hours for a given region.</span></span>
+-   <span data-ttu-id="ec9ac-120">上架指導由 FastTrack 中心提供，在指定地區的正常上班時間內提供。</span><span class="sxs-lookup"><span data-stu-id="ec9ac-120">Onboarding guidance is provided by the FastTrack Center, and is available during normal business hours for a given region.</span></span>
 
--   <span data-ttu-id="760d7-121">上架協助有： 繁體中文、 簡體中文 （中文的資源中文只）、 英文、 法文、 德文、 義大利文、 日文、 韓文、 葡萄牙文 （巴西）、 西班牙文、 泰文和越南文。</span><span class="sxs-lookup"><span data-stu-id="760d7-121">Onboarding assistance is available in Traditional Chinese, Simplified Chinese (resources speak Mandarin only), English, French, German, Italian, Japanese, Korean, Portuguese (Brazil), Spanish, Thai, and Vietnamese.</span></span>
+-   <span data-ttu-id="ec9ac-121">上架協助提供的語言有：繁體中文、簡體中文 (僅說中文的資源)、英文、法文、德文、義大利文、日文、韓文、葡萄牙文 (巴西)、西班牙文、泰文以及越南文。</span><span class="sxs-lookup"><span data-stu-id="ec9ac-121">Assistance is available in Traditional Chinese and Simplified Chinese (resources speak Mandarin only), English, French, German, Italian, Japanese, Korean, Portuguese (Brazil), Spanish, Thai, and Vietnamese.</span></span>
 
--   <span data-ttu-id="760d7-122">FastTrack 團隊可直接與您或您的代表配合運作。</span><span class="sxs-lookup"><span data-stu-id="760d7-122">The FastTrack team can work directly with you or your representative.</span></span>
+-   <span data-ttu-id="ec9ac-122">FastTrack 團隊可直接與您或您的代表配合。</span><span class="sxs-lookup"><span data-stu-id="ec9ac-122">FastTrack Specialists can work directly with you or your representative.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="760d7-123">**想要了解更多？** 請參閱[Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility)。</span><span class="sxs-lookup"><span data-stu-id="760d7-123">**Want to learn more?** see [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).</span></span>
+> <span data-ttu-id="ec9ac-123">**想要深入了解？** 請參閱 [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility)。</span><span class="sxs-lookup"><span data-stu-id="ec9ac-123">**Want to learn more?** see [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="760d7-124">後續步驟</span><span class="sxs-lookup"><span data-stu-id="760d7-124">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="ec9ac-124">後續步驟</span><span class="sxs-lookup"><span data-stu-id="ec9ac-124">Next steps</span></span>
 
-[<span data-ttu-id="760d7-125">FastTrack Center 權益 ems-來源環境預期</span><span class="sxs-lookup"><span data-stu-id="760d7-125">FastTrack Center benefit for EMS - Source environment expectations</span></span>](EMS-source-environment-expectations.md)
+[<span data-ttu-id="ec9ac-125">適用於 EMS 的 FastTrack 中心權益 - 來源環境期待</span><span class="sxs-lookup"><span data-stu-id="ec9ac-125">FastTrack Center benefit for EMS - Source environment expectations</span></span>](EMS-source-environment-expectations.md)

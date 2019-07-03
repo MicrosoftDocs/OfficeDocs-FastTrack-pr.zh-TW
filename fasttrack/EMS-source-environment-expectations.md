@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: c3cbc52811bfdbb6780fefce58e8a58f7ad78c14
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: 2b4a24dad8319abd723ce32d1cefa6eb3b440cfa
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673561"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35410812"
 ---
 # <a name="source-environment-expectations"></a>來源環境預期
 
@@ -38,7 +38,7 @@ ms.locfileid: "34673561"
 |與 Windows Defender 進階威脅防護 (Windows Defender ATP) 整合的 Intune|您的 Windows Defender ATP 訂閱已根據您公司的安全性需求啟用並設定。<br /><br />**附註**：FastTrack 服務權益可協助將 Intune 與 Windows Defender ATP 整合，並根據其 Windows 10 風險層級評估來建立裝置合規性原則。 FastTrack 服務權益不包含協助購買、授權、啟用或使用 Windows Defender ATP 和其資訊安全中心主控台。 |
 |Windows Autopilot|IT 系統管理員需負責向組織註冊他們的裝置，方法是讓硬體廠商代表他們上傳或是自行上傳其硬體識別碼到 Windows Autopilot 服務。 |
 |使用 Intune 安全地部署 iOS 版和 Android 版Outlook|<br /><br />- 在 Office 365 適用的 Azure AD 中啟用使用者身分識別。<br />- 設定了獲指派使用者授權的 Exchange Online 或混合式 Exchange。<br />|
-|Azure 資訊保護 (P2 或 EMS E5)|<br /><br />客戶應該已經： <br /> - 使用 Azure AD。<br />- 使用 Windows 或 iOS (其他作業系統不在範圍內)。<br /> - 使用不仰賴 Office Online 做為主要用戶端的 Office 2010 SP2 以上版本 Office 用戶端。 <br /> - 擁有其主要檔案共用位置。  <br /> - 已從 Active Directory Rights Management Services (AD RMS) 升級。 <br /> - 擁有經核准的分類法。 <br /> - 了解其受保護金鑰管理的任何法規限制。 <br />|
+|Azure 資訊保護 (P2 或 EMS E5)|<br /><br />客戶應該已經： <br /> - 使用 Azure AD。<br />- 使用 Windows 或 iOS (其他作業系統不在範圍內)。<br /> - 使用不仰賴 Office 做為主要用戶端的 Office 2010 SP2 以上版本 Office 用戶端。 <br /> - 擁有其主要檔案共用位置。  <br /> - 已從 Active Directory Rights Management Services (AD RMS) 升級。 <br /> - 擁有經核准的分類法。 <br /> - 了解其受保護金鑰管理的任何法規限制。 <br />|
 |Azure 資訊保護掃描器|<br /><br /> 客戶應該已經： <br /> - 使用 Windows Server 2012 R2 或 Windows Server 2016。<br /> - 擁有網際網路連線。 <br /> - 在本機或遠端執行個體中具備 Microsoft SQL Server 2012 以上版本。  <br /> - 已為其內部部署 Active Directory 建立服務帳戶，並與 Azure AD 同步處理。  <br /> - 已下載 AzInfoProtection.exe。 <br /> - 有針對自動分類/保護設定的標籤。<br />|
 
 > [!NOTE]

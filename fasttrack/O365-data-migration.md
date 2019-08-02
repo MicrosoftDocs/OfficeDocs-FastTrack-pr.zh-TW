@@ -3,19 +3,19 @@ title: 資料移轉
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 07/02/2019
+ms.date: 08/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 專家提供將資料移轉至 Office 365 的步驟指引。這適用於 Exchange Online、商務用 OneDrive 和 SharePoint Online 的 Office 365 服務所有符合資格的客戶。
-ms.openlocfilehash: ed4ab422333ca86eecbbb4fb152c2ca1378628be
-ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
+ms.openlocfilehash: 1b55fba1810cf730bee84357b8ed1d08f05154d1
+ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "35410956"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36053628"
 ---
 # <a name="data-migration"></a>資料移轉
 

@@ -3,19 +3,19 @@ title: FastTrack 責任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 06/04/2019
+ms.date: 08/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 在上架期間 FastTrack 專家需擔負下列責任。
-ms.openlocfilehash: 93d88be1b3279b19d1136f96968bb9f2c39713ea
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: c1121c804b547401c18050be6013f62c5bbc8fe1
+ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673592"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36053952"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 責任
 
@@ -221,8 +221,9 @@ ms.locfileid: "34673592"
 - 使用 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 指派使用者授權。
 - 使用隨選即用從 Office 365 入口網站安裝 Office 365 專業增強版。
 - 在您的 iOS、Android 或 Windows Mobile 裝置上安裝 Office Mobile 應用程式 (如 Outlook for iOS 和 Android、Word Mobile、Excel Mobile 和 PowerPoint Mobile)。 
-- 使用 Office 2016 部署工具或群組原則範本來設定更新設定。
-- 設定 Office 365 專業增強版的單一內部網站發佈伺服器，包含建立搭配 Office 365 部署工具使用之 configuration.xml 檔案的相關協助。
+- 使用 Office 365 部署工具來設定更新設定。
+- 選取並設定本地或雲端安裝。
+- 使用 Office 自訂工具或原生 XML 建立 Office 部署工具，以設定部署套件。
 - 使用 System Center Configuration Manager 部署，包含建立 System Center Configuration Manager 封裝的協助。
     
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub

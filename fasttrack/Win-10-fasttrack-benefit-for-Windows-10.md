@@ -3,28 +3,29 @@ title: 適用於 Windows 10 的 FastTrack 中心權益
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 當您購買「至少」** 150 份合格服務或方案的授權時，可使用適用於 Windows 10 的 FastTrack 中心權益。
-ms.openlocfilehash: 4f5bb38f90f9fcae180f6e4d6d4d7771a597c03a
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: ddf69dae98fc9868f3071b470bdd67bbc1dd1e68
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054120"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294413"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>適用於 Windows 10 的 FastTrack 中心權益
 
-購買至少 150 份合格服務或方案的授權，即可使用適用於 Windows 10 的 FastTrack 中心權益。然後您可與 FastTrack 專家合作，如果您在部署至 Windows 10 和 Office 365 專業增強版時遇到應用程式相容性問題，則專家會提供建議和修復指引，並且讓您保持在最新狀態，不需要額外成本 (具有合格訂閱)。
+當您購買至少 150 份合格服務或方案的授權時，可使用適用於 Windows 10 的 FastTrack 中心權益。 然後您可以與 FastTrack 專家合作，以評估、修復和部署 Windows 10，以及協調 Office 365 專業增強版的 FastTrack 中心權益。 如果您遇到應用程式相容性問題，「傳統型應用程式保證」服務可提供能提供建議和補救指導方針的 FastTrack 專家。  FastTrack 專家也會在您部署時提供指導方針，並讓 Windows 10 和 Office 365 專業增強版保持最新。 這些服務權益會對 FastTrack [適用的服務與方案](M365-eligible-services-and-plans.md)中包含的訂閱免費提供。
   
 > [!NOTE]
 > 以這份文件來說，FastTrack 的專家可能包含 Microsoft 員工、Microsoft 核准的廠商以及 Microsoft 核准的合作夥伴。 
     
-
+- [Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md)
+- [傳統型應用程式保證](Win-10-desktop-app-assure.md)
   
 
   

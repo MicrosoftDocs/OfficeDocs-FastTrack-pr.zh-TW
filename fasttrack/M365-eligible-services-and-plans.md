@@ -3,19 +3,19 @@ title: 適用的服務與方案
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 當您購買任何 Microsoft 365 服務，FastTrack 專家可提供您 Microsoft 365 的上架指引，讓您即刻開始使用。
-ms.openlocfilehash: ee7b762486b069313569485b313c95eb9d32028e
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 59d59f4ac419c5a40e557ce46fdd3c0e5f3199c4
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053880"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294215"
 ---
 # <a name="eligible-services-and-plans"></a>適用的服務與方案
 
@@ -32,9 +32,7 @@ ms.locfileid: "36053880"
 1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
 2.  選取 [服務]****。
 3.  填妥**要求協助使用 Microsoft 365** 表單。
-    > [!NOTE]
-    >  如果您有合作夥伴列在您的 Office 365 租用戶中，您將看不到這個選項。請洽詢您的合作夥伴，以取得協助。 
-
+  
 合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。作法如下：
 1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
 2.  選取 [我的客戶]****。
@@ -163,7 +161,7 @@ FastTrack 中心提供下列服務的協助：
 |**Microsoft Azure Active Directory Premium**     |  適用於以獨立方案形式購買，或以隨附於 E3 或 E5 方式取得該軟體。       |
 |**Microsoft Azure 資訊保護**    |  適用於 P2，以隨附於 E5 方式或以獨立方案形式。 適用於符合 FastTrack 權益的雲端服務。 若為雲端服務 P1，FastTrack 會共用自我部署指南。       |
 |**Microsoft Intune**    |   適用於以獨立方案形式購買，或以隨附於 E3 或 E5 方式取得該軟體。      |
-|**Cloud Attach**     |    適用於以獨立方案形式購買，或以隨附於 E3 或 E5 方式取得該軟體。     |
+|**隨著 Microsoft Intune 雲端附加 Configuration Manager**     |    適用於以獨立方案形式購買，或以隨附於 E3 或 E5 方式取得該軟體。     |
 |**Microsoft Intune 教育版**     |  適用於以獨立方案形式購買，或以隨附於 A3 或 A5 方式取得該軟體。       |
 |**Microsoft Advanced Threat Protection**     |    資格有限。 僅限以獨立方案形式購買的軟體。 若要以獨立方案形式購買，請前往 [Microsoft 365 FastTrack 入口網站](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。   |
 |**Microsoft Advanced Threat Analytics**   |        資格有限。僅限以獨立方案形式購買的軟體。若要以獨立方案形式購買，請前往 [Microsoft 365 FastTrack 入口網站](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。    |

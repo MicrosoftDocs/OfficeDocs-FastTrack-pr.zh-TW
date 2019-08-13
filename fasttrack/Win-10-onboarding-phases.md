@@ -3,19 +3,19 @@ title: 上架階段
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 上架有四個主要階段 - 起始、評估、修復與啟用。
-ms.openlocfilehash: e0edad16976fadbe33cee95af5f90d5c02f6bf61
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 0789cb80e25a085d2d631d6032b5c7663bd1b8c2
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054096"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294359"
 ---
 # <a name="onboarding-phases"></a>上架階段
 
@@ -29,7 +29,7 @@ Windows 10 上架有四個主要階段 - 起始、評估、修復與啟用。
 
 FastTrack 專家會與您一起評估您的來源環境和需求。 請確定 System Center Configuration Manager 已升級至支援 Windows 10 部署所需的層級。 
 
-我們會為您提供評估 Windows 10 應用程式的建議選項。
+我們會為您提供評估 Windows 10 應用程式的建議選項。 FastTrack 提供指導方針來啟用桌面分析的使用，並引導您建立電腦分析部署計劃。
 
 FastTrack 還可以透過 Configuration Manager 中的Office 365 整備儀表板或使用獨立的 Readiness Toolkit for Office 來引導您進行 Office 365 專業增強版相容性評估。 如需可用服務的詳細資訊，請參閱[適用於 Office 365 的 FastTrack 中心權益](O365-fasttrack-benefit-for-office-365.md)。 
 

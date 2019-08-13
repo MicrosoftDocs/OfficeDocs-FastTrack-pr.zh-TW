@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 程序提供上架和使用者採用服務。
-ms.openlocfilehash: 7fdc5c01ee2da2c28409dd187f0f2fed8e6ea3b0
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 854f30a9af210da5f6fb4837e473fd29fea5d606
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053988"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294335"
 ---
 # <a name="the-fasttrack-process"></a>FastTrack 處理程序
 
@@ -45,10 +45,8 @@ FastTrack 程序提供上架和使用者採用服務。
 1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
 2.  選取 [服務]****。
 3.  填妥**要求協助使用 Microsoft 365** 表單。 
-> [!NOTE]
->  如果您有合作夥伴列在您的 Office 365 租用戶中，您將看不到這個選項。請洽詢您的合作夥伴，以取得協助。 
   
- 您也可以從租用戶的可用服務清單中的 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698) 要求 FastTrack Center 協助。 
+ 您也可以從租用戶的可用服務清單中的 FastTrack Center[FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)要求協助。 
     
  一旦上架協助啟動，我們將設定線上會議的排程。
     

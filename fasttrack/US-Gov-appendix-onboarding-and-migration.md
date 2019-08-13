@@ -3,19 +3,19 @@ title: 上架及移轉階段 for Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 US government 的 office 365 上架有四個主要階段-啟始、 評估、 修復與啟用。 您可以在這些階段後面選擇接著資料移轉階段，如下圖所示。
-ms.openlocfilehash: 5e44bb896183b75079f9cb5126626ae0b37fc4a2
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: dc7a100bf956e7f29d68b4392f13c488c0fbdf8e
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053712"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294347"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>上架及移轉階段 for Office 365 US Government
 
@@ -38,8 +38,6 @@ Office 365 上架有四個主要階段 - 起始、評估、修復與啟用。您
 2.  選取 [FastTrack]****。
 3.  選取 [服務]****。
 4.  填妥**要求協助使用 Microsoft 365** 表單。 
-    > [!NOTE]
-    >  如果您有合作夥伴列在您的 Office 365 租用戶中，您將看不到這個選項。請洽詢您的合作夥伴，以取得協助。 
 
 合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。作法如下：
 1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 

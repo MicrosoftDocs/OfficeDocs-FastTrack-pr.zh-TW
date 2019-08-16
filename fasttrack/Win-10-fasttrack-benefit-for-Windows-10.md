@@ -10,22 +10,22 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 當您購買「至少」** 150 份合格服務或方案的授權時，可使用適用於 Windows 10 的 FastTrack 中心權益。
-ms.openlocfilehash: ddf69dae98fc9868f3071b470bdd67bbc1dd1e68
-ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
+ms.openlocfilehash: 6ef15aa75c24fe3d290de643fff0aec2cc0e80f5
+ms.sourcegitcommit: 7418a1878b0c254b239583c13a97f712c8c2bffe
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "36294413"
+ms.lasthandoff: 08/15/2019
+ms.locfileid: "36427394"
 ---
-# <a name="fasttrack-center-benefit-for-windows-10"></a><span data-ttu-id="7ba2d-103">適用於 Windows 10 的 FastTrack 中心權益</span><span class="sxs-lookup"><span data-stu-id="7ba2d-103">FastTrack Center Benefit for Windows 10</span></span>
+# <a name="fasttrack-center-benefit-for-windows-10"></a><span data-ttu-id="3c10f-103">適用於 Windows 10 的 FastTrack 中心權益</span><span class="sxs-lookup"><span data-stu-id="3c10f-103">FastTrack Center Benefit for Windows 10</span></span>
 
-<span data-ttu-id="7ba2d-104">當您購買至少 150 份合格服務或方案的授權時，可使用適用於 Windows 10 的 FastTrack 中心權益。</span><span class="sxs-lookup"><span data-stu-id="7ba2d-104">You use the FastTrack Center Benefit for Windows 10 when you purchase  at least  150 licenses for an eligible service or plan.</span></span> <span data-ttu-id="7ba2d-105">然後您可以與 FastTrack 專家合作，以評估、修復和部署 Windows 10，以及協調 Office 365 專業增強版的 FastTrack 中心權益。</span><span class="sxs-lookup"><span data-stu-id="7ba2d-105">You then work with FastTrack Specialists to assess, remediate, and deploy Windows 10 and coordinate FastTrack Center benefits for Office 365 ProPlus.</span></span> <span data-ttu-id="7ba2d-106">如果您遇到應用程式相容性問題，「傳統型應用程式保證」服務可提供能提供建議和補救指導方針的 FastTrack 專家。</span><span class="sxs-lookup"><span data-stu-id="7ba2d-106">The Desktop App Assure service makes a FastTrack Specialist available who provides advisory and remediation guidance if you encounter app compatibility issues.</span></span>  <span data-ttu-id="7ba2d-107">FastTrack 專家也會在您部署時提供指導方針，並讓 Windows 10 和 Office 365 專業增強版保持最新。</span><span class="sxs-lookup"><span data-stu-id="7ba2d-107">FastTrack Specialists will also provide guidance as you deploy and stay up-to-date with Windows 10 and Office 365 ProPlus.</span></span> <span data-ttu-id="7ba2d-108">這些服務權益會對 FastTrack [適用的服務與方案](M365-eligible-services-and-plans.md)中包含的訂閱免費提供。</span><span class="sxs-lookup"><span data-stu-id="7ba2d-108">These service benefits are available at no additional cost with an eligible subscription included in the FastTrack [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
+<span data-ttu-id="3c10f-104">當您購買至少 150 份合格服務或方案的授權時，可使用適用於 Windows 10 的 FastTrack 中心權益。</span><span class="sxs-lookup"><span data-stu-id="3c10f-104">You use the FastTrack Center Benefit for Windows 10 when you purchase  at least  150 licenses for an eligible service or plan.</span></span> <span data-ttu-id="3c10f-105">然後您可以與 FastTrack 專家合作，以評估、修復和部署 Windows 10，以及協調 Office 365 專業增強版的 FastTrack 中心權益。</span><span class="sxs-lookup"><span data-stu-id="3c10f-105">You then work with FastTrack Specialists to assess, remediate, and deploy Windows 10 and coordinate FastTrack Center benefits for Office 365 ProPlus.</span></span> <span data-ttu-id="3c10f-106">如果您遇到應用程式相容性問題，「傳統型應用程式保證」服務可提供能提供建議和補救指導方針的 FastTrack 專家。</span><span class="sxs-lookup"><span data-stu-id="3c10f-106">The Desktop App Assure service makes a FastTrack Specialist available who provides advisory and remediation guidance if you encounter app compatibility issues.</span></span>  <span data-ttu-id="3c10f-107">FastTrack 專家也會在您部署時提供指導方針，並讓 Windows 10 和 Office 365 專業增強版保持最新。</span><span class="sxs-lookup"><span data-stu-id="3c10f-107">FastTrack Specialists will also provide guidance as you deploy and stay up-to-date with Windows 10 and Office 365 ProPlus.</span></span> <span data-ttu-id="3c10f-108">這些服務權益會對 FastTrack [適用的服務與方案](M365-eligible-services-and-plans.md)中包含的訂閱免費提供。</span><span class="sxs-lookup"><span data-stu-id="3c10f-108">These service benefits are available at no additional cost with an eligible subscription included in the FastTrack [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
   
 > [!NOTE]
-> <span data-ttu-id="7ba2d-109">以這份文件來說，FastTrack 的專家可能包含 Microsoft 員工、Microsoft 核准的廠商以及 Microsoft 核准的合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="7ba2d-109">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span> 
+> <span data-ttu-id="3c10f-109">以這份文件來說，FastTrack 的專家可能包含 Microsoft 員工、Microsoft 核准的廠商以及 Microsoft 核准的合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="3c10f-109">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span> 
     
-- [<span data-ttu-id="7ba2d-110">Windows 10</span><span class="sxs-lookup"><span data-stu-id="7ba2d-110">Windows 10</span></span>](Win-10-fasttrack-benefit-for-Windows-10.md)
-- [<span data-ttu-id="7ba2d-111">傳統型應用程式保證</span><span class="sxs-lookup"><span data-stu-id="7ba2d-111">Desktop App Assure</span></span>](Win-10-desktop-app-assure.md)
+- [<span data-ttu-id="3c10f-110">Windows 10</span><span class="sxs-lookup"><span data-stu-id="3c10f-110">Windows 10</span></span>](Win-10-windows-10.md)
+- [<span data-ttu-id="3c10f-111">傳統型應用程式保證</span><span class="sxs-lookup"><span data-stu-id="3c10f-111">Desktop App Assure</span></span>](Win-10-desktop-app-assure.md)
   
 
   

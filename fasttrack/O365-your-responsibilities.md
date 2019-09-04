@@ -3,105 +3,105 @@ title: 您的責任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 09/04/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 在上架期間您需擔負下列責任。
-ms.openlocfilehash: 726756fdc73a767e8af80b8809487b40d7b5cb94
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 60bdfd0ba6a9d9840a8cdaaa64506c0aba8b1716
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054060"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36712101"
 ---
-# <a name="your-responsibilities"></a><span data-ttu-id="596ee-103">您的責任</span><span class="sxs-lookup"><span data-stu-id="596ee-103">Your Responsibilities</span></span>
+# <a name="your-responsibilities"></a><span data-ttu-id="c8c4f-103">您的責任</span><span class="sxs-lookup"><span data-stu-id="c8c4f-103">Your Responsibilities</span></span>
 
-<span data-ttu-id="596ee-104">在上架期間您需擔負下列責任。\*</span><span class="sxs-lookup"><span data-stu-id="596ee-104">You have the following responsibilities during onboarding.\*</span></span>
+<span data-ttu-id="c8c4f-104">在上架期間您需擔負下列責任。\*</span><span class="sxs-lookup"><span data-stu-id="c8c4f-104">You have the following responsibilities during onboarding.\*</span></span>
   
-## <a name="general"></a><span data-ttu-id="596ee-105">一般</span><span class="sxs-lookup"><span data-stu-id="596ee-105">General</span></span>
+## <a name="general"></a><span data-ttu-id="c8c4f-105">一般</span><span class="sxs-lookup"><span data-stu-id="c8c4f-105">General</span></span>
 
-- <span data-ttu-id="596ee-106">開發並實作您的成功計劃。</span><span class="sxs-lookup"><span data-stu-id="596ee-106">Develop and implement your success plan.</span></span>
-- <span data-ttu-id="596ee-107">提供在此所列的可設定選項以外，任何對 Office 365 租用戶的增強功能和整合。</span><span class="sxs-lookup"><span data-stu-id="596ee-107">Provide any enhancements and integrations to your Office 365 tenant beyond the configurable options listed here.</span></span>  
-- <span data-ttu-id="596ee-108">提供整體方案和專案管理，包含：</span><span class="sxs-lookup"><span data-stu-id="596ee-108">Provide overall program and project management, including:</span></span> 
-  - <span data-ttu-id="596ee-109">指派專案經理做為 FastTrack 專案經理的主要連絡人。</span><span class="sxs-lookup"><span data-stu-id="596ee-109">Assigning a project manager as the primary contact for the FastTrack Manager.</span></span>
-  - <span data-ttu-id="596ee-110">指派專案經理做為 FastTrack 工程師的主要技術指導。</span><span class="sxs-lookup"><span data-stu-id="596ee-110">Assigning a technical lead as the primary contact for the FastTrack Engineer.</span></span>
-  - <span data-ttu-id="596ee-111">指派執行修復、設定及啟用由 FastTrack 小組所述工作的技術資源。</span><span class="sxs-lookup"><span data-stu-id="596ee-111">Assigning technical resources to perform remediation, configuration, and enablement tasks as outlined by the FastTrack team.</span></span> 
-- <span data-ttu-id="596ee-112">提供負責推動使用者採用服務的資源。</span><span class="sxs-lookup"><span data-stu-id="596ee-112">Provide resources accountable for driving end user adoption of the service.</span></span> 
-- <span data-ttu-id="596ee-113">提供使用者通訊、文件、訓練和變更管理。</span><span class="sxs-lookup"><span data-stu-id="596ee-113">Provide end-user communications, documentation, training, and change management.</span></span>
-- <span data-ttu-id="596ee-114">識別及吸引適當的商業贊助者。</span><span class="sxs-lookup"><span data-stu-id="596ee-114">Identify and engage appropriate business sponsors.</span></span>  
-- <span data-ttu-id="596ee-115">提供技術服務人員文件和訓練。</span><span class="sxs-lookup"><span data-stu-id="596ee-115">Provide helpdesk documentation and training.</span></span>  
-- <span data-ttu-id="596ee-116">產生您的組織之特定報告、簡報或會議記錄。</span><span class="sxs-lookup"><span data-stu-id="596ee-116">Produce any reports, presentations, or meeting minutes that are specific to your organization.</span></span> 
-- <span data-ttu-id="596ee-117">建立您的組織之特定架構和技術文件。</span><span class="sxs-lookup"><span data-stu-id="596ee-117">Create architectural and technical documentation specific to your organization.</span></span>   
-- <span data-ttu-id="596ee-118">設計、採購、安裝並設定硬體和網路。</span><span class="sxs-lookup"><span data-stu-id="596ee-118">Design, procure, install, and configure hardware and networking.</span></span>   
-- <span data-ttu-id="596ee-119">採購、安裝並設定軟體。</span><span class="sxs-lookup"><span data-stu-id="596ee-119">Procure, install, and configure software.</span></span>  
-- <span data-ttu-id="596ee-120">設定、封裝和發佈 Office 365 所需的用戶端軟體。</span><span class="sxs-lookup"><span data-stu-id="596ee-120">Configure, package, and distribute client software required for Office 365.</span></span>  
-- <span data-ttu-id="596ee-121">管理、設定並套用安全性原則。</span><span class="sxs-lookup"><span data-stu-id="596ee-121">Manage, configure, and apply security policies.</span></span>
-- <span data-ttu-id="596ee-122">啟動行動裝置。</span><span class="sxs-lookup"><span data-stu-id="596ee-122">Activate mobile devices.</span></span>
-- <span data-ttu-id="596ee-123">提供網路組態、分析、頻寬驗證、測試和監視。</span><span class="sxs-lookup"><span data-stu-id="596ee-123">Provide network configuration, analysis, bandwidth validation, testing, and monitoring.</span></span> 
-- <span data-ttu-id="596ee-124">改變網路以提供 商務用 Skype Online 服務所需的頻寬。</span><span class="sxs-lookup"><span data-stu-id="596ee-124">Alter the network to provide necessary bandwidth for Skype for Business Online services.</span></span> 
-- <span data-ttu-id="596ee-125">管理技術變更管理核准程序，並建立支援文件。</span><span class="sxs-lookup"><span data-stu-id="596ee-125">Manage a technical change management approval process and create supporting documentation.</span></span>  
-- <span data-ttu-id="596ee-126">指定並定義使用者、工作站和伺服器管理的群組原則。</span><span class="sxs-lookup"><span data-stu-id="596ee-126">Specify and define group policies for user, workstation, and server management.</span></span> 
-- <span data-ttu-id="596ee-127">修改您的作業模式和作業指示。</span><span class="sxs-lookup"><span data-stu-id="596ee-127">Modify your operational model and operation guides.</span></span> 
-- <span data-ttu-id="596ee-128">設立多重要素驗證。</span><span class="sxs-lookup"><span data-stu-id="596ee-128">Set up multi-factor authentication.</span></span>  
-- <span data-ttu-id="596ee-129">解除委任和移除來源環境 (如訊息和共同作業)。</span><span class="sxs-lookup"><span data-stu-id="596ee-129">Decommission and remove source environments (like messaging and collaboration).</span></span> 
+- <span data-ttu-id="c8c4f-106">開發並實作您的成功計劃。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-106">Develop and implement your success plan.</span></span>
+- <span data-ttu-id="c8c4f-107">提供在此所列的可設定選項以外，任何對 Office 365 租用戶的增強功能和整合。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-107">Provide any enhancements and integrations to your Office 365 tenant beyond the configurable options listed here.</span></span>  
+- <span data-ttu-id="c8c4f-108">提供整體方案和專案管理，包含：</span><span class="sxs-lookup"><span data-stu-id="c8c4f-108">Provide overall program and project management, including:</span></span> 
+  - <span data-ttu-id="c8c4f-109">指派專案經理做為 FastTrack 專案經理的主要連絡人。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-109">Assigning a project manager as the primary contact for the FastTrack Manager.</span></span>
+  - <span data-ttu-id="c8c4f-110">指派專案經理做為 FastTrack 工程師的主要技術指導。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-110">Assigning a technical lead as the primary contact for the FastTrack Engineer.</span></span>
+  - <span data-ttu-id="c8c4f-111">指派執行修復、設定及啟用由 FastTrack 小組所述工作的技術資源。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-111">Assigning technical resources to perform remediation, configuration, and enablement tasks as outlined by the FastTrack team.</span></span> 
+- <span data-ttu-id="c8c4f-112">提供負責推動使用者採用服務的資源。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-112">Provide resources accountable for driving end user adoption of the service.</span></span> 
+- <span data-ttu-id="c8c4f-113">提供使用者通訊、文件、訓練和變更管理。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-113">Provide end-user communications, documentation, training, and change management.</span></span>
+- <span data-ttu-id="c8c4f-114">識別及吸引適當的商業贊助者。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-114">Identify and engage appropriate business sponsors.</span></span>  
+- <span data-ttu-id="c8c4f-115">提供技術服務人員文件和訓練。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-115">Provide helpdesk documentation and training.</span></span>  
+- <span data-ttu-id="c8c4f-116">產生您的組織之特定報告、簡報或會議記錄。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-116">Produce any reports, presentations, or meeting minutes that are specific to your organization.</span></span> 
+- <span data-ttu-id="c8c4f-117">建立您的組織之特定架構和技術文件。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-117">Create architectural and technical documentation specific to your organization.</span></span>   
+- <span data-ttu-id="c8c4f-118">設計、採購、安裝並設定硬體和網路。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-118">Design, procure, install, and configure hardware and networking.</span></span>   
+- <span data-ttu-id="c8c4f-119">採購、安裝並設定軟體。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-119">Procure, install, and configure software.</span></span>  
+- <span data-ttu-id="c8c4f-120">設定、封裝和發佈 Office 365 所需的用戶端軟體。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-120">Configure, package, and distribute client software required for Office 365.</span></span>  
+- <span data-ttu-id="c8c4f-121">管理、設定並套用安全性原則。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-121">Manage, configure, and apply security policies.</span></span>
+- <span data-ttu-id="c8c4f-122">啟動行動裝置。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-122">Activate mobile devices.</span></span>
+- <span data-ttu-id="c8c4f-123">提供網路組態、分析、頻寬驗證、測試和監視。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-123">Provide network configuration, analysis, bandwidth validation, testing, and monitoring.</span></span> 
+- <span data-ttu-id="c8c4f-124">改變網路以提供 商務用 Skype Online 服務所需的頻寬。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-124">Alter the network to provide necessary bandwidth for Skype for Business Online services.</span></span> 
+- <span data-ttu-id="c8c4f-125">管理技術變更管理核准程序，並建立支援文件。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-125">Manage a technical change management approval process and create supporting documentation.</span></span>  
+- <span data-ttu-id="c8c4f-126">指定並定義使用者、工作站和伺服器管理的群組原則。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-126">Specify and define group policies for user, workstation, and server management.</span></span> 
+- <span data-ttu-id="c8c4f-127">修改您的作業模式和作業指示。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-127">Modify your operational model and operation guides.</span></span> 
+- <span data-ttu-id="c8c4f-128">設立多重要素驗證。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-128">Set up multi-factor authentication.</span></span>  
+- <span data-ttu-id="c8c4f-129">解除委任和移除來源環境 (如訊息和共同作業)。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-129">Decommission and remove source environments (like messaging and collaboration).</span></span> 
     > [!NOTE]
-    > <span data-ttu-id="596ee-130">請確保所有需要的資料，都已在解除委任和移除來源環境之前進行了移轉。</span><span class="sxs-lookup"><span data-stu-id="596ee-130">Ensure that all wanted data is migrated prior to decommission and the removal of your source environment.</span></span> 
-- <span data-ttu-id="596ee-131">建構和維護您的測試環境。</span><span class="sxs-lookup"><span data-stu-id="596ee-131">Construct and maintain your test environment.</span></span>  
-- <span data-ttu-id="596ee-132">安裝 Lync 2013 或 商務用 Skype Online 2015 系統管理工具和 Service Pack，以支援分割網域組態。</span><span class="sxs-lookup"><span data-stu-id="596ee-132">Install Lync 2013 or Skype for Business Online 2015 admin tools and service packs to support split domain configuration.</span></span>
-- <span data-ttu-id="596ee-133">在基礎結構伺服器上安裝 Service Pack 和其他需要的更新項目。</span><span class="sxs-lookup"><span data-stu-id="596ee-133">Install service packs and other required updates on infrastructure servers.</span></span> 
-- <span data-ttu-id="596ee-134">提供並設定任何公用安全通訊端階層 (SSL) 憑證。</span><span class="sxs-lookup"><span data-stu-id="596ee-134">Provide and configure any public Secure Sockets Layer (SSL) certificates.</span></span> 
+    > <span data-ttu-id="c8c4f-130">請確保所有需要的資料，都已在解除委任和移除來源環境之前進行了移轉。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-130">Ensure that all wanted data is migrated prior to decommission and the removal of your source environment.</span></span> 
+- <span data-ttu-id="c8c4f-131">建構和維護您的測試環境。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-131">Construct and maintain your test environment.</span></span>  
+- <span data-ttu-id="c8c4f-132">安裝 Lync 2013 或 商務用 Skype Online 2015 系統管理工具和 Service Pack，以支援分割網域組態。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-132">Install Lync 2013 or Skype for Business Online 2015 admin tools and service packs to support split domain configuration.</span></span>
+- <span data-ttu-id="c8c4f-133">在基礎結構伺服器上安裝 Service Pack 和其他需要的更新項目。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-133">Install service packs and other required updates on infrastructure servers.</span></span> 
+- <span data-ttu-id="c8c4f-134">提供並設定任何公用安全通訊端階層 (SSL) 憑證。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-134">Provide and configure any public Secure Sockets Layer (SSL) certificates.</span></span> 
     
-## <a name="initiate-phase"></a><span data-ttu-id="596ee-135">啟始階段</span><span class="sxs-lookup"><span data-stu-id="596ee-135">Initiate phase</span></span>
+## <a name="initiate-phase"></a><span data-ttu-id="c8c4f-135">啟始階段</span><span class="sxs-lookup"><span data-stu-id="c8c4f-135">Initiate phase</span></span>
 
-- <span data-ttu-id="596ee-136">為加入合作關係設定共同作業 Microsoft Teams 空間，並邀請 FastTrack Center 小組成員。</span><span class="sxs-lookup"><span data-stu-id="596ee-136">Set up collaborative Microsoft Teams space for onboarding partnership and invite FastTrack Center team members.</span></span>   
-- <span data-ttu-id="596ee-137">與 FastTrack 專家合作開始將合格服務上架。</span><span class="sxs-lookup"><span data-stu-id="596ee-137">Work with FastTrack Specialists to begin onboarding of eligible services.</span></span>    
-- <span data-ttu-id="596ee-138">參與專案啟動會議、管理並領導組織的參與者，並確認修復時間表。</span><span class="sxs-lookup"><span data-stu-id="596ee-138">Participate in the engagement kickoff meeting, manage and lead participants from your organization, and confirm remediation timelines.</span></span>   
-- <span data-ttu-id="596ee-139">針對 Office 365 服務 (例如：SharePoint Online、Exchange Online、Microsoft Teams 和 Office 365 專業增強版) 提供您的目標，以及組織目標。</span><span class="sxs-lookup"><span data-stu-id="596ee-139">Provide your objectives for Office 365 services (for example, SharePoint Online, Exchange Online, Microsoft Teams, and Office 365 ProPlus) and organizational goals.</span></span>
+- <span data-ttu-id="c8c4f-136">為加入合作關係設定共同作業 Microsoft Teams 空間，並邀請 FastTrack Center 小組成員。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-136">Set up collaborative Microsoft Teams space for onboarding partnership and invite FastTrack Center team members.</span></span>   
+- <span data-ttu-id="c8c4f-137">與 FastTrack 專家合作開始將合格服務上架。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-137">Work with FastTrack Specialists to begin onboarding of eligible services.</span></span>    
+- <span data-ttu-id="c8c4f-138">參與專案啟動會議、管理並領導組織的參與者，並確認修復時間表。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-138">Participate in the engagement kickoff meeting, manage and lead participants from your organization, and confirm remediation timelines.</span></span>   
+- <span data-ttu-id="c8c4f-139">針對 Office 365 服務 (例如：SharePoint Online、Exchange Online、Microsoft Teams 和 Office 365 專業增強版) 提供您的目標，以及組織目標。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-139">Provide your objectives for Office 365 services (for example, SharePoint Online, Exchange Online, Microsoft Teams, and Office 365 ProPlus) and organizational goals.</span></span>
     
-## <a name="assess-phase"></a><span data-ttu-id="596ee-140">評估階段</span><span class="sxs-lookup"><span data-stu-id="596ee-140">Assess phase</span></span>
+## <a name="assess-phase"></a><span data-ttu-id="c8c4f-140">評估階段</span><span class="sxs-lookup"><span data-stu-id="c8c4f-140">Assess phase</span></span>
 
-- <span data-ttu-id="596ee-141">找出適當的專案關係人 (包括專案經理和企業擁有者) 來完成必要的評估活動。</span><span class="sxs-lookup"><span data-stu-id="596ee-141">Identify appropriate stakeholders (including a project manager and business owners) to complete the necessary assessment activities.</span></span>    
-- <span data-ttu-id="596ee-142">參與會議來建立修復檢查清單，並對整體規劃提出意見，包括基礎結構、網路、管理、目錄同步作業準備、網路安全性和同盟身分識別主題。</span><span class="sxs-lookup"><span data-stu-id="596ee-142">Participate in the meetings to create the remediation checklist, and contribute to the overall plan, including infrastructure, network, administration, directory synchronization preparation, network security, and federated identity topics.</span></span>   
-- <span data-ttu-id="596ee-143">參與會議來說明使用者佈建方法。</span><span class="sxs-lookup"><span data-stu-id="596ee-143">Participate in the meetings to outline the user-provisioning approach.</span></span>  
-- <span data-ttu-id="596ee-144">參與會議來規劃線上服務組態。</span><span class="sxs-lookup"><span data-stu-id="596ee-144">Participate in the meetings to plan online service configuration.</span></span>    
-- <span data-ttu-id="596ee-145">建立移轉整備的支援規劃。</span><span class="sxs-lookup"><span data-stu-id="596ee-145">Create support plan for migration readiness.</span></span> 
-- <span data-ttu-id="596ee-146">參與成功計劃的會議而建立大綱︰</span><span class="sxs-lookup"><span data-stu-id="596ee-146">Participate in the success planning call to outline:</span></span>   
-  - <span data-ttu-id="596ee-147">正確的重要關係人之參與。</span><span class="sxs-lookup"><span data-stu-id="596ee-147">The right stakeholders for the engagement.</span></span>  
-  - <span data-ttu-id="596ee-148">符合您整體組織需求和目標的案例。</span><span class="sxs-lookup"><span data-stu-id="596ee-148">Scenarios to fit the needs and goals across your organization.</span></span>
-  - <span data-ttu-id="596ee-149">組織認知與訓練計劃。</span><span class="sxs-lookup"><span data-stu-id="596ee-149">An organizational awareness and training plan.</span></span>
+- <span data-ttu-id="c8c4f-141">找出適當的專案關係人 (包括專案經理和企業擁有者) 來完成必要的評估活動。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-141">Identify appropriate stakeholders (including a project manager and business owners) to complete the necessary assessment activities.</span></span>    
+- <span data-ttu-id="c8c4f-142">參與會議來建立修復檢查清單，並對整體規劃提出意見，包括基礎結構、網路、管理、目錄同步作業準備、網路安全性和同盟身分識別主題。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-142">Participate in the meetings to create the remediation checklist, and contribute to the overall plan, including infrastructure, network, administration, directory synchronization preparation, network security, and federated identity topics.</span></span>   
+- <span data-ttu-id="c8c4f-143">參與會議來說明使用者佈建方法。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-143">Participate in the meetings to outline the user-provisioning approach.</span></span>  
+- <span data-ttu-id="c8c4f-144">參與會議來規劃線上服務組態。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-144">Participate in the meetings to plan online service configuration.</span></span>    
+- <span data-ttu-id="c8c4f-145">建立移轉整備的支援規劃。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-145">Create support plan for migration readiness.</span></span> 
+- <span data-ttu-id="c8c4f-146">參與成功計劃的會議而建立大綱︰</span><span class="sxs-lookup"><span data-stu-id="c8c4f-146">Participate in the success planning call to outline:</span></span>   
+  - <span data-ttu-id="c8c4f-147">正確的重要關係人之參與。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-147">The right stakeholders for the engagement.</span></span>  
+  - <span data-ttu-id="c8c4f-148">符合您整體組織需求和目標的案例。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-148">Scenarios to fit the needs and goals across your organization.</span></span>
+  - <span data-ttu-id="c8c4f-149">組織認知與訓練計劃。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-149">An organizational awareness and training plan.</span></span>
     
-## <a name="remediate-phase"></a><span data-ttu-id="596ee-150">修復階段</span><span class="sxs-lookup"><span data-stu-id="596ee-150">Remediate phase</span></span>
+## <a name="remediate-phase"></a><span data-ttu-id="c8c4f-150">修復階段</span><span class="sxs-lookup"><span data-stu-id="c8c4f-150">Remediate phase</span></span>
 
-- <span data-ttu-id="596ee-151">執行完成評估階段中所找出之修復活動所需的必要步驟。</span><span class="sxs-lookup"><span data-stu-id="596ee-151">Perform required steps to complete remediation activities identified in the Assess phase.</span></span> 
-- <span data-ttu-id="596ee-152">參與檢查點會議及：</span><span class="sxs-lookup"><span data-stu-id="596ee-152">Participate in checkpoint meetings and:</span></span> 
-  - <span data-ttu-id="596ee-153">定義商業案例。</span><span class="sxs-lookup"><span data-stu-id="596ee-153">Define business scenarios.</span></span>   
-  - <span data-ttu-id="596ee-154">定義並邀請重要關係人。</span><span class="sxs-lookup"><span data-stu-id="596ee-154">Define and engage stakeholders.</span></span>
-  - <span data-ttu-id="596ee-155">建置認知計畫。</span><span class="sxs-lookup"><span data-stu-id="596ee-155">Build an awareness plan.</span></span> 
-  - <span data-ttu-id="596ee-156">建置訓練計畫。</span><span class="sxs-lookup"><span data-stu-id="596ee-156">Build a training plan.</span></span>
+- <span data-ttu-id="c8c4f-151">執行完成評估階段中所找出之修復活動所需的必要步驟。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-151">Perform required steps to complete remediation activities identified in the Assess phase.</span></span> 
+- <span data-ttu-id="c8c4f-152">參與檢查點會議及：</span><span class="sxs-lookup"><span data-stu-id="c8c4f-152">Participate in checkpoint meetings and:</span></span> 
+  - <span data-ttu-id="c8c4f-153">定義商業案例。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-153">Define business scenarios.</span></span>   
+  - <span data-ttu-id="c8c4f-154">定義並邀請重要關係人。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-154">Define and engage stakeholders.</span></span>
+  - <span data-ttu-id="c8c4f-155">建置認知計畫。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-155">Build an awareness plan.</span></span> 
+  - <span data-ttu-id="c8c4f-156">建置訓練計畫。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-156">Build a training plan.</span></span>
     
-## <a name="enable-phase"></a><span data-ttu-id="596ee-157">啟用階段</span><span class="sxs-lookup"><span data-stu-id="596ee-157">Enable phase</span></span>
+## <a name="enable-phase"></a><span data-ttu-id="c8c4f-157">啟用階段</span><span class="sxs-lookup"><span data-stu-id="c8c4f-157">Enable phase</span></span>
 
-- <span data-ttu-id="596ee-158">與 FastTrack 專家合作，以完成將所有合格服務上架及：</span><span class="sxs-lookup"><span data-stu-id="596ee-158">Work with FastTrack Specialists to complete onboarding of all eligible services and:</span></span>  
-  - <span data-ttu-id="596ee-159">實作認知計劃。</span><span class="sxs-lookup"><span data-stu-id="596ee-159">Implement an awareness plan.</span></span>  
-  - <span data-ttu-id="596ee-160">實作訓練計劃。</span><span class="sxs-lookup"><span data-stu-id="596ee-160">Implement a training plan.</span></span> 
-  - <span data-ttu-id="596ee-161">提供成功計劃的進度，並判斷您在哪些方面需要指引。</span><span class="sxs-lookup"><span data-stu-id="596ee-161">Provide success planning progress and determine areas where you need guidance.</span></span>
-- <span data-ttu-id="596ee-162">如果您選擇讓 Microsoft 執行移轉工作，請提供 FastTrack 專家存取權和權限。</span><span class="sxs-lookup"><span data-stu-id="596ee-162">Provide FastTrack Specialists with access and permissions (if you choose to have Microsoft perform migration tasks).</span></span>  
-- <span data-ttu-id="596ee-163">視需要取得及提供目標環境的管理帳戶 (若您選擇進行 Microsoft 平台移轉活動)。</span><span class="sxs-lookup"><span data-stu-id="596ee-163">Procure and provide administrative accounts to target environments as appropriate (if you choose to have Microsoft perform migration activities).</span></span>   
-- <span data-ttu-id="596ee-164">視需要管理資源。</span><span class="sxs-lookup"><span data-stu-id="596ee-164">Manage resources as appropriate.</span></span>   
-- <span data-ttu-id="596ee-165">依據 Microsoft 的指引來設定網路相關項目。</span><span class="sxs-lookup"><span data-stu-id="596ee-165">Configure network-related items per Microsoft guidance.</span></span>  
-- <span data-ttu-id="596ee-166">根據包括您的 MX 記錄的網域驗證需求來設定 DNS 記錄。</span><span class="sxs-lookup"><span data-stu-id="596ee-166">Configure DNS records based on domain validation requirements to include your MX records.</span></span>   
-- <span data-ttu-id="596ee-167">依據 Microsoft 的指引來執行目錄整備及設定目錄同步作業。</span><span class="sxs-lookup"><span data-stu-id="596ee-167">Perform directory readiness and configure directory synchronization per Microsoft guidance.</span></span>
-- <span data-ttu-id="596ee-168">使用來自協力廠商目錄的郵件相關屬性值，填入內部部署 Active Directory 物件。</span><span class="sxs-lookup"><span data-stu-id="596ee-168">Populate on-premises Active Directory objects with mail-related attribute values from third-party directories.</span></span>   
-- <span data-ttu-id="596ee-169">依據 Microsoft 提供的指引來設定安全性相關基礎結構 (例如防火牆連接埠)。</span><span class="sxs-lookup"><span data-stu-id="596ee-169">Configure security-related infrastructure (like firewall ports) per Microsoft guidance.</span></span>
-- <span data-ttu-id="596ee-170">實作適當的用戶端基礎結構。</span><span class="sxs-lookup"><span data-stu-id="596ee-170">Implement appropriate client infrastructure.</span></span>  
-- <span data-ttu-id="596ee-171">依據 Microsoft 的指引來實作使用者佈建方法。</span><span class="sxs-lookup"><span data-stu-id="596ee-171">Implement a user-provisioning approach per Microsoft guidance.</span></span>  
-- <span data-ttu-id="596ee-172">依據 Microsoft 的指引來啟用各項服務。</span><span class="sxs-lookup"><span data-stu-id="596ee-172">Enable various services per Microsoft guidance.</span></span>  
-- <span data-ttu-id="596ee-173">如果您要設定行動裝置管理 (MDM)，請取得 Apple ID。</span><span class="sxs-lookup"><span data-stu-id="596ee-173">Get an Apple ID if you're configuring Mobile Device Management (MDM).</span></span>   
-- <span data-ttu-id="596ee-174">更新您的 Apple 推播通知服務 (APNS) 憑證。</span><span class="sxs-lookup"><span data-stu-id="596ee-174">Update your Apple Push Notification Service (APNS) certificate.</span></span>
+- <span data-ttu-id="c8c4f-158">與 FastTrack 專家合作，以完成將所有合格服務上架及：</span><span class="sxs-lookup"><span data-stu-id="c8c4f-158">Work with FastTrack Specialists to complete onboarding of all eligible services and:</span></span>  
+  - <span data-ttu-id="c8c4f-159">實作認知計劃。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-159">Implement an awareness plan.</span></span>  
+  - <span data-ttu-id="c8c4f-160">實作訓練計劃。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-160">Implement a training plan.</span></span> 
+  - <span data-ttu-id="c8c4f-161">提供成功計劃的進度，並判斷您在哪些方面需要指引。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-161">Provide success planning progress and determine areas where you need guidance.</span></span>
+- <span data-ttu-id="c8c4f-162">如果您選擇讓 Microsoft 執行移轉工作，請提供 FastTrack 專家存取權和權限。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-162">Provide FastTrack Specialists with access and permissions (if you choose to have Microsoft perform migration tasks).</span></span>  
+- <span data-ttu-id="c8c4f-163">視需要取得及提供目標環境的管理帳戶 (若您選擇進行 Microsoft 平台移轉活動)。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-163">Procure and provide administrative accounts to target environments as appropriate (if you choose to have Microsoft perform migration activities).</span></span>   
+- <span data-ttu-id="c8c4f-164">視需要管理資源。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-164">Manage resources as appropriate.</span></span>   
+- <span data-ttu-id="c8c4f-165">依據 Microsoft 的指引來設定網路相關項目。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-165">Configure network-related items per Microsoft guidance.</span></span>  
+- <span data-ttu-id="c8c4f-166">根據包括您的 MX 記錄的網域驗證需求來設定 DNS 記錄。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-166">Configure DNS records based on domain validation requirements to include your MX records.</span></span>   
+- <span data-ttu-id="c8c4f-167">依據 Microsoft 的指引來執行目錄整備及設定目錄同步作業。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-167">Perform directory readiness and configure directory synchronization per Microsoft guidance.</span></span>
+- <span data-ttu-id="c8c4f-168">使用來自協力廠商目錄的郵件相關屬性值，填入內部部署 Active Directory 物件。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-168">Populate on-premises Active Directory objects with mail-related attribute values from third-party directories.</span></span>   
+- <span data-ttu-id="c8c4f-169">依據 Microsoft 提供的指引來設定安全性相關基礎結構 (例如防火牆連接埠)。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-169">Configure security-related infrastructure (like firewall ports) per Microsoft guidance.</span></span>
+- <span data-ttu-id="c8c4f-170">實作適當的用戶端基礎結構。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-170">Implement appropriate client infrastructure.</span></span>  
+- <span data-ttu-id="c8c4f-171">依據 Microsoft 的指引來實作使用者佈建方法。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-171">Implement a user-provisioning approach per Microsoft guidance.</span></span>  
+- <span data-ttu-id="c8c4f-172">依據 Microsoft 的指引來啟用各項服務。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-172">Enable various services per Microsoft guidance.</span></span>  
+- <span data-ttu-id="c8c4f-173">如果您要設定行動裝置管理 (MDM)，請取得 Apple ID。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-173">Get an Apple ID if you're configuring Mobile Device Management (MDM).</span></span>   
+- <span data-ttu-id="c8c4f-174">更新您的 Apple 推播通知服務 (APNS) 憑證。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-174">Update your Apple Push Notification Service (APNS) certificate.</span></span>
     
-<span data-ttu-id="596ee-175">\*如需您對 Office 365 US Government 的責任詳細資訊，請參閱[您對 Office 365 US Government 的責任](US-Gov-appendix-your-responsibilities.md)。</span><span class="sxs-lookup"><span data-stu-id="596ee-175">\*For information on your responsibilities for Office 365 US Government, see [Your Responsibilities for Office 365 US Government](US-Gov-appendix-your-responsibilities.md).</span></span>
+<span data-ttu-id="c8c4f-175">\*如需您對 Office 365 US Government 的責任詳細資訊，請參閱[您對 Office 365 US Government 的責任](US-Gov-appendix-your-responsibilities.md)。</span><span class="sxs-lookup"><span data-stu-id="c8c4f-175">\*For information on your responsibilities for Office 365 US Government, see [Your Responsibilities for Office 365 US Government](US-Gov-appendix-your-responsibilities.md).</span></span>
   
 

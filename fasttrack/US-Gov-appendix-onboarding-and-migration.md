@@ -3,19 +3,19 @@ title: 上架及移轉階段 for Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/13/2019
+ms.date: 09/04/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 US government 的 office 365 上架有四個主要階段-啟始、 評估、 修復與啟用。 您可以在這些階段後面選擇接著資料移轉階段，如下圖所示。
-ms.openlocfilehash: dc7a100bf956e7f29d68b4392f13c488c0fbdf8e
-ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
+ms.openlocfilehash: 1c16d6f22b9739431d014bca490dd609f7564728
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "36294347"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36712281"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>上架及移轉階段 for Office 365 US Government
 

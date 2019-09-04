@@ -3,19 +3,19 @@ title: 提供的協助
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 09/04/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 當您購買任何 Windows 10 或 Microsoft 365 服務時，FastTrack 專家會提供部署至 Windows 10 和 Office 365 專業增強版的建議和修復指引，並且讓您保持在最新狀態而不需額外成本 (具有合格訂用帳戶)。
-ms.openlocfilehash: 52ef57fc9bcda58652bf817552a881c0acdfe75e
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 4b91ca12c891634c455f0f1308edf31f04b1ceb4
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054144"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36712245"
 ---
 # <a name="assistance-offered"></a>提供的協助  
 

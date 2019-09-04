@@ -3,19 +3,19 @@ title: 適用於 Windows 10 的 FastTrack 中心權益
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/13/2019
+ms.date: 09/04/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 當您購買「至少」** 150 份合格服務或方案的授權時，可使用適用於 Windows 10 的 FastTrack 中心權益。
-ms.openlocfilehash: 6ef15aa75c24fe3d290de643fff0aec2cc0e80f5
-ms.sourcegitcommit: 7418a1878b0c254b239583c13a97f712c8c2bffe
+ms.openlocfilehash: 873af7f0904454c5a566fa4cdb43810d6f7039cb
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/15/2019
-ms.locfileid: "36427394"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36712269"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>適用於 Windows 10 的 FastTrack 中心權益
 

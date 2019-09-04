@@ -3,19 +3,19 @@ title: Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/13/2019
+ms.date: 09/04/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 提供 Windows 10 部署指引，可幫助您從 Windows 7 專業版和 Windows 8.1 專業版升級到 Windows 10 企業版。
-ms.openlocfilehash: 0d94d7cd231e6b9659f325b471c705239bdf03ce
-ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
+ms.openlocfilehash: 543c0119f6169df79a396b177e61a82e27559f8e
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "36294408"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36711429"
 ---
 # <a name="windows-10"></a>Windows 10
 

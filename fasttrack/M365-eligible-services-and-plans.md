@@ -3,19 +3,19 @@ title: 適用的服務與方案
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/13/2019
+ms.date: 09/04/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 當您購買任何 Microsoft 365 服務，FastTrack 專家可提供您 Microsoft 365 的上架指引，讓您即刻開始使用。
-ms.openlocfilehash: 59d59f4ac419c5a40e557ce46fdd3c0e5f3199c4
-ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
+ms.openlocfilehash: fc2fbf5911d3460a67941ca63a233731106a3823
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "36294215"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36711633"
 ---
 # <a name="eligible-services-and-plans"></a>適用的服務與方案
 
@@ -158,13 +158,12 @@ FastTrack 中心提供下列服務的協助：
 |方案    |適用性詳細資料  |
 |---------|---------|
 |**E3 或 E5 中的 Enterprise Mobility + Security (EMS)**       |   適用符合 FastTrack 權益資格的雲端服務。若未符合，將轉介給 FastTrack 專家或合作夥伴。        |
-|**Microsoft Azure Active Directory Premium**     |  適用於以獨立方案形式購買，或以隨附於 E3 或 E5 方式取得該軟體。       |
-|**Microsoft Azure 資訊保護**    |  適用於 P2，以隨附於 E5 方式或以獨立方案形式。 適用於符合 FastTrack 權益的雲端服務。 若為雲端服務 P1，FastTrack 會共用自我部署指南。       |
+|**Azure Active Directory Premium**     |  適用於以獨立方案形式購買，或以隨附於 E3 或 E5 方式取得該軟體。       |
+|**Azure 資訊保護**    |  適用於 P2，以隨附於 E5 方式或以獨立方案形式。 適用於符合 FastTrack 權益的雲端服務。 若為雲端服務 P1，FastTrack 會共用自我部署指南。       |
 |**Microsoft Intune**    |   適用於以獨立方案形式購買，或以隨附於 E3 或 E5 方式取得該軟體。      |
-|**隨著 Microsoft Intune 雲端附加 Configuration Manager**     |    適用於以獨立方案形式購買，或以隨附於 E3 或 E5 方式取得該軟體。     |
+|**Microsoft Intune 和 Configuration Manager**     |    適用於以獨立方案形式購買，或以隨附於 E3 或 E5 方式取得該軟體。     |
 |**Microsoft Intune 教育版**     |  適用於以獨立方案形式購買，或以隨附於 A3 或 A5 方式取得該軟體。       |
-|**Microsoft Advanced Threat Protection**     |    資格有限。 僅限以獨立方案形式購買的軟體。 若要以獨立方案形式購買，請前往 [Microsoft 365 FastTrack 入口網站](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。   |
-|**Microsoft Advanced Threat Analytics**   |        資格有限。僅限以獨立方案形式購買的軟體。若要以獨立方案形式購買，請前往 [Microsoft 365 FastTrack 入口網站](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。    |
+|**Azure 進階威脅防護**     |    資格有限。僅限以獨立方案形式購買的軟體。若要以獨立方案形式購買，請前往 [Microsoft 365 FastTrack 入口網站](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。   |
 |**Microsoft Cloud App Security**    |       資格有限。僅限以獨立方案形式購買的軟體。若要以獨立方案形式購買，請前往 [Microsoft 365 FastTrack 入口網站](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。    |
 
 如需詳細資訊，請參閱[適用於 Enterprise Mobility + Security (EMS) 的 FastTrack 中心權益](EMS-fasttrack-benefit-for-EMS.md)。

@@ -3,19 +3,19 @@ title: 您的責任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 在上架期間您需擔負下列責任。
-ms.openlocfilehash: 60bdfd0ba6a9d9840a8cdaaa64506c0aba8b1716
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 30e23a54e511e978c58fd3654ee160c1c7b74c1b
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712101"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342148"
 ---
 # <a name="your-responsibilities"></a>您的責任
 
@@ -99,8 +99,6 @@ ms.locfileid: "36712101"
 - 實作適當的用戶端基礎結構。  
 - 依據 Microsoft 的指引來實作使用者佈建方法。  
 - 依據 Microsoft 的指引來啟用各項服務。  
-- 如果您要設定行動裝置管理 (MDM)，請取得 Apple ID。   
-- 更新您的 Apple 推播通知服務 (APNS) 憑證。
     
 \*如需您對 Office 365 US Government 的責任詳細資訊，請參閱[您對 Office 365 US Government 的責任](US-Gov-appendix-your-responsibilities.md)。
   

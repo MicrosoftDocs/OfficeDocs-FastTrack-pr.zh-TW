@@ -3,19 +3,19 @@ title: 上架及移轉階段
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 上架有四個主要階段 - 起始、評估、修復與啟用。您可以在這些階段後面選擇接著資料移轉階段。
-ms.openlocfilehash: c254b95ae5227d07dc646b9db2ffc670ee9ece9a
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 16e777ea13a885eafac0185c3f282f0a856c5bb1
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712233"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342412"
 ---
 # <a name="onboarding-and-migration-phases"></a>上架及移轉階段
 
@@ -200,16 +200,6 @@ FastTrack 專家會提供將資料移轉到 Office 365 的指引，方法是使�
 - 使用 Microsoft System Center Configuration Manager 部署，包含建立 System Center Configuration Manager 封裝的協助。
     
 ![Office 專業增強版上架步驟](media/O365-Onboarding-Enable-OProPlus.png)
-  
-## <a name="microsoft-staffhub"></a>Microsoft StaffHub
-
-對於 Microsoft StaffHub，我們提供下列項目的指引：
-- 確認您的 Office 365 租用戶上已啟用 Microsoft StaffHub。
-- 啟用或停用使用者授權。
-- 核心產品功能。 
-- 下載 Microsoft StaffHub 的位置。
-    
-![Microsoft StaffHub 上架步驟](media/e8857c93-1db9-4940-90d1-b3a1b3f0c650.png)
   
 ## <a name="outlook-for-ios-and-android"></a>Outlook for iOS 和 Android
 

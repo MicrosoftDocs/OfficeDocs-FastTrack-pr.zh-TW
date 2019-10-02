@@ -3,19 +3,19 @@ title: 提供的協助
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 當您購買任何 Windows 10 或 Microsoft 365 服務時，FastTrack 專家會提供部署至 Windows 10 和 Office 365 專業增強版的建議和修復指引，並且讓您保持在最新狀態而不需額外成本 (具有合格訂用帳戶)。
-ms.openlocfilehash: 4b91ca12c891634c455f0f1308edf31f04b1ceb4
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: c3b7838dd09854a027f1b9578a5faa6002aa3c7b
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712245"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342568"
 ---
 # <a name="assistance-offered"></a>提供的協助  
 
@@ -51,7 +51,9 @@ FastTrack 未提供以下協助：
 客戶責任包括：
 - 建立應用程式清查。
 - 在 Windows 10 和 Office 365 專業增強版上驗證這些應用程式。
+
 > [!NOTE]
-> Microsoft 無法變更您的原始程式碼。不過，桌面應用程式保證小組可以在來源程式碼適用於您的應用程式時，為應用程式開發人員提供指引。 [!NOTE]
-> 如果 Windows 10 或 Office 365 專業增強版支援較新版本的 ISV 應用程式、增益集或巨集，則 FastTrack 無法修復較舊版本。[!NOTE]
+> Microsoft 無法變更您的原始程式碼。不過，桌面應用程式保證小組可以在來源程式碼適用於您的應用程式時，為應用程式開發人員提供指引。
+
+> [!NOTE]
 > 請連絡 [Microsoft 合作夥伴](https://go.microsoft.com/fwlink/?linkid=2080150) 以提供協助和視為範圍外的服務。

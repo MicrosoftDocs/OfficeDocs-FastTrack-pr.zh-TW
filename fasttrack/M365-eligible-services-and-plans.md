@@ -3,19 +3,19 @@ title: 適用的服務與方案
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 當您購買任何 Microsoft 365 服務，FastTrack 專家可提供您 Microsoft 365 的上架指引，讓您即刻開始使用。
-ms.openlocfilehash: fc2fbf5911d3460a67941ca63a233731106a3823
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: a9214126f8795d99c90b2008d16d99fc6dc83676
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36711633"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342556"
 ---
 # <a name="eligible-services-and-plans"></a>適用的服務與方案
 
@@ -58,7 +58,6 @@ FastTrack 中心提供下列服務的協助：
 - Microsoft Project Online
 - Yammer Enterprise 
 - Office 365 專業增強版
-- Microsoft StaffHub
 - Windows 10
 - Azure Active Directory Premium
 - Azure 資訊保護
@@ -144,7 +143,7 @@ FastTrack 中心提供下列服務的協助：
 
 \*僅適用此權益描述中所列之有資格獲得 FastTrack 協助的雲端服務和功能。
 
-\*\*如需有關適用於美國政府的 FastTrack 權益詳細資訊，請參閱 [Office 365 美國政府](https://aka.ms/aboutgovcloud) (機器翻譯)。
+\*\*如需有關適用於美國政府的 FastTrack 權益詳細資訊，請參閱 [Office 365 美國政府](https://aka.ms/aboutgovcloud)。
 
 \*\*\*商務用 Skype Online 和 Microsoft Teams 授權使用者皆可使用。 需要合格購買商務用 Skype 或 Microsoft Teams。 
 

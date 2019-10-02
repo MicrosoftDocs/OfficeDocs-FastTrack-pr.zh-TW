@@ -3,18 +3,18 @@ title: 附錄 B：FastTrack Center 其他權益
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Exchange Online 租用戶購買至少 20,000 個授權的客戶符合 FastTrack Center 附加服務的資格。如需詳細資料，請參閱合格服務與計劃。
-ms.openlocfilehash: 325e37b5f860cca73d2d491db06966801f53bdc7
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: c2f25e63d1e6d7d8b870a191136aad29e52fcfa3
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712125"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342496"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>附錄 B：FastTrack Center 其他權益
 
@@ -96,7 +96,7 @@ Exchange Online 租用戶購買至少 20,000 個授權的客戶符合 FastTrack 
   - UM 自動語音應答連絡人和 Outlook 語音信箱將使用者重新導向至 Exchange Online。 
   - 協助建立聯盟所要求的服務位置 (SRV) 記錄。
 > [!NOTE]
-> 可使用支援的 UM IP 通訊閘和工作階段邊界控制器 (SBCs) 來設定 UM。如需詳細資訊，請參閱＜[UM 電話系統整合](https://go.microsoft.com/fwlink/?LinkID=809293)＞(機器翻譯)。 
+> 可使用支援的 UM IP 通訊閘和工作階段邊界控制器 (SBCs) 來設定 UM。如需詳細資訊，請參閱＜[UM 電話系統整合](https://go.microsoft.com/fwlink/?LinkID=809293)＞。 
   
 ### <a name="public-folder-coexistence-guidance"></a>公用資料夾共存指引
 

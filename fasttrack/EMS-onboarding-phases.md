@@ -5,21 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
-ms.reviewer: ''
-ms.suite: ems
-ms.openlocfilehash: ba93fb6e6ba23219752eebb857ed156f2cbfaab8
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 5b661d709b4f5c25395f07f005d055c5bb84db35
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36711537"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342616"
 ---
 # <a name="onboarding-phases"></a>上線階段
 
@@ -138,9 +135,9 @@ Azure AD Premium 設定包括啟用下列功能：
 
 -   將使用者新增到您的 Intune 訂用帳戶、定義 IT 系統管理員角色，以及建立使用者和裝置群組。
 
--   根據您的管理需求，設定行動裝置管理 (MDM) 授權，包括：
+-   根據您的管理需求，設定行動裝置管理 (MDM) 授權單位，包括：
 
-    -   如果 Intune 是唯一的 MDM 解決方案，或是搭配 Office 365 的行動裝置管理，請將 Intune 設定為您的 MDM 授權單位。
+    -   當 Intune 為您唯一的 MDM 解決方案時，將 Intune 設定為 MDM 授權單位。
 
 -   為下列提供 MDM 指引：
 

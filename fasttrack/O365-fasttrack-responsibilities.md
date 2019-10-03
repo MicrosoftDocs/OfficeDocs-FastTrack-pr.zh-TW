@@ -3,19 +3,19 @@ title: FastTrack 責任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 在上架期間 FastTrack 專家需擔負下列責任。
-ms.openlocfilehash: 4e2383b2654fb1218bbb2cb9913e6cbf6b94572a
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 0ce5279af4a6136b4415de444f5e792672ce040d
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712150"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342292"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 責任
 
@@ -225,14 +225,6 @@ ms.locfileid: "36712150"
 - 選取並設定本地或雲端安裝。
 - 使用 Office 自訂工具或原生 XML 建立 Office 部署工具，以設定部署套件。
 - 使用 System Center Configuration Manager 部署，包含建立 System Center Configuration Manager 封裝的協助。
-    
-## <a name="microsoft-staffhub"></a>Microsoft StaffHub
-
-提供以下的相關指引：
-- 確認您的 Office 365 租用戶上已啟用 Microsoft StaffHub。
-- 啟用或停用使用者授權。
-- 核心產品功能。
-- 下載 Microsoft StaffHub 的位置。
     
 ## <a name="outlook-for-ios-and-android"></a>Outlook for iOS 和 Android
 

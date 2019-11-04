@@ -3,60 +3,60 @@ title: 您的責任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 在 Windows 10 上架期間您需擔負下列責任。
-ms.openlocfilehash: 52f1146da7069832e0e1f6e2de18d0bff3dba84e
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 057aff98739778f50836f1e8c093bd855ee9634c
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342640"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921555"
 ---
-# <a name="your-responsibilities"></a><span data-ttu-id="1eb47-103">您的責任</span><span class="sxs-lookup"><span data-stu-id="1eb47-103">Your Responsibilities</span></span>
+# <a name="your-responsibilities"></a><span data-ttu-id="54d4f-103">您的責任</span><span class="sxs-lookup"><span data-stu-id="54d4f-103">Your Responsibilities</span></span>
 
-<span data-ttu-id="1eb47-104">在上架期間您需擔負下列責任。</span><span class="sxs-lookup"><span data-stu-id="1eb47-104">You have the following responsibilities during onboarding.</span></span>
+<span data-ttu-id="54d4f-104">在上架期間您需擔負下列責任。</span><span class="sxs-lookup"><span data-stu-id="54d4f-104">You have the following responsibilities during onboarding.</span></span>
 
-## <a name="general"></a><span data-ttu-id="1eb47-105">一般</span><span class="sxs-lookup"><span data-stu-id="1eb47-105">General</span></span>
+## <a name="general"></a><span data-ttu-id="54d4f-105">一般</span><span class="sxs-lookup"><span data-stu-id="54d4f-105">General</span></span>
 
-- <span data-ttu-id="1eb47-106">提供資源的整體方案和專案管理。</span><span class="sxs-lookup"><span data-stu-id="1eb47-106">Provide overall program and project management of your resources.</span></span>
-- <span data-ttu-id="1eb47-107">提供使用者通訊、文件、訓練和變更管理。</span><span class="sxs-lookup"><span data-stu-id="1eb47-107">Provide end-user communications, documentation, training, and change management.</span></span>
-- <span data-ttu-id="1eb47-108">提供技術服務人員文件和訓練。</span><span class="sxs-lookup"><span data-stu-id="1eb47-108">Provide helpdesk documentation and training.</span></span>
-- <span data-ttu-id="1eb47-109">產生您的組織之特定報告、簡報或會議記錄。</span><span class="sxs-lookup"><span data-stu-id="1eb47-109">Produce any reports, presentations, or meeting minutes that are specific to your organization.</span></span>
-- <span data-ttu-id="1eb47-110">建立您的組織之特定架構和技術文件。</span><span class="sxs-lookup"><span data-stu-id="1eb47-110">Create architectural and technical documentation specific to your organization.</span></span>
-- <span data-ttu-id="1eb47-111">設計、採購、安裝並設定硬體和網路。</span><span class="sxs-lookup"><span data-stu-id="1eb47-111">Design, procure, install, and configure hardware and networking.</span></span>
-- <span data-ttu-id="1eb47-112">採購、安裝並設定軟體。</span><span class="sxs-lookup"><span data-stu-id="1eb47-112">Procure, install, and configure software.</span></span>
-- <span data-ttu-id="1eb47-113">管理技術變更管理核准程序，並建立指引文件。</span><span class="sxs-lookup"><span data-stu-id="1eb47-113">Manage a technical change management approval process and create supporting documentation.</span></span>
-- <span data-ttu-id="1eb47-114">修改您的作業模式和作業指示。</span><span class="sxs-lookup"><span data-stu-id="1eb47-114">Modify your operational model and operation guides.</span></span>
-- <span data-ttu-id="1eb47-115">在基礎結構伺服器上安裝必要更新。</span><span class="sxs-lookup"><span data-stu-id="1eb47-115">Install service packs and other required updates on infrastructure servers.</span></span>
-- <span data-ttu-id="1eb47-116">設定 Configuration Manager 或將其升級為最低需求。</span><span class="sxs-lookup"><span data-stu-id="1eb47-116">Set up or upgrade Configuration Manager to the minimum requirements.</span></span>
+- <span data-ttu-id="54d4f-106">提供資源的整體方案和專案管理。</span><span class="sxs-lookup"><span data-stu-id="54d4f-106">Provide overall program and project management of your resources.</span></span>
+- <span data-ttu-id="54d4f-107">提供使用者通訊、文件、訓練和變更管理。</span><span class="sxs-lookup"><span data-stu-id="54d4f-107">Provide end-user communications, documentation, training, and change management.</span></span>
+- <span data-ttu-id="54d4f-108">提供技術服務人員文件和訓練。</span><span class="sxs-lookup"><span data-stu-id="54d4f-108">Provide helpdesk documentation and training.</span></span>
+- <span data-ttu-id="54d4f-109">產生您的組織之特定報告、簡報或會議記錄。</span><span class="sxs-lookup"><span data-stu-id="54d4f-109">Produce any reports, presentations, or meeting minutes that are specific to your organization.</span></span>
+- <span data-ttu-id="54d4f-110">建立您的組織之特定架構和技術文件。</span><span class="sxs-lookup"><span data-stu-id="54d4f-110">Create architectural and technical documentation specific to your organization.</span></span>
+- <span data-ttu-id="54d4f-111">設計、採購、安裝並設定硬體和網路。</span><span class="sxs-lookup"><span data-stu-id="54d4f-111">Design, procure, install, and configure hardware and networking.</span></span>
+- <span data-ttu-id="54d4f-112">採購、安裝並設定軟體。</span><span class="sxs-lookup"><span data-stu-id="54d4f-112">Procure, install, and configure software.</span></span>
+- <span data-ttu-id="54d4f-113">管理技術變更管理核准程序，並建立指引文件。</span><span class="sxs-lookup"><span data-stu-id="54d4f-113">Manage a technical change management approval process and creating guidance-based documentation.</span></span>
+- <span data-ttu-id="54d4f-114">修改您的作業模式和作業指示。</span><span class="sxs-lookup"><span data-stu-id="54d4f-114">Modifying your operational model and operation guides.</span></span>
+- <span data-ttu-id="54d4f-115">在基礎結構伺服器上安裝必要更新。</span><span class="sxs-lookup"><span data-stu-id="54d4f-115">Install required updates on infrastructure servers.</span></span>
+- <span data-ttu-id="54d4f-116">設定 Configuration Manager 或將其升級為最低需求。</span><span class="sxs-lookup"><span data-stu-id="54d4f-116">Set up or upgrade Configuration Manager to the minimum requirements.</span></span>
 
-## <a name="initiate-phase"></a><span data-ttu-id="1eb47-117">起始階段</span><span class="sxs-lookup"><span data-stu-id="1eb47-117">Initiate phase</span></span>
+## <a name="initiate-phase"></a><span data-ttu-id="54d4f-117">起始階段</span><span class="sxs-lookup"><span data-stu-id="54d4f-117">Initiate phase</span></span>
 
-- <span data-ttu-id="1eb47-118">與 FastTrack 團隊合作，開始將合格服務上架。</span><span class="sxs-lookup"><span data-stu-id="1eb47-118">Work with FastTrack Specialists to begin onboarding of eligible services.</span></span>
-- <span data-ttu-id="1eb47-119">參與專案啟動會議、管理並領導組織的參與者，並確認修復時間表。</span><span class="sxs-lookup"><span data-stu-id="1eb47-119">Participate in the engagement kickoff meeting, manage and lead participants from your organization, and confirm remediation timelines.</span></span>
+- <span data-ttu-id="54d4f-118">與 FastTrack 團隊合作，開始將合格服務上架。</span><span class="sxs-lookup"><span data-stu-id="54d4f-118">Work with the FastTrack team to begin onboarding of eligible services.</span></span>
+- <span data-ttu-id="54d4f-119">參與專案啟動會議、管理並領導組織的參與者，並確認修復時間表。</span><span class="sxs-lookup"><span data-stu-id="54d4f-119">Participate in the engagement kickoff meeting, manage and lead participants from your organization, and confirm remediation timelines.</span></span>
 
-## <a name="assess-phase"></a><span data-ttu-id="1eb47-120">評估階段</span><span class="sxs-lookup"><span data-stu-id="1eb47-120">Assess phase</span></span>
+## <a name="assess-phase"></a><span data-ttu-id="54d4f-120">評估階段</span><span class="sxs-lookup"><span data-stu-id="54d4f-120">Assess phase</span></span>
 
-- <span data-ttu-id="1eb47-121">找出適當的專案關係人 (包括專案經理) 來完成必要的評估活動。</span><span class="sxs-lookup"><span data-stu-id="1eb47-121">Identify appropriate stakeholders (including a project manager and business owners) to complete the necessary assessment activities.</span></span>
-- <span data-ttu-id="1eb47-122">如果在針對您的環境或雲端服務訂閱 (如果您選擇) 執行評估工具時需要指引，請與 FastTrack 團隊共用您的螢幕。</span><span class="sxs-lookup"><span data-stu-id="1eb47-122">Share your screen with the FastTrack team if guidance is needed when running evaluation tools against your environment or cloud service subscriptions (if you choose to).</span></span>
-- <span data-ttu-id="1eb47-123">參與會議來建立修復檢查清單，並對整體規劃提出意見，包括基礎結構、網路、管理、目錄同步處理準備、網路安全性和同盟身分識別主題。</span><span class="sxs-lookup"><span data-stu-id="1eb47-123">Participate in the meetings to create the remediation checklist, and contribute to the overall plan, including infrastructure, network, administration, directory synchronization preparation, network security, and federated identity topics.</span></span>
+- <span data-ttu-id="54d4f-121">找出適當的專案關係人 (包括專案經理) 來完成必要的評估活動。</span><span class="sxs-lookup"><span data-stu-id="54d4f-121">Identify appropriate stakeholders (including a project manager) to complete the necessary assessment activities.</span></span>
+- <span data-ttu-id="54d4f-122">如果在針對您的環境或雲端服務訂閱 (如果您選擇) 執行評估工具時需要指引，請與 FastTrack 團隊共用您的螢幕。</span><span class="sxs-lookup"><span data-stu-id="54d4f-122">Share your screen with the FastTrack team if guidance is needed when running evaluation tools against your environment or cloud service subscriptions (if you choose to).</span></span>
+- <span data-ttu-id="54d4f-123">參與會議來建立修復檢查清單，並對整體規劃提出意見，包括基礎結構、網路、管理、目錄同步處理準備、網路安全性和同盟身分識別主題。</span><span class="sxs-lookup"><span data-stu-id="54d4f-123">Participate in the meetings to create the remediation checklist and to contribute to the overall plan, including infrastructure, network, administration, directory synchronization preparation, network security, and federated identity topics.</span></span>
 
-## <a name="remediate-phase"></a><span data-ttu-id="1eb47-124">修復階段</span><span class="sxs-lookup"><span data-stu-id="1eb47-124">Remediate phase</span></span>
+## <a name="remediate-phase"></a><span data-ttu-id="54d4f-124">修復階段</span><span class="sxs-lookup"><span data-stu-id="54d4f-124">Remediate phase</span></span>
 
-- <span data-ttu-id="1eb47-125">執行完成評估階段中所找出之修復活動所需的必要步驟。</span><span class="sxs-lookup"><span data-stu-id="1eb47-125">Perform required steps to complete remediation activities identified in the Assess phase.</span></span>
-- <span data-ttu-id="1eb47-126">參與檢查點會議。</span><span class="sxs-lookup"><span data-stu-id="1eb47-126">Participate in checkpoint meetings and:</span></span>
+- <span data-ttu-id="54d4f-125">執行完成評估階段中所找出之修復活動所需的必要步驟。</span><span class="sxs-lookup"><span data-stu-id="54d4f-125">Perform required steps to complete remediation activities identified in the Assess phase.</span></span>
+- <span data-ttu-id="54d4f-126">參與檢查點會議。</span><span class="sxs-lookup"><span data-stu-id="54d4f-126">Participate in checkpoint meetings.</span></span>
 
-## <a name="enable-phase"></a><span data-ttu-id="1eb47-127">啟用階段</span><span class="sxs-lookup"><span data-stu-id="1eb47-127">Enable phase</span></span>
+## <a name="enable-phase"></a><span data-ttu-id="54d4f-127">啟用階段</span><span class="sxs-lookup"><span data-stu-id="54d4f-127">Enable phase</span></span>
 
-- <span data-ttu-id="1eb47-128">如果在針對您的環境或雲端服務訂閱 (如果您選擇) 執行評估工具時需要指引，請與 FastTrack 團隊共用您的螢幕。</span><span class="sxs-lookup"><span data-stu-id="1eb47-128">Share your screen with the FastTrack team if guidance is needed when running evaluation tools against your environment or cloud service subscriptions (if you choose to).</span></span>
-- <span data-ttu-id="1eb47-129">依據 FastTrack 團隊提供的指引設定網路相關項目。</span><span class="sxs-lookup"><span data-stu-id="1eb47-129">Configure network-related items per guidance from the FastTrack team.</span></span>
-- <span data-ttu-id="1eb47-130">使用 Windows 10 部署 Office 365 專業增強版時，依據 FastTrack 團隊提供的指引執行目錄整備及設定目錄同步處理。</span><span class="sxs-lookup"><span data-stu-id="1eb47-130">Perform directory readiness and configure directory synchronization per guidance from the FastTrack team when deploying Office 365 ProPlus with Windows 10.</span></span>
-- <span data-ttu-id="1eb47-131">設定驗證方法，例如受管理或同盟。</span><span class="sxs-lookup"><span data-stu-id="1eb47-131">Configure an authentication method, like managed or federated.</span></span>
+- <span data-ttu-id="54d4f-128">如果在針對您的環境或雲端服務訂閱 (如果您選擇) 執行評估工具時需要指引，請與 FastTrack 團隊共用您的螢幕。</span><span class="sxs-lookup"><span data-stu-id="54d4f-128">Share your screen with the FastTrack team if guidance is needed when running evaluation tools against your environment or cloud service subscriptions (if you choose to).</span></span>
+- <span data-ttu-id="54d4f-129">依據 FastTrack 團隊提供的指引設定網路相關項目。</span><span class="sxs-lookup"><span data-stu-id="54d4f-129">Configure network-related items per guidance from the FastTrack team.</span></span>
+- <span data-ttu-id="54d4f-130">使用 Windows 10 部署 Office 365 專業增強版時，依據 FastTrack 團隊提供的指引執行目錄整備及設定目錄同步處理。</span><span class="sxs-lookup"><span data-stu-id="54d4f-130">Perform directory readiness and configure directory synchronization per guidance from the FastTrack team when deploying Office 365 ProPlus with Windows 10.</span></span>
+- <span data-ttu-id="54d4f-131">設定驗證方法，例如受管理或同盟。</span><span class="sxs-lookup"><span data-stu-id="54d4f-131">Configure an authentication method, like managed or federated.</span></span>
 
 
 

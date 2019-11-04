@@ -3,19 +3,19 @@ title: FastTrack 責任 for Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 在上架期間 FastTrack 專家需擔負下列責任。
-ms.openlocfilehash: 006ab382d74cca8850a8d7542d39a09f133cb6ff
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 5f37774e11197e549e0c34f6c8f660c584bfd751
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342160"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37922596"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack 責任 for Office 365 US Government
 
@@ -83,7 +83,7 @@ ms.locfileid: "37342160"
       - 設定 Azure Active Directory 無縫單一登入 (SSO)，如果需要 （不適用於 GCC High 或 DoD 計劃）。
     > [!NOTE]
     > 如果在您的 Active Directory 之間有樹系信任且正確配置了名稱尾碼路由，則會支援多重樹系環境的Azure Active Directory 通過驗證。其他代理程式可安裝在多個內部部署伺服器，以提供高可用性的登入要求。如需詳細資訊，請參閱 [：快速入門](https://go.microsoft.com/fwlink/?linkid=860094)與 [Azure Active Directory 無縫單一登入：快速入門](https://go.microsoft.com/fwlink/?linkid=860095)。[!NOTE]
-    > 如需通過驗證的詳細資訊，請參閱 [。目前限制](https://go.microsoft.com/fwlink/?linkid=860356)。[!NOTE]
+    > 如需通過驗證的詳細資訊，請參閱＜[Azure Active Directory 傳遞驗證：目前的限制](https://go.microsoft.com/fwlink/?linkid=860356)＞。[!NOTE]
     > 如需無縫 SSO 問題的詳細資訊，請參閱 [Azure Active Directory 無縫單一登入疑難排解](https://go.microsoft.com/fwlink/?linkid=841926)。 
 - 對於當同盟身分識別為目標時的單一樹系： 
   - 若需要，在單一站台、容錯組態中，針對向 Office 365 的本機網域驗證安裝和設定 AD FS。  

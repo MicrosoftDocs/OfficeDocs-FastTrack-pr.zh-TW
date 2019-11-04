@@ -3,19 +3,19 @@ title: 上架及移轉階段 for Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 US government 的 office 365 上架有四個主要階段-啟始、 評估、 修復與啟用。 您可以在這些階段後面選擇接著資料移轉階段，如下圖所示。
-ms.openlocfilehash: 05e14c08148a5b02df9c175882a2853f0a39301c
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: fc6f89d64ee78089c584014a080d8739e94239eb
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342724"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921971"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>上架及移轉階段 for Office 365 US Government
 
@@ -59,7 +59,7 @@ Office 365 上架有四個主要階段 - 起始、評估、修復與啟用。您
 
 您的 FastTrack 專案經理會透過電話與您和您的採用小組針對如何做出成功的規劃進行互動討論。在討論過程中，他會為您介紹您購買的合格服務的功能、讓計劃成功所需的關鍵基礎、促進服務使用量的方法，以及您可以用來獲取服務價值的案例。我們會協助您做出成功的規劃，並 (視需要) 就關鍵領域提供意見。
   
-FastTrack 專家將配合您評估您的來源環境和需求。 我們將提供您收集有關您環境的資料，並帶領您評估頻寬需求並評估網際網路瀏覽器、 用戶端作業系統、 網域名稱系統 (DNS)、 網路、 基礎結構及身分識別系統的工具決定是否需要上架的任何變更。 
+FastTrack 專家會與您一起評估您的來源環境和需求。 我們將提供您收集有關您環境的資料，並帶領您評估頻寬需求並評估網際網路瀏覽器、 用戶端作業系統、 網域名稱系統 (DNS)、 網路、 基礎結構及身分識別系統的工具決定是否需要上架的任何變更。 
   
 根據您目前的設定，我們將提供修復方案，該方案最高可將您的來源環境帶至成功上架為 Office 365 的最低系統需求，以及成功進行信箱和/或資料移轉 (如果需要)。我們會提供一組建議活動來增加使用者價值和採用率。我們也將對修復階段設定適當的檢查點通話。
   

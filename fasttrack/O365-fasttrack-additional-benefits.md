@@ -3,18 +3,18 @@ title: 附錄 B：FastTrack Center 其他權益
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Exchange Online 租用戶購買至少 20,000 個授權的客戶符合 FastTrack Center 附加服務的資格。如需詳細資料，請參閱合格服務與計劃。
-ms.openlocfilehash: c2f25e63d1e6d7d8b870a191136aad29e52fcfa3
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 8da19cd3922e1e37eb382716039dc6a96166191e
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342496"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921291"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>附錄 B：FastTrack Center 其他權益
 
@@ -42,9 +42,9 @@ Exchange Online 租用戶購買至少 20,000 個授權的客戶符合 FastTrack 
 
 針對 Office 365 專業增強版，我們提供下列指引︰ 
 - 評估與規劃著重於預備您的環境，用於符合 Microsoft 最佳做法的初始部署及管理更新。 
-- 使用 Office 365 部署工具開發部署組態和更新設定。 
+- 使用 Office 365 部署工具和 Office 自訂工具，開發部署組態和更新設定。 
 - 使用 System Center Configuration Manager 部署套件。  
-- 部署並設定 Office 遙測，提供指引以利您評估使用關鍵業務 Office 文件，以及應用程式相容性的解決方案。
+- 啟用 Readiness Toolkit for Office，以識別與您用於 Office 的 Microsoft Visual Basic for Applications (VBA) 巨集和增益集的相容性問題。
     
 ## <a name="fasttrack-responsibilities"></a>FastTrack 責任
 
@@ -132,12 +132,7 @@ Exchange Online 租用戶購買至少 20,000 個授權的客戶符合 FastTrack 
 
 - 提供指導與協助︰  
   - 評估與規劃符合 Microsoft 最佳做法的初始部署及管理更新。
-  - 部署和設定 Office 遙測。 
-  - 對 Office 2013+ 版本使用「群組原則」的用戶端啟用遙測記錄。 
-  - 部署前一個 Office 用戶端 (Office 2003、Office 2007 和 Office 2010) 的 Office 遙測代理程式。 
-  - 部署遙測處理器。 
-    > [!NOTE]
-    > 這需要可儲存遙測資料的檔案共用位置，以及執行 SQL Server 2005+ 版本的伺服器，用以將已處理的資料提交至此。 
+  - 啟用 Readiness Toolkit for Office，以識別與您用於 Office 的 Microsoft VBA 巨集和增益集的相容性問題。
   
 ## <a name="your-responsibilities"></a>您的責任
 

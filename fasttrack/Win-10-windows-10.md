@@ -3,19 +3,19 @@ title: Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 提供 Windows 10 部署指引，可幫助您從 Windows 7 專業版和 Windows 8.1 專業版升級到 Windows 10 企業版。
-ms.openlocfilehash: ffbbde094e77bfc5ddf6155a318e7534e2a1c666
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: e9999306b8ac1a6916562eb7ac0f422622c834da
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342652"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921567"
 ---
 # <a name="windows-10"></a>Windows 10
 
@@ -24,6 +24,7 @@ FastTrack 提供 Windows 10 部署指引，可幫助您從 Windows 7 專業版�
 - 使用 Microsoft System Center Configuration Manager 或 Microsoft 365 來部署 Windows 10 企業版。
 - 部署 Office 365 專業增強版。 
 - 使用 System Center Configuration Manager 或 Microsoft 365 來更新 Windows 10 企業版和 Office 365 專業增強版。
+- 透過雲端連結 Configuration Manager 與 Microsoft Intune，或將 Intune 部署為單獨的雲端管理解決方案。
   
 > [!NOTE]
 > FastTrack 為客戶提供建議方法、指引和經設計的最佳作法，以提供快速且可預測的結果。 如果您選擇在部署時不使用本指引，您的體驗可能會受到影響。 指引是指口頭協助和書面協助的組合。 當 FastTrack 專家提供指引時，FastTrack 人員無法代替您操作。 只要您的訂閱是最新的，您就可以在合格計劃中使用 FastTrack 服務。  

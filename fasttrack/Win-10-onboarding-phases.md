@@ -3,19 +3,19 @@ title: 上架階段
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 上架有四個主要階段 - 起始、評估、修復與啟用。
-ms.openlocfilehash: 8cd5f1586518976d965c08f07398974334093658
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: c2c9515f0e3cefed133da74d41e84995724ed042
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342676"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921887"
 ---
 # <a name="onboarding-phases"></a>上架階段
 
@@ -33,6 +33,8 @@ FastTrack 專家會與您一起評估您的來源環境和需求。 請確定 Sy
 
 FastTrack 還可以透過 Configuration Manager 中的Office 365 整備儀表板或使用獨立的 Readiness Toolkit for Office 來引導您進行 Office 365 專業增強版相容性評估。 如需可用服務的詳細資訊，請參閱[適用於 Office 365 的 FastTrack 中心權益](O365-fasttrack-benefit-for-office-365.md)。 
 
+FastTrack 也會為您評估新式管理策略，包括透過雲端連結 Configuration Manager 與 Microsoft Intune，或將 Intune 部署為單獨的雲端管理解決方案。
+
 ## <a name="remediate"></a>修復
 
 您可以根據來源環境執行修復工作，以便滿足上架需求。 我們提供了一個修復清單，用於準備您的環境並驗證這些元素是否就位，以讓您的來源環境符合成功部署的最低需求。 
@@ -45,6 +47,8 @@ FastTrack 提供將現有裝置升級至 Windows 10 企業版的指引，只要�
 
 我們提供指引，幫助貴組織使用現有的 Configuration Manager 環境或 Microsoft 365 與 Windows 10 企業版和 Office 365 專業增強版保持同步。
 
+如有需要，FastTrack 可以引導客戶透過雲端將 Configuration Manager 連結至 Intune，或部署獨立的 Intune，藉以啟用新式管理。 如需相關服務的詳細資訊，請參閱[適用於 Enterprise Mobility + Security (EMS) 的 FastTrack 中心權益程序](EMS-fasttrack-process.md)。
+
 > [!NOTE]
 > 如果您目前沒有部署和維護的計劃或程序，我們可以根據就地升級案例 (建議) 或 [Windows Autopilot](EMS-onboarding-phases.md#windows-autopilot) 提供最佳作法指引。
 
@@ -54,6 +58,7 @@ FastTrack 未提供以下指引：
 
 - 將 Configuration Manager 升級至最新分支。
 - 建立適用於 Windows 10 部署的自訂映像。
+- 建立及支援 Windows 10 部署的部署指令碼。
 - 將 Windows 10 系統從 BIOS 轉換為整合可延伸韌體介面 (UEFI)。
 - 啟用 Windows 10 的安全性功能。 
 - 將 Windows 部署服務 (WDS) 設定為開機前執行環境 (PXE) 啟動。

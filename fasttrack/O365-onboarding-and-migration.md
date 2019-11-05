@@ -3,19 +3,19 @@ title: 上架及移轉階段
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 上架有四個主要階段 - 起始、評估、修復與啟用。您可以在這些階段後面選擇接著資料移轉階段。
-ms.openlocfilehash: 16e777ea13a885eafac0185c3f282f0a856c5bb1
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 21b201c4c9d88c3b92c815beeef3e6ae46c3b73a
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342412"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37922639"
 ---
 # <a name="onboarding-and-migration-phases"></a>上架及移轉階段
 
@@ -97,9 +97,13 @@ FastTrack 專家將配合您評估您的來源環境和需求。我們為您提�
 - 針對在 Office 365 中驗證的所有已啟用郵件的網域設定 Exchange Online Protection (EOP) 功能。
     > [!NOTE]
     > 您的郵件交換 (MX) 記錄必須指向 Office 365。 
-- 如果您的訂閱服務包含 Exchange Online 進階威脅防護 (ATP) 功能，請設定此功能。將您的 MX 記錄指向 Office 365 之後即完成此項設定。這項功能設定屬於 Exchange Online Protection 反惡意程式碼設定的一部分。
+- 設定 Office 365 進階威脅防護 (ATP) 功能 (如果它是您訂閱服務的一部分)。 如需詳細資訊，請參閱 [Office 365 進階威脅防護](#office-365-advanced-threat-protection)。
 - 為 Office 365 中經驗證之所有已啟用郵件的網域設定資料遺失保護 (DLP) 功能，作為訂閱服務的一部分。將您的 MX 記錄指向 Office 365 之後即完成此項設定。
 - 為 Office 365 中經驗證之所有已啟用郵件的網域設定 Office 365 訊息加密 (OME) 功能，作為訂閱服務的一部分。將您的 MX 記錄指向 Office 365 之後即完成此項設定。
+
+> [!NOTE]
+> 信箱複寫服務 (MRS) 會嘗試將您內部部署信箱中受資訊版權管理 (IRM) 的電子郵件移轉至對應的 Exchange Online 信箱。 在移轉之後，客戶必須將 Active Directory Rights Management Services (AD RMS) 範本複製到 Azure 版權管理服務 (Azure RMS)，才能讀取受保護的內容。
+
 - 設定防火牆連接埠。
 - 視需要設定 DNS、併入需要的自動探索、寄件者原則架構 (SPF) 和 MX 記錄。 
 - 如果需要，則設定您的來源訊息環境與 Exchange Online 間的電子郵件流程。
@@ -128,6 +132,14 @@ FastTrack 專家會提供將資料移轉到 Office 365 的指引，方法是使�
   
 ![啟用階段期間的 OneDrive 上架步驟](media/O365-Onboarding-Enable-ODB.png)
   
+## <a name="office-365-advanced-threat-protection"></a>Office 365 進階威脅防護
+
+對於 Office 365 ATP，我們提供下列作業的指引：
+- 啟用安全連結、安全附件和防網路釣魚。 
+- 設定自動化、調查和回應。
+- 使用攻擊模擬器。
+- 報告和威脅分析。
+
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 對於 Microsoft Teams，我們提供下列項目的指引：

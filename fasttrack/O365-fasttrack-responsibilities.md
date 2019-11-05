@@ -3,19 +3,19 @@ title: FastTrack 責任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 在上架期間 FastTrack 專家需擔負下列責任。
-ms.openlocfilehash: 0ce5279af4a6136b4415de444f5e792672ce040d
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 6570fa144076288a4ab00806e9e0f8bd9172582f
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342292"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921579"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 責任
 
@@ -88,7 +88,7 @@ ms.locfileid: "37342292"
   - 安裝和設定 WAP 以在必要時將您的 AD FS 基礎結構發佈至網路中。
     > [!NOTE]
     > 對於所有多重樹系組態，AD FS 部署是在範圍外。 
-- 測試 SSO 功能 (若已部署)。
+- 測試無縫 SSO 功能 (若已部署)。
 - 驅動成功服務採用和價值。
     
 \*\*如需通過驗證的詳細資訊，請參閱＜[Azure Active Directory 傳遞驗證：目前的限制](https://go.microsoft.com/fwlink/?linkid=860356)＞。 
@@ -100,9 +100,10 @@ ms.locfileid: "37342292"
 提供以下的相關指引：
 - 建立或更新 DNS 記錄。 
 - 啟用來源訊息系統與 Office 365 環境間的電子郵件路由。 
-- 設定 Exchange Online Protection、資料遺失保護 (DLP) 及 Office 365 訊息加密 (OME) 功能 (如果您的訂閱中有，則包括 Exchange Online 進階威脅防護功能)，並確認您的 MX 記錄在所有已驗證之已啟用郵件的網域中指向 Office 365。
+- 設定 Exchange Online Protection、資料外洩防護 (DLP)、Office 365 郵件加密 (OME)，以及 Office 365 進階威脅防護 (ATP) (如果您的訂閱中有的話)，並確認您的 MX 記錄在所有已啟用郵件功能且已驗證的網域中均指向 Office 365。
 - 在單一內部部署 Exchange 組織與 Office 365 之間，「或者」** 在多重內部部署 Exchange 組織與 Office 365 之間進行混合設定。 
 - 設定信箱用戶端 (Outlook for Windows、Outlook 網頁版，以及 Outlook for iOS 和 Android)。
+- 設定 Office 365 ATP (如果您的訂閱中有的話) 的自動化、調查和回應。
     
 如需資料移轉責任的詳細資訊，請參閱[資料移轉](O365-data-migration.md)。
   
@@ -139,6 +140,16 @@ ms.locfileid: "37342292"
 - 如何設定 SharePoint Online 混合式商務用 OneDrive 重新導向 (僅限 SharePoint 2013 和 SharePoint 2016)。
 - 若使用 FastTrack Center 資料移轉服務且您符合資格，就會進行資料移轉。
     
+## <a name="office-365-advanced-threat-protection"></a>Office 365 進階威脅防護
+
+提供以下的相關指引：
+- 啟用安全連結。
+- 啟用安全附件。
+- 啟用防網路釣魚原則。
+- 設定自動化、調查和回應。
+- 使用攻擊模擬器。
+- 報告和威脅分析。
+
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 提供以下的相關指引：

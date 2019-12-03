@@ -3,19 +3,19 @@ title: FastTrack 責任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 在上架期間 FastTrack 專家需擔負下列責任。
-ms.openlocfilehash: 6570fa144076288a4ab00806e9e0f8bd9172582f
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 08fc251860aca5868deefd19904abd30b5a9f8b9
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921579"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662986"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 責任
 
@@ -107,49 +107,6 @@ ms.locfileid: "37921579"
     
 如需資料移轉責任的詳細資訊，請參閱[資料移轉](O365-data-migration.md)。
   
-## <a name="sharepoint-online"></a>SharePoint Online
-
-提供以下的相關指引：
-- 設定包括授權在內的使用者佈建。
-- 啟用 SharePoint Online 管理員的網站架設。    
-- 規劃網站集合。 
-- 保護內容與管理權限。
-- 啟用個人網站和社交功能。
-- 設定 SharePoint Online 功能。 
-- 若使用 FastTrack Center 資料移轉服務且您符合資格，就會提供資料移轉。
-- 評估 SharePoint Online 混合式所需的內部部署 SharePoint 伺服器陣列基礎結構組態。 
-- 使用工具及自動化以︰
-  - 設定內部部署雲端 Search Service 應用程式。 
-  - 設定 SharePoint 內部部署與雲端環境之間的信任。
-- 設定內部部署 SharePoint 網站以使用 SharePoint Online 混合式功能。
-    
-## <a name="onedrive-for-business"></a>商務用 OneDrive
-
-提供以下的相關指引：
-- 識別內部部署 SharePoint 版本和整合選項。 
-- 識別同步處理和身分識別選項。
-- 選取首度發行選項：   
-  - Just-In-Time 首度發行。
-  - 階段式首度發行 (循序與分階段)。
-- 準備用於 商務用 OneDrive 部署的內部部署環境：
-  - 識別正確的 商務用 OneDrive 同步用戶端。
-  - 設定 DNS、網路連接埠和防火牆。 
-- 指派使用者授權。 
-- 設定 SharePoint Online 對象，以控制和控制取得 商務用 OneDrive 的對象。 
-- 將商務用 OneDrive 同步處理用戶端部署至桌上型電腦。   
-- 如何設定 SharePoint Online 混合式商務用 OneDrive 重新導向 (僅限 SharePoint 2013 和 SharePoint 2016)。
-- 若使用 FastTrack Center 資料移轉服務且您符合資格，就會進行資料移轉。
-    
-## <a name="office-365-advanced-threat-protection"></a>Office 365 進階威脅防護
-
-提供以下的相關指引：
-- 啟用安全連結。
-- 啟用安全附件。
-- 啟用防網路釣魚原則。
-- 設定自動化、調查和回應。
-- 使用攻擊模擬器。
-- 報告和威脅分析。
-
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 提供以下的相關指引：
@@ -175,26 +132,51 @@ ms.locfileid: "37921579"
 - 啟用 Teams 即時活動。 
 - 組織設定與 Microsoft Stream 整合。
 
-
-## <a name="skype-for-business-online"></a>商務用 Skype Online
+## <a name="office-365-advanced-threat-protection"></a>Office 365 進階威脅防護
 
 提供以下的相關指引：
-- 針對 Office 365 佈建商務用 Skype 身分識別。 
-- 啟用 Office 365 的線上會議、立即訊息 (IM) 及顯示狀態功能。 
-- 建立要與支援的會議室系統裝置產生關聯的帳戶 (最多 10 個帳戶)。 
-- 設定分割網域伺服器環境以支援 Lync 混合式或 商務用 Skype Online 混合案例 (如果適用)。
-- 啟用音訊會議：
-  - 會議橋接預設設定的組織設定。
-  - 對授權使用者會議橋接的指派。
-- 啟用電話系統：
-  - 啟用電話系統和通話方案上架 (在可用的市場)。
-  - 授權使用者號碼的指派。
-  - 透過 UI 的本機號碼移轉指引最多至 999。
-  - 本機號碼移轉 SR 支援超過 999。
-- 啟用商務用 Skype 會議廣播：
-  - 啟用商務用 Skype 會議廣播上架指引。
-  - 針對會議廣播服務同盟的組織設定。
+- 啟用安全連結。
+- 啟用安全附件。
+- 啟用防網路釣魚原則。
+- 設定自動化、調查和回應。
+- 使用攻擊模擬器。
+- 報告和威脅分析。
+
+## <a name="office-365-proplus"></a>Office 365 專業增強版
+
+提供以下的相關指引：
+- 解決部署問題。
+- 使用 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 指派使用者授權。
+- 使用隨選即用從 Office 365 入口網站安裝 Office 365 專業增強版。
+- 在您的 iOS、Android 或 Windows Mobile 裝置上安裝 Office Mobile 應用程式 (如 Outlook for iOS 和 Android、Word Mobile、Excel Mobile 和 PowerPoint Mobile)。 
+- 使用 Office 365 部署工具來設定更新設定。
+- 選取並設定本地或雲端安裝。
+- 使用 Office 自訂工具或原生 XML 建立 Office 部署工具，以設定部署套件。
+- 使用 System Center Configuration Manager 部署，包含建立 System Center Configuration Manager 封裝的協助。
     
+## <a name="onedrive-for-business"></a>商務用 OneDrive
+
+提供以下的相關指引：
+- 識別內部部署 SharePoint 版本和整合選項。 
+- 識別同步處理和身分識別選項。
+- 選取首度發行選項：   
+  - Just-In-Time 首度發行。
+  - 階段式首度發行 (循序與分階段)。
+- 準備用於 商務用 OneDrive 部署的內部部署環境：
+  - 識別正確的 商務用 OneDrive 同步用戶端。
+  - 設定 DNS、網路連接埠和防火牆。 
+- 指派使用者授權。 
+- 設定 SharePoint Online 對象，以控制和控制取得 商務用 OneDrive 的對象。 
+- 將商務用 OneDrive 同步處理用戶端部署至桌上型電腦。   
+- 如何設定 SharePoint Online 混合式商務用 OneDrive 重新導向 (僅限 SharePoint 2013 和 SharePoint 2016)。
+- 若使用 FastTrack Center 資料移轉服務且您符合資格，就會進行資料移轉。
+    
+## <a name="outlook-for-ios-and-android"></a>iOS 和 Android 的 Outlook
+
+提供以下的相關指引：
+- 將 Outlook下載至 iOS 和 Android 裝置。
+- 在 Outlook 內設定電子郵件帳戶。
+
 ## <a name="power-bi"></a>Power BI
 
 提供以下的相關指引：
@@ -220,28 +202,45 @@ ms.locfileid: "37921579"
 - 使用 Office 365 部署工具或群組原則範本來設定更新設定。
 - 設定 Microsoft Project Online 桌面用戶端 的單一內部網站發佈伺服器，包含建立 Office 2016 部署工具之 configuration.xml 檔案的相關指引。 
 - 正在將 Microsoft Project Online 桌面用戶端連接至 Microsoft Project Online。
+
+## <a name="sharepoint-online"></a>SharePoint Online
+
+提供以下的相關指引：
+- 設定包括授權在內的使用者佈建。
+- 啟用 SharePoint Online 管理員的網站架設。    
+- 規劃網站集合。 
+- 保護內容與管理權限。
+- 啟用個人網站和社交功能。
+- 設定 SharePoint Online 功能。 
+- 若使用 FastTrack Center 資料移轉服務且您符合資格，就會提供資料移轉。
+- 評估 SharePoint Online 混合式所需的內部部署 SharePoint 伺服器陣列基礎結構組態。 
+- 使用工具及自動化以︰
+  - 設定內部部署雲端 Search Service 應用程式。 
+  - 設定 SharePoint 內部部署與雲端環境之間的信任。
+- 設定內部部署 SharePoint 網站以使用 SharePoint Online 混合式功能。
+    
+## <a name="skype-for-business-online"></a>商務用 Skype Online
+
+提供以下的相關指引：
+- 針對 Office 365 佈建商務用 Skype 身分識別。 
+- 啟用 Office 365 的線上會議、立即訊息 (IM) 及顯示狀態功能。 
+- 建立要與支援的會議室系統裝置產生關聯的帳戶 (最多 10 個帳戶)。 
+- 設定分割網域伺服器環境以支援 Lync 混合式或 商務用 Skype Online 混合案例 (如果適用)。
+- 啟用音訊會議：
+  - 會議橋接預設設定的組織設定。
+  - 對授權使用者會議橋接的指派。
+- 啟用電話系統：
+  - 啟用電話系統和通話方案上架 (在可用的市場)。
+  - 授權使用者號碼的指派。
+  - 透過 UI 的本機號碼移轉指引最多至 999。
+  - 本機號碼移轉 SR 支援超過 999。
+- 啟用商務用 Skype 會議廣播：
+  - 啟用商務用 Skype 會議廣播上架指引。
+  - 針對會議廣播服務同盟的組織設定。
     
 ## <a name="yammer-enterprise"></a>Yammer Enterprise
 
 提供將您的單一 Yammer Basic 網路轉換成單一 Yammer Enterprise 網路的指導。
   
-## <a name="office-365-proplus"></a>Office 365 專業增強版
-
-提供以下的相關指引：
-- 解決部署問題。
-- 使用 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 指派使用者授權。
-- 使用隨選即用從 Office 365 入口網站安裝 Office 365 專業增強版。
-- 在您的 iOS、Android 或 Windows Mobile 裝置上安裝 Office Mobile 應用程式 (如 Outlook for iOS 和 Android、Word Mobile、Excel Mobile 和 PowerPoint Mobile)。 
-- 使用 Office 365 部署工具來設定更新設定。
-- 選取並設定本地或雲端安裝。
-- 使用 Office 自訂工具或原生 XML 建立 Office 部署工具，以設定部署套件。
-- 使用 System Center Configuration Manager 部署，包含建立 System Center Configuration Manager 封裝的協助。
-    
-## <a name="outlook-for-ios-and-android"></a>Outlook for iOS 和 Android
-
-提供以下的相關指引：
-- 將 Outlook下載至 iOS 和 Android 裝置。
-- 在 Outlook 內設定電子郵件帳戶。
-
 \*如需 Office 365 US Government 的 FastTrack 責任詳細資訊，請參閱 [Office 365 US Government 的 FastTrack 責任](US-Gov-appendix-fasttrack-responsibilities.md)。
 

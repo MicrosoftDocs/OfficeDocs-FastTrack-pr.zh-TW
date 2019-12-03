@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 65be29729f38b3007399b05b495b56f641680878
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 71030fee255c784f57ed4ee880b6bc01087d5a1b
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921099"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662854"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 責任
 
@@ -148,7 +148,7 @@ ms.locfileid: "37921099"
 
   - 從 [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/)，最多三個 (3) 或多個軟體即服務 (SaaS) 應用程式與單一登入 (SSO) 整合。
 
-  - 使用者自動佈建預先整合的 SaaS 應用程式 (如[應用程式整合教學課程清單](https://docs.microsoft.com/zh-TW/azure/active-directory/saas-apps/tutorial-list)所列) 僅限於向外佈建。
+  - 使用者自動佈建預先整合的 SaaS 應用程式 (如[應用程式整合教學課程清單](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list)所列) 僅限於向外佈建。
 
   - 自訂登入畫面，包括商標、文字和影像。
 

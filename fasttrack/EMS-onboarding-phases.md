@@ -5,18 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: 8f850c133d18ea42b50f3c4333092d5358d8b1c8
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 858294224aa18dc3f2aae927630498f49afeb872
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921591"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662914"
 ---
 # <a name="onboarding-phases"></a>上線階段
 
@@ -103,7 +103,7 @@ Azure AD Premium 設定包括啟用下列功能：
 
 -   從 [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/)，最多三個 (3) 或多個軟體即服務 (SaaS) 應用程式與單一登入 (SSO) 整合。
 
--   使用者自動佈建預先整合的 SaaS 應用程式 (如[應用程式整合教學課程清單](https://docs.microsoft.com/zh-TW/azure/active-directory/saas-apps/tutorial-list)所列) 僅限於向外佈建。
+-   使用者自動佈建預先整合的 SaaS 應用程式 (如[應用程式整合教學課程清單](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list)所列) 僅限於向外佈建。
 
 -   自訂登入畫面，包括商標、文字和影像。
 
@@ -280,7 +280,7 @@ FastTrack 也會提供如何驅動成功採用合格服務的相關指引。
 系統也會將指引提供給想要使用 Microsoft Azure Rights Management Services (Azure RMS)、Office 365 郵件加密 (OME)，以及資料外洩防護 (DLP) 套用保護的客戶。
 
 > [!NOTE]
-> **想要深入了解？** 請參閱 [Enterprise Mobility + Security](https://www.microsoft.com/zh-TW/cloud-platform/enterprise-mobility)。
+> **想要深入了解？** 請參閱 [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility)。
 
 ## <a name="next-steps"></a>後續步驟
 

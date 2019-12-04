@@ -3,19 +3,19 @@ title: 適用的服務與方案
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 當您購買任何 Microsoft 365 服務，FastTrack 專家可提供您 Microsoft 365 的上架指引，讓您即刻開始使用。
-ms.openlocfilehash: 984f10eb9c9854f28e5cb56537594f87aeb8cef7
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 47f0a830a289974b8cfe370101d4049f3f19816f
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921171"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662766"
 ---
 # <a name="eligible-services-and-plans"></a>適用的服務與方案
 
@@ -72,6 +72,7 @@ FastTrack 中心提供下列服務的協助：
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
 - Microsoft 365 E5 Security\*
+- Microsoft 365 F1*
 - Microsoft 365 商務版\*
     
  **Microsoft 365 教育版**
@@ -164,8 +165,6 @@ FastTrack 中心提供下列服務的協助：
 |**Microsoft Intune**    |   適用於以獨立方案形式購買，或以隨附於 E3 或 E5 方式取得該軟體。      |
 |**Microsoft Intune 和 Configuration Manager**     |    適用於以獨立方案形式購買，或以隨附於 E3 或 E5 方式取得該軟體。     |
 |**Microsoft Intune 教育版**     |  適用於以獨立方案形式購買，或以隨附於 A3 或 A5 方式取得該軟體。       |
-|**Azure 進階威脅防護**     |    資格有限。僅限以獨立方案形式購買的軟體。若要以獨立方案形式購買，請前往 [Microsoft 365 FastTrack 入口網站](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。   |
-|**Microsoft Cloud App Security**    |       資格有限。僅限以獨立方案形式購買的軟體。若要以獨立方案形式購買，請前往 [Microsoft 365 FastTrack 入口網站](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。    |
 
 如需詳細資訊，請參閱[適用於 Enterprise Mobility + Security (EMS) 的 FastTrack 中心權益](EMS-fasttrack-benefit-for-EMS.md)。
 

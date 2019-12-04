@@ -3,23 +3,23 @@ title: 提供的協助
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 當您購買任何 Windows 10 或 Microsoft 365 服務時，FastTrack 專家會提供部署至 Windows 10 和 Office 365 專業增強版的建議和修復指引，並且讓您保持在最新狀態而不需額外成本 (具有合格訂用帳戶)。
-ms.openlocfilehash: e114794d06b4c5aa7f3fd28bfe14ea4132780c16
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: d89f3576e225748568452a65b063c7aba55dd58c
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921923"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39663430"
 ---
 # <a name="assistance-offered"></a>提供的協助  
 
-當您購買任何 Windows 10 或 Microsoft 365 服務 (如[適用的服務與方案](M365-eligible-services-and-plans.md)中詳述)，如果在部署至 Windows 10 和 Office 365 專業增強版時遇到應用程式相容性問題，FastTrack 專家可提供您建議和修復指引，以讓電腦保持在最新狀態，此服務不需額外付費 (具合格訂用帳戶)。 此外，我們現在也為部署 Windows 10 企業版多重工作階段的客戶提供協助。
+當您購買任何 Windows 10 或 Microsoft 365 服務 (如[適用的服務與方案](M365-eligible-services-and-plans.md)中詳述)，如果在部署較新的 Microsoft 版本時遇到[支援的 Microsoft 產品](#supported-microsoft-products)中所述的應用程式相容性問題，FastTrack 專家可提供您建議和修復指引。
 
 若要取得協助，請填寫[傳統型應用程式保證服務要求](https://go.microsoft.com/fwlink/?linkid=2022721)。
 
@@ -28,17 +28,30 @@ ms.locfileid: "37921923"
 > [!NOTE]
 > 協助提供的語言有：繁體中文和簡體中文 (僅限說中文的資源)、英文、法文、德文、義大利文、日文、韓文、葡萄牙文 (巴西)、西班牙文。 
 
-## <a name="assistance"></a>協助
+## <a name="supported-microsoft-products"></a>支援的 Microsoft 產品
 
-FastTrack 提供以下協助：
-- 讓 Windows 7 上運作的應用程式也可以在 Windows 10 上運作。
-- 支援：
-    - 以 Windows 10 支援版本為目標的客戶開發應用程式。
-    - 以 Windows 10 支援版本為目標的第三方獨立軟體廠商 (ISV) 應用程式。
-    - 以 Windows 10 支援版本為目標的 Office 365 專業增強版，包含巨集和增益集。
-    - 以 Windows 10 支援版本為目標的 Microsoft 產品和服務。
-    - Windows 10 桌面和 Web 應用程式。
-    - 部署於 Windows 10 企業版多重工作階段的 Windows Server 遠端桌面工作階段主機 (RDSH) 上執行的虛擬化應用程式。
+FastTrack 提供下列 Microsoft 產品上部署之應用程式的修復協助：
+
+### <a name="windows-10-and-office-365-proplus"></a>Windows 10 和 Office 365 專業增強版
+
+- 可在 Windows 7、Windows 8.1、Office 2010 和 Office 2013 中執行的應用程式也適用於 Windows 10 和 Office 365 專業增強版。
+
+### <a name="the-new-microsoft-edge"></a>新的 Microsoft Edge
+
+- 如果您的 Web 應用程式或網站可在 Internet Explorer 11、Google Chrome 或 Microsoft Edge 傳統版上執行，則也能在新的 Microsoft Edge 上執行。
+
+### <a name="windows-virtual-desktop"></a>Windows 虛擬桌面
+
+- 在 Windows Server 遠端桌面工作階段主機 (RDSH) 上執行的虛擬化應用程式，也能隨著 Windows 虛擬桌面的一部分在 Windows 10 企業版多重工作階段上執行。
+- 在任何 Windows 7 或 Windows 10 虛擬桌面基礎結構 (VDI) 環境上執行的應用程式，也能隨著 Windows 虛擬桌面的一部分在 Windows 7 企業版和 Windows 10 企業版上執行。*
+- 在 Windows 7 或 Windows 10 用戶端裝置上執行的應用程式，也能隨著 Windows 虛擬桌面的一部分在 Windows 7 企業版和 Windows 10 企業版上執行。\*
+
+\*Windows 10 企業版多重工作階段相容性排除與限制包括：
+- 有限的硬體重新導向。
+- A/V 密集型應用程式可能會以降低的容量執行。
+- 64 位元 Windows 虛擬桌面版不支援 16 位元應用程式。
+
+如需詳細資訊，請參閱[什麼是 Windows 虛擬桌面？](https://docs.microsoft.com/azure/virtual-desktop/overview)和 [Windows 10 企業版多重工作階段常見問題](https://docs.microsoft.com/azure/virtual-desktop/windows-10-multisession-faq)。
 
 > [!NOTE]
 > FastTrack 會盡全力解決相容性問題。 
@@ -47,7 +60,7 @@ FastTrack 提供以下協助：
 
 FastTrack 未提供以下協助：
 - 應用程式清查和測試，以判斷可否在 Windows 10 和 Office 365 專業增強版上運作。 如需有關此程序的詳細指示，請瀏覽[電腦部署中心](https://go.microsoft.com/fwlink/?linkid=2080140)。 如果您對於深入的升級整備評定有興趣，請填寫[客戶要求現代化電腦評定](https://go.microsoft.com/fwlink/?linkid=2053818)表單。
-- 針對 Windows 10 相容性和支援狀態，研究第三方 ISV 應用程式。 如需詳細資訊，請參閱[電腦分析](https://docs.microsoft.com/zh-TW/sccm/desktop-analytics/overview)。
+- 針對 Windows 10 相容性和支援狀態，研究第三方 ISV 應用程式。 如需詳細資訊，請參閱[電腦分析](https://docs.microsoft.com/sccm/desktop-analytics/overview)。
 - 應用程式僅限封裝服務。不過，桌面應用程式保證小組會將我們針對 Windows 10 修復的應用程式封裝起來，以確保這些應用程式可以在客戶的環境中部署。
 
 客戶責任包括：

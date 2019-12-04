@@ -3,19 +3,19 @@ title: 資料移轉
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 專家提供將資料移轉至 Office 365 的步驟指引。這適用於 Exchange Online、商務用 OneDrive 和 SharePoint Online 的 Office 365 服務所有符合資格的客戶。
-ms.openlocfilehash: 011ac6cd7a6f53872bf9545cb837700418415566
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 7f779d058fa8bfc916f6fffae06595595c660e81
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921243"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662926"
 ---
 # <a name="data-migration"></a>資料移轉
 
@@ -66,10 +66,6 @@ Microsoft 可能需要您郵件系統的適當存取權和權限，才能執行�
 #### <a name="us-governmentdod"></a>美國政府/DOD
 
 移轉進行的方式採取標準預先安排制：在預先定義的移轉時段中，以每天 24 小時，每週五 (5) 個工作日 (24x5) 為基礎。每個移轉日有三個移轉批次。每周有五個移轉日，從星期一上午2:00 國際標準時間 (UTC) 到星期五午夜 UTC。這表示上次排程的移轉是星期五下午 8:00 UTC。
-
-#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>德國 Microsoft Cloud Deutschland (MCD)
-
-移轉進行的方式採取標準預先安排制：在預先定義的移轉時段中，以每天 9 小時，每週五 (5) 個工作日 (9x5) 為基礎。每個移轉日有一個移轉批次。每周有五個移轉日，從星期一下午 12:00 UTC 到星期五下午 21:00 UTC。
     
  ### <a name="end-state"></a>結束狀態
   
@@ -172,10 +168,6 @@ FastTrack 專家會在移轉期間執行下列工作：
 
 移轉進行的方式採取標準預先安排制：在預先定義的移轉時段中，以每天 24 小時，每週五 (5) 個工作日 (24x5) 為基礎。每個移轉日有三個移轉批次。每周有五個移轉日，從星期一上午2:00 國際標準時間 (UTC) 到星期五午夜 UTC。這表示上次排程的移轉是星期五下午 8:00 UTC。
 
-#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>德國 Microsoft Cloud Deutschland (MCD)
-
-移轉進行的方式採取標準預先安排制：在預先定義的移轉時段中，以每天 9 小時，每週五 (5) 個工作日 (9x5) 為基礎。每個移轉日有一個移轉批次。每周有五個移轉日，從星期一下午 12:00 UTC 到星期五下午 21:00 UTC。
-
 - 所有移轉都受限於 [SharePoint Online 和商務用 OneDrive 軟體的界限及限制](https://go.microsoft.com/fwlink/?LinkID=616612)中所述的 SharePoint Online 配額。   
 - 移轉的整體資料數量將受限於您有權使用的整體 SharePoint Online 儲存空間配額的 75% (包括您可能需要另外購買的額外儲存空間)。
     
@@ -230,8 +222,8 @@ FastTrack 專家會在移轉期間執行下列工作：
 - 執行移轉後的移轉補救措施 (如果適用)。
 - 規劃及實作變更管理與使用者通訊 (若適用)。   
 - 管理和設定來源系統和裝置 (成功完成評估及移轉活動所需) 的任何變更。
-- 至少提前七 (7) 天提供已定義方法的排程和要在每個移轉事件移轉的特定使用者資料清單。
-- 從排程中刪除使用者資料，直到移轉批次處理前 24 小時。這應該與最終的移轉批次相對應。
+- 至少提前三 (3) 天提供已定義方法的排程和要在每個移轉事件移轉的特定使用者資料清單。
+- 進行移轉批次前，從排程卸除 24 小時前的使用者資料。 這應該會對應到最後的移轉批次。
 > [!NOTE]
 > Microsoft 不保證檔案移轉的速度。
     
@@ -255,10 +247,6 @@ FastTrack 專家會在移轉期間執行下列工作：
 #### <a name="us-governmentdod"></a>美國政府/DOD
 
 移轉進行的方式採取標準預先安排制：在預先定義的移轉時段中，以每天 24 小時，每週五 (5) 個工作日 (24x5) 為基礎。每個移轉日有三個移轉批次。每周有五個移轉日，從星期一上午2:00 國際標準時間 (UTC) 到星期五午夜 UTC。這表示上次排程的移轉是星期五下午 8:00 UTC。
-
-#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>德國 Microsoft Cloud Deutschland (MCD)
-
-移轉進行的方式採取標準預先安排制：在預先定義的移轉時段中，以每天 9 小時，每週五 (5) 個工作日 (9x5) 為基礎。每個移轉日有一個移轉批次。每周有五個移轉日，從星期一下午 12:00 UTC 到星期五下午 21:00 UTC。
     
 - 所有移轉都需要來源環境的適當存取權和權限。   
 - 所有移轉都受限於 [SharePoint Online 和商務用 OneDrive：軟體界限及限制](https://go.microsoft.com/fwlink/?LinkId=698855)中所述的商務用 OneDrive 配額。
@@ -285,7 +273,7 @@ FastTrack 專家會在移轉期間執行下列工作：
 - 針對案例適用的情況，提供評估與移轉工具的必要條件。  
 - 針對評估與移轉目的，對來源和目標環境的移轉小組存取權提供先決條件。   
 - 提供評估工具以進行目標來源環境的評估，或是提供如何使用原生來源平台功能來建立評估報告的指示。    
-- 至少提前七 (7) 天提供已定義方法的排程和要在每個移轉事件移轉的特定使用者資料清單。
+- 至少提前三 (3) 天提供已定義方法的排程和要在每個移轉事件移轉的特定使用者資料清單。
 - 從排程中刪除使用者資料，直到移轉批次處理前 24 小時。這應該與最終的移轉批次相對應。
 - 在部署時提供協助，並執行評估與移轉工具 (若適用)。   
 - 為內容移轉 (於適用時) 在準備中設定移轉基礎結構。    

@@ -3,19 +3,19 @@ title: FastTrack 責任 for Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 在上架期間 FastTrack 專家需擔負下列責任。
-ms.openlocfilehash: fd1ff8f660ec5b9a808ef0b30b347fee62d4363c
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: 6ac727d55ba8d5653fb9ebffa95b7c3c4a104f70
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39662938"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40929291"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack 責任 for Office 365 US Government
 
@@ -24,7 +24,7 @@ ms.locfileid: "39662938"
 ## <a name="general"></a>一般
 
 - 如同詳細的階段說明中所述，會針對成功計劃發展、實作及必要的組態活動，為您提供遠端支援協助。
-- 提供可用的文件及軟體工具、管理主控台和指令碼，提供您指引以減少或消除組態工作，並成功地規劃資源。 
+- 提供可用的文件及軟體工具、管理主控台和指令碼，提供您指引以減少或消除組態工作，並成功地規劃資源。   
     
 ## <a name="initiate-phase"></a>起始階段
 

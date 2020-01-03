@@ -3,18 +3,18 @@ title: 附錄 B：FastTrack Center 其他權益
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Exchange Online 租用戶購買至少 20,000 個授權的客戶符合 FastTrack Center 附加服務的資格。如需詳細資料，請參閱合格服務與計劃。
-ms.openlocfilehash: 45665010bf9e7f59a6afc0a9761155a3a841248c
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: 714a7bada3a57487403628722edddbe7a9bd43f6
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39662866"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40929207"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>附錄 B：FastTrack Center 其他權益
 
@@ -102,7 +102,6 @@ Exchange Online 租用戶購買至少 20,000 個授權的客戶符合 FastTrack 
 
 - 提供單一公用資料夾樹狀目錄共存的指引，包括：  
   - Exchange 2007、Exchange 2010 和 Exchange 2013 中的公用資料夾準備。 
-  - 同步處理 Exchange 2007、Exchange 2010 和 Exchange 2013 公用資料夾階層與 Exchange Online所需的 Windows PowerShell cmdlets。  
   - 將公用資料夾存取重新導向至內部部署公用資料夾的 Exchange Online 組態。  
   - 從 Exchange Online 存取公用資料夾至單一 Exchange 2007、Exchange 2010或 Exchange 2013 內部部署環境的設定。  
   - 在 Exchange Online 中協助對最多 10 個使用者存取驗證公用資料夾環境。

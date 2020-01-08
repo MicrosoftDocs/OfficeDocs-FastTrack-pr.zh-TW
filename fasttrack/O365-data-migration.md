@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 專家提供將資料移轉至 Office 365 的步驟指引。這適用於 Exchange Online、商務用 OneDrive 和 SharePoint Online 的 Office 365 服務所有符合資格的客戶。
-ms.openlocfilehash: 22ed819f96fbd87b31a2cb84cafaac735b206dd3
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 3e7ceca2b222425d3a679bb3dcd0ee94ef76c5b7
+ms.sourcegitcommit: fe68534c2ac30220561ef73ca408986a937ca7df
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40929219"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40959197"
 ---
 # <a name="data-migration"></a>資料移轉
 
@@ -98,7 +98,6 @@ FastTrack 專家會在移轉期間執行下列工作：
 - 提供標準範本以便排程信箱移轉。
 - 提供 FastTrack 專家所需權限的資訊。 
 - 以預定的格式收集預定的信箱移轉排程。
-- 與您共用事前工具，讓您在移轉失敗的信箱之前，可以執行事前工具並主動修正事前的失敗。
 - 先嘗試在移轉批次內執行單一信箱的移轉最多 2 次，才將該信箱報告為移轉失敗。
 - 在 Exchange 和 IMAP4 來源環境中，信箱內容最多只能移轉使用者信箱儲存空間限制的 85% (例如，如果信箱儲存空間限制為 50 GB，則 Microsoft 最多會移轉 50 GB 儲存空間限制的 85%)。 
 - 啟用來源訊息環境與 Office 365 Exchange Online 之間的 SMTP 郵件路由共存 (使用轉換移轉時除外)。

@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 上架有四個主要階段 - 起始、評估、修復與啟用。您可以在這些階段後面選擇接著資料移轉階段。
-ms.openlocfilehash: d40e0733bf0257faa7c5c39195377cd5872652c4
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 919908648177a45a9544d8980c11344064d4c4bd
+ms.sourcegitcommit: b5a887ad5e592a469476af3716634ec64a1afe4a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40928775"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "40988427"
 ---
 # <a name="onboarding-and-migration-phases"></a>上架及移轉階段
 
@@ -139,6 +139,8 @@ FastTrack 專家會提供將資料移轉到 Office 365 的指引，方法是使�
 - 設定自動化、調查和回應。
 - 使用攻擊模擬器。
 - 報告和威脅分析。
+
+![Office 365 ATP 圖表 (上線)](media/Office-365-Advanced-Threat-Protector-orange-3.png)
 
 ## <a name="microsoft-teams"></a>Microsoft Teams
 

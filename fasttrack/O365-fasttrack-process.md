@@ -3,19 +3,19 @@ title: FastTrack 處理程序
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/03/2020
+ms.date: 2/04/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 程序提供上架和使用者採用服務。
-ms.openlocfilehash: 3976efbd7f02218665c5abba1a599812cfac455a
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: a1c67af6c9bb19c967afcd32ba46ebc550068fd7
+ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40929243"
+ms.lasthandoff: 02/03/2020
+ms.locfileid: "41677077"
 ---
 # <a name="the-fasttrack-process"></a>FastTrack 處理程序
 
@@ -23,8 +23,8 @@ FastTrack 程序提供上架和使用者採用服務。
   
 上架包含︰
   
-- 核心上架**  意指租用戶組態和與 Azure Active Directory (Azure AD) 整合 (若有需要) 所需的工作。核心上架也能成為將其他合格之服務上架的基準。 
-- 服務上架和移轉** - 服務上架工作會啟用您租用戶中的案例。[資料移轉](O365-data-migration.md)中涵蓋資料移轉 (包括電子郵件和檔案)。 
+- *核心上架*  意指租用戶組態和與 Azure Active Directory (Azure AD) 整合 (若有需要) 所需的工作。核心上架也能成為將其他合格之服務上架的基準。 
+- *服務上架和移轉* - 服務上架工作會啟用您租用戶中的案例。[資料移轉](O365-data-migration.md)中涵蓋資料移轉 (包括電子郵件和檔案)。 
     
 使用者採用服務由數項工作所組成，提供您指引以確保您的使用者知道適合的服務，並用來促進商業價值。
   
@@ -39,11 +39,11 @@ FastTrack 程序提供上架和使用者採用服務。
   
 您可以透過 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)或 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助。 
 
-若要透過 [Microsoft 365 系統管理員中心](https://go.microsoft.com/fwlink/?linkid=2032704)取得協助，您的系統管理員需要登入至系統管理員中心，然後按一下 [需要協助？]**** Widget。 
+若要透過 [Microsoft 365 系統管理員中心](https://go.microsoft.com/fwlink/?linkid=2032704)取得協助，您的系統管理員需要登入至系統管理員中心，然後按一下 **[需要協助？]** Widget。 
 
 若要透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助： 
 1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  選取 [服務]****。
+2.  選取 **[服務]**。
 3.  填妥**要求協助使用 Microsoft 365** 表單。 
   
  您也可以從租用戶的可用服務清單中的 FastTrack Center[FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)要求協助。 
@@ -52,9 +52,9 @@ FastTrack 程序提供上架和使用者採用服務。
     
 合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。作法如下：
 1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  選取 [我的客戶]****。
+2.  選取 **[我的客戶]**。
 3.  搜尋您的客戶或從客戶清單中選取他們。
-4.  選取 [服務]****。
+4.  選取 **[服務]**。
 5.  填妥**要求協助使用 Microsoft 365** 表單。 
 
 下表列出該程序的角色與責任。

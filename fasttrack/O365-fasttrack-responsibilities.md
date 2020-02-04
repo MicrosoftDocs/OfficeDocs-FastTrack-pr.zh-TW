@@ -3,19 +3,19 @@ title: FastTrack 責任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/03/2020
+ms.date: 2/04/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 在上架期間 FastTrack 專家需擔負下列責任。
-ms.openlocfilehash: 8f87e40a2de0c8d458ae0cfd8969cb935b664c6b
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: c8bbd015252265f7742c071b04c79e3b9d2c884c
+ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40928667"
+ms.lasthandoff: 02/03/2020
+ms.locfileid: "41677101"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 責任
 
@@ -101,7 +101,7 @@ ms.locfileid: "40928667"
 - 建立或更新 DNS 記錄。 
 - 啟用來源訊息系統與 Office 365 環境間的電子郵件路由。 
 - 設定 Exchange Online Protection、資料外洩防護 (DLP)、Office 365 郵件加密 (OME)，以及 Office 365 進階威脅防護 (ATP) (如果您的訂閱中有的話)，並確認您的 MX 記錄在所有已啟用郵件功能且已驗證的網域中均指向 Office 365。
-- 在單一內部部署 Exchange 組織與 Office 365 之間，「或者」** 在多重內部部署 Exchange 組織與 Office 365 之間進行混合設定。 
+- 在單一內部部署 Exchange 組織與 Office 365 之間，*「或者」* 在多重內部部署 Exchange 組織與 Office 365 之間進行混合設定。 
 - 設定信箱用戶端 (Outlook for Windows、Outlook 網頁版，以及 Outlook for iOS 和 Android)。
 - 設定 Office 365 ATP (如果您的訂閱中有的話) 的自動化、調查和回應。
     

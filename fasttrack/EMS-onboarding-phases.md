@@ -5,18 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 1/03/2020
+ms.date: 2/04/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: 4bab1b740fedc4b1bc5207758c713e8f146c1e61
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 02f5a1c0c2bbbe2526f0ee0fcea9da844dae1f6a
+ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40928823"
+ms.lasthandoff: 02/03/2020
+ms.locfileid: "41676801"
 ---
 # <a name="onboarding-phases"></a>上線階段
 
@@ -37,8 +37,8 @@ ms.locfileid: "40928823"
 ### <a name="to-request-assistance"></a>若要要求協助
 
 1. 登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。
-2. 選取 [FastTrack]****。
-3. 選取 [服務]****。
+2. 選取 **[FastTrack]**。
+3. 選取 **[服務]**。
 4. 填妥**要求協助使用 Microsoft 365** 表單。
 
 一旦上線支援啟動，我們將設定線上會議的排程。
@@ -46,10 +46,10 @@ ms.locfileid: "40928823"
 Microsoft 合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。 若要這麼做︰
 
 1. 登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。
-2. 選取 [FastTrack]****。
-3. 選取 [我的客戶]****。
+2. 選取 **[FastTrack]**。
+3. 選取 **[我的客戶]**。
 4. 搜尋您的客戶或從客戶清單中選取他們。
-5. 選取 [服務]****。
+5. 選取 **[服務]**。
 6. 填妥**要求協助使用 Microsoft 365** 表單。
 
 一旦上線支援啟動，FastTrack 將設定與您進行的線上會議排程，以討論上線程序、 驗證資料及設定專案啟動會議。

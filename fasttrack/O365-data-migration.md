@@ -3,19 +3,19 @@ title: 資料移轉
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/03/2020
+ms.date: 2/04/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 專家提供將資料移轉至 Office 365 的步驟指引。這適用於 Exchange Online、商務用 OneDrive 和 SharePoint Online 的 Office 365 服務所有符合資格的客戶。
-ms.openlocfilehash: 3e7ceca2b222425d3a679bb3dcd0ee94ef76c5b7
-ms.sourcegitcommit: fe68534c2ac30220561ef73ca408986a937ca7df
+ms.openlocfilehash: 7446a22f1389085220a99c01a6c10c5b7bcde6ae
+ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "40959197"
+ms.lasthandoff: 02/03/2020
+ms.locfileid: "41677053"
 ---
 # <a name="data-migration"></a>資料移轉
 
@@ -42,9 +42,9 @@ FastTrack 專家提供將資料移轉到 Office 365 的步驟指引。我們將�
 
 |**活動**|**來源環境預期**|
 |:-----|:-----|
-|**Exchange Online 移轉**  <br/> | Microsoft 會移轉下列來源環境的任意組合，一次一個。我們可以使用 FastTrack Center 來移轉上架郵件系統，或如果它通過 FastTrack Center 檢查。這包含：<br/>  若以 Exchange 2010+ 為基礎的混合式已實作於個別組織且 Exchange 郵件系統是 2003+，則為擁有單一或多個 Exchange 組織的單一或多個 Active Directory 樹系。  <br/> 單一 IBM Domino 7.0.3+ 環境 ([附錄 A：從 IBM Domino 移轉至 Exchange Online](O365-from-ibm-domino-to-exchange-online.md))。  <br/>  具備單一 IMAP 功能的電子郵件環境。  <br/>  G Suite 環境 (僅限 Gmail、連絡人和行事曆)。  <br/>  單一 Novell GroupWise 7.0.4+ 環境。  <br/> <br/> **附註** 移轉之前，必須先完成 Exchange Online 上架。** <br/> <br/> **附註** FastTrack 只會移轉至作用中的 Office 365 信箱。** <br/> <br/> **附註** *如需內部部署 Exchange 相依性的詳細資訊，請參閱＜[混合部署必要條件](https://go.microsoft.com/fwlink/?LinkId=787528)＞。* <br/><br/> **附註** 移轉多個來源郵件環境 (如多個 Exchange 組織或多個 Domino 組織 ) 時，這些移轉會依序進行。**| 
+|**Exchange Online 移轉**  <br/> | Microsoft 會移轉下列來源環境的任意組合，一次一個。我們可以使用 FastTrack Center 來移轉上架郵件系統，或如果它通過 FastTrack Center 檢查。這包含：<br/>  若以 Exchange 2010+ 為基礎的混合式已實作於個別組織且 Exchange 郵件系統是 2003+，則為擁有單一或多個 Exchange 組織的單一或多個 Active Directory 樹系。  <br/> 單一 IBM Domino 7.0.3+ 環境 ([附錄 A：從 IBM Domino 移轉至 Exchange Online](O365-from-ibm-domino-to-exchange-online.md))。  <br/>  具備單一 IMAP 功能的電子郵件環境。  <br/>  G Suite 環境 (僅限 Gmail、連絡人和行事曆)。  <br/>  單一 Novell GroupWise 7.0.4+ 環境。  <br/> <br/> **附註** *移轉之前，必須先完成 Exchange Online 上架。* <br/> <br/> **附註** *FastTrack 只會移轉至作用中的 Office 365 信箱。* <br/> <br/> **附註** *如需內部部署 Exchange 相依性的詳細資訊，請參閱＜[混合部署必要條件](https://go.microsoft.com/fwlink/?LinkId=787528)＞。* <br/><br/> **附註** *移轉多個來源郵件環境 (如多個 Exchange 組織或多個 Domino 組織 ) 時，這些移轉會依序進行。*| 
 |**SharePoint Online 移轉**  <br/> | 檔案共用 (支援 SMB 2.0+ 之裝置的伺服器訊息區 (SMB) 檔案共用)。  <br/>  Box (Starter、Business、Enterprise)。  <br/> |
-|**商務用 OneDrive 移轉**  <br/> | 檔案共用 (支援 SMB 2.0+ 之裝置的 SMB 檔案共用)。  <br/>  單一 G Suite 環境 (僅限 Google 雲端硬碟)。  <br/>  Box (Starter、Business、Enterprise)。 <br/> <br/> **附註** FastTrack 只會移轉至作用中的 Office 365 磁碟機。 **|
+|**商務用 OneDrive 移轉**  <br/> | 檔案共用 (支援 SMB 2.0+ 之裝置的 SMB 檔案共用)。  <br/>  單一 G Suite 環境 (僅限 Google 雲端硬碟)。  <br/>  Box (Starter、Business、Enterprise)。 <br/> <br/> **附註** *FastTrack 只會移轉至作用中的 Office 365 磁碟機。 *|
    
 ## <a name="migration-to-exchange-online"></a>遷移至 Exchange Online
 
@@ -88,7 +88,7 @@ Microsoft 可能需要您郵件系統的適當存取權和權限，才能執行�
 |**Exchange 2010、Exchange 2013 及 Exchange 2016** <br/><br/> **附註** *如需內部部署 Exchange 相依性的詳細資訊，請參閱＜[混合部署必要條件](https://go.microsoft.com/fwlink/?LinkId=787528)＞。*           |混合部署移轉| 電子郵件 <br/> 信箱規則 <br/> 委派 <br/> 信箱連絡人 <br/> 行事曆 <br/> Tasks <br/> 簽章 <br/> 隨著使用者信箱移轉的個人封存 <br/> 可復原的項目 <br/> 受版權管理的電子郵件 <br/> 加密的電子郵件| 公用資料夾 <br/> 任何超過郵件大小限制的電子郵件 <br/> 日誌封存或任何協力廠商封存解決方案 <br/> 遭封鎖或非作用中的使用者 <br/> 從個人存放區資料表 (PST) 檔案封存的資料 <br/> 損毀的項目 <br/> 非使用中的信箱 |
 |**G Suite 環境 (僅限 Gmail、連絡人和行事曆)** <br/> <br/> **附註** *您的 G Suite 環境必須啟用 Google API 和 Google Admin SDK 才能擴充功能。* <br/> <br/> **附註** *資料的位置：FastTrack 可能會傳送、處理、儲存已移轉的資料，取決於客戶在美國的租用戶位置或是 Microsoft 或其第三方供應商維護設備之處。FastTrack 會在可用服務完成後的 30 天內刪除任何已儲存的資料。*           |轉換或分段| 電子郵件 <br/> 信箱連絡人 <br/> 行事曆 <br/> 標籤 | 規則 <br/> 委派 <br/> 簽章 <br/> Tasks <br/> 大於 35 MB 的任何電子郵件或附件 <br/> 遭封鎖或非作用中的使用者 <br/> 從 PST 檔案或任何協力廠商封存解決方案 (例如 Google Vault) 封存的資料 <br/> 權限管理或加密的電子郵件 <br/> 損毀的項目 <br/> Google Hangouts <br/> Google Groups <br/> 資源信箱 <br/> 非使用中的信箱 |
 |**IBM Domino 7.0.3+** ([附錄 A：從 IBM Domino 移轉至 Exchange Online](O365-from-ibm-domino-to-exchange-online.md))|接移| 電子郵件 - 過去 90 天 <br/> 行事曆 - 過去 90 天和未來的項目 <br/> 信箱連絡人 - 全部 <br/> 工作 - 全部 <br/> 會議室和資源 - 假設是使用標準範本實作 <br/> 郵件檔案 (包括共用郵件檔) 必須使用標準郵件範本 | 簽章 <br/> 信箱規則 <br/> 委派 <br/> 加密的項目 <br/> 文件連結 <br/> 使用者信箋 <br/> 任何超過郵件大小限制的電子郵件 <br/> 遭封鎖或非作用中的使用者 <br/> 封存資料 <br/> 損毀的項目 <br/> 行事曆共存 <br/> 非使用中的信箱 |
-|**Novell GroupWise 7.0.4+** <br/><br/> **附註** 資料的位置：FastTrack 可能會傳送、處理、儲存已移轉的資料，取決於客戶在美國的租用戶位置或是 Microsoft 或其第三方供應商維護設備之處。FastTrack 會在可用服務完成後的 30 天內刪除任何已儲存的資料。 **           |接移| 電子郵件 <br/> 行事曆 <br/> 信箱連絡人 <br/> 個人群組 <br/> 工作 (有限制) <br/> 文件 | 規則 <br/> Proxy/委派/存取控制清單 (ACL) 轉換 <br/> 簽章 <br/> 連絡人類別 <br/> 加密的電子郵件 <br/> 搜尋資料夾 <br/> 大於 35 MB 的任何電子郵件或附件 <br/> 遭封鎖或非作用中的使用者 <br/> 封存資料 <br/> 權利管理或加密的項目 <br/> 損毀的項目 <br/> 行事曆共存 <br/> 非使用中的信箱 |
+|**Novell GroupWise 7.0.4+** <br/><br/> **附註** *資料的位置：FastTrack 可能會傳送、處理、儲存已移轉的資料，取決於客戶在美國的租用戶位置或是 Microsoft 或其第三方供應商維護設備之處。FastTrack 會在可用服務完成後的 30 天內刪除任何已儲存的資料。 *           |接移| 電子郵件 <br/> 行事曆 <br/> 信箱連絡人 <br/> 個人群組 <br/> 工作 (有限制) <br/> 文件 | 規則 <br/> Proxy/委派/存取控制清單 (ACL) 轉換 <br/> 簽章 <br/> 連絡人類別 <br/> 加密的電子郵件 <br/> 搜尋資料夾 <br/> 大於 35 MB 的任何電子郵件或附件 <br/> 遭封鎖或非作用中的使用者 <br/> 封存資料 <br/> 權利管理或加密的項目 <br/> 損毀的項目 <br/> 行事曆共存 <br/> 非使用中的信箱 |
 |**IMAP4 來源** |使用原生 IMAP4 工具進行的移轉| 電子郵件 | 規則 <br/> 委派 <br/> 通訊群組清單 <br/> 外部連絡人 <br/> 擁有郵件功能的使用者 <br/> 遭封鎖或非作用中的使用者 <br/> 信箱連絡人 <br/> 行事曆 <br/> 簽章 <br/> 工作 <br/> 任何超過郵件大小限制的電子郵件 <br/> 封存資料 <br/> 加密的電子郵件 <br/> 損毀的項目 <br/> 非使用中的信箱 |
    
 > [!NOTE]
@@ -183,8 +183,8 @@ FastTrack 專家會在移轉期間執行下列工作：
 |||||
 |:-----|:-----|:-----|:-----|
 |**來源環境** <br/> |**移轉類型** <br/> |**什麼會移轉** <br/> |**不會移轉哪些內容** <br/> |
-|**任何支援 SMB 2.0+ 的檔案共用裝置**  <br/> |單一或多個階段  <br/> | 文件  <br/>  檔案與資料夾結構  <br/>  使用者層級檔案和資料夾權限\*  <br/>  群組層級檔案和資料夾權限\*  <br/>  小於 15 GB 的檔案  <br/>  基本文件與資料夾的中繼資料：  <br/>  建立日期  <br/>  修改日期  <br/>  建立者  <br/>  上次修改者  <br/><br/> \*需要設定目錄同步處理。只移轉公開給 [Windows 檔案總管] 的 NTFS 權限。不移轉直接在檔案共用裝置上管理的權限。若資料儲存在 SMB 2.0 裝置上，將會移轉 SMB 通訊協定公開的 NTFS 等同權限。** <br/> | 擁有權歷程記錄與先前的版本  <br/>  內容中的內嵌 URL 轉換  <br/>  舊版  <br/>  Windows 檔案和資料夾屬性 (例如唯讀、隱藏)  <br/>  非 Windows New Technology File System (NTFS) 和 NTFS 的進階權限和特殊設定：  <br/>  明確拒絕權限 (在移轉之後移除，內容受限於平行權限或上層資料夾權限)  <br/>  NTFS 稽核組態  <br/>  檔案分類基礎結構 (FCI) 提供的其他檔案中繼資料  <br/>  無法存取或損毀的文件  <br/>  隱藏的共用  <br/>  共用 (例如共用層級授與的權限)  <br/>  檔案或資料夾超過目前 [Sharepoint 的規定和限制](https://go.microsoft.com/fwlink/?linkid=846724) <br/> |
-|**Box (Starter、Business、Enterprise)**  <br/> |單一或多個階段  <br/> | 文件  <br/>  檔案與資料夾結構  <br/>  使用者層級資料夾權限  <br/>  群組層級資料夾權限  <br/>  小於 15 GB 的檔案  <br/>  基本文件與資料夾的中繼資料：  <br/>  建立日期  <br/>  修改日期  <br/>  建立者  <br/>  上次修改者  <br/>  正在移轉之 Box 帳戶所擁有的共用內容 (如果明確與使用者或群組共用)\*  <br/><br/> \*使用 Box 報告來識別外部帳戶。指示使用者在移轉之後再度分享其內容。** <br/> | 擁有權歷程記錄、先前的版本和註解 <br/>  使用者層級檔案權限  <br/>  群組層級檔案權限  <br/>  檔案與資料夾描述  <br/>  Box 標記和進階中繼資料  <br/>  檔案鎖定屬性  <br/>  內容中的內嵌 URL 轉換  <br/>  丟到垃圾筒的項目  <br/>  無法存取或損毀的文件  <br/>  遭封鎖或非作用中的使用者  <br/>  Box 附註 (因移轉時未轉換而無功能)  <br/>  Box 應用程式、書籤、我的最愛及工作流程  <br/>  內容不屬於移轉之 Box 帳戶 (共用資料夾)  <br/>  外部使用者的權限和中繼資料\*  <br/>  檔案或資料夾超過目前 [Sharepoint 的規定和限制](https://go.microsoft.com/fwlink/?linkid=846724) <br/> |
+|**任何支援 SMB 2.0+ 的檔案共用裝置**  <br/> |單一或多個階段  <br/> | 文件  <br/>  檔案與資料夾結構  <br/>  使用者層級檔案和資料夾權限\*  <br/>  群組層級檔案和資料夾權限\*  <br/>  小於 15 GB 的檔案  <br/>  基本文件與資料夾的中繼資料：  <br/>  建立日期  <br/>  修改日期  <br/>  建立者  <br/>  上次修改者  <br/><br/> \**需要設定目錄同步處理。只移轉公開給 [Windows 檔案總管] 的 NTFS 權限。不移轉直接在檔案共用裝置上管理的權限。若資料儲存在 SMB 2.0 裝置上，將會移轉 SMB 通訊協定公開的 NTFS 等同權限。* <br/> | 擁有權歷程記錄與先前的版本  <br/>  內容中的內嵌 URL 轉換  <br/>  舊版  <br/>  Windows 檔案和資料夾屬性 (例如唯讀、隱藏)  <br/>  非 Windows New Technology File System (NTFS) 和 NTFS 的進階權限和特殊設定：  <br/>  明確拒絕權限 (在移轉之後移除，內容受限於平行權限或上層資料夾權限)  <br/>  NTFS 稽核組態  <br/>  檔案分類基礎結構 (FCI) 提供的其他檔案中繼資料  <br/>  無法存取或損毀的文件  <br/>  隱藏的共用  <br/>  共用 (例如共用層級授與的權限)  <br/>  檔案或資料夾超過目前 [Sharepoint 的規定和限制](https://go.microsoft.com/fwlink/?linkid=846724) <br/> |
+|**Box (Starter、Business、Enterprise)**  <br/> |單一或多個階段  <br/> | 文件  <br/>  檔案與資料夾結構  <br/>  使用者層級資料夾權限  <br/>  群組層級資料夾權限  <br/>  小於 15 GB 的檔案  <br/>  基本文件與資料夾的中繼資料：  <br/>  建立日期  <br/>  修改日期  <br/>  建立者  <br/>  上次修改者  <br/>  正在移轉之 Box 帳戶所擁有的共用內容 (如果明確與使用者或群組共用)\*  <br/><br/> \**使用 Box 報告來識別外部帳戶。指示使用者在移轉之後再度分享其內容。* <br/> | 擁有權歷程記錄、先前的版本和註解 <br/>  使用者層級檔案權限  <br/>  群組層級檔案權限  <br/>  檔案與資料夾描述  <br/>  Box 標記和進階中繼資料  <br/>  檔案鎖定屬性  <br/>  內容中的內嵌 URL 轉換  <br/>  丟到垃圾筒的項目  <br/>  無法存取或損毀的文件  <br/>  遭封鎖或非作用中的使用者  <br/>  Box 附註 (因移轉時未轉換而無功能)  <br/>  Box 應用程式、書籤、我的最愛及工作流程  <br/>  內容不屬於移轉之 Box 帳戶 (共用資料夾)  <br/>  外部使用者的權限和中繼資料\*  <br/>  檔案或資料夾超過目前 [Sharepoint 的規定和限制](https://go.microsoft.com/fwlink/?linkid=846724) <br/> |
    
 FastTrack 專家會在移轉期間執行下列工作： 
 - 舉行一場移轉逐步研習會，並涵蓋所選取移轉案例的程序與方法。
@@ -264,8 +264,8 @@ FastTrack 專家會在移轉期間執行下列工作：
 |:-----|:-----|:-----|:-----|
 |**來源環境**|**移轉類型**|**什麼會移轉**|**不會移轉哪些內容**|
 |**單一 G Suite 環境 (僅限 Google 雲端硬碟)**  <br/> |單一或多個階段  <br/> | Google 文件、試算表及投影片 (檔案轉換為 Office 等同格式)  <br/>  檔案與資料夾結構  <br/>  使用者層級資料夾權限  <br/>  群組層級資料夾權限  <br/>  小於 15 GB 的檔案  <br/>  基本文件與資料夾的中繼資料：  <br/>  建立日期  <br/>  修改日期  <br/>  建立者  <br/>  上次修改者  <br/>  正在移轉之 Google 雲端硬碟所擁有的共用內容 (如果明確與使用者或群組共用)*  <br/> | 擁有權歷程記錄、先前的版本和註解  <br/>  檔案與資料夾描述、資料夾顏色  <br/>  內容中的內嵌 URL 轉換  <br/>  使用者層級檔案權限  <br/>  群組層級檔案權限  <br/> 丟到垃圾筒的項目  <br/>  無法存取或損毀的文件  <br/>  遭封鎖或非作用中的使用者  <br/>  組織外部的共用內容  <br/>  Google 相簿、表單、地圖及其他連線的應用程式  <br/>  Google 繪圖  <br/>  檔案或資料夾超過目前 [Sharepoint 的規定和限制](https://go.microsoft.com/fwlink/?linkid=846724) <br/> |
-|**任何支援 SMB 2.0+ 的檔案共用裝置**  <br/> |單一或多個階段  <br/> | 文件  <br/>  檔案與資料夾結構  <br/>  使用者層級檔案和資料夾權限\*  <br/>  群組層級檔案和資料夾權限\*  <br/>  小於 15 GB 的檔案  <br/>  基本文件與資料夾的中繼資料：  <br/>  建立日期  <br/>  修改日期  <br/>  建立者  <br/>  上次修改者  <br/> <br/>\*需要設定目錄同步處理。只移轉公開給 [Windows 檔案總管] 的 NTFS 權限。不移轉直接在檔案共用裝置上管理的權限。若資料儲存在 SMB 2.0 裝置上，將會移轉 SMB 通訊協定公開的 NTFS 等同權限。** <br/> | 擁有權歷程記錄與先前的版本  <br/>  內容中的內嵌 URL 轉換  <br/>  舊版  <br/>  Windows 檔案和資料夾屬性 (例如唯讀、隱藏)  <br/>  非 Windows New Technology File System (NTFS) 和 NTFS 的進階權限和特殊設定：  <br/>  明確拒絕權限 (在移轉之後移除，內容受限於平行權限或上層資料夾權限)  <br/>  NTFS 稽核組態  <br/>  FCI 提供的其他檔案中繼資料  <br/>  無法存取或損毀的文件  <br/>  隱藏的共用  <br/>  共用 (例如共用層級授與的權限)  <br/>  檔案或資料夾超過目前 [Sharepoint 的規定和限制](https://go.microsoft.com/fwlink/?linkid=846724) <br/> |
-|**Box (Starter、Business、Enterprise)**  <br/> |單一或多個階段  <br/> | 文件  <br/>  檔案與資料夾結構  <br/>  使用者層級資料夾權限  <br/>  群組層級資料夾權限  <br/>  小於 15 GB 的檔案  <br/>  基本文件與資料夾的中繼資料：  <br/>  建立日期  <br/>  修改日期  <br/>  建立者  <br/>  上次修改者  <br/>  正在移轉之 Box 帳戶所擁有的共用內容 (如果明確與使用者或群組共用)\*  <br/><br/> \*使用 Box 報告來識別外部帳戶。指示使用者在移轉之後再度分享其內容。** <br/> | 擁有權歷程記錄、先前的版本和註解  <br/>  檔案與資料夾描述  <br/>  使用者層級檔案權限  <br/>  群組層級檔案權限  <br/>  Box 標記和進階中繼資料  <br/>  檔案鎖定屬性  <br/>  內容中的內嵌 URL 轉換  <br/>  丟到垃圾筒的項目  <br/>  無法存取或損毀的文件  <br/>  遭封鎖或非作用中的使用者  <br/>  Box 附註 (因移轉時未轉換而無功能)  <br/>  Box 應用程式、書籤、我的最愛及工作流程  <br/>  內容不屬於移轉之 Box 帳戶 (共用資料夾)  <br/>  外部使用者的權限和中繼資料\*  <br/>  檔案或資料夾超過目前 [Sharepoint 的規定和限制](https://go.microsoft.com/fwlink/?linkid=846724) <br/> |
+|**任何支援 SMB 2.0+ 的檔案共用裝置**  <br/> |單一或多個階段  <br/> | 文件  <br/>  檔案與資料夾結構  <br/>  使用者層級檔案和資料夾權限\*  <br/>  群組層級檔案和資料夾權限\*  <br/>  小於 15 GB 的檔案  <br/>  基本文件與資料夾的中繼資料：  <br/>  建立日期  <br/>  修改日期  <br/>  建立者  <br/>  上次修改者  <br/> <br/>\**需要設定目錄同步處理。只移轉公開給 [Windows 檔案總管] 的 NTFS 權限。不移轉直接在檔案共用裝置上管理的權限。若資料儲存在 SMB 2.0 裝置上，將會移轉 SMB 通訊協定公開的 NTFS 等同權限。* <br/> | 擁有權歷程記錄與先前的版本  <br/>  內容中的內嵌 URL 轉換  <br/>  舊版  <br/>  Windows 檔案和資料夾屬性 (例如唯讀、隱藏)  <br/>  非 Windows New Technology File System (NTFS) 和 NTFS 的進階權限和特殊設定：  <br/>  明確拒絕權限 (在移轉之後移除，內容受限於平行權限或上層資料夾權限)  <br/>  NTFS 稽核組態  <br/>  FCI 提供的其他檔案中繼資料  <br/>  無法存取或損毀的文件  <br/>  隱藏的共用  <br/>  共用 (例如共用層級授與的權限)  <br/>  檔案或資料夾超過目前 [Sharepoint 的規定和限制](https://go.microsoft.com/fwlink/?linkid=846724) <br/> |
+|**Box (Starter、Business、Enterprise)**  <br/> |單一或多個階段  <br/> | 文件  <br/>  檔案與資料夾結構  <br/>  使用者層級資料夾權限  <br/>  群組層級資料夾權限  <br/>  小於 15 GB 的檔案  <br/>  基本文件與資料夾的中繼資料：  <br/>  建立日期  <br/>  修改日期  <br/>  建立者  <br/>  上次修改者  <br/>  正在移轉之 Box 帳戶所擁有的共用內容 (如果明確與使用者或群組共用)\*  <br/><br/> \**使用 Box 報告來識別外部帳戶。指示使用者在移轉之後再度分享其內容。* <br/> | 擁有權歷程記錄、先前的版本和註解  <br/>  檔案與資料夾描述  <br/>  使用者層級檔案權限  <br/>  群組層級檔案權限  <br/>  Box 標記和進階中繼資料  <br/>  檔案鎖定屬性  <br/>  內容中的內嵌 URL 轉換  <br/>  丟到垃圾筒的項目  <br/>  無法存取或損毀的文件  <br/>  遭封鎖或非作用中的使用者  <br/>  Box 附註 (因移轉時未轉換而無功能)  <br/>  Box 應用程式、書籤、我的最愛及工作流程  <br/>  內容不屬於移轉之 Box 帳戶 (共用資料夾)  <br/>  外部使用者的權限和中繼資料\*  <br/>  檔案或資料夾超過目前 [Sharepoint 的規定和限制](https://go.microsoft.com/fwlink/?linkid=846724) <br/> |
    
 FastTrack 專家會在移轉期間執行下列工作：  
 - 舉行一場移轉逐步研習會，並涵蓋所選取移轉案例的程序與方法。   

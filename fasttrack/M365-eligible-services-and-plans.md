@@ -3,19 +3,19 @@ title: 適用的服務與方案
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/03/2020
+ms.date: 2/04/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 當您購買任何 Microsoft 365 服務，FastTrack 專家可提供您 Microsoft 365 的上架指引，讓您即刻開始使用。
-ms.openlocfilehash: 08b1129c7758f26d98b0bdc3989e7f39f423da0e
-ms.sourcegitcommit: fe68534c2ac30220561ef73ca408986a937ca7df
+ms.openlocfilehash: be16cbd7248d9a05b75ea9bcccb48f0580febca6
+ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "40959173"
+ms.lasthandoff: 02/03/2020
+ms.locfileid: "41677017"
 ---
 # <a name="eligible-services-and-plans"></a>適用的服務與方案
 
@@ -26,7 +26,7 @@ ms.locfileid: "40959173"
   
 您可以透過 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)或 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助。 
 
-若要透過 [Microsoft 365 系統管理員中心](https://go.microsoft.com/fwlink/?linkid=2032704)取得協助，您的系統管理員需要登入至系統管理員中心，然後按一下 [需要協助？]**** Widget。 
+若要透過 [Microsoft 365 系統管理員中心](https://go.microsoft.com/fwlink/?linkid=2032704)取得協助，您的系統管理員需要登入至系統管理員中心，然後按一下 **[需要協助？]** Widget。 
 
 若要透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助： 
 1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
@@ -79,6 +79,7 @@ FastTrack 中心提供下列服務的協助：
 
 - Microsoft 365 A3\*
 - Microsoft 365 A5\*
+- Microsoft 365 A5 安全性\*
  
 ## <a name="eligible-office-365-plans"></a>適用的 Office 365 方案
 
@@ -157,14 +158,35 @@ FastTrack 中心提供下列服務的協助：
 
 ## <a name="eligible-enterprise-mobility--security-plans"></a>適用的 Enterprise Mobility + Security 方案
 
-|方案    |適用性詳細資料  |
-|---------|---------|
-|**E3 或 E5 中的 Enterprise Mobility + Security (EMS)**       |   適用符合 FastTrack 權益資格的雲端服務。若未符合，將轉介給 FastTrack 專家或合作夥伴。        |
-|**Azure Active Directory Premium**     |  適用於以獨立方案形式購買，或以隨附於 E3 或 E5 方式取得該軟體。       |
-|**Azure 資訊保護**    |  適用於 P2，以隨附於 E5 方式或以獨立方案形式。 適用於符合 FastTrack 權益的雲端服務。 若為雲端服務 P1，FastTrack 會共用自我部署指南。       |
-|**Microsoft Intune**    |   適用於以獨立方案形式購買，或以隨附於 E3 或 E5 方式取得該軟體。      |
-|**Microsoft Intune 和 Configuration Manager**     |    適用於以獨立方案形式購買，或以隨附於 E3 或 E5 方式取得該軟體。     |
-|**Microsoft Intune 教育版**     |  適用於以獨立方案形式購買，或以隨附於 A3 或 A5 方式取得該軟體。       |
+**Enterprise Mobility + Security** 
+
+- Enterprise Mobility + Security (EMS) E3\*\*\*\*
+- Enterprise Mobility + Security (EMS) E5\*\*\*\*
+
+**Azure Active Directory Premium**
+
+- Azure Active Directory Premium 方案 1
+- Azure Active Directory Premium 方案 2
+
+**Azure 資訊保護**
+
+- Azure 資訊保護方案 2\*\*\*\*\*
+
+**Microsoft Intune**
+
+- Microsoft Intune
+
+**Microsoft Intune 和 Configuration Manager**
+
+- Microsoft Intune 和 Configuration Manager
+
+**Microsoft Intune 教育版**
+
+- Microsoft Intune 教育版
+
+\*\*\*\*適用於符合 FastTrack 權益的雲端服務。 否則，這會轉交給 FastTrack 專家或取得合作夥伴轉介。
+
+\*\*\*\*\*適用於 P2，以隨附於 E5 方式或以獨立方案形式。 適用於符合 FastTrack 權益的雲端服務。 若為雲端服務 P1，FastTrack 會共用自我部署指南。
 
 如需詳細資訊，請參閱[適用於 Enterprise Mobility + Security (EMS) 的 FastTrack 中心權益](EMS-fasttrack-benefit-for-EMS.md)。
 

@@ -1,0 +1,52 @@
+### YamlMime:Hub
+title: Microsoft FastTrack 文件和資源
+summary: 了解 Microsoft FastTrack 可以如何協助客戶部署 Microsoft 雲端解決方案。 使用 Microsoft 365、 Azure 或 Dynamics 365 合格訂閱的客戶可以使用 FastTrack 沒有額外的費用其訂閱的生命週期。
+brand: m365
+metadata:
+  title: Microsoft FastTrack 文件和資源
+  description: 了解 Microsoft FastTrack 可以如何協助客戶部署 Microsoft 雲端解決方案。 使用 Microsoft 365、 Azure 或 Dynamics 365 合格訂閱的客戶可以使用 FastTrack 沒有額外的費用其訂閱的生命週期。
+  ms.service: microsoft-365-enterprise
+  ms.topic: hub-page
+  audience: ITPro
+  author: samanro
+  ms.author: samanro
+  ms.date: 07/03/2019
+  localization_priority: Priority
+  ms.openlocfilehash: c890da55f729c321c506493ada7be8b11395e0e7
+  ms.sourcegitcommit: cf6fd5a133d007ea395318540471691860c33303
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 02/11/2020
+  ms.locfileid: "41891733"
+conceptualContent:
+  items:
+  - title: 適用於 Microsoft 365 的 FastTrack
+    links:
+    - url: /fasttrack/m365-fasttrack-benefit-overview
+      itemType: overview
+      text: 概觀
+    - url: /fasttrack/O365-fasttrack-benefit-for-office-365
+      itemType: concept
+      text: Office 365
+    - url: /enterprise-mobility-security/Solutions/enterprise-mobility-fasttrack-program
+      itemType: concept
+      text: Enterprise Mobility + Security
+    - url: /fasttrack/win-10-fasttrack-benefit-for-windows-10
+      itemType: concept
+      text: Windows 10
+  - title: 適用於 Azure 的 FastTrack
+    links:
+    - url: https://azure.microsoft.com/programs/azure-fasttrack/?v=18.03
+      itemType: overview
+      text: 重要的優點
+    - url: https://azure.microsoft.com/programs/azure-fasttrack/partners/
+      itemType: concept
+      text: 適用於 Azure 的協力廠商的 FastTrack
+  - title: 適用於 Dynamics 365 的 FastTrack
+    links:
+    - url: /dynamics365/get-started/fasttrack/customer-engagement/microsoft-fasttrack-dynamics-365
+      itemType: overview
+      text: 客戶參與概觀
+    - url: /dynamics365/unified-operations/fin-and-ops/get-started/fasttrack-dynamics-365-overview
+      itemType: concept
+      text: Dynamics for Finance & 作業

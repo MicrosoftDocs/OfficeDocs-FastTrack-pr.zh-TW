@@ -26,5 +26,7 @@
 #### [您的責任](Win-10-your-responsibilities.md)
 ### [應用程式保證](Win-10-app-assure.md)
 #### [提供的協助](Win-10-app-assure-assistance-offered.md)
+### [Microsoft Edge](Win-10-microsoft-edge.md)
+#### [提供的協助](Win-10-microsoft-edge-assistance-offered.md)
 ### [Windows Defender 進階威脅防護](Win-10-microsoft-defender-atp.md)
 #### [提供的協助](Win-10-microsoft-defender-atp-assistance-offered.md)

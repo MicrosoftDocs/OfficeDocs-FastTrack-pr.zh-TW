@@ -3,27 +3,27 @@ title: Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 提供 Windows 10 部署指引，可幫助您從 Windows 7 專業版和 Windows 8.1 專業版升級到 Windows 10 企業版。
-ms.openlocfilehash: ce40590a481465a3aa5ee5238935aa98627bb05b
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 8d959c773009f144b258d18629c18a94d5c180fb
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677299"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347513"
 ---
 # <a name="windows-10"></a>Windows 10
 
 FastTrack 提供 Windows 10 部署指引，可幫助您從 Windows 7 專業版和 Windows 8.1 專業版升級到 Windows 10 企業版。 與 FastTrack 專家合作進行以下工作：
 
-- 使用 Microsoft System Center Configuration Manager 或 Microsoft 365 來部署 Windows 10 企業版。
+- 使用 Microsoft Endpoint Configuration Manager 或 Microsoft 365 來部署 Windows 10 企業版。
 - 部署 Office 365 專業增強版。 
-- 使用 System Center Configuration Manager 或 Microsoft 365 來更新 Windows 10 企業版和 Office 365 專業增強版。
+- 使用 Microsoft Endpoint Configuration Manager 或 Microsoft 365 來更新 Windows 10 企業版和 Office 365 專業增強版。
 - 透過雲端連結 Configuration Manager 與 Microsoft Intune，或將 Intune 部署為單獨的雲端管理解決方案。
   
 > [!NOTE]
@@ -41,14 +41,14 @@ FastTrack 提供 Windows 10 部署指引，可幫助您從 Windows 7 專業版�
 
 若要透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助： 
 1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  選取 **[服務]**。
-3.  填妥**要求協助使用 Microsoft 365** 表單。
+2.  從您的登陸頁面頂端的 [快速動作]**** 選取 [要求協助使用 Microsoft 365]****，或選取部署卡片上的 [要求協助使用 Microsoft 365]****。
+3.  填妥 [要求協助使用 Microsoft 365]**** 表單。
   
 合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。作法如下：
 1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
 2.  選取 **[我的客戶]**。
 3.  搜尋您的客戶或從客戶清單中選取他們。
 4.  選取 [服務]****。
-5.  選取**要求協助使用 Microsoft 365** 表單。
+5.  選取 [要求協助使用 Microsoft 365]**** 表單。
 6.  選取 Windows 10 產品選項並完成表單。
  

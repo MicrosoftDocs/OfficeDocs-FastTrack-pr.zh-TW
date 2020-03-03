@@ -5,18 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: 02f5a1c0c2bbbe2526f0ee0fcea9da844dae1f6a
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 38d4c3c71c9127314f4453238a1b03a7b8945217
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676801"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347501"
 ---
 # <a name="onboarding-phases"></a>上線階段
 
@@ -32,25 +32,23 @@ ms.locfileid: "41676801"
 購買適當數量的授權之後，請遵循購買確認電子郵件中的指示，將授權與您現有或新租用戶產生關聯。 Microsoft 便會驗證您的 FastTrack 中心權益資格，並嘗試與您連絡以提供上線協助。
 
 > [!NOTE]
-> 如果您已準備好要將這些服務部署到組織中，也可以從 [FastTrack 中心](https://go.microsoft.com/fwlink/?linkid=780698) 要求協助。
+> 如果您已準備好為組織部署這些服務，也可以從 [FastTrack 中心](https://go.microsoft.com/fwlink/?linkid=780698)要求協助。
 
 ### <a name="to-request-assistance"></a>若要要求協助
 
 1. 登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。
-2. 選取 **[FastTrack]**。
-3. 選取 **[服務]**。
-4. 填妥**要求協助使用 Microsoft 365** 表單。
+2. 從您的登陸頁面頂端的 [快速動作]**** 選取 [要求協助使用 Microsoft 365]****，或選取部署卡片上的 [要求協助使用 Microsoft 365]****。
+3. 填妥 [要求協助使用 Microsoft 365]**** 表單。
 
 一旦上線支援啟動，我們將設定線上會議的排程。
 
 Microsoft 合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。 若要這麼做︰
 
 1. 登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。
-2. 選取 **[FastTrack]**。
-3. 選取 **[我的客戶]**。
-4. 搜尋您的客戶或從客戶清單中選取他們。
-5. 選取 **[服務]**。
-6. 填妥**要求協助使用 Microsoft 365** 表單。
+2. 選取 **[我的客戶]**。
+3. 搜尋您的客戶或從客戶清單中選取他們。
+4. 選取 [服務]****。
+5. 填妥 [要求協助使用 Microsoft 365]**** 表單。
 
 一旦上線支援啟動，FastTrack 將設定與您進行的線上會議排程，以討論上線程序、 驗證資料及設定專案啟動會議。
 
@@ -123,6 +121,10 @@ Azure AD Premium 設定包括啟用下列功能：
 
 -   Azure Active Directory 存取權檢閱。
 
+-   Azure Active Directory 密碼保護。
+
+-   Azure Active Directory B2B。
+
 ![上線啟用階段 - Azure AD Premium](./media/ft-enable-phase_aad-premium_adconnect_adfed.png)
 
 ### <a name="enable-phase---intune"></a>啟用階段 - Intune
@@ -162,7 +164,7 @@ Azure AD Premium 設定包括啟用下列功能：
 
             -   電信費用管理解決方案 (需要有電信費用管理解決方案訂用帳戶)。
 
-            -   Windows Defender 進階威脅防護 (需要有 Windows E5 或 Microsoft 365 E5 授權)。
+            -   Microsoft Defender 進階威脅防護 (需要有 Windows E5 或 Microsoft 365 E5 授權)。
 
     -   將每個[支援的平台](https://technet.microsoft.com/library/dn600287.aspx)的裝置註冊到 Intune。
 
@@ -242,7 +244,7 @@ FastTrack 會逐步引導您準備好同時使用 Configuration Manager 和 Intu
 
 - 將使用者新增到您的 Intune 訂用帳戶、定義 IT 系統管理員角色，以及建立使用者和裝置群組。
 
-- 提供如何將整合 System Center Configuration Manager (混合式) 的 Intune 移至獨立版 Intune 的相關指引。
+- 提供如何將與 Microsoft Endpoint Configuration Manager 整合的 Intune 移至獨立版 Intune 的相關指導方針。
 
 - 提供針對 MDM 自動註冊設定 Azure Active Directory 的相關指引。
 

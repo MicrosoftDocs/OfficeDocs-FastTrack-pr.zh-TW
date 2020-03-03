@@ -3,19 +3,19 @@ title: FastTrack 責任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 在上架期間 FastTrack 專家需擔負下列責任。
-ms.openlocfilehash: c8bbd015252265f7742c071b04c79e3b9d2c884c
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: f7fc935c51bdab416bedd9e1681d9c6940aa2999
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677101"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347765"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 責任
 
@@ -152,7 +152,7 @@ ms.locfileid: "41677101"
 - 使用 Office 365 部署工具來設定更新設定。
 - 選取並設定本地或雲端安裝。
 - 使用 Office 自訂工具或原生 XML 建立 Office 部署工具，以設定部署套件。
-- 使用 System Center Configuration Manager 部署，包含建立 System Center Configuration Manager 封裝的協助。
+- 使用 Microsoft Endpoint Configuration Manager 部署，包含協助建立 Microsoft Endpoint Configuration Manager 套件。
     
 ## <a name="onedrive-for-business"></a>商務用 OneDrive
 

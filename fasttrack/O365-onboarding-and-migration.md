@@ -3,19 +3,19 @@ title: 上架及移轉階段
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 上架有四個主要階段 - 起始、評估、修復與啟用。您可以在這些階段後面選擇接著資料移轉階段。
-ms.openlocfilehash: 3911394440de4577af53812aff80fcd1c5081069
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: c3716b2a55a2c04b58e19cf6530050cd843dcfdc
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677125"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347741"
 ---
 # <a name="onboarding-and-migration-phases"></a>上架及移轉階段
 
@@ -38,15 +38,15 @@ Office 365 上架有四個主要階段 - 起始、評估、修復與啟用。您
 
 若要透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助： 
 1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  選取 **[服務]**。
-3.  填妥**要求協助使用 Microsoft 365** 表單。 
+2.  從您的登陸頁面頂端的 [快速動作]**** 選取 [要求協助使用 Microsoft 365]****，或選取部署卡片上的 [要求協助使用 Microsoft 365]****。
+3.  填妥 [要求協助使用 Microsoft 365]**** 表單。 
   
 合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。作法如下：
 1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
 2.  選取 **[我的客戶]**。
 3.  搜尋您的客戶或從客戶清單中選取他們。
-4.  選取 **[服務]**。
-5.  填妥**要求協助使用 Microsoft 365** 表單。
+4.  選取 [服務]****。
+5.  填妥 [要求協助使用 Microsoft 365]**** 表單。
 
 您也可以從租用戶的可用服務清單中的 FastTrack Center[FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)要求協助。 
     
@@ -211,7 +211,7 @@ FastTrack 專家會提供將資料移轉到 Office 365 的指引，方法是使�
 - 使用 Office 365 部署工具來設定更新設定。   
 - 本地或雲端安裝的選取項目和設定。 
 - 使用 Office 自訂工具或原生 XML 建立 Office 部署工具，以設定部署套件。  
-- 使用 Microsoft System Center Configuration Manager 部署，包含建立 System Center Configuration Manager 封裝的協助。
+- 使用 Microsoft Endpoint Configuration Manager 部署，包含協助建立 Microsoft Endpoint Configuration Manager 套件。
     
 ![Office 專業增強版上架步驟](media/O365-Onboarding-Enable-OProPlus.png)
   

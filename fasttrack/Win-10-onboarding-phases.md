@@ -3,19 +3,19 @@ title: 上架階段
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 上架有四個主要階段 - 起始、評估、修復與啟用。
-ms.openlocfilehash: f2fb6dea1cd54393fa71e2fc97eae667647893ec
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: e39e2fe56deba31188faf022c69b68ab0a6ab5a0
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677233"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347753"
 ---
 # <a name="onboarding-phases"></a>上架階段
 
@@ -27,7 +27,7 @@ Windows 10 上架有四個主要階段 - 起始、評估、修復與啟用。
 
 ## <a name="assess"></a>評估
 
-FastTrack 專家會與您一起評估您的來源環境和需求。 請確定 System Center Configuration Manager 已升級至支援 Windows 10 部署所需的層級。 
+FastTrack 專家會與您一起評估您的來源環境和需求。 確定 Microsoft Endpoint Configuration Manager 已升級至支援 Windows 10 部署所需的層級。 
 
 我們會為您提供評估 Windows 10 應用程式的建議選項。 FastTrack 提供指導方針來啟用桌面分析的使用，並引導您建立電腦分析部署計劃。
 

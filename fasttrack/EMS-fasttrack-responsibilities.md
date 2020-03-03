@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 0f5ed94a81a1846c8652cf78f96b6253ab774b5d
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 3313834ef5c342d71f6c3940bd55d62bc1e87863
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676609"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347405"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 責任
 
@@ -168,6 +168,10 @@ ms.locfileid: "41676609"
 
   - Azure Active Directory 存取權檢閱。
 
+  -   Azure Active Directory 密碼保護。
+
+  -   Azure Active Directory B2B。
+
 ### <a name="enable-phase---intune"></a>啟用階段 - Intune
 
 > [!IMPORTANT]
@@ -222,7 +226,7 @@ ms.locfileid: "41676609"
 
         -   電信費用管理解決方案 (需要有電信費用管理解決方案訂用帳戶)。
 
-        -   Windows Defender 進階威脅防護 (需要有 Windows E5 或 Microsoft 365 E5 授權)。
+        -   Microsoft Defender 進階威脅防護 (需要有 Windows E5 或 Microsoft 365 E5 授權)。
 
     -   針對適用的受支援平台，設定軟體更新。
 

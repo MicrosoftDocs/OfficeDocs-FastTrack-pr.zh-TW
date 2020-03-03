@@ -3,18 +3,18 @@ title: 附錄 B：FastTrack Center 其他權益
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Exchange Online 租用戶購買至少 20,000 個授權的客戶符合 FastTrack Center 附加服務的資格。如需詳細資料，請參閱合格服務與計劃。
-ms.openlocfilehash: 960f6651aeb8b55d8bc2b29ae9d34e1a31b59649
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: cfbd35f15f7e27e0c06e363ffa8279c1e2fcbba9
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676645"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347609"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>附錄 B：FastTrack Center 其他權益
 
@@ -43,7 +43,7 @@ Exchange Online 租用戶購買至少 20,000 個授權的客戶符合 FastTrack 
 針對 Office 365 專業增強版，我們提供下列指引︰ 
 - 評估與規劃著重於預備您的環境，用於符合 Microsoft 最佳做法的初始部署及管理更新。 
 - 使用 Office 365 部署工具和 Office 自訂工具，開發部署組態和更新設定。 
-- 使用 System Center Configuration Manager 部署套件。  
+- Microsoft Endpoint Configuration Manager 的套件部署。  
 - 啟用 Readiness Toolkit for Office，以識別與您用於 Office 的 Microsoft Visual Basic for Applications (VBA) 巨集和增益集的相容性問題。
     
 ## <a name="fasttrack-responsibilities"></a>FastTrack 責任

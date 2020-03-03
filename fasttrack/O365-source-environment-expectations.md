@@ -3,19 +3,19 @@ title: 來源環境預期
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack Center 權益可提供指引，以利您設定與來源環境的整合層級 (例如，如果您有服務在來源環境中，且想要移至 Office 365 時)。
-ms.openlocfilehash: ff8766fe0a662b955a63729e0bf8e97c3ebffc21
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 3b3beb18873077711a27c7bac57ee18246e7f074
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677137"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347669"
 ---
 # <a name="source-environment-expectations"></a>來源環境預期
 

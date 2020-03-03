@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,296 +14,300 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 0f5ed94a81a1846c8652cf78f96b6253ab774b5d
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 3313834ef5c342d71f6c3940bd55d62bc1e87863
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676609"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347405"
 ---
-# <a name="fasttrack-responsibilities"></a><span data-ttu-id="bc182-103">FastTrack 責任</span><span class="sxs-lookup"><span data-stu-id="bc182-103">FastTrack Responsibilities</span></span>
+# <a name="fasttrack-responsibilities"></a><span data-ttu-id="bf834-103">FastTrack 責任</span><span class="sxs-lookup"><span data-stu-id="bf834-103">FastTrack Responsibilities</span></span>
 
-<span data-ttu-id="bc182-104">在上架期間 FastTrack 需擔負下列責任。</span><span class="sxs-lookup"><span data-stu-id="bc182-104">FastTrack has the following responsibilities during onboarding.</span></span>
+<span data-ttu-id="bf834-104">在上架期間 FastTrack 需擔負下列責任。</span><span class="sxs-lookup"><span data-stu-id="bf834-104">FastTrack has the following responsibilities during onboarding.</span></span>
 
-## <a name="general"></a><span data-ttu-id="bc182-105">一般</span><span class="sxs-lookup"><span data-stu-id="bc182-105">General</span></span>
+## <a name="general"></a><span data-ttu-id="bf834-105">一般</span><span class="sxs-lookup"><span data-stu-id="bf834-105">General</span></span>
 
--   <span data-ttu-id="bc182-106">如同詳細的階段說明中所列，針對必要的組態活動，為您提供遠端支援協助。</span><span class="sxs-lookup"><span data-stu-id="bc182-106">Provide remote support assistance to you for the required configuration activities as listed in the detailed phase descriptions.</span></span>
+-   <span data-ttu-id="bf834-106">如同詳細的階段說明中所列，針對必要的組態活動，為您提供遠端支援協助。</span><span class="sxs-lookup"><span data-stu-id="bf834-106">Provide remote support assistance to you for the required configuration activities as listed in the detailed phase descriptions.</span></span>
 
--   <span data-ttu-id="bc182-107">提供可用的文件、軟體工具以及管理主控台，以協助您減少或消除組態工作。</span><span class="sxs-lookup"><span data-stu-id="bc182-107">Provide available documentation, software tools and admin consoles to help you reduce or eliminate configuration tasks.</span></span>
+-   <span data-ttu-id="bf834-107">提供可用的文件、軟體工具以及管理主控台，以協助您減少或消除組態工作。</span><span class="sxs-lookup"><span data-stu-id="bf834-107">Provide available documentation, software tools and admin consoles to help you reduce or eliminate configuration tasks.</span></span>
 
-## <a name="initiate-phase"></a><span data-ttu-id="bc182-108">起始階段</span><span class="sxs-lookup"><span data-stu-id="bc182-108">Initiate phase</span></span>
+## <a name="initiate-phase"></a><span data-ttu-id="bf834-108">起始階段</span><span class="sxs-lookup"><span data-stu-id="bf834-108">Initiate phase</span></span>
 
--   <span data-ttu-id="bc182-109">與您合作以開始上架。</span><span class="sxs-lookup"><span data-stu-id="bc182-109">Work with you to begin onboarding.</span></span>
+-   <span data-ttu-id="bf834-109">與您合作以開始上架。</span><span class="sxs-lookup"><span data-stu-id="bf834-109">Work with you to begin onboarding.</span></span>
 
--   <span data-ttu-id="bc182-110">定義您要上架的合格服務。</span><span class="sxs-lookup"><span data-stu-id="bc182-110">Define which eligible services you want to onboard.</span></span>
+-   <span data-ttu-id="bf834-110">定義您要上架的合格服務。</span><span class="sxs-lookup"><span data-stu-id="bf834-110">Define which eligible services you want to onboard.</span></span>
 
-## <a name="assess-phase"></a><span data-ttu-id="bc182-111">評估階段</span><span class="sxs-lookup"><span data-stu-id="bc182-111">Assess phase</span></span>
+## <a name="assess-phase"></a><span data-ttu-id="bf834-111">評估階段</span><span class="sxs-lookup"><span data-stu-id="bf834-111">Assess phase</span></span>
 
--   <span data-ttu-id="bc182-112">提供管理概觀。</span><span class="sxs-lookup"><span data-stu-id="bc182-112">Provide an administrative overview.</span></span>
+-   <span data-ttu-id="bf834-112">提供管理概觀。</span><span class="sxs-lookup"><span data-stu-id="bf834-112">Provide an administrative overview.</span></span>
 
--   <span data-ttu-id="bc182-113">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="bc182-113">Provide guidance about:</span></span>
+-   <span data-ttu-id="bf834-113">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="bf834-113">Provide guidance about:</span></span>
 
-    -   <span data-ttu-id="bc182-114">DNS、網路和基礎結構需求。</span><span class="sxs-lookup"><span data-stu-id="bc182-114">DNS, network, and infrastructure needs.</span></span>
+    -   <span data-ttu-id="bf834-114">DNS、網路和基礎結構需求。</span><span class="sxs-lookup"><span data-stu-id="bf834-114">DNS, network, and infrastructure needs.</span></span>
 
-    -   <span data-ttu-id="bc182-115">用戶端需求 (網際網路瀏覽器、用戶端作業系統和服務的需求)。</span><span class="sxs-lookup"><span data-stu-id="bc182-115">Client needs (Internet browser, client operating system, and services' needs).</span></span>
+    -   <span data-ttu-id="bf834-115">用戶端需求 (網際網路瀏覽器、用戶端作業系統和服務的需求)。</span><span class="sxs-lookup"><span data-stu-id="bf834-115">Client needs (Internet browser, client operating system, and services' needs).</span></span>
 
-    -   <span data-ttu-id="bc182-116">使用者身分識別與佈建。</span><span class="sxs-lookup"><span data-stu-id="bc182-116">User identity and provisioning.</span></span>
+    -   <span data-ttu-id="bf834-116">使用者身分識別與佈建。</span><span class="sxs-lookup"><span data-stu-id="bf834-116">User identity and provisioning.</span></span>
 
-    -   <span data-ttu-id="bc182-117">啟用所購買且定義要在上架中進行的合格服務。</span><span class="sxs-lookup"><span data-stu-id="bc182-117">Enabling eligible services that have been purchased and defined to be part of the onboarding.</span></span>
+    -   <span data-ttu-id="bf834-117">啟用所購買且定義要在上架中進行的合格服務。</span><span class="sxs-lookup"><span data-stu-id="bf834-117">Enabling eligible services that have been purchased and defined to be part of the onboarding.</span></span>
 
--   <span data-ttu-id="bc182-118">建立修復服務活動的時間表。</span><span class="sxs-lookup"><span data-stu-id="bc182-118">Establish the timeline for remediation activities.</span></span>
+-   <span data-ttu-id="bf834-118">建立修復服務活動的時間表。</span><span class="sxs-lookup"><span data-stu-id="bf834-118">Establish the timeline for remediation activities.</span></span>
 
--   <span data-ttu-id="bc182-119">同時針對 Intune 和 Azure AD Premium 提供修復檢查清單。</span><span class="sxs-lookup"><span data-stu-id="bc182-119">Provide a remediation checklist for both Intune and Azure AD Premium.</span></span>
+-   <span data-ttu-id="bf834-119">同時針對 Intune 和 Azure AD Premium 提供修復檢查清單。</span><span class="sxs-lookup"><span data-stu-id="bf834-119">Provide a remediation checklist for both Intune and Azure AD Premium.</span></span>
 
-## <a name="remediate-phase"></a><span data-ttu-id="bc182-120">修復階段</span><span class="sxs-lookup"><span data-stu-id="bc182-120">Remediate phase</span></span>
+## <a name="remediate-phase"></a><span data-ttu-id="bf834-120">修復階段</span><span class="sxs-lookup"><span data-stu-id="bf834-120">Remediate phase</span></span>
 
--   <span data-ttu-id="bc182-121">根據約定的時間表與您召開電話會議，以檢閱修復服務活動的進度，例如，在 Microsoft 雲端服務上架之前，引導您完成安裝先決條件。</span><span class="sxs-lookup"><span data-stu-id="bc182-121">Hold conference calls with you according to the agreed-upon schedule to review the progress of the remediation activities, for example, guide you through installation pre-requisites prior onboarding a Microsoft cloud service.</span></span>
+-   <span data-ttu-id="bf834-121">根據約定的時間表與您召開電話會議，以檢閱修復服務活動的進度，例如，在 Microsoft 雲端服務上架之前，引導您完成安裝先決條件。</span><span class="sxs-lookup"><span data-stu-id="bf834-121">Hold conference calls with you according to the agreed-upon schedule to review the progress of the remediation activities, for example, guide you through installation pre-requisites prior onboarding a Microsoft cloud service.</span></span>
 
-## <a name="enable-phase"></a><span data-ttu-id="bc182-122">啟用階段</span><span class="sxs-lookup"><span data-stu-id="bc182-122">Enable phase</span></span>
-<span data-ttu-id="bc182-123">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="bc182-123">Provide guidance about:</span></span>
+## <a name="enable-phase"></a><span data-ttu-id="bf834-122">啟用階段</span><span class="sxs-lookup"><span data-stu-id="bf834-122">Enable phase</span></span>
+<span data-ttu-id="bf834-123">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="bf834-123">Provide guidance about:</span></span>
 
--   <span data-ttu-id="bc182-124">啟用 Microsoft 線上服務租用戶或訂用帳戶。</span><span class="sxs-lookup"><span data-stu-id="bc182-124">Activating your Microsoft online service tenant or subscription.</span></span>
+-   <span data-ttu-id="bf834-124">啟用 Microsoft 線上服務租用戶或訂用帳戶。</span><span class="sxs-lookup"><span data-stu-id="bf834-124">Activating your Microsoft online service tenant or subscription.</span></span>
 
--   <span data-ttu-id="bc182-125">設定 TCP/IP 通訊協定和防火牆連接埠。</span><span class="sxs-lookup"><span data-stu-id="bc182-125">Configuring TCP/IP protocols and firewall ports.</span></span>
+-   <span data-ttu-id="bf834-125">設定 TCP/IP 通訊協定和防火牆連接埠。</span><span class="sxs-lookup"><span data-stu-id="bf834-125">Configuring TCP/IP protocols and firewall ports.</span></span>
 
--   <span data-ttu-id="bc182-126">設定合格服務 DNS。</span><span class="sxs-lookup"><span data-stu-id="bc182-126">Configuring DNS for eligible services.</span></span>
+-   <span data-ttu-id="bf834-126">設定合格服務 DNS。</span><span class="sxs-lookup"><span data-stu-id="bf834-126">Configuring DNS for eligible services.</span></span>
 
--   <span data-ttu-id="bc182-127">驗證 Microsoft 線上服務的連線。</span><span class="sxs-lookup"><span data-stu-id="bc182-127">Validating connectivity to Microsoft online services.</span></span>
+-   <span data-ttu-id="bf834-127">驗證 Microsoft 線上服務的連線。</span><span class="sxs-lookup"><span data-stu-id="bf834-127">Validating connectivity to Microsoft online services.</span></span>
 
--   <span data-ttu-id="bc182-128">對於單一樹系環境：</span><span class="sxs-lookup"><span data-stu-id="bc182-128">For a single-forest environment:</span></span>
+-   <span data-ttu-id="bf834-128">對於單一樹系環境：</span><span class="sxs-lookup"><span data-stu-id="bf834-128">For a single-forest environment:</span></span>
 
-    -   <span data-ttu-id="bc182-129">在您的 Active Directory 網域服務 (AD DS) 和合格的 Microsoft 線上服務之間安裝目錄同步作業伺服器 (僅在需要時提供指引)。</span><span class="sxs-lookup"><span data-stu-id="bc182-129">Installing a directory synchronization server between your Active Directory Domain Services (AD DS) and the eligible Microsoft online services (only guidance if required).</span></span>
+    -   <span data-ttu-id="bf834-129">在您的 Active Directory 網域服務 (AD DS) 和合格的 Microsoft 線上服務之間安裝目錄同步作業伺服器 (僅在需要時提供指引)。</span><span class="sxs-lookup"><span data-stu-id="bf834-129">Installing a directory synchronization server between your Active Directory Domain Services (AD DS) and the eligible Microsoft online services (only guidance if required).</span></span>
 
-    -   <span data-ttu-id="bc182-130">使用 Azure Active Directory Connect 工具設定受管理的驗證 (密碼雜湊同步處理或傳遞驗證)。</span><span class="sxs-lookup"><span data-stu-id="bc182-130">Configuring managed authentication (Password Hash Sync or Pass-through Authentication) with the Azure Active Directory Connect tool.</span></span> <span data-ttu-id="bc182-131">(僅在需要時提供指引)。</span><span class="sxs-lookup"><span data-stu-id="bc182-131">(only guidance if required).</span></span>
+    -   <span data-ttu-id="bf834-130">使用 Azure Active Directory Connect 工具設定受管理的驗證 (密碼雜湊同步處理或傳遞驗證)。</span><span class="sxs-lookup"><span data-stu-id="bf834-130">Configuring managed authentication (Password Hash Sync or Pass-through Authentication) with the Azure Active Directory Connect tool.</span></span> <span data-ttu-id="bf834-131">(僅在需要時提供指引)。</span><span class="sxs-lookup"><span data-stu-id="bf834-131">(only guidance if required).</span></span>
 
         > [!NOTE]
-        > <span data-ttu-id="bc182-132">開發及實作自訂規則延伸模組超出範圍。</span><span class="sxs-lookup"><span data-stu-id="bc182-132">Development and implementation for custom rules extensions are out of scope.</span></span>
+        > <span data-ttu-id="bf834-132">開發及實作自訂規則延伸模組超出範圍。</span><span class="sxs-lookup"><span data-stu-id="bf834-132">Development and implementation for custom rules extensions are out of scope.</span></span>
 
--   <span data-ttu-id="bc182-133">對於目標為同盟身分識別時的單一樹系：若需要，在單一站台、容錯組態中，針對向 Intune 進行的本機網域驗證，安裝和設定 Active Directory Federation Services (AD FS)。</span><span class="sxs-lookup"><span data-stu-id="bc182-133">For a single forest when the target is federated identities: Installing and configuring Active Directory Federation Services (AD FS) for local domain authentication with Intune in a single-site, fault-tolerant configuration, if required.</span></span>
+-   <span data-ttu-id="bf834-133">對於目標為同盟身分識別時的單一樹系：若需要，在單一站台、容錯組態中，針對向 Intune 進行的本機網域驗證，安裝和設定 Active Directory Federation Services (AD FS)。</span><span class="sxs-lookup"><span data-stu-id="bf834-133">For a single forest when the target is federated identities: Installing and configuring Active Directory Federation Services (AD FS) for local domain authentication with Intune in a single-site, fault-tolerant configuration, if required.</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="bc182-134">對於所有多重樹系組態，AD FS 部署超出範圍。</span><span class="sxs-lookup"><span data-stu-id="bc182-134">For all multiple forest configurations, AD FS deployments are out of scope.</span></span>
+    > <span data-ttu-id="bf834-134">對於所有多重樹系組態，AD FS 部署超出範圍。</span><span class="sxs-lookup"><span data-stu-id="bf834-134">For all multiple forest configurations, AD FS deployments are out of scope.</span></span>
 
--   <span data-ttu-id="bc182-135">測試單一登入 (SSO) 功能 (若已部署)。</span><span class="sxs-lookup"><span data-stu-id="bc182-135">Testing single sign-on (SSO) functionality, if deployed.</span></span>
+-   <span data-ttu-id="bf834-135">測試單一登入 (SSO) 功能 (若已部署)。</span><span class="sxs-lookup"><span data-stu-id="bf834-135">Testing single sign-on (SSO) functionality, if deployed.</span></span>
 
-### <a name="enable-phase---microsoft-azure-active-directory-premium"></a><span data-ttu-id="bc182-136">啟用階段 - Microsoft Azure Active Directory Premium</span><span class="sxs-lookup"><span data-stu-id="bc182-136">Enable phase - Microsoft Azure Active Directory Premium</span></span>
+### <a name="enable-phase---microsoft-azure-active-directory-premium"></a><span data-ttu-id="bf834-136">啟用階段 - Microsoft Azure Active Directory Premium</span><span class="sxs-lookup"><span data-stu-id="bf834-136">Enable phase - Microsoft Azure Active Directory Premium</span></span>
 
-<span data-ttu-id="bc182-137">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="bc182-137">Provide guidance about:</span></span>
+<span data-ttu-id="bf834-137">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="bf834-137">Provide guidance about:</span></span>
 
-- <span data-ttu-id="bc182-138">啟用 Azure AD Premium 租用戶。</span><span class="sxs-lookup"><span data-stu-id="bc182-138">Activating your Azure AD Premium tenant.</span></span>
+- <span data-ttu-id="bf834-138">啟用 Azure AD Premium 租用戶。</span><span class="sxs-lookup"><span data-stu-id="bf834-138">Activating your Azure AD Premium tenant.</span></span>
 
-- <span data-ttu-id="bc182-139">設定防火牆連接埠。</span><span class="sxs-lookup"><span data-stu-id="bc182-139">Configuring firewall ports.</span></span>
+- <span data-ttu-id="bf834-139">設定防火牆連接埠。</span><span class="sxs-lookup"><span data-stu-id="bf834-139">Configuring firewall ports.</span></span>
 
-- <span data-ttu-id="bc182-140">設定合格服務 DNS。</span><span class="sxs-lookup"><span data-stu-id="bc182-140">Configuring DNS for eligible services.</span></span>
+- <span data-ttu-id="bf834-140">設定合格服務 DNS。</span><span class="sxs-lookup"><span data-stu-id="bf834-140">Configuring DNS for eligible services.</span></span>
 
-- <span data-ttu-id="bc182-141">驗證 Azure AD Premium 服務的連線。</span><span class="sxs-lookup"><span data-stu-id="bc182-141">Validating connectivity to Azure AD Premium services.</span></span>
+- <span data-ttu-id="bf834-141">驗證 Azure AD Premium 服務的連線。</span><span class="sxs-lookup"><span data-stu-id="bf834-141">Validating connectivity to Azure AD Premium services.</span></span>
 
-- <span data-ttu-id="bc182-142">對於單一樹系環境：</span><span class="sxs-lookup"><span data-stu-id="bc182-142">For a single-forest environment:</span></span>
+- <span data-ttu-id="bf834-142">對於單一樹系環境：</span><span class="sxs-lookup"><span data-stu-id="bf834-142">For a single-forest environment:</span></span>
 
-  -   <span data-ttu-id="bc182-143">若需要，在您的 Active Directory 網域服務 (AD DS) 和 Azure AD Connect 之間安裝目錄同步處理。</span><span class="sxs-lookup"><span data-stu-id="bc182-143">Installing a directory synchronization between your Active Directory Domain Services (AD DS) and Azure AD Connect, if required.</span></span>
+  -   <span data-ttu-id="bf834-143">若需要，在您的 Active Directory 網域服務 (AD DS) 和 Azure AD Connect 之間安裝目錄同步處理。</span><span class="sxs-lookup"><span data-stu-id="bf834-143">Installing a directory synchronization between your Active Directory Domain Services (AD DS) and Azure AD Connect, if required.</span></span>
 
-  -   <span data-ttu-id="bc182-144">使用 Azure AD Connect 工具，設定驗證方法 (密碼雜湊同步處理或傳遞驗證)。</span><span class="sxs-lookup"><span data-stu-id="bc182-144">Configuring an authentication method (Password Hash Sync or Pass-Through Authentication) with the Azure AD Connect tool.</span></span>
+  -   <span data-ttu-id="bf834-144">使用 Azure AD Connect 工具，設定驗證方法 (密碼雜湊同步處理或傳遞驗證)。</span><span class="sxs-lookup"><span data-stu-id="bf834-144">Configuring an authentication method (Password Hash Sync or Pass-Through Authentication) with the Azure AD Connect tool.</span></span>
 
-- <span data-ttu-id="bc182-145">對於多重樹系環境：</span><span class="sxs-lookup"><span data-stu-id="bc182-145">For a multiple-forest environment:</span></span>
+- <span data-ttu-id="bf834-145">對於多重樹系環境：</span><span class="sxs-lookup"><span data-stu-id="bf834-145">For a multiple-forest environment:</span></span>
 
-  -   <span data-ttu-id="bc182-146">安裝針對多重樹系案例設定的 Azure AD Connect 同步處理。</span><span class="sxs-lookup"><span data-stu-id="bc182-146">Installing Azure AD Connect synchronization, set up for multiple forest scenarios.</span></span>
-- <span data-ttu-id="bc182-147">單一與多重樹系環境：</span><span class="sxs-lookup"><span data-stu-id="bc182-147">For single- and multiple-forest environments:</span></span>
-  - <span data-ttu-id="bc182-148">設定 Azure Active Directory 通過驗證 (如有必要)。</span><span class="sxs-lookup"><span data-stu-id="bc182-148">Configuring Azure Active Directory Pass-through Authentication, if required.</span></span>
-  - <span data-ttu-id="bc182-149">設定 Azure Active Directory 無縫單一登入 (SSO)，(如有必要)。</span><span class="sxs-lookup"><span data-stu-id="bc182-149">Configuring Azure Active Directory Seamless Single Sign-On (SSO), if required.</span></span>
+  -   <span data-ttu-id="bf834-146">安裝針對多重樹系案例設定的 Azure AD Connect 同步處理。</span><span class="sxs-lookup"><span data-stu-id="bf834-146">Installing Azure AD Connect synchronization, set up for multiple forest scenarios.</span></span>
+- <span data-ttu-id="bf834-147">單一與多重樹系環境：</span><span class="sxs-lookup"><span data-stu-id="bf834-147">For single- and multiple-forest environments:</span></span>
+  - <span data-ttu-id="bf834-148">設定 Azure Active Directory 通過驗證 (如有必要)。</span><span class="sxs-lookup"><span data-stu-id="bf834-148">Configuring Azure Active Directory Pass-through Authentication, if required.</span></span>
+  - <span data-ttu-id="bf834-149">設定 Azure Active Directory 無縫單一登入 (SSO)，(如有必要)。</span><span class="sxs-lookup"><span data-stu-id="bf834-149">Configuring Azure Active Directory Seamless Single Sign-On (SSO), if required.</span></span>
     > [!NOTE]
-    > <span data-ttu-id="bc182-150">如果在您的 Active Directory 之間有樹系信任且正確配置了名稱尾碼路由，則會支援多重樹系環境的Azure Active Directory 通過驗證。</span><span class="sxs-lookup"><span data-stu-id="bc182-150">Azure Active Directory Pass-through Authentication for multiple-forest environments is supported if there are forest trusts between your Active Directory forests and if name suffix routing is correctly configured.</span></span> <span data-ttu-id="bc182-151">其他代理程式可安裝在多個內部部署伺服器，以提供高可用性的登入要求。</span><span class="sxs-lookup"><span data-stu-id="bc182-151">Additional agents can be installed on multiple on-premises servers to provide high availability for sign-in requests.</span></span>
+    > <span data-ttu-id="bf834-150">如果在您的 Active Directory 之間有樹系信任且正確配置了名稱尾碼路由，則會支援多重樹系環境的Azure Active Directory 通過驗證。</span><span class="sxs-lookup"><span data-stu-id="bf834-150">Azure Active Directory Pass-through Authentication for multiple-forest environments is supported if there are forest trusts between your Active Directory forests and if name suffix routing is correctly configured.</span></span> <span data-ttu-id="bf834-151">其他代理程式可安裝在多個內部部署伺服器，以提供高可用性的登入要求。</span><span class="sxs-lookup"><span data-stu-id="bf834-151">Additional agents can be installed on multiple on-premises servers to provide high availability for sign-in requests.</span></span>
 
-  - <span data-ttu-id="bc182-152">如需詳細資訊，請參閱 [：快速入門](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites)與 [Azure Active Directory 無縫單一登入：快速入門](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites)。</span><span class="sxs-lookup"><span data-stu-id="bc182-152">For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites) and [Azure Active Directory Seamless Single Sign-On: Quick start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites).</span></span>
-  - <span data-ttu-id="bc182-153">如需通過驗證的詳細資訊，請參閱＜[Azure Active Directory 傳遞驗證：目前的限制](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations)＞。</span><span class="sxs-lookup"><span data-stu-id="bc182-153">For more information about pass-through authentication limits, see [Azure Active Directory Pass-through Authentication: Current limitations](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations).</span></span>
-  - <span data-ttu-id="bc182-154">如需無縫 SSO 問題的詳細資訊，請參閱 [Azure Active Directory 無縫單一登入疑難排解](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso)。</span><span class="sxs-lookup"><span data-stu-id="bc182-154">For more information about Seamless SSO issues, see [Troubleshoot Azure Active Directory Seamless Single Sign-On](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso).</span></span>
+  - <span data-ttu-id="bf834-152">如需詳細資訊，請參閱 [：快速入門](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites)與 [Azure Active Directory 無縫單一登入：快速入門](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites)。</span><span class="sxs-lookup"><span data-stu-id="bf834-152">For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites) and [Azure Active Directory Seamless Single Sign-On: Quick start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites).</span></span>
+  - <span data-ttu-id="bf834-153">如需通過驗證的詳細資訊，請參閱＜[Azure Active Directory 傳遞驗證：目前的限制](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations)＞。</span><span class="sxs-lookup"><span data-stu-id="bf834-153">For more information about pass-through authentication limits, see [Azure Active Directory Pass-through Authentication: Current limitations](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations).</span></span>
+  - <span data-ttu-id="bf834-154">如需無縫 SSO 問題的詳細資訊，請參閱 [Azure Active Directory 無縫單一登入疑難排解](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso)。</span><span class="sxs-lookup"><span data-stu-id="bf834-154">For more information about Seamless SSO issues, see [Troubleshoot Azure Active Directory Seamless Single Sign-On](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso).</span></span>
 
       > [!NOTE]
-      > <span data-ttu-id="bc182-155">密碼雜湊同步處理和密碼回寫支援多重樹系。</span><span class="sxs-lookup"><span data-stu-id="bc182-155">Password hash sync and password writeback support multiple forests.</span></span> <span data-ttu-id="bc182-156">不過，不支援其他回寫案例。</span><span class="sxs-lookup"><span data-stu-id="bc182-156">However, other writeback scenarios aren't supported.</span></span>
+      > <span data-ttu-id="bf834-155">密碼雜湊同步處理和密碼回寫支援多重樹系。</span><span class="sxs-lookup"><span data-stu-id="bf834-155">Password hash sync and password writeback support multiple forests.</span></span> <span data-ttu-id="bf834-156">不過，不支援其他回寫案例。</span><span class="sxs-lookup"><span data-stu-id="bf834-156">However, other writeback scenarios aren't supported.</span></span>
 
-  - <span data-ttu-id="bc182-157">在內部部署 Active Directory 樹系與 Microsoft Azure Active Directory Premium 目錄 (Azure Active Directory) 之間設定同步處理。</span><span class="sxs-lookup"><span data-stu-id="bc182-157">Configuring synchronization between on-premises Active Directory forests and Microsoft Azure Active Directory Premium directory (Azure Active Directory).</span></span>
+  - <span data-ttu-id="bf834-157">在內部部署 Active Directory 樹系與 Microsoft Azure Active Directory Premium 目錄 (Azure Active Directory) 之間設定同步處理。</span><span class="sxs-lookup"><span data-stu-id="bf834-157">Configuring synchronization between on-premises Active Directory forests and Microsoft Azure Active Directory Premium directory (Azure Active Directory).</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="bc182-158">開發及實作自訂規則延伸模組超出範圍。</span><span class="sxs-lookup"><span data-stu-id="bc182-158">Development and implementation for custom rules extensions are out of scope.</span></span>
+    > <span data-ttu-id="bf834-158">開發及實作自訂規則延伸模組超出範圍。</span><span class="sxs-lookup"><span data-stu-id="bf834-158">Development and implementation for custom rules extensions are out of scope.</span></span>
 
-- <span data-ttu-id="bc182-159">對於目標為同盟身分識別時的單一樹系：</span><span class="sxs-lookup"><span data-stu-id="bc182-159">For a single forest when the target is federated identities:</span></span>
+- <span data-ttu-id="bf834-159">對於目標為同盟身分識別時的單一樹系：</span><span class="sxs-lookup"><span data-stu-id="bf834-159">For a single forest when the target is federated identities:</span></span>
 
-  -   <span data-ttu-id="bc182-160">在單一站台、容錯組態中，針對向 Azure AD Premium 進行的本機網域驗證，安裝和設定 AD FS (若需要)。</span><span class="sxs-lookup"><span data-stu-id="bc182-160">Installing and configuring AD FS for local domain authentication with Azure AD Premium in a single-site, fault-tolerant configuration (if required).</span></span>
+  -   <span data-ttu-id="bf834-160">在單一站台、容錯組態中，針對向 Azure AD Premium 進行的本機網域驗證，安裝和設定 AD FS (若需要)。</span><span class="sxs-lookup"><span data-stu-id="bf834-160">Installing and configuring AD FS for local domain authentication with Azure AD Premium in a single-site, fault-tolerant configuration (if required).</span></span>
 
   > [!NOTE]
-  > <span data-ttu-id="bc182-161">對於所有多重樹系組態，AD FS 部署超出範圍。</span><span class="sxs-lookup"><span data-stu-id="bc182-161">For all multiple forest configurations, AD FS deployments are out of scope.</span></span>
+  > <span data-ttu-id="bf834-161">對於所有多重樹系組態，AD FS 部署超出範圍。</span><span class="sxs-lookup"><span data-stu-id="bf834-161">For all multiple forest configurations, AD FS deployments are out of scope.</span></span>
 
-- <span data-ttu-id="bc182-162">測試 SSO 功能 (若已部署)。</span><span class="sxs-lookup"><span data-stu-id="bc182-162">Testing SSO functionality (if deployed).</span></span>
+- <span data-ttu-id="bf834-162">測試 SSO 功能 (若已部署)。</span><span class="sxs-lookup"><span data-stu-id="bf834-162">Testing SSO functionality (if deployed).</span></span>
 
-### <a name="enable-phase---azure-ad-premium---with-azure-ad-connect-and-ad-fs"></a><span data-ttu-id="bc182-163">啟用階段 - Azure AD Premium - 使用 Azure AD Connect 與 AD FS</span><span class="sxs-lookup"><span data-stu-id="bc182-163">Enable phase - Azure AD Premium - with Azure AD Connect and AD FS</span></span>
+### <a name="enable-phase---azure-ad-premium---with-azure-ad-connect-and-ad-fs"></a><span data-ttu-id="bf834-163">啟用階段 - Azure AD Premium - 使用 Azure AD Connect 與 AD FS</span><span class="sxs-lookup"><span data-stu-id="bf834-163">Enable phase - Azure AD Premium - with Azure AD Connect and AD FS</span></span>
 
-<span data-ttu-id="bc182-164">提供以下設定的相關指引：</span><span class="sxs-lookup"><span data-stu-id="bc182-164">Provide guidance about setting up:</span></span>
+<span data-ttu-id="bf834-164">提供以下設定的相關指引：</span><span class="sxs-lookup"><span data-stu-id="bf834-164">Provide guidance about setting up:</span></span>
 
-- <span data-ttu-id="bc182-165">使用者佈建，包括授權。</span><span class="sxs-lookup"><span data-stu-id="bc182-165">User provisioning, including licensing.</span></span>
+- <span data-ttu-id="bf834-165">使用者佈建，包括授權。</span><span class="sxs-lookup"><span data-stu-id="bf834-165">User provisioning, including licensing.</span></span>
 
-- <span data-ttu-id="bc182-166">Azure AD Connect 目錄同步處理 (透過密碼回寫和密碼雜湊同步處理)。</span><span class="sxs-lookup"><span data-stu-id="bc182-166">Azure AD Connect directory synchronization (with password writeback and password hash sync).</span></span>
+- <span data-ttu-id="bf834-166">Azure AD Connect 目錄同步處理 (透過密碼回寫和密碼雜湊同步處理)。</span><span class="sxs-lookup"><span data-stu-id="bf834-166">Azure AD Connect directory synchronization (with password writeback and password hash sync).</span></span>
 
-  - <span data-ttu-id="bc182-167">Azure Active Directory 自助式密碼重設 (SSPR)。</span><span class="sxs-lookup"><span data-stu-id="bc182-167">Azure Active Directory Self Service Password Reset (SSPR).</span></span>
+  - <span data-ttu-id="bf834-167">Azure Active Directory 自助式密碼重設 (SSPR)。</span><span class="sxs-lookup"><span data-stu-id="bf834-167">Azure Active Directory Self Service Password Reset (SSPR).</span></span>
 
-  - <span data-ttu-id="bc182-168">Azure Multi-Factor Authentication。</span><span class="sxs-lookup"><span data-stu-id="bc182-168">Azure Multi-Factor Authentication.</span></span>
+  - <span data-ttu-id="bf834-168">Azure Multi-Factor Authentication。</span><span class="sxs-lookup"><span data-stu-id="bf834-168">Azure Multi-Factor Authentication.</span></span>
 
-  - <span data-ttu-id="bc182-169">從 [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/)，最多三個 (3) 或多個軟體即服務 (SaaS) 應用程式與單一登入 (SSO) 整合。</span><span class="sxs-lookup"><span data-stu-id="bc182-169">Up to three (3) or more Software as a Service (SaaS) application integrations with Single Sign-On (SSO) from the [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/).</span></span>
+  - <span data-ttu-id="bf834-169">從 [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/)，最多三個 (3) 或多個軟體即服務 (SaaS) 應用程式與單一登入 (SSO) 整合。</span><span class="sxs-lookup"><span data-stu-id="bf834-169">Up to three (3) or more Software as a Service (SaaS) application integrations with Single Sign-On (SSO) from the [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/).</span></span>
 
-  - <span data-ttu-id="bc182-170">使用者自動佈建預先整合的 SaaS 應用程式 (如[應用程式整合教學課程清單](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list)所列) 僅限於向外佈建。</span><span class="sxs-lookup"><span data-stu-id="bc182-170">Automatic user provisioning for pre-integrated SaaS applications as listed in the [App integration tutorial list](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list), limited to outbound provisioning only.</span></span>
+  - <span data-ttu-id="bf834-170">使用者自動佈建預先整合的 SaaS 應用程式 (如[應用程式整合教學課程清單](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list)所列) 僅限於向外佈建。</span><span class="sxs-lookup"><span data-stu-id="bf834-170">Automatic user provisioning for pre-integrated SaaS applications as listed in the [App integration tutorial list](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list), limited to outbound provisioning only.</span></span>
 
-  - <span data-ttu-id="bc182-171">自訂登入畫面，包括商標、文字和影像。</span><span class="sxs-lookup"><span data-stu-id="bc182-171">Customized logon screen, including logo, text, and images.</span></span>
+  - <span data-ttu-id="bf834-171">自訂登入畫面，包括商標、文字和影像。</span><span class="sxs-lookup"><span data-stu-id="bf834-171">Customized logon screen, including logo, text, and images.</span></span>
 
-  - <span data-ttu-id="bc182-172">自助式群組及動態群組 (群組)。</span><span class="sxs-lookup"><span data-stu-id="bc182-172">Self-Service and Dynamic Groups (Groups).</span></span>
+  - <span data-ttu-id="bf834-172">自助式群組及動態群組 (群組)。</span><span class="sxs-lookup"><span data-stu-id="bf834-172">Self-Service and Dynamic Groups (Groups).</span></span>
 
-  - <span data-ttu-id="bc182-173">Azure Active Directory 應用程式 Proxy。</span><span class="sxs-lookup"><span data-stu-id="bc182-173">Azure Active Directory Application Proxy.</span></span>
+  - <span data-ttu-id="bf834-173">Azure Active Directory 應用程式 Proxy。</span><span class="sxs-lookup"><span data-stu-id="bf834-173">Azure Active Directory Application Proxy.</span></span>
 
-  - <span data-ttu-id="bc182-174">Azure Active Directory Connect Health。</span><span class="sxs-lookup"><span data-stu-id="bc182-174">Azure Active Directory Connect Health.</span></span>
+  - <span data-ttu-id="bf834-174">Azure Active Directory Connect Health。</span><span class="sxs-lookup"><span data-stu-id="bf834-174">Azure Active Directory Connect Health.</span></span>
 
-  - <span data-ttu-id="bc182-175">Azure Active Directory 條件式存取。</span><span class="sxs-lookup"><span data-stu-id="bc182-175">Azure Active Directory Conditional Access.</span></span>
+  - <span data-ttu-id="bf834-175">Azure Active Directory 條件式存取。</span><span class="sxs-lookup"><span data-stu-id="bf834-175">Azure Active Directory Conditional Access.</span></span>
 
-  - <span data-ttu-id="bc182-176">Azure Active Directory 使用規定。</span><span class="sxs-lookup"><span data-stu-id="bc182-176">Azure Active Directory Terms of Use.</span></span>
+  - <span data-ttu-id="bf834-176">Azure Active Directory 使用規定。</span><span class="sxs-lookup"><span data-stu-id="bf834-176">Azure Active Directory Terms of Use.</span></span>
 
-  - <span data-ttu-id="bc182-177">Azure Active Directory Identity Protection。</span><span class="sxs-lookup"><span data-stu-id="bc182-177">Azure Active Directory Identity Protection.</span></span>
+  - <span data-ttu-id="bf834-177">Azure Active Directory Identity Protection。</span><span class="sxs-lookup"><span data-stu-id="bf834-177">Azure Active Directory Identity Protection.</span></span>
 
-  - <span data-ttu-id="bc182-178">Azure Active Directory Privileged Identity Management。</span><span class="sxs-lookup"><span data-stu-id="bc182-178">Azure Active Directory Privileged Identity Management.</span></span>
+  - <span data-ttu-id="bf834-178">Azure Active Directory Privileged Identity Management。</span><span class="sxs-lookup"><span data-stu-id="bf834-178">Azure Active Directory Privileged Identity Management.</span></span>
 
-  - <span data-ttu-id="bc182-179">Azure Active Directory 存取權檢閱。</span><span class="sxs-lookup"><span data-stu-id="bc182-179">Azure Active Directory Access Reviews.</span></span>
+  - <span data-ttu-id="bf834-179">Azure Active Directory 存取權檢閱。</span><span class="sxs-lookup"><span data-stu-id="bf834-179">Azure Active Directory Access Reviews.</span></span>
 
-### <a name="enable-phase---intune"></a><span data-ttu-id="bc182-180">啟用階段 - Intune</span><span class="sxs-lookup"><span data-stu-id="bc182-180">Enable phase - Intune</span></span>
+  -   <span data-ttu-id="bf834-180">Azure Active Directory 密碼保護。</span><span class="sxs-lookup"><span data-stu-id="bf834-180">Azure Active Directory Password Protection.</span></span>
+
+  -   <span data-ttu-id="bf834-181">Azure Active Directory B2B。</span><span class="sxs-lookup"><span data-stu-id="bf834-181">Azure Active Directory B2B.</span></span>
+
+### <a name="enable-phase---intune"></a><span data-ttu-id="bf834-182">啟用階段 - Intune</span><span class="sxs-lookup"><span data-stu-id="bf834-182">Enable phase - Intune</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="bc182-181">FastTrack 不支援 Windows 10 傳統電腦管理與 Intune。</span><span class="sxs-lookup"><span data-stu-id="bc182-181">FastTrack does not support Windows 10 classic PC management with Intune.</span></span> <span data-ttu-id="bc182-182">FastTrack 僅透過 Intune 行動裝置管理 (MDM)，支援 Windows 10 管理。</span><span class="sxs-lookup"><span data-stu-id="bc182-182">FastTrack only supports Windows 10 management through Intune mobile device management (MDM).</span></span>
+> <span data-ttu-id="bf834-183">FastTrack 不支援 Windows 10 傳統電腦管理與 Intune。</span><span class="sxs-lookup"><span data-stu-id="bf834-183">FastTrack does not support Windows 10 classic PC management with Intune.</span></span> <span data-ttu-id="bf834-184">FastTrack 僅透過 Intune 行動裝置管理 (MDM)，支援 Windows 10 管理。</span><span class="sxs-lookup"><span data-stu-id="bf834-184">FastTrack only supports Windows 10 management through Intune mobile device management (MDM).</span></span>
 
-<span data-ttu-id="bc182-183">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="bc182-183">Provide guidance on:</span></span>
+<span data-ttu-id="bf834-185">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="bf834-185">Provide guidance on:</span></span>
 
--   <span data-ttu-id="bc182-184">利用內部部署 Active Directory 或雲端身分識別 (Azure Active Directory)，設定 Intune 所使用的身分識別。</span><span class="sxs-lookup"><span data-stu-id="bc182-184">Configuring identities to be used by Intune, by either leveraging your on-premises Active Directory or cloud identities (Azure Active Directory).</span></span>
+-   <span data-ttu-id="bf834-186">利用內部部署 Active Directory 或雲端身分識別 (Azure Active Directory)，設定 Intune 所使用的身分識別。</span><span class="sxs-lookup"><span data-stu-id="bf834-186">Configuring identities to be used by Intune, by either leveraging your on-premises Active Directory or cloud identities (Azure Active Directory).</span></span>
 
--   <span data-ttu-id="bc182-185">授權使用者。</span><span class="sxs-lookup"><span data-stu-id="bc182-185">Licensing your end users.</span></span>
+-   <span data-ttu-id="bf834-187">授權使用者。</span><span class="sxs-lookup"><span data-stu-id="bf834-187">Licensing your end users.</span></span>
 
--   <span data-ttu-id="bc182-186">將使用者新增到您的 Intune 訂用帳戶、定義 IT 系統管理員角色，以及建立使用者和裝置群組。</span><span class="sxs-lookup"><span data-stu-id="bc182-186">Adding users to your Intune subscription, defining IT admin roles, and creating user and device groups.</span></span>
+-   <span data-ttu-id="bf834-188">將使用者新增到您的 Intune 訂用帳戶、定義 IT 系統管理員角色，以及建立使用者和裝置群組。</span><span class="sxs-lookup"><span data-stu-id="bf834-188">Adding users to your Intune subscription, defining IT admin roles, and creating user and device groups.</span></span>
 
--   <span data-ttu-id="bc182-187">根據您的管理需求，設定行動裝置管理 (MDM) 授權，包括：</span><span class="sxs-lookup"><span data-stu-id="bc182-187">Configuring your Mobile Device Management MDM) authority, based on your management needs, including:</span></span>
+-   <span data-ttu-id="bf834-189">根據您的管理需求，設定行動裝置管理 (MDM) 授權，包括：</span><span class="sxs-lookup"><span data-stu-id="bf834-189">Configuring your Mobile Device Management MDM) authority, based on your management needs, including:</span></span>
 
-    -   <span data-ttu-id="bc182-188">將 Intune 設定為您的 MDM 授權。</span><span class="sxs-lookup"><span data-stu-id="bc182-188">Setting Intune as your MDM authority.</span></span>
+    -   <span data-ttu-id="bf834-190">將 Intune 設定為您的 MDM 授權。</span><span class="sxs-lookup"><span data-stu-id="bf834-190">Setting Intune as your MDM authority.</span></span>
 
-    -   <span data-ttu-id="bc182-189">設定用於驗證 MDM 管理原則的測試群組。</span><span class="sxs-lookup"><span data-stu-id="bc182-189">Configuring tests groups to be used to validate MDM management policies.</span></span>
+    -   <span data-ttu-id="bf834-191">設定用於驗證 MDM 管理原則的測試群組。</span><span class="sxs-lookup"><span data-stu-id="bf834-191">Configuring tests groups to be used to validate MDM management policies.</span></span>
 
-    -   <span data-ttu-id="bc182-190">瀏覽 Intune 系統管理入口網站，以找出使用者和裝置的相關資訊。</span><span class="sxs-lookup"><span data-stu-id="bc182-190">Navigating the Intune admin portal to locate information on users and devices.</span></span>
+    -   <span data-ttu-id="bf834-192">瀏覽 Intune 系統管理入口網站，以找出使用者和裝置的相關資訊。</span><span class="sxs-lookup"><span data-stu-id="bf834-192">Navigating the Intune admin portal to locate information on users and devices.</span></span>
 
-    -   <span data-ttu-id="bc182-191">設定 Intune 角色 (技術支援人員、系統管理員等等)</span><span class="sxs-lookup"><span data-stu-id="bc182-191">Setting up Intune roles (Help desk operator, admins, etc.)</span></span>
+    -   <span data-ttu-id="bf834-193">設定 Intune 角色 (技術支援人員、系統管理員等等)</span><span class="sxs-lookup"><span data-stu-id="bf834-193">Setting up Intune roles (Help desk operator, admins, etc.)</span></span>
 
-    -   <span data-ttu-id="bc182-192">設定 MDM 管理原則和服務，例如：</span><span class="sxs-lookup"><span data-stu-id="bc182-192">Configuring MDM management policies and services like:</span></span>
+    -   <span data-ttu-id="bf834-194">設定 MDM 管理原則和服務，例如：</span><span class="sxs-lookup"><span data-stu-id="bf834-194">Configuring MDM management policies and services like:</span></span>
 
-        -   <span data-ttu-id="bc182-193">透過網頁連結、MSI 及/或深層連結，針對每個支援的平台進行應用程式部署。</span><span class="sxs-lookup"><span data-stu-id="bc182-193">App deployment for each supported platform through web links, MSI and/or deep links.</span></span>
+        -   <span data-ttu-id="bf834-195">透過網頁連結、MSI 及/或深層連結，針對每個支援的平台進行應用程式部署。</span><span class="sxs-lookup"><span data-stu-id="bf834-195">App deployment for each supported platform through web links, MSI and/or deep links.</span></span>
 
-        -   <span data-ttu-id="bc182-194">在 Windows 10 裝置上部署 Office 專業增強版。</span><span class="sxs-lookup"><span data-stu-id="bc182-194">Deploying Office ProPlus onto Windows 10 devices.</span></span>
+        -   <span data-ttu-id="bf834-196">在 Windows 10 裝置上部署 Office 專業增強版。</span><span class="sxs-lookup"><span data-stu-id="bf834-196">Deploying Office ProPlus onto Windows 10 devices.</span></span>
 
-        -   <span data-ttu-id="bc182-195">用於應用程式部署的大量採購方案，包括 Apple 的 VPP、商務用 Windows 市集，以及 Google 的 Play for Work Store。</span><span class="sxs-lookup"><span data-stu-id="bc182-195">Volume purchase programs for app deployment, including Apple's VPP, Windows Store for Business, and Google's Play for Work Store.</span></span>
+        -   <span data-ttu-id="bf834-197">用於應用程式部署的大量採購方案，包括 Apple 的 VPP、商務用 Windows 市集，以及 Google 的 Play for Work Store。</span><span class="sxs-lookup"><span data-stu-id="bf834-197">Volume purchase programs for app deployment, including Apple's VPP, Windows Store for Business, and Google's Play for Work Store.</span></span>
 
-        -   <span data-ttu-id="bc182-196">部署電子郵件、無線網路和 VPN 設定檔 (如果貴組織中有現有的憑證授權單位、Wi-Fi 或 VPN 基礎結構)。</span><span class="sxs-lookup"><span data-stu-id="bc182-196">Deployment of e-mail, wireless networks, and VPN profiles if you have an existing certificate authority, Wi-Fi or VPN infrastructure in your organization.</span></span>
+        -   <span data-ttu-id="bf834-198">部署電子郵件、無線網路和 VPN 設定檔 (如果貴組織中有現有的憑證授權單位、Wi-Fi 或 VPN 基礎結構)。</span><span class="sxs-lookup"><span data-stu-id="bf834-198">Deployment of e-mail, wireless networks, and VPN profiles if you have an existing certificate authority, Wi-Fi or VPN infrastructure in your organization.</span></span>
 
-        -   <span data-ttu-id="bc182-197">設定 Microsoft Intune Exchange Connector (如果適用)。</span><span class="sxs-lookup"><span data-stu-id="bc182-197">Setting up the Microsoft Intune Exchange Connector (when applicable).</span></span>
+        -   <span data-ttu-id="bf834-199">設定 Microsoft Intune Exchange Connector (如果適用)。</span><span class="sxs-lookup"><span data-stu-id="bf834-199">Setting up the Microsoft Intune Exchange Connector (when applicable).</span></span>
 
-        -   <span data-ttu-id="bc182-198">用於支援的裝置平台的裝置組態設定檔。</span><span class="sxs-lookup"><span data-stu-id="bc182-198">Device configuration profiles for supported device platforms.</span></span>
+        -   <span data-ttu-id="bf834-200">用於支援的裝置平台的裝置組態設定檔。</span><span class="sxs-lookup"><span data-stu-id="bf834-200">Device configuration profiles for supported device platforms.</span></span>
 
-    -   <span data-ttu-id="bc182-199">設定條件式存取原則。</span><span class="sxs-lookup"><span data-stu-id="bc182-199">Setting up conditional access policies.</span></span>
+    -   <span data-ttu-id="bf834-201">設定條件式存取原則。</span><span class="sxs-lookup"><span data-stu-id="bf834-201">Setting up conditional access policies.</span></span>
 
-    -   <span data-ttu-id="bc182-200">針對每個支援的平台，設定及部署 Intune 應用程式保護原則。</span><span class="sxs-lookup"><span data-stu-id="bc182-200">Configuring and deploying Intune app protection policies for each supported platform.</span></span>
+    -   <span data-ttu-id="bf834-202">針對每個支援的平台，設定及部署 Intune 應用程式保護原則。</span><span class="sxs-lookup"><span data-stu-id="bf834-202">Configuring and deploying Intune app protection policies for each supported platform.</span></span>
 
-    -   <span data-ttu-id="bc182-201">準備 Intune 應用程式保護原則適用的企業營運 (LOB) 應用程式，並提供可用選項的指引。</span><span class="sxs-lookup"><span data-stu-id="bc182-201">Preparing line-of-business (LOB) apps for Intune app protection policies, with guidance on available options.</span></span>
+    -   <span data-ttu-id="bf834-203">準備 Intune 應用程式保護原則適用的企業營運 (LOB) 應用程式，並提供可用選項的指引。</span><span class="sxs-lookup"><span data-stu-id="bf834-203">Preparing line-of-business (LOB) apps for Intune app protection policies, with guidance on available options.</span></span>
 
-    -   <span data-ttu-id="bc182-202">使用 Microsoft Intune 服務，將每個受支援平台的裝置註冊到 Intune 或 Configuration Manager。</span><span class="sxs-lookup"><span data-stu-id="bc182-202">Enrolling devices of each supported platform to your Intune or Configuration Manager with Microsoft Intune service.</span></span>
+    -   <span data-ttu-id="bf834-204">使用 Microsoft Intune 服務，將每個受支援平台的裝置註冊到 Intune 或 Configuration Manager。</span><span class="sxs-lookup"><span data-stu-id="bf834-204">Enrolling devices of each supported platform to your Intune or Configuration Manager with Microsoft Intune service.</span></span>
 
-    -   <span data-ttu-id="bc182-203">連線到 Intune 資料倉儲。</span><span class="sxs-lookup"><span data-stu-id="bc182-203">Connecting to Intune Data Warehouse.</span></span>
+    -   <span data-ttu-id="bf834-205">連線到 Intune 資料倉儲。</span><span class="sxs-lookup"><span data-stu-id="bf834-205">Connecting to Intune Data Warehouse.</span></span>
 
-    -   <span data-ttu-id="bc182-204">整合 Intune 與：</span><span class="sxs-lookup"><span data-stu-id="bc182-204">Integrating Intune with:</span></span>
-        -   <span data-ttu-id="bc182-205">用於遠端協助的 Team Viewer (需要有 Team Viewer 訂用帳戶)。</span><span class="sxs-lookup"><span data-stu-id="bc182-205">Team Viewer for remote assistance (Team Viewer subscription is required).</span></span>
+    -   <span data-ttu-id="bf834-206">整合 Intune 與：</span><span class="sxs-lookup"><span data-stu-id="bf834-206">Integrating Intune with:</span></span>
+        -   <span data-ttu-id="bf834-207">用於遠端協助的 Team Viewer (需要有 Team Viewer 訂用帳戶)。</span><span class="sxs-lookup"><span data-stu-id="bf834-207">Team Viewer for remote assistance (Team Viewer subscription is required).</span></span>
 
-        -   <span data-ttu-id="bc182-206">Mobile Threat Defense 合作夥伴解決方案 (需要有 Mobile Threat Defense 合作夥伴解決方案訂用帳戶)。</span><span class="sxs-lookup"><span data-stu-id="bc182-206">Mobile Threat Defense partner solutions (Mobile Threat Defense partner solution subscription is required).</span></span>
+        -   <span data-ttu-id="bf834-208">Mobile Threat Defense 合作夥伴解決方案 (需要有 Mobile Threat Defense 合作夥伴解決方案訂用帳戶)。</span><span class="sxs-lookup"><span data-stu-id="bf834-208">Mobile Threat Defense partner solutions (Mobile Threat Defense partner solution subscription is required).</span></span>
 
-        -   <span data-ttu-id="bc182-207">電信費用管理解決方案 (需要有電信費用管理解決方案訂用帳戶)。</span><span class="sxs-lookup"><span data-stu-id="bc182-207">Telecom expense management solutions (Telecom expense management solution subscription is required).</span></span>
+        -   <span data-ttu-id="bf834-209">電信費用管理解決方案 (需要有電信費用管理解決方案訂用帳戶)。</span><span class="sxs-lookup"><span data-stu-id="bf834-209">Telecom expense management solutions (Telecom expense management solution subscription is required).</span></span>
 
-        -   <span data-ttu-id="bc182-208">Windows Defender 進階威脅防護 (需要有 Windows E5 或 Microsoft 365 E5 授權)。</span><span class="sxs-lookup"><span data-stu-id="bc182-208">Windows Defender Advanced Threat Protection (Windows E5 or Microsoft 365 E5 licenses are required).</span></span>
+        -   <span data-ttu-id="bf834-210">Microsoft Defender 進階威脅防護 (需要有 Windows E5 或 Microsoft 365 E5 授權)。</span><span class="sxs-lookup"><span data-stu-id="bf834-210">Microsoft Defender Advanced Threat Protection (Windows E5 or Microsoft 365 E5 licenses are required).</span></span>
 
-    -   <span data-ttu-id="bc182-209">針對適用的受支援平台，設定軟體更新。</span><span class="sxs-lookup"><span data-stu-id="bc182-209">Configuring Software updates for applicable supported platforms.</span></span>
+    -   <span data-ttu-id="bf834-211">針對適用的受支援平台，設定軟體更新。</span><span class="sxs-lookup"><span data-stu-id="bf834-211">Configuring Software updates for applicable supported platforms.</span></span>
 
-    -   <span data-ttu-id="bc182-210">用於使用者採用計劃的資源。</span><span class="sxs-lookup"><span data-stu-id="bc182-210">Resources for user adoption planning.</span></span>
+    -   <span data-ttu-id="bf834-212">用於使用者採用計劃的資源。</span><span class="sxs-lookup"><span data-stu-id="bf834-212">Resources for user adoption planning.</span></span>
 
-- <span data-ttu-id="bc182-211">設定 Windows AutoPilot：</span><span class="sxs-lookup"><span data-stu-id="bc182-211">Setting up Windows Autopilot:</span></span>
+- <span data-ttu-id="bf834-213">設定 Windows AutoPilot：</span><span class="sxs-lookup"><span data-stu-id="bf834-213">Setting up Windows Autopilot:</span></span>
 
-    - <span data-ttu-id="bc182-212">設定並安裝 Windows Autopilot 適用的 Microsoft Intune。</span><span class="sxs-lookup"><span data-stu-id="bc182-212">Configure and setup Microsoft Intune for Windows Autopilot.</span></span>
+    - <span data-ttu-id="bf834-214">設定並安裝 Windows Autopilot 適用的 Microsoft Intune。</span><span class="sxs-lookup"><span data-stu-id="bf834-214">Configure and setup Microsoft Intune for Windows Autopilot.</span></span>
 
-    - <span data-ttu-id="bc182-213">設定 Azure AD 動態群組</span><span class="sxs-lookup"><span data-stu-id="bc182-213">Configure Azure AD dynamic groups</span></span>
+    - <span data-ttu-id="bf834-215">設定 Azure AD 動態群組</span><span class="sxs-lookup"><span data-stu-id="bf834-215">Configure Azure AD dynamic groups</span></span>
 
-    - <span data-ttu-id="bc182-214">將公司商標新增至 Azure AD。</span><span class="sxs-lookup"><span data-stu-id="bc182-214">Add your Company branding into Azure AD.</span></span>
+    - <span data-ttu-id="bf834-216">將公司商標新增至 Azure AD。</span><span class="sxs-lookup"><span data-stu-id="bf834-216">Add your Company branding into Azure AD.</span></span>
 
-    - <span data-ttu-id="bc182-215">建立裝置並將其指派至 Windows Autopilot 設定檔 (例如，限制本機系統管理員帳戶建立的 Windows Autopilot 設定檔)。</span><span class="sxs-lookup"><span data-stu-id="bc182-215">Create and assign devices to Windows Autopilot profiles (e.g a Windows Autopilot profile that restricts Local Administrator account creation).</span></span>
+    - <span data-ttu-id="bf834-217">建立裝置並將其指派至 Windows Autopilot 設定檔 (例如，限制本機系統管理員帳戶建立的 Windows Autopilot 設定檔)。</span><span class="sxs-lookup"><span data-stu-id="bf834-217">Create and assign devices to Windows Autopilot profiles (e.g a Windows Autopilot profile that restricts Local Administrator account creation).</span></span>
 
-    - <span data-ttu-id="bc182-216">自訂全新體驗 (OOBE)，以符合組織的需求。</span><span class="sxs-lookup"><span data-stu-id="bc182-216">Customize the Out-of-box-experience (OOBE) to comply with organization's requirements.</span></span>
+    - <span data-ttu-id="bf834-218">自訂全新體驗 (OOBE)，以符合組織的需求。</span><span class="sxs-lookup"><span data-stu-id="bf834-218">Customize the Out-of-box-experience (OOBE) to comply with organization's requirements.</span></span>
 
-    - <span data-ttu-id="bc182-217">在 Azure AD 和 Intune 中設定 MDM 自動註冊。</span><span class="sxs-lookup"><span data-stu-id="bc182-217">Configuring MDM Auto-enrollment in Azure AD and Intune.</span></span>
+    - <span data-ttu-id="bf834-219">在 Azure AD 和 Intune 中設定 MDM 自動註冊。</span><span class="sxs-lookup"><span data-stu-id="bf834-219">Configuring MDM Auto-enrollment in Azure AD and Intune.</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="bc182-218">在 Intune 之外設定 Windows Autopilot 超出 FastTrack 權益的範圍。</span><span class="sxs-lookup"><span data-stu-id="bc182-218">Setting up Windows Autopilot outside Intune is out of scope for the FastTrack benefit.</span></span>
+    > <span data-ttu-id="bf834-220">在 Intune 之外設定 Windows Autopilot 超出 FastTrack 權益的範圍。</span><span class="sxs-lookup"><span data-stu-id="bf834-220">Setting up Windows Autopilot outside Intune is out of scope for the FastTrack benefit.</span></span>
 
-### <a name="enable-phase---co-management"></a><span data-ttu-id="bc182-219">啟用階段 - 共同管理</span><span class="sxs-lookup"><span data-stu-id="bc182-219">Enable phase - Co-management</span></span>
+### <a name="enable-phase---co-management"></a><span data-ttu-id="bf834-221">啟用階段 - 共同管理</span><span class="sxs-lookup"><span data-stu-id="bf834-221">Enable phase - Co-management</span></span>
 
-<span data-ttu-id="bc182-220">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="bc182-220">Provide guidance on:</span></span>
+<span data-ttu-id="bf834-222">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="bf834-222">Provide guidance on:</span></span>
 
--   <span data-ttu-id="bc182-221">授權使用者。</span><span class="sxs-lookup"><span data-stu-id="bc182-221">Licensing your end users.</span></span>
+-   <span data-ttu-id="bf834-223">授權使用者。</span><span class="sxs-lookup"><span data-stu-id="bf834-223">Licensing your end users.</span></span>
 
--   <span data-ttu-id="bc182-222">將使用者新增到您的 Intune 訂用帳戶、定義 IT 系統管理員角色，以及建立使用者和裝置群組 (如果未安裝 Intune)。</span><span class="sxs-lookup"><span data-stu-id="bc182-222">Adding users to your Intune subscription, defining IT admin roles, and creating user and device groups (if Intune is not installed).</span></span>
+-   <span data-ttu-id="bf834-224">將使用者新增到您的 Intune 訂用帳戶、定義 IT 系統管理員角色，以及建立使用者和裝置群組 (如果未安裝 Intune)。</span><span class="sxs-lookup"><span data-stu-id="bf834-224">Adding users to your Intune subscription, defining IT admin roles, and creating user and device groups (if Intune is not installed).</span></span>
 
--   <span data-ttu-id="bc182-223">設定 Azure Active Directory 以進行 MDM 自動註冊。</span><span class="sxs-lookup"><span data-stu-id="bc182-223">Setting up Azure Active Directory for MDM auto-enrollment.</span></span>
+-   <span data-ttu-id="bf834-225">設定 Azure Active Directory 以進行 MDM 自動註冊。</span><span class="sxs-lookup"><span data-stu-id="bf834-225">Setting up Azure Active Directory for MDM auto-enrollment.</span></span>
 
--   <span data-ttu-id="bc182-224">設定混合式 Azure Active Directory Join。</span><span class="sxs-lookup"><span data-stu-id="bc182-224">Set up hybrid Azure Active Directory Join.</span></span>
+-   <span data-ttu-id="bf834-226">設定混合式 Azure Active Directory Join。</span><span class="sxs-lookup"><span data-stu-id="bf834-226">Set up hybrid Azure Active Directory Join.</span></span>
 
--   <span data-ttu-id="bc182-225">設定雲端管理閘道。</span><span class="sxs-lookup"><span data-stu-id="bc182-225">Set up Cloud Management Gateway.</span></span>
+-   <span data-ttu-id="bf834-227">設定雲端管理閘道。</span><span class="sxs-lookup"><span data-stu-id="bf834-227">Set up Cloud Management Gateway.</span></span>
 
--   <span data-ttu-id="bc182-226">將使用者新增到您的 Intune 訂用帳戶、定義 IT 系統管理員角色，以及建立使用者和裝置群組。</span><span class="sxs-lookup"><span data-stu-id="bc182-226">Adding users to your Intune subscription, defining IT admin roles, and creating user and device groups.</span></span>
+-   <span data-ttu-id="bf834-228">將使用者新增到您的 Intune 訂用帳戶、定義 IT 系統管理員角色，以及建立使用者和裝置群組。</span><span class="sxs-lookup"><span data-stu-id="bf834-228">Adding users to your Intune subscription, defining IT admin roles, and creating user and device groups.</span></span>
 
--   <span data-ttu-id="bc182-227">準備 Intune (如果未安裝 Intune)：</span><span class="sxs-lookup"><span data-stu-id="bc182-227">Prepare Intune (if Intune is not installed):</span></span>
+-   <span data-ttu-id="bf834-229">準備 Intune (如果未安裝 Intune)：</span><span class="sxs-lookup"><span data-stu-id="bf834-229">Prepare Intune (if Intune is not installed):</span></span>
 
-    -   <span data-ttu-id="bc182-228">根據您的管理需求，設定行動裝置管理 (MDM) 授權，包括：</span><span class="sxs-lookup"><span data-stu-id="bc182-228">Configuring your Mobile Device Management MDM) authority, based on your management needs, including:</span></span>
+    -   <span data-ttu-id="bf834-230">根據您的管理需求，設定行動裝置管理 (MDM) 授權，包括：</span><span class="sxs-lookup"><span data-stu-id="bf834-230">Configuring your Mobile Device Management MDM) authority, based on your management needs, including:</span></span>
 
-    -   <span data-ttu-id="bc182-229">將 Intune 設定為您的 MDM 授權。</span><span class="sxs-lookup"><span data-stu-id="bc182-229">Setting Intune as your MDM authority.</span></span>
+    -   <span data-ttu-id="bf834-231">將 Intune 設定為您的 MDM 授權。</span><span class="sxs-lookup"><span data-stu-id="bf834-231">Setting Intune as your MDM authority.</span></span>
 
-    -   <span data-ttu-id="bc182-230">設定用於驗證 MDM 管理原則的測試群組。</span><span class="sxs-lookup"><span data-stu-id="bc182-230">Configuring tests groups to be used to validate MDM management policies.</span></span>
+    -   <span data-ttu-id="bf834-232">設定用於驗證 MDM 管理原則的測試群組。</span><span class="sxs-lookup"><span data-stu-id="bf834-232">Configuring tests groups to be used to validate MDM management policies.</span></span>
 
-    -   <span data-ttu-id="bc182-231">瀏覽 Intune 系統管理入口網站，以找出使用者和裝置的相關資訊。</span><span class="sxs-lookup"><span data-stu-id="bc182-231">Navigating the Intune admin portal to locate information on users and devices.</span></span>
+    -   <span data-ttu-id="bf834-233">瀏覽 Intune 系統管理入口網站，以找出使用者和裝置的相關資訊。</span><span class="sxs-lookup"><span data-stu-id="bf834-233">Navigating the Intune admin portal to locate information on users and devices.</span></span>
 
-    -   <span data-ttu-id="bc182-232">設定 Intune 角色 (技術支援人員、系統管理員等等)</span><span class="sxs-lookup"><span data-stu-id="bc182-232">Setting up Intune roles (Help desk operator, admins, etc.)</span></span>
+    -   <span data-ttu-id="bf834-234">設定 Intune 角色 (技術支援人員、系統管理員等等)</span><span class="sxs-lookup"><span data-stu-id="bf834-234">Setting up Intune roles (Help desk operator, admins, etc.)</span></span>
 
-    -   <span data-ttu-id="bc182-233">針對每個支援的平台，設定及部署 Intune 應用程式保護原則。</span><span class="sxs-lookup"><span data-stu-id="bc182-233">Configuring and deploying Intune app protection policies for each supported platform.</span></span>
+    -   <span data-ttu-id="bf834-235">針對每個支援的平台，設定及部署 Intune 應用程式保護原則。</span><span class="sxs-lookup"><span data-stu-id="bf834-235">Configuring and deploying Intune app protection policies for each supported platform.</span></span>
 
-    -   <span data-ttu-id="bc182-234">將 Windows 10 裝置註冊到 Intune。</span><span class="sxs-lookup"><span data-stu-id="bc182-234">Enrolling Windows 10 devices to your Intune.</span></span>
+    -   <span data-ttu-id="bf834-236">將 Windows 10 裝置註冊到 Intune。</span><span class="sxs-lookup"><span data-stu-id="bf834-236">Enrolling Windows 10 devices to your Intune.</span></span>
 
-- <span data-ttu-id="bc182-235">在 Configuration Manager 主控台中，啟用共同管理。</span><span class="sxs-lookup"><span data-stu-id="bc182-235">Enable Co-Management in the Configuration Manager console.</span></span>
+- <span data-ttu-id="bf834-237">在 Configuration Manager 主控台中，啟用共同管理。</span><span class="sxs-lookup"><span data-stu-id="bf834-237">Enable Co-Management in the Configuration Manager console.</span></span>
 
-- <span data-ttu-id="bc182-236">將工作負載切換到 Intune。</span><span class="sxs-lookup"><span data-stu-id="bc182-236">Switch workloads to Intune.</span></span>
+- <span data-ttu-id="bf834-238">將工作負載切換到 Intune。</span><span class="sxs-lookup"><span data-stu-id="bf834-238">Switch workloads to Intune.</span></span>
 
-- <span data-ttu-id="bc182-237">監控您環境中的共同管理活動。</span><span class="sxs-lookup"><span data-stu-id="bc182-237">Monitor the Co-management activity in your environment.</span></span>
+- <span data-ttu-id="bf834-239">監控您環境中的共同管理活動。</span><span class="sxs-lookup"><span data-stu-id="bf834-239">Monitor the Co-management activity in your environment.</span></span>
 
-### <a name="enable-phase--azure-information-protection"></a><span data-ttu-id="bc182-238">啟用階段 – Azure 資訊保護</span><span class="sxs-lookup"><span data-stu-id="bc182-238">Enable phase – Azure Information Protection</span></span>
+### <a name="enable-phase--azure-information-protection"></a><span data-ttu-id="bf834-240">啟用階段 – Azure 資訊保護</span><span class="sxs-lookup"><span data-stu-id="bf834-240">Enable phase – Azure Information Protection</span></span>
 
-<span data-ttu-id="bc182-239">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="bc182-239">Provided guidance on:</span></span> 
+<span data-ttu-id="bf834-241">提供以下的相關指引：</span><span class="sxs-lookup"><span data-stu-id="bf834-241">Provided guidance on:</span></span> 
 
-- <span data-ttu-id="bc182-240">啟用並設定客戶租用戶。</span><span class="sxs-lookup"><span data-stu-id="bc182-240">Activating and configuring the customer tenant.</span></span>
+- <span data-ttu-id="bf834-242">啟用並設定客戶租用戶。</span><span class="sxs-lookup"><span data-stu-id="bf834-242">Activating and configuring the customer tenant.</span></span>
 
-- <span data-ttu-id="bc182-241">建立及設定標籤和原則。</span><span class="sxs-lookup"><span data-stu-id="bc182-241">Creating and setting up labels and policies.</span></span>
+- <span data-ttu-id="bf834-243">建立及設定標籤和原則。</span><span class="sxs-lookup"><span data-stu-id="bf834-243">Creating and setting up labels and policies.</span></span>
 
-- <span data-ttu-id="bc182-242">將資訊保護套用至文件。</span><span class="sxs-lookup"><span data-stu-id="bc182-242">Applying information protection to documents.</span></span> 
+- <span data-ttu-id="bf834-244">將資訊保護套用至文件。</span><span class="sxs-lookup"><span data-stu-id="bf834-244">Applying information protection to documents.</span></span> 
 
-- <span data-ttu-id="bc182-243">在 Windows 上執行的 Office 應用程式中，使用 Azure 資訊保護用戶端自動分類資訊並加上標籤 (例如 Word、PowerPoint、Excel 和 Outlook)。</span><span class="sxs-lookup"><span data-stu-id="bc182-243">Automatically classifying and labeling information in Office apps (like Word, PowerPoint, Excel, and Outlook) running on Windows and using the Azure Information Protection client.</span></span>
+- <span data-ttu-id="bf834-245">在 Windows 上執行的 Office 應用程式中，使用 Azure 資訊保護用戶端自動分類資訊並加上標籤 (例如 Word、PowerPoint、Excel 和 Outlook)。</span><span class="sxs-lookup"><span data-stu-id="bf834-245">Automatically classifying and labeling information in Office apps (like Word, PowerPoint, Excel, and Outlook) running on Windows and using the Azure Information Protection client.</span></span>
 
-- <span data-ttu-id="bc182-244">透過 Azure 資訊保護掃描器使用待用檔案。</span><span class="sxs-lookup"><span data-stu-id="bc182-244">Using files at rest with the Azure Information Protection scanner.</span></span>
+- <span data-ttu-id="bf834-246">透過 Azure 資訊保護掃描器使用待用檔案。</span><span class="sxs-lookup"><span data-stu-id="bf834-246">Using files at rest with the Azure Information Protection scanner.</span></span>
 
-- <span data-ttu-id="bc182-245">使用 Exchange Online 郵件流程規則監視傳輸中的電子郵件。</span><span class="sxs-lookup"><span data-stu-id="bc182-245">Monitoring emails in transit using Exchange Online mail flow rules.</span></span>
+- <span data-ttu-id="bf834-247">使用 Exchange Online 郵件流程規則監視傳輸中的電子郵件。</span><span class="sxs-lookup"><span data-stu-id="bf834-247">Monitoring emails in transit using Exchange Online mail flow rules.</span></span>
 
-<span data-ttu-id="bc182-246">系統也會將指引提供給想要使用 Microsoft Azure Rights Management Services (Azure RMS)、Office 365 郵件加密 (OME)，以及資料外洩防護 (DLP) 套用保護的客戶。</span><span class="sxs-lookup"><span data-stu-id="bc182-246">Guidance is also provided to customers who want to apply protection using Microsoft Azure Rights Management Services (Azure RMS), Office 365 Message Encryption (OME), and data loss prevention (DLP).</span></span>
+<span data-ttu-id="bf834-248">系統也會將指引提供給想要使用 Microsoft Azure Rights Management Services (Azure RMS)、Office 365 郵件加密 (OME)，以及資料外洩防護 (DLP) 套用保護的客戶。</span><span class="sxs-lookup"><span data-stu-id="bf834-248">Guidance is also provided to customers who want to apply protection using Microsoft Azure Rights Management Services (Azure RMS), Office 365 Message Encryption (OME), and data loss prevention (DLP).</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="bc182-247">**想要深入了解？** 請參閱 [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility)。</span><span class="sxs-lookup"><span data-stu-id="bc182-247">**Want to learn more?** see [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).</span></span>
+> <span data-ttu-id="bf834-249">**想要深入了解？** 請參閱 [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility)。</span><span class="sxs-lookup"><span data-stu-id="bf834-249">**Want to learn more?** see [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="bc182-248">後續步驟</span><span class="sxs-lookup"><span data-stu-id="bc182-248">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="bf834-250">後續步驟</span><span class="sxs-lookup"><span data-stu-id="bf834-250">Next steps</span></span>
 
-[<span data-ttu-id="bc182-249">EMS 適用的 FastTrack 權益 - 您的責任</span><span class="sxs-lookup"><span data-stu-id="bc182-249">FastTrack benefit for EMS - Your responsibilities</span></span>](EMS-your-responsibilities.md)
+[<span data-ttu-id="bf834-251">EMS 適用的 FastTrack 權益 - 您的責任</span><span class="sxs-lookup"><span data-stu-id="bf834-251">FastTrack benefit for EMS - Your responsibilities</span></span>](EMS-your-responsibilities.md)

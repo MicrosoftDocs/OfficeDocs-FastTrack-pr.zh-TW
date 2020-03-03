@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,47 +14,47 @@ ms.collection: FastTrack
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 0d75ffe7aadf5d6b3e773846f33645214c300b26
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 5ba44a6c06fa8d607bb9587e33e9a4508b4eb48a
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676573"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347393"
 ---
-# <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a><span data-ttu-id="8b654-103">適用於 Enterprise Mobility + Security (EMS) 的 FastTrack 中心權益程序</span><span class="sxs-lookup"><span data-stu-id="8b654-103">FastTrack Center Benefit Process for Enterprise Mobility + Security (EMS)</span></span>
-<span data-ttu-id="8b654-104">如果您的組織符合 EMS 的 FastTrack 中心權益資格，您可以透過遠端方式與 FastTrack 專家合作來預備使用 Microsoft Azure Active Directory 進階版、Microsoft Intune 和 Azure 資訊保護。</span><span class="sxs-lookup"><span data-stu-id="8b654-104">If your organization is eligible for the FastTrack Center Benefit for EMS, you can work remotely with FastTrack Specialists to get Microsoft Azure Active Directory Premium, Microsoft Intune, and Azure Information Protection ready for use.</span></span> <span data-ttu-id="8b654-105">您也可以透過 [FastTrack 網站](https://www.microsoft.com/fasttrack/microsoft-365/ems)取得 Azure 資訊保護和 Microsoft 雲端 App 安全性的使用協助。</span><span class="sxs-lookup"><span data-stu-id="8b654-105">You can also request help through the [FastTrack site](https://www.microsoft.com/fasttrack/microsoft-365/ems) for Azure Information Protection and Microsoft Cloud App Security.</span></span> <span data-ttu-id="8b654-106">若要了解貴組織是否符合資格，請參閱[符合資格的服務與方案](M365-eligible-services-and-plans.md)。</span><span class="sxs-lookup"><span data-stu-id="8b654-106">To learn whether your organization is eligible, see [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
+# <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a><span data-ttu-id="8d02d-103">適用於 Enterprise Mobility + Security (EMS) 的 FastTrack 中心權益程序</span><span class="sxs-lookup"><span data-stu-id="8d02d-103">FastTrack Center Benefit Process for Enterprise Mobility + Security (EMS)</span></span>
+<span data-ttu-id="8d02d-104">如果您的組織符合 EMS 的 FastTrack 中心權益資格，您可以透過遠端方式與 FastTrack 專家合作來預備使用 Microsoft Azure Active Directory 進階版、Microsoft Intune 和 Azure 資訊保護。</span><span class="sxs-lookup"><span data-stu-id="8d02d-104">If your organization is eligible for the FastTrack Center Benefit for EMS, you can work remotely with FastTrack Specialists to get Microsoft Azure Active Directory Premium, Microsoft Intune, and Azure Information Protection ready for use.</span></span> <span data-ttu-id="8d02d-105">您也可以透過 [FastTrack 網站](https://www.microsoft.com/fasttrack/microsoft-365/ems)取得 Azure 資訊保護和 Microsoft 雲端 App 安全性的使用協助。</span><span class="sxs-lookup"><span data-stu-id="8d02d-105">You can also request help through the [FastTrack site](https://www.microsoft.com/fasttrack/microsoft-365/ems) for Azure Information Protection and Microsoft Cloud App Security.</span></span> <span data-ttu-id="8d02d-106">若要了解貴組織是否符合資格，請參閱[符合資格的服務與方案](M365-eligible-services-and-plans.md)。</span><span class="sxs-lookup"><span data-stu-id="8d02d-106">To learn whether your organization is eligible, see [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
 
 
-<span data-ttu-id="8b654-107">以下是我們會說明的上架程序：</span><span class="sxs-lookup"><span data-stu-id="8b654-107">Here's what we cover about the onboarding process:</span></span>
+<span data-ttu-id="8d02d-107">以下是我們會說明的上架程序：</span><span class="sxs-lookup"><span data-stu-id="8d02d-107">Here's what we cover about the onboarding process:</span></span>
 
--   [<span data-ttu-id="8b654-108">上架程序的概觀</span><span class="sxs-lookup"><span data-stu-id="8b654-108">Overview of the onboarding process</span></span>](EMS-fasttrack-benefit-overview.md)
+-   [<span data-ttu-id="8d02d-108">上架程序的概觀</span><span class="sxs-lookup"><span data-stu-id="8d02d-108">Overview of the onboarding process</span></span>](EMS-fasttrack-benefit-overview.md)
 
--   [<span data-ttu-id="8b654-109">對您的來源環境的預期</span><span class="sxs-lookup"><span data-stu-id="8b654-109">Expectations for your source environment</span></span>](EMS-source-environment-expectations.md)
+-   [<span data-ttu-id="8d02d-109">對您的來源環境的預期</span><span class="sxs-lookup"><span data-stu-id="8d02d-109">Expectations for your source environment</span></span>](EMS-source-environment-expectations.md)
 
--   [<span data-ttu-id="8b654-110">上架程序的階段</span><span class="sxs-lookup"><span data-stu-id="8b654-110">Phases of the onboarding process</span></span>](EMS-onboarding-phases.md)
+-   [<span data-ttu-id="8d02d-110">上架程序的階段</span><span class="sxs-lookup"><span data-stu-id="8d02d-110">Phases of the onboarding process</span></span>](EMS-onboarding-phases.md)
 
--   <span data-ttu-id="8b654-111">各階段的 [FastTrack 責任](EMS-fasttrack-responsibilities.md)</span><span class="sxs-lookup"><span data-stu-id="8b654-111">[FastTrack responsibilities](EMS-fasttrack-responsibilities.md) for each phase</span></span>
+-   <span data-ttu-id="8d02d-111">各階段的 [FastTrack 責任](EMS-fasttrack-responsibilities.md)</span><span class="sxs-lookup"><span data-stu-id="8d02d-111">[FastTrack responsibilities](EMS-fasttrack-responsibilities.md) for each phase</span></span>
 
--   <span data-ttu-id="8b654-112">各階段的[客戶責任](EMS-your-responsibilities.md)</span><span class="sxs-lookup"><span data-stu-id="8b654-112">[Customer responsibilities](EMS-your-responsibilities.md) for each phase</span></span>
+-   <span data-ttu-id="8d02d-112">各階段的[客戶責任](EMS-your-responsibilities.md)</span><span class="sxs-lookup"><span data-stu-id="8d02d-112">[Customer responsibilities](EMS-your-responsibilities.md) for each phase</span></span>
 
-<span data-ttu-id="8b654-113">以下是上架完成後可預期的結果：</span><span class="sxs-lookup"><span data-stu-id="8b654-113">Here’s what you can expect when onboarding is complete:</span></span>
+<span data-ttu-id="8d02d-113">以下是上架完成後可預期的結果：</span><span class="sxs-lookup"><span data-stu-id="8d02d-113">Here’s what you can expect when onboarding is complete:</span></span>
 
--   <span data-ttu-id="8b654-114">為您所選的服務建立 EMS 租用戶。</span><span class="sxs-lookup"><span data-stu-id="8b654-114">Your EMS tenants for your selected services are created.</span></span>
+-   <span data-ttu-id="8d02d-114">為您所選的服務建立 EMS 租用戶。</span><span class="sxs-lookup"><span data-stu-id="8d02d-114">Your EMS tenants for your selected services are created.</span></span>
 
--   <span data-ttu-id="8b654-115">授權使用者可以使用下列任一個身分識別選項來存取 EMS 服務：</span><span class="sxs-lookup"><span data-stu-id="8b654-115">Licensed users can access EMS Services by using one of the following identity options:</span></span>
+-   <span data-ttu-id="8d02d-115">授權使用者可以使用下列任一個身分識別選項來存取 EMS 服務：</span><span class="sxs-lookup"><span data-stu-id="8d02d-115">Licensed users can access EMS Services by using one of the following identity options:</span></span>
 
-    -   <span data-ttu-id="8b654-116">雲端身分識別 (唯一的 EMS 帳戶)。</span><span class="sxs-lookup"><span data-stu-id="8b654-116">Cloud Identities (unique EMS accounts).</span></span>
+    -   <span data-ttu-id="8d02d-116">雲端身分識別 (唯一的 EMS 帳戶)。</span><span class="sxs-lookup"><span data-stu-id="8d02d-116">Cloud Identities (unique EMS accounts).</span></span>
 
-    -   <span data-ttu-id="8b654-117">同步處理的身分識別：使用 Azure Active Directory Connect 工具 (密碼雜湊同步處理或通過驗證) 從您的內部部署 Active Directory 同步處理 EMS 帳戶。</span><span class="sxs-lookup"><span data-stu-id="8b654-117">Synchronized Identities: EMS accounts synchronized from your on-premises Active Directory by using the Azure Active Directory Connect tool (Password Hash Sync or Pass-through Authentication).</span></span> <span data-ttu-id="8b654-118">這個選項適用於擁有單一樹系或多個 Active Directory 樹系的客戶。</span><span class="sxs-lookup"><span data-stu-id="8b654-118">This option is for customers with a single forest or multiple Active Directory forests.</span></span>
+    -   <span data-ttu-id="8d02d-117">同步處理的身分識別：使用 Azure Active Directory Connect 工具 (密碼雜湊同步處理或通過驗證) 從您的內部部署 Active Directory 同步處理 EMS 帳戶。</span><span class="sxs-lookup"><span data-stu-id="8d02d-117">Synchronized Identities: EMS accounts synchronized from your on-premises Active Directory by using the Azure Active Directory Connect tool (Password Hash Sync or Pass-through Authentication).</span></span> <span data-ttu-id="8d02d-118">這個選項適用於擁有單一樹系或多個 Active Directory 樹系的客戶。</span><span class="sxs-lookup"><span data-stu-id="8d02d-118">This option is for customers with a single forest or multiple Active Directory forests.</span></span>
 
-    -   <span data-ttu-id="8b654-119">同盟身分識別--包含下列情況的 Microsoft EMS 帳戶：</span><span class="sxs-lookup"><span data-stu-id="8b654-119">Federated Identities--with Microsoft EMS accounts that are:</span></span>
+    -   <span data-ttu-id="8d02d-119">同盟身分識別--包含下列情況的 Microsoft EMS 帳戶：</span><span class="sxs-lookup"><span data-stu-id="8d02d-119">Federated Identities--with Microsoft EMS accounts that are:</span></span>
 
-        -   <span data-ttu-id="8b654-120">使用 Azure AD Connect 工具，從 Active Directory 同步處理。</span><span class="sxs-lookup"><span data-stu-id="8b654-120">Synchronized from Active Directory with the Azure AD Connect tool.</span></span> <span data-ttu-id="8b654-121">這個選項適用於擁有單一 Active Directory 樹系組態的客戶。</span><span class="sxs-lookup"><span data-stu-id="8b654-121">This option is for customers with a single Active Directory forest configuration.</span></span>
+        -   <span data-ttu-id="8d02d-120">使用 Azure AD Connect 工具，從 Active Directory 同步處理。</span><span class="sxs-lookup"><span data-stu-id="8d02d-120">Synchronized from Active Directory with the Azure AD Connect tool.</span></span> <span data-ttu-id="8d02d-121">這個選項適用於擁有單一 Active Directory 樹系組態的客戶。</span><span class="sxs-lookup"><span data-stu-id="8d02d-121">This option is for customers with a single Active Directory forest configuration.</span></span>
 
-        -   <span data-ttu-id="8b654-122">從您的內部部署 Active Directory與 Windows Server 2012 R2 Active Directory 同盟服務 (AD FS) 2.0 或更新版本同盟。</span><span class="sxs-lookup"><span data-stu-id="8b654-122">Federated with Windows Server 2012 R2 Active Directory Federation Services (AD FS) 2.0 or later from your on-premises Active Directory.</span></span>
+        -   <span data-ttu-id="8d02d-122">從您的內部部署 Active Directory與 Windows Server 2012 R2 Active Directory 同盟服務 (AD FS) 2.0 或更新版本同盟。</span><span class="sxs-lookup"><span data-stu-id="8d02d-122">Federated with Windows Server 2012 R2 Active Directory Federation Services (AD FS) 2.0 or later from your on-premises Active Directory.</span></span>
 
-        -   <span data-ttu-id="8b654-123">Azure 資訊保護功能可以在靜止和傳輸過程中自動分類和保護資訊。</span><span class="sxs-lookup"><span data-stu-id="8b654-123">The ability to auto-classify and protect information both at rest and in transit with Azure Information Protection.</span></span> 
+        -   <span data-ttu-id="8d02d-123">Azure 資訊保護功能可以在靜止和傳輸過程中自動分類和保護資訊。</span><span class="sxs-lookup"><span data-stu-id="8d02d-123">The ability to auto-classify and protect information both at rest and in transit with Azure Information Protection.</span></span> 
 
-        -   <span data-ttu-id="8b654-124">Azure 資訊保護掃描程式的功能可內部部署檔案共用和 SharePoint 伺服器上探索資訊。</span><span class="sxs-lookup"><span data-stu-id="8b654-124">The ability to discover information within on-premises file shares and SharePoint servers with the Azure Information Protection scanner.</span></span> 
+        -   <span data-ttu-id="8d02d-124">Azure 資訊保護掃描程式的功能可內部部署檔案共用和 SharePoint 伺服器上探索資訊。</span><span class="sxs-lookup"><span data-stu-id="8d02d-124">The ability to discover information within on-premises file shares and SharePoint servers with the Azure Information Protection scanner.</span></span> 
 
-        -   <span data-ttu-id="8b654-125">能夠在 Azure 金鑰保存庫中管理 Azure 資訊保護租用戶的金鑰。</span><span class="sxs-lookup"><span data-stu-id="8b654-125">The ability to manage your Azure Information Protection tenant keys within the Azure Key Vault.</span></span> 
+        -   <span data-ttu-id="8d02d-125">能夠在 Azure 金鑰保存庫中管理 Azure 資訊保護租用戶的金鑰。</span><span class="sxs-lookup"><span data-stu-id="8d02d-125">The ability to manage your Azure Information Protection tenant keys within the Azure Key Vault.</span></span> 

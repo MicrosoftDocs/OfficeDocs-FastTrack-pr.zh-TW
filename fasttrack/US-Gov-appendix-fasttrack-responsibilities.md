@@ -3,19 +3,19 @@ title: FastTrack 責任 for Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 在上架期間 FastTrack 專家需擔負下列責任。
-ms.openlocfilehash: 502f3c7595de510caf98b51b7b2d0bd274d076e8
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 450106d47775f531cbfccdec978d3d15eedad5ac
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677029"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347453"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack 責任 for Office 365 US Government
 
@@ -201,7 +201,7 @@ ms.locfileid: "41677029"
 - 在您的 iOS、Android 或 Windows Mobile 裝置上安裝 Office Mobile 應用程式 (如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile)。   
 - 使用 Office 2016 部署工具或群組原則範本來設定更新設定。   
 - 設定 Office 365 專業增強版的單一內部網站發佈伺服器，包含建立搭配 Office 365 部署工具使用之 configuration.xml 檔案的相關協助。   
-- 使用 System Center Configuration Manager 部署，包含建立 System Center Configuration Manager 封裝的協助。
+- 使用 Microsoft 端點 Configuration Manager 部署，包括建立 Microsoft 端點 Configuration Manager 封裝的協助。
 
     
 

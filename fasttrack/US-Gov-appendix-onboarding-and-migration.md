@@ -3,19 +3,19 @@ title: 上架及移轉階段 for Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 US government 的 office 365 上架有四個主要階段-啟始、 評估、 修復與啟用。 您可以在這些階段後面選擇接著資料移轉階段，如下圖所示。
-ms.openlocfilehash: 699b2f9229187df182e6d9fc6f2f7d49d9707174
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: eac974f67137a327b873b911a8c9906859fd3597
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676657"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347525"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>上架及移轉階段 for Office 365 US Government
 
@@ -31,23 +31,21 @@ Office 365 上架有四個主要階段 - 起始、評估、修復與啟用。您
   
 您可以透過 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)或 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助。 
  
-若要透過 [Microsoft 365 系統管理員中心](https://go.microsoft.com/fwlink/?linkid=2032704)取得協助，您的系統管理員需要登入至系統管理員中心，然後按一下 [需要協助？]**** Widget。 
+若要透過 [Microsoft 365 系統管理員中心](https://go.microsoft.com/fwlink/?linkid=2032704)取得協助，您的系統管理員需要登入至系統管理員中心，然後按一下 **[需要協助？]** Widget。 
 
 若要透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助： 
 1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  選取 [FastTrack]****。
-3.  選取 [服務]****。
-4.  填妥**要求協助使用 Microsoft 365** 表單。 
+2.  從**快速控制項目**編排登陸頁面或選取 [部署] 卡片上的 [**要求協助 Microsoft 365**中選取 [**要求的 Microsoft 365 的協助**
+3. 完成**要求協助 Microsoft 365**表單。 
 
 合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。作法如下：
 1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  選取 [FastTrack]****。
-3.  選取 [我的客戶]****。
-4.  搜尋您的客戶或從客戶清單中選取他們。
-5.  選取 [服務]****。
-6.  填妥**要求協助使用 Microsoft 365** 表單。   
+2.  選取 **[我的客戶]**。
+3.  搜尋您的客戶或從客戶清單中選取他們。
+4.  選取 [服務]****。
+5.  完成**要求協助 Microsoft 365**表單。   
 
-您也可以從租用戶的可用服務清單中的 FastTrack Center[FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)要求協助。 
+您也可以從租用戶的可用服務清單中的 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698) 要求 FastTrack Center 協助。 
     
 在這個階段期間，我們將討論上架程序、驗證資料並設定啟動會議。
   
@@ -186,7 +184,7 @@ FastTrack 專家會提供將資料移轉到 Office 365 的指引，方法是使�
 - 在您的 iOS、Android 或 Windows Mobile 裝置上安裝 Office Mobile 應用程式 (如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile)。   
 - 使用 Office 365 部署工具來設定更新設定。    
 - 設定 Office 365 專業增強版的單一內部網站發佈伺服器，包含建立搭配 Office 365 部署工具使用之 configuration.xml 檔案的相關協助。    
-- 使用 Microsoft System Center Configuration Manager 部署，包含建立 System Center Configuration Manager 封裝的協助。
+- 使用 Microsoft 端點 Configuration Manager 部署，包括建立 Microsoft 端點 Configuration Manager 封裝的協助。
     
 ![Office 專業增強版上架步驟](media/O365-Onboarding-Enable-OProPlus.png)
 

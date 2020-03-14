@@ -10,35 +10,35 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 當您購買任何 Microsoft 365 服務，FastTrack 專家可提供您 Microsoft 365 的上架指引，讓您即刻開始使用。
-ms.openlocfilehash: dd51175a74a4693da43030c36a2e84db77294d32
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: dd0ebf343498250492b6af42b0fbbf144dc1b5e8
+ms.sourcegitcommit: 11301c8c12bee95f716208b0de74d74021429051
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347537"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42637377"
 ---
 # <a name="eligible-services-and-plans"></a>適用的服務與方案
 
 當您購買任何 Microsoft 365 服務，FastTrack 專家可提供您 Microsoft 365 的上架指引，讓您即刻開始使用。
 
 > [!IMPORTANT]
-> 您必須從以下列出的適用方案中購買**「至少」150 個授權，才能獲得 FastTrack 服務。
+> 您必須從以下列出的適用方案中購買**「至少」150 個授權，才能獲得 FastTrack 服務。 
   
 您可以透過 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)或 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助。 
 
 若要透過 [Microsoft 365 系統管理員中心](https://go.microsoft.com/fwlink/?linkid=2032704)取得協助，您的系統管理員需要登入至系統管理員中心，然後按一下 **[需要協助？]** Widget。 
 
 若要透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助： 
-1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  從您的登陸頁面頂端的 [快速動作]**** 選取 [要求協助使用 Microsoft 365]****，或選取部署卡片上的 [要求協助使用 Microsoft 365]****。
-3.  填妥 [要求協助使用 Microsoft 365]**** 表單。
+1.    登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
+2.    從您的登陸頁面頂端的 [快速動作]**** 選取 [要求協助使用 Microsoft 365]****，或選取部署卡片上的 [要求協助使用 Microsoft 365]****。
+3.    填妥 [要求協助使用 Microsoft 365]**** 表單。
   
 合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。作法如下：
-1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  選取 **[我的客戶]**。
-3.  搜尋您的客戶或從客戶清單中選取他們。
-4.  選取 [服務]****。
-5.  填妥 [要求協助使用 Microsoft 365]**** 表單。
+1.    登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
+2.    選取 **[我的客戶]**。
+3.    搜尋您的客戶或從客戶清單中選取他們。
+4.    選取 [服務]****。
+5.    填妥 [要求協助使用 Microsoft 365]**** 表單。
 
 您也可以從租用戶的可用服務清單中的 FastTrack Center[FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)要求協助。 
 

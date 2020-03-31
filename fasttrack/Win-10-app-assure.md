@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 適用於 Windows 10 的 FastTrack 中心權益提供對於應用程式保證的存取，應用程式保證為一項服務，其設計目的是要解決 Windows 10 和 Office 365 專業增強版應用程式相容性的問題。
-ms.openlocfilehash: 5ecbbb7ef31b16e266ae4b4a614a424f62fa2007
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 9e73f2c42ce6e12dde94e47d01a69027e6edc798
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347597"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052932"
 ---
 # <a name="app-assure"></a>應用程式保證
 
@@ -25,7 +25,3 @@ ms.locfileid: "42347597"
 
   > [!NOTE]
 > 這是由 FastTrack 提供的服務，而不是軟體套件的服務。
-
-    
-
- 

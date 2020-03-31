@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Exchange Online 租用戶購買至少 20,000 個授權的客戶符合 FastTrack Center 附加服務的資格。如需詳細資料，請參閱合格服務與計劃。
-ms.openlocfilehash: cfbd35f15f7e27e0c06e363ffa8279c1e2fcbba9
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 2cb4a8e5ba7378b96833c89da88db963e271552b
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347609"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052558"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>附錄 B：FastTrack Center 其他權益
 
@@ -143,7 +143,3 @@ Exchange Online 租用戶購買至少 20,000 個授權的客戶符合 FastTrack 
 - 為作業發起人或經理指派決策授權以執行決策委員會。  
 - 指派執行發起人與 Microsoft 執行發起人共同合作。  
 - 建立每月決策委員會會議。
-    
-
-  
-

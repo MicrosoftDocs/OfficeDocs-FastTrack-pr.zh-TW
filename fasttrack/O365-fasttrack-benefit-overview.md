@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 利用「適用於 Office 365 的 FastTrack Center 權益」，您可以遠端與 FastTrack 專家合作，使 Office 365 環境準備就緒可供使用並計劃組織內的推行和使用。若要深入了解是否合格，請參閱＜適用於 Office 365 的 FastTrack Center 權益＞。
-ms.openlocfilehash: 83007d0d0b7e843f87e44cc8408529e657497308
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 8ce3fa3b8a0f677c520aa8ffd1924c4461ee17c2
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347429"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052750"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>FastTrack Center 權益概觀
 
@@ -51,6 +51,4 @@ ms.locfileid: "42347429"
     > AD FS 和 WAP 部署和設定是從您的內部部署環境，使用 [Azure AD Connect 設定精靈](https://go.microsoft.com/fwlink/?linkid=844794)來完成。 
   
 - 取得授權的使用者現在可以存取「[合格服務與計劃](M365-eligible-services-and-plans.md)」。
-    
 
- 

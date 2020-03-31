@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 適用於 Windows 10 的 FastTrack 中心權益可讓您存取 Microsoft Defender 進階威脅防護 (ATP) – 這是一項新服務，旨在協助企業網路預防、偵測、調查及因應進階威脅。
-ms.openlocfilehash: c5c7ce0e1d6c58d2f0fd49568fefafc927f1a150
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 33794954e8f4a4bec2e0cb43d240fd0ef5b6f985
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347717"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052582"
 ---
 # <a name="microsoft-defender-advanced-threat-protection"></a>Windows Defender 進階威脅防護
 
@@ -25,3 +25,4 @@ Microsoft 工程師會與您一起評估作業系統版本和裝置管理，以�
 
 > [!NOTE]
 > 這是由 FastTrack 提供的服務，而不是軟體套件的服務。 
+

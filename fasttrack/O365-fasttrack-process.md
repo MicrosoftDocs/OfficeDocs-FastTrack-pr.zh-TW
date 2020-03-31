@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 程序提供上架和使用者採用服務。
-ms.openlocfilehash: 0a0b25956542edf1a0bc6636918c4bbbb07e388c
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 8d16a291e883207bd5274e15ed47ae073e7bc1d8
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347657"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052762"
 ---
 # <a name="the-fasttrack-process"></a>FastTrack 處理程序
 
@@ -42,20 +42,20 @@ FastTrack 程序提供上架和使用者採用服務。
 若要透過 [Microsoft 365 系統管理員中心](https://go.microsoft.com/fwlink/?linkid=2032704)取得協助，您的系統管理員需要登入至系統管理員中心，然後按一下 **[需要協助？]** Widget。 
 
 若要透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助： 
-1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  從您的登陸頁面頂端的 [快速動作]**** 選取 [要求協助使用 Microsoft 365]****，或選取部署卡片上的 [要求協助使用 Microsoft 365]****。
-3.  填妥 [要求協助使用 Microsoft 365]**** 表單。 
+1.    登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
+2.    從您的登陸頁面頂端的 [快速動作]**** 選取 [要求協助使用 Microsoft 365]****，或選取部署卡片上的 [要求協助使用 Microsoft 365]****。
+3.    填妥 [要求協助使用 Microsoft 365]**** 表單。 
   
  您也可以從租用戶的可用服務清單中的 FastTrack Center[FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)要求協助。 
     
  一旦上架協助啟動，我們將設定線上會議的排程。
     
 合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。作法如下：
-1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  選取 **[我的客戶]**。
-3.  搜尋您的客戶或從客戶清單中選取他們。
-4.  選取 [服務]****。
-5.  填妥 [要求協助使用 Microsoft 365]**** 表單。 
+1.    登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
+2.    選取 **[我的客戶]**。
+3.    搜尋您的客戶或從客戶清單中選取他們。
+4.    選取 [服務]****。
+5.    填妥 [要求協助使用 Microsoft 365]**** 表單。 
 
 下表列出該程序的角色與責任。
     
@@ -64,7 +64,3 @@ FastTrack 程序提供上架和使用者採用服務。
 |**角色** <br/> |**責任** <br/> |
 |**FastTrack 專家** <br/> |在遠端提供所有上架、移轉以及使用者採用服務。  <br/> 將使用工具和發行的說明文件組合，從遠端協助您。 <br/> 直接與您或您的代表配合。 <br/> 提供電子郵件與資料移轉指導。|
 |**FastTrack Center**  <br/> |提供指引，以利核心和服務上架以及規劃成功的合格服務採用。  <br/> 提供協助，並且是在指定地區的一般上班時段提供。 <br/> 以下列語言提供協助：繁體中文和簡體中文 (僅限說中文的資源)、英文、法文、德文、義大利文、日文、韓文、葡萄牙文 (巴西)、西班牙文、泰文以及越南文。|
-
-
-  
-

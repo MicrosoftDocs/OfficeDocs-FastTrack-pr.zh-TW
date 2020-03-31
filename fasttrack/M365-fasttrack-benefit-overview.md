@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 適用於 Microsoft 365 的 FastTrack 提供規劃、部署及採用的指導方針，包含遠端存取 Microsoft 工程專業知識、最佳做法、工具及資源。適用於 Microsoft 365 的 FastTrack 可協助組織及其合作夥伴加速部署，並獲得使用者採用 Office 365、Windows 10，以及企業行動力 + 安全性。
-ms.openlocfilehash: 84e08aab87cc1223c858f82c8e84484dd257cde8
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 7595141667db532522104a48ce07b61d4f724200
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347561"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052522"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>適用於 Microsoft 365 的 FastTrack 中心權益
 
@@ -35,6 +35,3 @@ ms.locfileid: "42347561"
 
 FastTrack 是您成功的 Microsoft 365 合作夥伴。
   
-  
-
- 

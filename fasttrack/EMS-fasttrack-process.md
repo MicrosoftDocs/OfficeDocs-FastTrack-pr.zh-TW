@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 5ba44a6c06fa8d607bb9587e33e9a4508b4eb48a
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: de8a5570478cd0b6317a7b6da8430272983dca68
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347393"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052318"
 ---
 # <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a>適用於 Enterprise Mobility + Security (EMS) 的 FastTrack 中心權益程序
 如果您的組織符合 EMS 的 FastTrack 中心權益資格，您可以透過遠端方式與 FastTrack 專家合作來預備使用 Microsoft Azure Active Directory 進階版、Microsoft Intune 和 Azure 資訊保護。 您也可以透過 [FastTrack 網站](https://www.microsoft.com/fasttrack/microsoft-365/ems)取得 Azure 資訊保護和 Microsoft 雲端 App 安全性的使用協助。 若要了解貴組織是否符合資格，請參閱[符合資格的服務與方案](M365-eligible-services-and-plans.md)。
@@ -58,3 +58,4 @@ ms.locfileid: "42347393"
         -   Azure 資訊保護掃描程式的功能可內部部署檔案共用和 SharePoint 伺服器上探索資訊。 
 
         -   能夠在 Azure 金鑰保存庫中管理 Azure 資訊保護租用戶的金鑰。 
+

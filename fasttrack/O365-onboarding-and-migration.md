@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 上架有四個主要階段 - 起始、評估、修復與啟用。您可以在這些階段後面選擇接著資料移轉階段。
-ms.openlocfilehash: c3716b2a55a2c04b58e19cf6530050cd843dcfdc
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 395a63f56f1140ae8475a4a2f090d1d3eb6dd7f7
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347741"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052822"
 ---
 # <a name="onboarding-and-migration-phases"></a>上架及移轉階段
 
@@ -37,16 +37,16 @@ Office 365 上架有四個主要階段 - 起始、評估、修復與啟用。您
 若要透過 [Microsoft 365 系統管理員中心](https://go.microsoft.com/fwlink/?linkid=2032704)取得協助，您的系統管理員需要登入至系統管理員中心，然後按一下 **[需要協助？]** Widget。 
 
 若要透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助： 
-1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  從您的登陸頁面頂端的 [快速動作]**** 選取 [要求協助使用 Microsoft 365]****，或選取部署卡片上的 [要求協助使用 Microsoft 365]****。
-3.  填妥 [要求協助使用 Microsoft 365]**** 表單。 
+1.    登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
+2.    從您的登陸頁面頂端的 [快速動作]**** 選取 [要求協助使用 Microsoft 365]****，或選取部署卡片上的 [要求協助使用 Microsoft 365]****。
+3.    填妥 [要求協助使用 Microsoft 365]**** 表單。 
   
 合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。作法如下：
-1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  選取 **[我的客戶]**。
-3.  搜尋您的客戶或從客戶清單中選取他們。
-4.  選取 [服務]****。
-5.  填妥 [要求協助使用 Microsoft 365]**** 表單。
+1.    登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
+2.    選取 **[我的客戶]**。
+3.    搜尋您的客戶或從客戶清單中選取他們。
+4.    選取 [服務]****。
+5.    填妥 [要求協助使用 Microsoft 365]**** 表單。
 
 您也可以從租用戶的可用服務清單中的 FastTrack Center[FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)要求協助。 
     
@@ -205,7 +205,7 @@ FastTrack 專家會提供將資料移轉到 Office 365 的指引，方法是使�
 
 對於 Office 365 專業增強版，我們提供下列項目的指引：
 - 解決部署問題。   
-- 使用 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 指派使用者授權。 
+- 使用 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 指派以使用者和以裝置為基礎的授權。 
 - 使用隨選即用從 Office 365 入口網站安裝 Office 365 專業增強版。   
 - 在您的 iOS、Android 或 Windows Mobile 裝置上安裝 Office Mobile 應用程式 (如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile)。   
 - 使用 Office 365 部署工具來設定更新設定。   
@@ -220,4 +220,3 @@ FastTrack 專家會提供將資料移轉到 Office 365 的指引，方法是使�
 若為 Outlook for iOS 和 Android，我們提供下列指引：
 - 從 Apple App Store 和 Google Play 下載 Outlook for iOS 和 Android。
 - 設定帳戶並存取 Exchange Online 信箱。
-

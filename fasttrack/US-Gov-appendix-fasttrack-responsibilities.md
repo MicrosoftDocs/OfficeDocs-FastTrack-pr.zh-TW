@@ -1,5 +1,5 @@
 ---
-title: FastTrack 責任 for Office 365 US Government
+title: Office 365 美國政府的 FastTrack 責任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
@@ -10,14 +10,14 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 在上架期間 FastTrack 專家需擔負下列責任。
-ms.openlocfilehash: 450106d47775f531cbfccdec978d3d15eedad5ac
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 03718f62f7ce28d9e3cbd2b586b64bc26b93e614
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347453"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052786"
 ---
-# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack 責任 for Office 365 US Government
+# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 美國政府的 FastTrack 責任
 
 在上架期間 FastTrack 專家需擔負下列責任。  
   
@@ -79,8 +79,8 @@ ms.locfileid: "42347453"
   - 在您的 Active Directory 網域服務 (AD DS) 和 Office 365 之間安裝目錄同步作業伺服器 (如有必要)。   
   - 使用 Azure Active Directory Connect 工具設定密碼同步處理 (密碼雜湊) 至 Office 365 (Azure Active Directory) (如有需要)。  
   - 單一與多重樹系環境：
-      - 如果設定 Azure Active Directory 通過驗證，需要 （不適用於 GCC High 或 DoD 計劃）。
-      - 設定 Azure Active Directory 無縫單一登入 (SSO)，如果需要 （不適用於 GCC High 或 DoD 計劃）。
+      - 設定 Azure Active Directory 通過驗證（如有需要）（不適用於 GCC 高或 DoD 計畫）。
+      - 設定 Azure Active Directory 無縫單一 Sign-On （SSO）（如果需要的話）（不適用於 GCC 高或 DoD 計畫）。
     > [!NOTE]
     > 如果在您的 Active Directory 之間有樹系信任且正確配置了名稱尾碼路由，則會支援多重樹系環境的Azure Active Directory 通過驗證。其他代理程式可安裝在多個內部部署伺服器，以提供高可用性的登入要求。如需詳細資訊，請參閱 [：快速入門](https://go.microsoft.com/fwlink/?linkid=860094)與 [Azure Active Directory 無縫單一登入：快速入門](https://go.microsoft.com/fwlink/?linkid=860095)。[!NOTE]
     > 如需通過驗證的詳細資訊，請參閱＜[Azure Active Directory 傳遞驗證：目前的限制](https://go.microsoft.com/fwlink/?linkid=860356)＞。[!NOTE]
@@ -100,7 +100,7 @@ ms.locfileid: "42347453"
 - 啟用來源訊息系統與 Office 365 環境間的電子郵件路由。    
 - 設定 Exchange Online Protection 功能 (包括 Exchange Online 進階威脅防護 功能，如果在您的訂閱中可用)，並確認您的 MX 記錄針對所有已驗證已啟用郵件的網域指向 Office 365。   
 - 在單一內部部署 Exchange 組織與 Office 365 之間，「或者」** 在多重內部部署 Exchange 組織與 Office 365 之間進行混合設定。 
-- 設定整合通訊 (UM) 與 Exchange Online （UM 不 GCC DoD 計劃中提供）。 
+- 設定整合通訊（UM）與 Exchange Online （UM 在 GCC DoD 方案中不可用）。 
     
 如需資料移轉責任的詳細資訊，請參閱[資料移轉](O365-data-migration.md)。
   
@@ -147,12 +147,12 @@ ms.locfileid: "42347453"
 - 啟用音訊會議：   
   - 會議橋接預設設定的組織設定。   
   - 對授權使用者會議橋接的指派。 
-- 啟用電話系統 （不適用於 GCC High 或 DoD 方案）：  
+- 啟用電話系統（在 GCC 高或 DoD 方案中無法使用）：  
   - 啟用電話系統和通話方案上架 (在可用的市場)。 
   - 授權使用者號碼的指派。  
   - 透過 UI 的本機號碼移轉指引最多至 999。  
   - 本機號碼移轉 SR 支援超過 999。  
-- 啟用 Skype 商務會議廣播 （不適用於 GCC High 或 DoD 方案）：  
+- 啟用商務用 Skype 會議廣播（在 GCC 高階或 DoD 方案中無法使用）：  
   - 啟用商務用 Skype 會議廣播上架指引。  
   - 針對會議廣播服務同盟的組織設定。
     
@@ -190,7 +190,7 @@ ms.locfileid: "42347453"
 提供將您的單一 Yammer Basic 網路轉換成單一 Yammer Enterprise 網路的指導。
 
 > [!NOTE]
-> Yammer Enterprise 不 Office 365 US Government 的元件，但可以在為每位使用者的獨立優惠授權 office 365 中 GCC 免費取得。 此提供的功能是目前僅限於購買 Office 365 GCC Enterprise 合約及 Enterprise 訂閱合約的客戶。 Yammer 不 GCC 高] 或 [DoD 計劃中提供。
+> Yammer Enterprise 不是 Office 365 美國政府的元件，但可免費提供給在 GCC 中為 Office 365 授權的每位使用者提供的獨立功能。 這項優惠目前僅限於以企業合約和企業訂閱協定購買 Office 365 GCC 的客戶。 在 GCC 高或 DoD 方案中無法使用 Yammer。
   
 ## <a name="office-365-proplus"></a>Office 365 專業增強版
 
@@ -201,8 +201,4 @@ ms.locfileid: "42347453"
 - 在您的 iOS、Android 或 Windows Mobile 裝置上安裝 Office Mobile 應用程式 (如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile)。   
 - 使用 Office 2016 部署工具或群組原則範本來設定更新設定。   
 - 設定 Office 365 專業增強版的單一內部網站發佈伺服器，包含建立搭配 Office 365 部署工具使用之 configuration.xml 檔案的相關協助。   
-- 使用 Microsoft 端點 Configuration Manager 部署，包括建立 Microsoft 端點 Configuration Manager 封裝的協助。
-
-    
-
-
+- 使用 Microsoft Endpoint Configuration Manager 部署，包含協助建立 Microsoft Endpoint Configuration Manager 套件。

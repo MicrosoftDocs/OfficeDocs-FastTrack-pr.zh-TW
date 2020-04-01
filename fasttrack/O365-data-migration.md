@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 專家提供將資料移轉至 Office 365 的步驟指引。這適用於 Exchange Online、商務用 OneDrive 和 SharePoint Online 的 Office 365 服務所有符合資格的客戶。
-ms.openlocfilehash: 0e88f77ee653e374934fcdb11c25b51af2d7d0db
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: c0dae3b6f052e13693ed226b312cbdf0b0866d7b
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347585"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052570"
 ---
 # <a name="data-migration"></a>資料移轉
 
@@ -37,12 +37,15 @@ FastTrack 專家提供將資料移轉到 Office 365 的步驟指引。我們將�
 > [!NOTE]
 > 如果需要整合，您的來源環境必須符合該應用程式所需的最低層級。 
   
+> [!NOTE]
+> Microsoft 於 2020 年 3 月推出新功能，提供六個月的 [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) 和 [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) 試用版授權，以因應客戶在 COVID-19 疫情爆發時的遠端工作和學習需求。 其中一項例外，FastTrack 將從 2020 年 3 月至 2020 年 8 月為擁有 500 個以上試用授權的租用戶提供資料移轉服務，並為學生提供 [Office 365 A1](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) 的資料移轉服務。 Microsoft 保留不經通知即可取消、變更或暫停此優惠的權利。
+
 下表顯示您現有來源環境中預期會移轉的內容。
   
 
 |**活動**|**來源環境預期**|
 |:-----|:-----|
-|**Exchange Online 移轉**  <br/> | Microsoft 會移轉下列來源環境的任意組合，一次一個。我們可以使用 FastTrack Center 來移轉上架郵件系統，或如果它通過 FastTrack Center 檢查。這包含：<br/>  若以 Exchange 2010+ 為基礎的混合式已實作於個別組織且 Exchange 郵件系統是 2003+，則為擁有單一或多個 Exchange 組織的單一或多個 Active Directory 樹系。  <br/> 單一 IBM Domino 7.0.3+ 環境 ([附錄 A：從 IBM Domino 移轉至 Exchange Online](O365-from-ibm-domino-to-exchange-online.md))。  <br/>  具備單一 IMAP 功能的電子郵件環境。  <br/>  G Suite 環境 (僅限 Gmail、連絡人和行事曆)。  <br/>  單一 Novell GroupWise 7.0.4+ 環境。  <br/> <br/> **附註** *移轉之前，必須先完成 Exchange Online 上架。* <br/> <br/> **附註** *FastTrack 只會移轉至作用中的 Office 365 信箱。* <br/> <br/> **附註** *如需內部部署 Exchange 相依性的詳細資訊，請參閱＜[混合部署必要條件](https://go.microsoft.com/fwlink/?LinkId=787528)＞。* <br/><br/> **附註** *移轉多個來源郵件環境 (如多個 Exchange 組織或多個 Domino 組織 ) 時，這些移轉會依序進行。*| 
+|**Exchange Online 移轉**  <br/> | Microsoft 會移轉下列來源環境的任意組合，一次一個。我們可以使用 FastTrack Center 來移轉上架郵件系統，或如果它通過 FastTrack Center 檢查。這包含：<br/>  若以 Exchange 2010+ 為基礎的混合式已實作於個別組織且 Exchange 郵件系統是 2003+，則為擁有單一或多個 Exchange 組織的單一或多個 Active Directory 樹系。  <br/> 單一 IBM Domino 7.0.3+ 環境 ([附錄 A：從 IBM Domino 移轉至 Exchange Online](O365-from-ibm-domino-to-exchange-online.md))。  <br/>  具備單一 IMAP 功能的電子郵件環境。  <br/>  G Suite 環境 (僅限 Gmail、連絡人和行事曆)。  <br/> 單一 Novell GroupWise 環境。 <br/> **附註** *移轉之前，必須先完成 Exchange Online 上架。* <br/> <br/> **附註** *FastTrack 只會移轉至作用中的 Office 365 信箱。* <br/> <br/> **附註** *如需內部部署 Exchange 相依性的詳細資訊，請參閱＜[混合部署必要條件](https://go.microsoft.com/fwlink/?LinkId=787528)＞。* <br/><br/> **附註** *移轉多個來源郵件環境 (如多個 Exchange 組織或多個 Domino 組織 ) 時，這些移轉會依序進行。*| 
 |**SharePoint Online 移轉**  <br/> | 檔案共用 (支援 SMB 2.0+ 之裝置的伺服器訊息區 (SMB) 檔案共用)。  <br/>  Box (Starter、Business、Enterprise)。  <br/> |
 |**商務用 OneDrive 移轉**  <br/> | 檔案共用 (支援 SMB 2.0+ 之裝置的 SMB 檔案共用)。  <br/>  單一 G Suite 環境 (僅限 Google 雲端硬碟)。  <br/>  Box (Starter、Business、Enterprise)。 <br/> <br/> **附註** *FastTrack 只會移轉至作用中的 Office 365 磁碟機。 *|
    
@@ -86,9 +89,9 @@ Microsoft 可能需要您郵件系統的適當存取權和權限，才能執行�
 |**Exchange 2003+**|系統轉換| 電子郵件 <br/> 信箱規則 <br/> 委派 <br/> 信箱連絡人 <br/> 行事曆 <br/> 工作 <br/> 受版權管理的電子郵件 <br/> 加密的電子郵件| 公用資料夾 <br/> 個人連絡人 <br/> 擁有郵件功能的使用者 <br/> 遭封鎖或非作用中的使用者 <br/> 簽章 <br/> 信箱暫放 <br/>  任何超過郵件大小限制的電子郵件 <br/> 封存資料 <br/> 損毀的項目 <br/>  非使用中的信箱 |
 |**Exchange 2003 和 Exchange 2007**|接移| 電子郵件 <br/> 信箱規則 <br/> 委派 <br/> 信箱連絡人 <br/> 行事曆 <br/> 工作 <br/> 受版權管理的電子郵件 <br/> 加密的電子郵件| 公用資料夾 <br/> 個人連絡人 <br/> 擁有郵件功能的使用者 <br/> 遭封鎖或非作用中的使用者 <br/> 簽章 <br/> 信箱暫放 <br/> 任何超過郵件大小限制的電子郵件 <br/> 封存資料 <br/> 損毀的項目 <br/> 非使用中的信箱 |
 |**Exchange 2010、Exchange 2013 及 Exchange 2016** <br/><br/> **附註** *如需內部部署 Exchange 相依性的詳細資訊，請參閱＜[混合部署必要條件](https://go.microsoft.com/fwlink/?LinkId=787528)＞。*           |混合部署移轉| 電子郵件 <br/> 信箱規則 <br/> 委派 <br/> 信箱連絡人 <br/> 行事曆 <br/> Tasks <br/> 簽章 <br/> 隨著使用者信箱移轉的個人封存 <br/> 可復原的項目 <br/> 受版權管理的電子郵件 <br/> 加密的電子郵件| 公用資料夾 <br/> 任何超過郵件大小限制的電子郵件 <br/> 日誌封存或任何協力廠商封存解決方案 <br/> 遭封鎖或非作用中的使用者 <br/> 從個人存放區資料表 (PST) 檔案封存的資料 <br/> 損毀的項目 <br/> 非使用中的信箱 |
-|**G Suite 環境 (僅限 Gmail、連絡人和行事曆)** <br/> <br/> **附註** *您的 G Suite 環境必須啟用 Google API 和 Google Admin SDK 才能擴充功能。* <br/> <br/> **附註** *資料的位置：FastTrack 可能會傳送、處理、儲存已移轉的資料，取決於客戶在美國的租用戶位置或是 Microsoft 或其第三方供應商維護設備之處。FastTrack 會在可用服務完成後的 30 天內刪除任何已儲存的資料。*           |轉換或分段| 電子郵件 <br/> 信箱連絡人 <br/> 行事曆 <br/> 標籤 | 規則 <br/> 委派 <br/> 簽章 <br/> Tasks <br/> 大於 35 MB 的任何電子郵件或附件 <br/> 遭封鎖或非作用中的使用者 <br/> 從 PST 檔案或任何協力廠商封存解決方案 (例如 Google Vault) 封存的資料 <br/> 權限管理或加密的電子郵件 <br/> 損毀的項目 <br/> Google Hangouts <br/> Google Groups <br/> 資源信箱 <br/> 非使用中的信箱 <br/> 假期設定和自動回覆設定 <br/> 共用行事曆、雲端附件、Google Hangout 連結和活動色彩 <br/> 連絡人：每個連絡人最多會移轉三個電子郵件地址|
+|**G Suite 環境 (僅限 Gmail、連絡人和行事曆)** <br/> <br/> **附註** *您的 G Suite 環境必須啟用 Google API 和 Google Admin SDK 才能擴充功能。* <br/>          |轉換或分段| 電子郵件 <br/> 信箱連絡人 <br/> 行事曆 <br/> 標籤 | 規則 <br/> 委派 <br/> 簽章 <br/> Tasks <br/> 大於 35 MB 的任何電子郵件或附件 <br/> 遭封鎖或非作用中的使用者 <br/> 從 PST 檔案或任何協力廠商封存解決方案 (例如 Google Vault) 封存的資料 <br/> 權限管理或加密的電子郵件 <br/> 損毀的項目 <br/> Google Hangouts <br/> Google Groups <br/> 資源信箱 <br/> 非使用中的信箱 <br/> 假期設定和自動回覆設定 <br/> 共用行事曆、雲端附件、Google Hangout 連結和活動色彩 <br/> 連絡人：每個連絡人最多會移轉三個電子郵件地址|
 |**IBM Domino 7.0.3+** ([附錄 A：從 IBM Domino 移轉至 Exchange Online](O365-from-ibm-domino-to-exchange-online.md))|接移| 電子郵件 - 過去 90 天 <br/> 行事曆 - 過去 90 天和未來的項目 <br/> 信箱連絡人 - 全部 <br/> 工作 - 全部 <br/> 會議室和資源 - 假設是使用標準範本實作 <br/> 郵件檔案 (包括共用郵件檔) 必須使用標準郵件範本 | 簽章 <br/> 信箱規則 <br/> 委派 <br/> 加密的項目 <br/> 文件連結 <br/> 使用者信箋 <br/> 任何超過郵件大小限制的電子郵件 <br/> 遭封鎖或非作用中的使用者 <br/> 封存資料 <br/> 損毀的項目 <br/> 行事曆共存 <br/> 非使用中的信箱 |
-|**Novell GroupWise 7.0.4+** <br/><br/> **附註** *資料的位置：FastTrack 可能會傳送、處理、儲存已移轉的資料，取決於客戶在美國的租用戶位置或是 Microsoft 或其第三方供應商維護設備之處。FastTrack 會在可用服務完成後的 30 天內刪除任何已儲存的資料。 *           |接移| 電子郵件 <br/> 行事曆 <br/> 信箱連絡人 <br/> 個人群組 <br/> 工作 (有限制) <br/> 文件 | 規則 <br/> Proxy/委派/存取控制清單 (ACL) 轉換 <br/> 簽章 <br/> 連絡人類別 <br/> 加密的電子郵件 <br/> 搜尋資料夾 <br/> 大於 35 MB 的任何電子郵件或附件 <br/> 遭封鎖或非作用中的使用者 <br/> 封存資料 <br/> 權利管理或加密的項目 <br/> 損毀的項目 <br/> 行事曆共存 <br/> 非使用中的信箱 |
+|**Novell GroupWise** |使用原生 IMAP4 工具進行的移轉| 電子郵件 | 規則 <br/> Proxy/委派/存取控制清單 (ACL) 轉換 <br/> 簽章 <br/> 搜尋資料夾 <br/> 遭封鎖或非作用中的使用者 <br/> 封存資料 <br/> 權利管理或加密的項目 <br/> 損毀的項目 <br/> 行事曆共存 <br/> 擁有郵件功能的使用者 <br/> 信箱連絡人 <br/> 個人群組 <br/> 行事曆 <br/> 工作 <br/> 任何超過郵件大小限制的電子郵件 |
 |**IMAP4 來源** |使用原生 IMAP4 工具進行的移轉| 電子郵件 | 規則 <br/> 委派 <br/> 通訊群組清單 <br/> 外部連絡人 <br/> 擁有郵件功能的使用者 <br/> 遭封鎖或非作用中的使用者 <br/> 信箱連絡人 <br/> 行事曆 <br/> 簽章 <br/> 工作 <br/> 任何超過郵件大小限制的電子郵件 <br/> 封存資料 <br/> 加密的電子郵件 <br/> 損毀的項目 <br/> 非使用中的信箱 |
    
 > [!NOTE]
@@ -112,8 +115,8 @@ FastTrack 專家會在移轉期間執行下列工作：
 - 處理所有與使用者的通訊。  
 - 依 Office 365 指導方針安裝適當層級的用戶端軟體。如需更多資訊，請參閱＜[商務用 Office 365](https://go.microsoft.com/fwlink/?linkid=2005429)＞。 
 - 驗證來源郵件環境與 Office 365 Exchange Online 之間的 SMTP 郵件路由共存 (若適用)。
-- 至少提前三 (3) 天提供已定義方法的排程和要在每個移轉事件移轉的特定信箱清單。針對 Notes 移轉，請務必在 21 天前提供排程。
-- 進行移轉批次前，從排程卸除 24 小時前的信箱。這應該會對應到最後的移轉批次。
+- 以定義的方法針對每個移轉事件提供排程和要移轉的特定信箱清單。
+- 進行移轉批次前，從排程卸除 24 小時前的信箱。 
 - 如下表所列，在 24 小時期間內排程目標平均信箱數目。
     
 |||
@@ -297,7 +300,7 @@ FastTrack 專家會在移轉期間執行下列工作：
 - 在內部部署安裝由 FastTrack 所提供的移轉軟體 (如果適用)。  
 - 完成 FastTrack 所提供的補救報告中所述的補救動作　(如果適用)。   
 - 使用 FastTrack 範本和指引來提供移轉排程。 
-- 至少提前三 (3) 天提供已定義方法的排程和要在每個移轉事件移轉的特定使用者資料清單。
+- 提供已定義方法的排程和要在每個移轉事件移轉的特定使用者資料清單。
 - 從排程中刪除使用者資料，直到移轉批次處理前 24 小時。這應該與最終的移轉批次相對應。
 - 執行移轉品質保證和使用者接受度測試。   
 - 執行移轉後的移轉補救措施 (如果適用)。  
@@ -305,5 +308,6 @@ FastTrack 專家會在移轉期間執行下列工作：
 - 管理和設定來源系統和裝置 (成功完成評估及移轉活動所需) 的任何變更。
     
 > [!NOTE]
-> Microsoft 不保證檔案移轉的速度。  
+> Microsoft 不保證檔案移轉的速度。 
+
 

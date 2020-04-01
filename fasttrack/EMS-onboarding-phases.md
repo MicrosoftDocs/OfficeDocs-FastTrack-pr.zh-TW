@@ -11,12 +11,12 @@ ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: face8c17be9ca475abfb9b6eaabdfc3584677e93
-ms.sourcegitcommit: 11301c8c12bee95f716208b0de74d74021429051
+ms.openlocfilehash: 7a441fcd3020e2d9194a72fd8d6f8c39c2cb7894
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42637389"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052342"
 ---
 # <a name="onboarding-phases"></a>上線階段
 
@@ -232,41 +232,37 @@ FastTrack 可協助您在組織內安全地部署 iOS 版和 Android 版 Outlook
     > [!IMPORTANT]
     > FastTrack 小組不支援使用 Exchange 行動裝置信箱原則保護 iOS 版和 Android 版 Outlook。
 
-#### <a name="co-management"></a>共同管理
+#### <a name="cloud-attach"></a>雲端附加
 
-FastTrack 會逐步引導您準備好同時使用 Configuration Manager 和 Intune 管理 Windows 10 裝置。 確切的步驟取決於您的來源環境，而且可能包括：
+FastTrack 會引導您使用 Intune 針對現有的 Configuration Manager 環境進行雲端附加。 確切的步驟取決於您的來源環境。 這些步驟可能包括：
 
-- 說明共同管理的優點。
+- 說明雲端附加 Configuration Manager 和 Intune 的優點。
 
-- 授權您的使用者。 FastTrack 也會提供有關如何為 Microsoft 雲端服務租用戶啟用大量授權的協助 (視需要)。
+- 授權使用者。 FastTrack 也會提供有關如何為 Microsoft 雲端服務租用戶啟用大量授權的協助 (視需要)。
 
-- 利用內部部署 Active Directory 和/或雲端身分識別設定 Intune 所使用的身分識別。
+- 利用內部部署 Active Directory 和雲端身分識別來設定 Intune 將使用的身分識別。
 
 - 將使用者新增到您的 Intune 訂用帳戶、定義 IT 系統管理員角色，以及建立使用者和裝置群組。
 
-- 提供如何將與 Microsoft Endpoint Configuration Manager 整合的 Intune 移至獨立版 Intune 的相關指導方針。
-
-- 提供針對 MDM 自動註冊設定 Azure Active Directory 的相關指引。
+- 在 Configuration Manager 主控台中啟用雲端附加。
 
 - 提供設定混合式 Azure Active Directory Join 的相關指引。
 
+- 提供針對 MDM 自動註冊設定 Azure Active Directory 的相關指引。
+
 - 提供如何設定雲端管理閘道的相關指引。
 
-- 在 Configuration Manager 主控台中，啟用 [共同管理]。
-
-- 設定要切換到 Intune 的支援的工作負載。
+- 設定要切換到 Intune 的支援工作負載。
 
 - 將 Configuration Manager 用戶端安裝在 Intune 中註冊的裝置。
 
-- 提供如何監控您環境中的共同管理活動的相關指引。
-
-FastTrack 也會提供如何驅動成功採用合格服務的相關指引。
+FastTrack 也會提供如何推動合格服務成功採用的相關指引。
 
 ![上線啟用階段 - Intune](./media/ft-enable-phase_intune_mam.png)
 
 ![上線啟用階段 - Intune](./media/ft-enable-phase_intune_mdm-mam_cloudonly.png)
 
-![上線啟用階段 - 共同管理](./media/ft-9-enable-phase-comanagement.png) 
+![上線啟用階段 - 雲端附加](./media/cloud-attach-diagram.png) 
 
 #### <a name="enable-phase--azure-information-protection"></a>啟用階段 – Azure 資訊保護
 
@@ -287,3 +283,4 @@ FastTrack 也會提供如何驅動成功採用合格服務的相關指引。
 ## <a name="next-steps"></a>後續步驟
 
 [EMS 適用的 FastTrack 權益 - Microsoft 的責任](EMS-fasttrack-responsibilities.md)
+

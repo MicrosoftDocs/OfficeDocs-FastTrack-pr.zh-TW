@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 4a4af4ed65ac5a0d8f2e6de8e9059b25213c8ba3
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 5e72a53a95ff0417dc78284a1d59d3edd4265de5
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347441"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052390"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>FastTrack 中心權益概觀
 
@@ -37,7 +37,7 @@ ms.locfileid: "42347441"
 
 以下是程序的運作方式：
 
-- 在您購買合格服務的授權之後，FastTrack 中心會嘗試連絡您以提供上架協助。 如果您已準備好要將這些服務部署到組織中，也可以從 [FastTrack 中心](https://go.microsoft.com/fwlink/?linkid=780698)要求協助。 若要要求協助，請使用公司或學校帳戶登入 [FastTrack 中心](https://go.microsoft.com/fwlink/?linkid=780698)、前往儀表板、展開頁面右下角的 [需要協助嗎？]**** 連結，然後依照提示完成您的要求。 上架開始後，我們將安排線上會議的時間。
+- 在您購買合格服務的授權之後，FastTrack 中心會嘗試連絡您以提供上架協助。 如果您已準備好要將這些服務部署到組織中，也可以從 [FastTrack 中心](https://go.microsoft.com/fwlink/?linkid=780698)要求協助。 若要要求協助，請使用公司或學校帳戶登入 [FastTrack 中心](https://go.microsoft.com/fwlink/?linkid=780698)、前往儀表板、展開頁面右下角的 **[需要協助嗎？]** 連結，然後依照提示完成您的要求。 上線開始後，我們將安排線上會議的時間。
 
 -   FastTrack 團隊會先幫助您上架核心功能 (所有 Microsoft Online 服務的共同功能)，然後再上架個別合格服務。
 
@@ -57,3 +57,4 @@ ms.locfileid: "42347441"
 ## <a name="next-steps"></a>後續步驟
 
 [適用於 EMS 的 FastTrack 中心權益 - 來源環境期待](EMS-source-environment-expectations.md)
+

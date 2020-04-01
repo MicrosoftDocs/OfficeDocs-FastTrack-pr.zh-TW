@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 2a81deb376f9d25a9d998c7ba49ae9a26205d94d
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 9788df4d240397f1373849d3e4a740a5b58d4cae
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347789"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052294"
 ---
 # <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a>適用於 Enterprise Mobility + Security (EMS) 的 FastTrack 中心權益
 
@@ -33,10 +33,9 @@ ms.locfileid: "42347789"
 - 若要了解 FastTrack 中心程序與相關人員的負責工作，請參閱 [Enterprise Mobility + Security 的 FastTrack 中心權益程序](EMS-fasttrack-process.md)。
 
     > [!TIP]
-    > 如果您要下載包含 Enterprise Mobility + Security **操作指南**的 .zip 文件以及可以使用貴組織標誌進行自訂的電子郵件，以利促進組織內部採用 EMS，請參閱[適用 EMS 的 FastTrack 操作指南與自訂電子郵件](https://gallery.technet.microsoft.com/FastTrack-for-EMS-How-To-f170da4c) (英文)。
+    > 如果您要下載包含 Enterprise Mobility + Security **操作指南**的 .zip 文件以及可以使用貴組織標誌進行自訂的電子郵件，以利促進組織內部採用 EMS，請參閱[適用於 Enterprise Mobility + Security (EMS) 的 FastTrack 中心權益](https://gallery.technet.microsoft.com/FastTrack-for-EMS-How-To-f170da4c) (英文)。
 
 ## <a name="next-steps"></a>後續步驟
 
 [適用的服務與方案](M365-eligible-services-and-plans.md)
-
 

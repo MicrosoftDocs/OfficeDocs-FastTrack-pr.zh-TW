@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 從 IBM Domino 移轉至 Exchange Online 包含幾個重要的層面，包括下列階段期間發生的情況：
-ms.openlocfilehash: ac945137e7beee0d0813ce171fc7292d683e9cd9
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 7c09957d2a1955313d42c17491d26aedd96c798a
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347573"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052378"
 ---
 # <a name="appendix-a---migration-from-ibm-domino-to-exchange-online"></a>附錄 A：從 IBM Domino 移轉至 Exchange Online
 
@@ -126,7 +126,7 @@ ms.locfileid: "42347573"
     
  **客戶責任**
   
-- 在移轉 21 天前識別並匯入移轉排程。
+- 提供已定義方法的排程和要在每個移轉事件移轉的特定使用者資料清單。
     > [!NOTE]
     > 這項工作很重要，因為預先移轉活動牽涉到修復，並可能在實際移轉日 (T-0) 之前重試在不同階段建立複本。移轉一些信箱時，正在其他信箱上執行 T-minus 活動。這必須適當規劃和協調。 
 - 修正在 T-minus 活動過程中識別的問題。
@@ -136,7 +136,3 @@ ms.locfileid: "42347573"
 - 識別並報告移轉後問題。FastTrack Center 會提供移轉後協助直到移轉後 T+5 日，之後您必須自行負責。您可以記錄移轉後票證問題，像是遺漏電子郵件、行事曆項目和連絡人，或信箱中有重複的項目。
     
 FastTrack Center 不涵蓋部署、授權費用，或支援目錄準備 (包括 Domino 至 Active Directory 目錄同步處理)、Notes 應用程式交互操作性的軟體附加元件、自我服務移轉，或封存檔移轉等相關事宜。
-  
-
-  
-

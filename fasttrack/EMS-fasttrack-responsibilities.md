@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 3313834ef5c342d71f6c3940bd55d62bc1e87863
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 6bf4be4247f65ced12052e75692f9fda47cab0ac
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347405"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052258"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 責任
 
@@ -249,43 +249,37 @@ ms.locfileid: "42347405"
     > [!NOTE]
     > 在 Intune 之外設定 Windows Autopilot 超出 FastTrack 權益的範圍。
 
-### <a name="enable-phase---co-management"></a>啟用階段 - 共同管理
+### <a name="enable-phase---cloud-attach"></a>啟用階段 - 雲端附加
 
 提供以下的相關指引：
 
 -   授權使用者。
 
--   將使用者新增到您的 Intune 訂用帳戶、定義 IT 系統管理員角色，以及建立使用者和裝置群組 (如果未安裝 Intune)。
+-   在設定管理員主控台中執行雲端附加。
 
--   設定 Azure Active Directory 以進行 MDM 自動註冊。
+-   將使用者新增到您的 Intune 訂閱、定義 IT 系統管理員角色，以及建立使用者和裝置群組 (如果未安裝 Intune)。
 
 -   設定混合式 Azure Active Directory Join。
 
+-   設定 Azure Active Directory 以進行 MDM 自動註冊。
+
 -   設定雲端管理閘道。
 
--   將使用者新增到您的 Intune 訂用帳戶、定義 IT 系統管理員角色，以及建立使用者和裝置群組。
+-   將使用者新增到您的 Intune 訂閱、定義 IT 系統管理員角色，以及建立使用者和裝置群組。
 
--   準備 Intune (如果未安裝 Intune)：
+-   準備 Intune 服務以進行裝置管理:
 
-    -   根據您的管理需求，設定行動裝置管理 (MDM) 授權，包括：
-
-    -   將 Intune 設定為您的 MDM 授權。
+    -   將行動裝置管理 (MDM) 授權單位設定為 Intune。
 
     -   設定用於驗證 MDM 管理原則的測試群組。
 
     -   瀏覽 Intune 系統管理入口網站，以找出使用者和裝置的相關資訊。
 
-    -   設定 Intune 角色 (技術支援人員、系統管理員等等)
-
-    -   針對每個支援的平台，設定及部署 Intune 應用程式保護原則。
+    -   設定 Intune 角色 (技術服務人員、系統管理員等等)
 
     -   將 Windows 10 裝置註冊到 Intune。
 
-- 在 Configuration Manager 主控台中，啟用共同管理。
-
-- 將工作負載切換到 Intune。
-
-- 監控您環境中的共同管理活動。
+    -   視需要由 Intune 切換工作負載以管理。
 
 ### <a name="enable-phase--azure-information-protection"></a>啟用階段 – Azure 資訊保護
 
@@ -311,3 +305,4 @@ ms.locfileid: "42347405"
 ## <a name="next-steps"></a>後續步驟
 
 [EMS 適用的 FastTrack 權益 - 您的責任](EMS-your-responsibilities.md)
+

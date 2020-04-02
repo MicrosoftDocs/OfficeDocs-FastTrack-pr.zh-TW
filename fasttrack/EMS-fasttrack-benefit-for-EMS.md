@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 9788df4d240397f1373849d3e4a740a5b58d4cae
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: f7e4d5e2fdca888a43531956f8fef9f8ed2b347d
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052294"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43097757"
 ---
 # <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a>適用於 Enterprise Mobility + Security (EMS) 的 FastTrack 中心權益
 
@@ -39,3 +39,4 @@ ms.locfileid: "43052294"
 
 [適用的服務與方案](M365-eligible-services-and-plans.md)
 
+''''

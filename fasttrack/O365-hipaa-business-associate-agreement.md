@@ -3,18 +3,18 @@ title: 附錄 C：FastTrack Center HIPAA 業務關聯協議
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: 如果您有 HIPAA 商務關聯協議 (BAA) 與 Microsoft FastTrack 服務時，列示於 FastTrack Center Benefit for Office 365 的所有服務均包含於該 BAA，除了︰
-ms.openlocfilehash: ed6d259afa689b7dacd3269d271155593cbb2410
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: b6d0d438a5a0e0be3a12c6287e7442b9cb557e42
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052774"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098051"
 ---
 # <a name="appendix-c---fasttrack-center-hipaa-business-associate-agreement"></a>附錄 C：FastTrack Center HIPAA 業務關聯協議
 

@@ -3,19 +3,19 @@ title: 資料移轉
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 專家提供將資料移轉至 Office 365 的步驟指引。這適用於 Exchange Online、商務用 OneDrive 和 SharePoint Online 的 Office 365 服務所有符合資格的客戶。
-ms.openlocfilehash: c0dae3b6f052e13693ed226b312cbdf0b0866d7b
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: d7fdf8a6f751e2443449c8ef29e33df2978695a5
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052570"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098135"
 ---
 # <a name="data-migration"></a>資料移轉
 
@@ -50,12 +50,11 @@ FastTrack 專家提供將資料移轉到 Office 365 的步驟指引。我們將�
 |**商務用 OneDrive 移轉**  <br/> | 檔案共用 (支援 SMB 2.0+ 之裝置的 SMB 檔案共用)。  <br/>  單一 G Suite 環境 (僅限 Google 雲端硬碟)。  <br/>  Box (Starter、Business、Enterprise)。 <br/> <br/> **附註** *FastTrack 只會移轉至作用中的 Office 365 磁碟機。 *|
    
 ## <a name="migration-to-exchange-online"></a>遷移至 Exchange Online
-
+''
 ### <a name="enable-to-migrate"></a>啟用即可移轉
   
-如果您使用 Microsoft 來移轉您的電子郵件，我們將提供相關指引讓 Exchange Online 與來源環境均可進行移轉。根據來源環境而定，我們可能會執行各種啟用步驟。 我們將使用工具和文件的組合，並在適用且可行的情況下執行設定工作，為您提供指引。遵循適用的參數，我們接著移轉信箱、監控作業，並提供狀態報告。
-  
-Microsoft 可能需要您郵件系統的適當存取權和權限，才能執行移轉活動。
+如果您使用 Microsoft 來移轉您的電子郵件，我們將提供相關指引讓 Exchange Online 與來源環境均可進行移轉。 根據來源環境而定，我們可能會執行各種啟用步驟。 我們將使用工具和文件的組合，並在適用且可行的情況下執行設定工作，為您提供指引。 遵循適用的參數，我們接著移轉信箱、監控作業，並提供狀態報告。
+'' Microsoft 可能需要您郵件系統的適當存取權和權限，才能執行移轉活動。
   
 ### <a name="migration-policy-and-steps"></a>移轉原則和步驟
   
@@ -225,7 +224,7 @@ FastTrack 專家會在移轉期間執行下列工作：
 - 規劃及實作變更管理與使用者通訊 (若適用)。   
 - 管理和設定來源系統和裝置 (成功完成評估及移轉活動所需) 的任何變更。
 - 至少提前三 (3) 天提供已定義方法的排程和要在每個移轉事件移轉的特定使用者資料清單。
-- 從排程中刪除使用者資料，直到移轉批次處理前 24 小時。這應該與最終的移轉批次相對應。
+- 進行移轉批次前，從排程卸除 24 小時前的使用者資料。 這應該會對應到最後的移轉批次。
 > [!NOTE]
 > Microsoft 不保證檔案移轉的速度。
     

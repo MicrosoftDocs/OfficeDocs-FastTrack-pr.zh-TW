@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 6bf4be4247f65ced12052e75692f9fda47cab0ac
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: b87d85269cde92e90dd127bfa717d16ed9036484
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052258"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43097715"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 責任
 
@@ -265,21 +265,21 @@ ms.locfileid: "43052258"
 
 -   設定雲端管理閘道。
 
--   將使用者新增到您的 Intune 訂閱、定義 IT 系統管理員角色，以及建立使用者和裝置群組。
+-   將使用者新增到您的 Intune 訂用帳戶、定義 IT 系統管理員角色，以及建立使用者和裝置群組。
 
--   準備 Intune 服務以進行裝置管理:
+-   準備 Intune 服務以進行裝置管理。
 
-    -   將行動裝置管理 (MDM) 授權單位設定為 Intune。
+-   將行動裝置管理 (MDM) 授權單位設定為 Intune。
 
-    -   設定用於驗證 MDM 管理原則的測試群組。
+-   設定用於驗證 MDM 管理原則的測試群組。
 
-    -   瀏覽 Intune 系統管理入口網站，以找出使用者和裝置的相關資訊。
+-   瀏覽 Intune 系統管理入口網站，以找出使用者和裝置的相關資訊。
 
-    -   設定 Intune 角色 (技術服務人員、系統管理員等等)
+-   設定 Intune 角色 (技術服務人員、系統管理員等等)
 
-    -   將 Windows 10 裝置註冊到 Intune。
+-   將 Windows 10 裝置註冊到 Intune。
 
-    -   視需要由 Intune 切換工作負載以管理。
+-   視需要由 Intune 切換工作負載以管理。
 
 ### <a name="enable-phase--azure-information-protection"></a>啟用階段 – Azure 資訊保護
 

@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 上架 for Office 365 US 政府具有四個主要階段： Initiate、評估、修正及啟用。 您可以在這些階段後面選擇接著資料移轉階段，如下圖所示。
-ms.openlocfilehash: 2fe39da0e41e6d42cecef8d4ecb410a1676419e1
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 88c74a4839df42dbc57da65f7f2c4776bd5d90cb
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098239"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665913"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 美國政府的上架和遷移階段
 
@@ -175,15 +175,15 @@ FastTrack 專家會提供將資料移轉到 Office 365 的指引，方法是使�
 > [!NOTE]
 > Yammer Enterprise 不是 Office 365 美國政府的元件，但可免費提供給在 GCC 中為 Office 365 授權的每位使用者提供的獨立功能。 這項優惠目前僅限於以企業合約和企業訂閱協定購買 Office 365 GCC 的客戶。 在 GCC 高或 DoD 方案中無法使用 Yammer。 
   
-## <a name="office-365-proplus"></a>Office 365 專業增強版
+## <a name="microsoft-365-apps"></a>Microsoft 365 應用程式
 
-對於 Office 365 專業增強版，我們提供下列項目的指引： 
+針對 Microsoft 365 應用程式，我們提供下列專案的指引。。 
 - 解決部署問題。    
 - 使用 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 指派使用者授權。    
-- 使用隨選即用從 Office 365 入口網站安裝 Office 365 專業增強版。    
-- 在您的 iOS、Android 或 Windows Mobile 裝置上安裝 Office Mobile 應用程式 (如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile)。   
+- 使用 Click-to-Run 從 Office 365 入口網站安裝 Microsoft 365 應用程式。    
+- 在 iOS 或 Android 裝置上安裝 Office Mobile 應用程式（如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。   
 - 使用 Office 365 部署工具來設定更新設定。    
-- 設定 Office 365 專業增強版的單一內部網站發佈伺服器，包含建立搭配 Office 365 部署工具使用之 configuration.xml 檔案的相關協助。    
+- 設定 Microsoft 365 應用程式的單一內部網站發佈伺服器，包含建立與 Office 365 部署工具搭配使用的 config.xml 檔案的協助。    
 - 使用 Microsoft Endpoint Configuration Manager 部署，包含協助建立 Microsoft Endpoint Configuration Manager 套件。
     
-![Office 專業增強版上架步驟](media/O365-Onboarding-Enable-OProPlus.png)
+![Office 專業增強版上架步驟](media/o365-onboarding-enable-m365-apps-2.png)

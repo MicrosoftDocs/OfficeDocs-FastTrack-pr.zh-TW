@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 程序提供上架和使用者採用服務。
-ms.openlocfilehash: 98e4f944e54de52ebbdf1755c5ab185a80395b33
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 641637705a5a578b18f3ba06130d9477975b92f8
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097703"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666135"
 ---
 # <a name="the-fasttrack-process"></a>FastTrack 處理程序
 
@@ -35,7 +35,7 @@ FastTrack 程序提供上架和使用者採用服務。
 
 下圖說明上架程序。
   
-![使用上架權益的時間表](media/O365-Onboarding-Timeline.png)
+![使用上架權益的時間表](media/o365-onboarding-timeline-m365-apps.png)
   
 您可以透過 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)或 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助。 
 

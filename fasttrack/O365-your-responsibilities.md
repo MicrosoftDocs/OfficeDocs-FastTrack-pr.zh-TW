@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 在上架期間您需擔負下列責任。
-ms.openlocfilehash: e52a02c356fe9d516e041819717d38a0e2bee3ba
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 2529ba36c5656cceeea43f3360adba94e5d96ec3
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097583"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666061"
 ---
 # <a name="your-responsibilities"></a>您的責任
 
@@ -59,7 +59,7 @@ ms.locfileid: "43097583"
 - 為加入合作關係設定共同作業 Microsoft Teams 空間，並邀請 FastTrack Center 小組成員。   
 - 與 FastTrack 專家合作開始將合格服務上架。    
 - 參與專案啟動會議、管理並領導組織的參與者，並確認修復時間表。   
-- 針對 Office 365 服務 (例如：SharePoint Online、Exchange Online、Microsoft Teams 和 Office 365 專業增強版) 提供您的目標，以及組織目標。
+- 針對 Office 365 服務 (例如：SharePoint Online、Exchange Online、Microsoft Teams 和 Microsoft 365 Apps) 提供您的目標，以及組織目標。
     
 ## <a name="assess-phase"></a>評估階段
 

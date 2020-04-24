@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 在 Windows 10 上架期間您需擔負下列責任。
-ms.openlocfilehash: 57db4d80d9f5f0fb227598932915fdceefddbf66
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 75e9746d8e3ac9f4389cc26d2a89d6d3c8aa3294
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097787"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666085"
 ---
 # <a name="your-responsibilities"></a>您的責任
 
@@ -55,6 +55,6 @@ ms.locfileid: "43097787"
 
 - 如果在針對您的環境或雲端服務訂閱 (如果您選擇) 執行評估工具時需要指引，請與 FastTrack 團隊共用您的螢幕。
 - 依據 FastTrack 團隊提供的指引設定網路相關項目。
-- 使用 Windows 10 部署 Office 365 專業增強版時，依據 FastTrack 團隊提供的指引執行目錄整備及設定目錄同步處理。
+- 使用 Windows 10 部署 Microsoft 365 Apps 時，依據 FastTrack 團隊提供的指引執行目錄整備及設定目錄同步處理。
 - 設定驗證方法，例如受管理或同盟。
 

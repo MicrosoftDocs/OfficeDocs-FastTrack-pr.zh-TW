@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 當您為 Office 365 租用戶購買至少 150 份合格服務或方案時，可使用「適用於 Office 365 的 FastTrack 中心權益」。您接著可與 FastTrack 專家合作來評估、修復、啟用、移轉及促進使用這些服務。這些專家也提供移轉指引。
-ms.openlocfilehash: 830aca2f274cb00d7c365866b31dced314e5429d
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 5bf7e1d6376adc1c2224e4a0f9919b0b051bf3f1
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098215"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665797"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>適用於 Office 365 的 FastTrack 中心權益
 
@@ -35,9 +35,9 @@ ms.locfileid: "43098215"
 若要依服務了解 FastTrack 提供的權益，請參閱：
 
 - [Exchange Online](O365-fasttrack-responsibilities.md#exchange-online)
+- [Microsoft 365 Apps](O365-fasttrack-responsibilities.md#microsoft-365-apps)
 - [Microsoft Teams](O365-fasttrack-responsibilities.md#microsoft-teams)
 - [Office 365 進階威脅防護](O365-fasttrack-responsibilities.md#office-365-advanced-threat-protection)
-- [Office 365 專業增強版](O365-fasttrack-responsibilities.md#office-365-proplus)
 - [商務用 OneDrive](O365-fasttrack-responsibilities.md#onedrive-for-business)
 - [iOS 版 Outlook 和 Android 版 Outlook](O365-fasttrack-responsibilities.md#outlook-for-ios-and-android)
 - [Power BI](O365-fasttrack-responsibilities.md#power-bi)
@@ -49,7 +49,7 @@ ms.locfileid: "43098215"
   
 想要尋找[適用於 Enterprise Mobility Suite 的 FastTrack Center 權益](EMS-fasttrack-benefit-for-EMS.md)嗎？其包含這些相關資訊：
   
-- Microsoft Intune    
+- Microsoft Intune
 - Azure Active Directory Premium 
 - Azure 資訊保護
     

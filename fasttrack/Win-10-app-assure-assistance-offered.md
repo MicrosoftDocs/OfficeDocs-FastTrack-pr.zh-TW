@@ -9,13 +9,13 @@ ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: 當您購買任何 Windows 10 或 Microsoft 365 服務時，FastTrack 專家會提供部署至 Windows 10 和 Office 365 專業增強版的建議和修復指引，並且讓您保持在最新狀態而不需額外成本 (具有合格訂用帳戶)。
-ms.openlocfilehash: 0f5b8abfc30c63b1990e69004ba7bca7ee33aaec
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+description: 當您購買任何 Windows 10 或 Microsoft 365 服務時，FastTrack 專家會提供部署至 Windows 10 和 Microsoft 365 Apps 的建議和修復指引，並且讓您保持在最新狀態而不需額外成本 (具有合格訂用帳戶)。
+ms.openlocfilehash: e7bc00346742f4a69865d6d111eea4187a861c40
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098383"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666049"
 ---
 # <a name="assistance-offered"></a>提供的協助  
 
@@ -32,9 +32,9 @@ ms.locfileid: "43098383"
 
 FastTrack 提供下列 Microsoft 產品上部署之應用程式的修復協助：
 
-### <a name="windows-10-and-office-365-proplus"></a>Windows 10 和 Office 365 專業增強版
+### <a name="windows-10-and-microsoft-365-apps"></a>Windows 10 和 Microsoft 365 Apps
 
-- 可在 Windows 7、Windows 8.1、Office 2010 和 Office 2013 中執行的應用程式也適用於 Windows 10 和 Office 365 專業增強版。
+- 可在 Windows 7、Windows 8.1、Office 2010 和 Office 2013 中執行的應用程式也適用於 Windows 10 和 Microsoft 365 Apps。
 
 ### <a name="the-new-microsoft-edge"></a>新版 Microsoft Edge
 
@@ -61,13 +61,13 @@ FastTrack 提供下列 Microsoft 產品上部署之應用程式的修復協助�
 ## <a name="out-of-scope"></a>超出範圍
 
 FastTrack 服務不包含：
-- 應用程式清查和測試，以判斷可否在 Windows 10 和 Office 365 專業增強版上運作。 如需有關此程序的詳細指示，請瀏覽[電腦部署中心](https://go.microsoft.com/fwlink/?linkid=2080140)。 如果您對於深入的升級整備評估有興趣，請填寫[客戶要求現代化電腦評估](https://go.microsoft.com/fwlink/?linkid=2053818)表單。
+- 應用程式清查和測試，以判斷可否在 Windows 10 和 Microsoft 365 Apps 上運作。 如需有關此程序的詳細指示，請瀏覽[電腦部署中心](https://go.microsoft.com/fwlink/?linkid=2080140)。 如果您對於深入的升級整備評估有興趣，請填寫[客戶要求現代化電腦評估](https://go.microsoft.com/fwlink/?linkid=2053818)表單。
 - 針對 Windows 10 相容性和支援狀態，研究第三方 ISV 應用程式。 如需詳細資訊，請參閱[電腦分析](https://docs.microsoft.com/sccm/desktop-analytics/overview)。
 - 僅限應用程式封裝的服務。 不過，應用程式保證小組會將我們針對 Windows 10 修復的應用程式封裝起來，以確保這些應用程式可以在客戶的環境中部署。
 
 客戶責任包括：
 - 建立應用程式清查。
-- 在 Windows 10 和 Office 365 專業增強版上驗證這些應用程式。
+- 在 Windows 10 和 Microsoft 365 Apps 上驗證這些應用程式。
 
 > [!NOTE]
 > Microsoft 無法對您的原始程式碼進行變更。 不過，應用程式保證小組可以在原始程式碼適用於您的應用程式時，為應用程式開發人員提供指導方針。

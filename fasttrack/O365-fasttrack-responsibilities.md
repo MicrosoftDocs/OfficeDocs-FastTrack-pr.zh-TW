@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 在上架期間 FastTrack 專家需擔負下列責任。
-ms.openlocfilehash: 7e004a3cefd54c997e7a5ad8ad831fecc22e0945
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 6968d49dadaba3b95665cc03408a222000e59c4a
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098275"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666169"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 責任
 
@@ -107,6 +107,18 @@ ms.locfileid: "43098275"
     
 如需資料移轉責任的詳細資訊，請參閱[資料移轉](O365-data-migration.md)。
   
+## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
+
+提供以下的相關指引：
+- 解決部署問題。
+- 使用 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 指派以使用者和以裝置為基礎的授權。
+- 使用隨選即用從 Office 365 入口網站安裝 Microsoft 365 Apps。
+- 在 iOS 或 Android 上安裝 Office Mobile 應用程式 (如 Outlook for iOS 和 Android、Word Mobile、Excel Mobile 和 PowerPoint Mobile)。 
+- 使用 Office 365 部署工具來設定更新設定。
+- 選取並設定本地或雲端安裝。
+- 使用 Office 自訂工具或原生 XML 建立 Office 部署工具，以設定部署套件。
+- 使用 Microsoft Endpoint Configuration Manager 部署，包含協助建立 Microsoft Endpoint Configuration Manager 套件。
+
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 提供以下的相關指引：
@@ -141,18 +153,6 @@ ms.locfileid: "43098275"
 - 設定自動化、調查和回應。
 - 使用攻擊模擬器。
 - 報告和威脅分析。
-
-## <a name="office-365-proplus"></a>Office 365 專業增強版
-
-提供以下的相關指引：
-- 解決部署問題。
-- 使用 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 指派以使用者和以裝置為基礎的授權。
-- 使用隨選即用從 Office 365 入口網站安裝 Office 365 專業增強版。
-- 在您的 iOS、Android 或 Windows Mobile 裝置上安裝 Office Mobile 應用程式 (如 Outlook for iOS 和 Android、Word Mobile、Excel Mobile 和 PowerPoint Mobile)。 
-- 使用 Office 365 部署工具來設定更新設定。
-- 選取並設定本地或雲端安裝。
-- 使用 Office 自訂工具或原生 XML 建立 Office 部署工具，以設定部署套件。
-- 使用 Microsoft Endpoint Configuration Manager 部署，包含協助建立 Microsoft Endpoint Configuration Manager 套件。
     
 ## <a name="onedrive-for-business"></a>商務用 OneDrive
 

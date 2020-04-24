@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack Center 權益可提供指引，以利您設定與來源環境的整合層級 (例如，如果您有服務在來源環境中，且想要移至 Office 365 時)。
-ms.openlocfilehash: f439f5abda91c207f9b58a4d0fe8fbf2b69bda07
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 734cd91ad3ff67c2a2a0be316a8d78aec2224b81
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098335"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666097"
 ---
 # <a name="source-environment-expectations"></a>來源環境預期
 
@@ -34,7 +34,7 @@ FastTrack Center 權益可提供指引，以利您設定與來源環境的整合
 |**Microsoft Teams 上架**  | 已在適用於 Office 365 的 Azure Active Directory 中啟用識別。  <br/>  已啟用 SharePoint Online 的使用者。  <br/>  已存在 Exchange 信箱 (位在 Exchange 混合式組態中，線上和/或內部部署形式)。  <br/>  啟用 Office 365 群組。  <br/><br/> **附註**  若未以 SharePoint Online 授權指派並啟用使用者，他們在 Office 365 中就不會有商務用 OneDrive 儲存空間。在通道中仍可繼續使用檔案共用，但若沒有 Office 365 中的商務用 OneDrive 儲存空間，使用者便無法在 [聊天] 中分享檔案。Microsoft Teams 不支援 SharePoint 的內部部署。**   <br/> <br/>       **附註**  理想的狀態是所有使用者的信箱，都位於 Exchange Online 上。其信箱位在內部部署上的使用者，必須透過 Azure Active Directory Connect，將其身分識別與 Office 365 目錄同步。對於這些 Exchange 混合客戶，如果使用者的信箱位在內部部署上，則使用者無法新增或設定連接器。**  <br> <br>**網路評估**  <br/>  連接埠和端點檢查。  <br/>  連線品質檢查。  <br/>  頻寬估計。  <br/><br/>    **會議室裝置**  <br/>  建立 [Teams 裝置目錄](https://go.microsoft.com/fwlink/?linkid=2066478)中列出的受支援電話和會議室裝置所需的線上帳戶。  <br/><br/>  **啟用直接路由**  <br/> 組織設定指南，適用於合作夥伴託管案例的直接路由設計或單一網站的客戶部署案例。 <br/><br/> **啟用音訊會議**  <br/>  會議橋接預設設定的組織設定。  <br/>  將會議橋接指派給授權使用者。  <br/><br/>  **啟用電話系統和通話方案指南 ([適用市場](https://go.microsoft.com/fwlink/?linkid=2066478))**。  <br/>  雲端語音預設設定的組織設定。  <br/>  授權使用者號碼的指派。  <br/>  透過使用者介面 (UI) 的本機號碼移轉指引最多至 999。  <br/>  本機號碼移轉服務要求 (SR) 支援超過 999。  <br/><br/> **啟用 Teams 即時活動** <br> 組織設定與 Microsoft Stream 整合。 
 |**商務用 Skype Online 上架**  | **網路評估**  <br/>  連接埠和端點檢查。  <br/>  連線品質檢查。  <br/>  頻寬估計。  <br/><br/>  **Lync 混合式**  <br/>  單一內部部署 Active Directory 樹系。  <br/>  Lync 2010 Server 環境與 Lync 2013 系統管理工具或 商務用 Skype 2015 系統管理工具和 Lync 2010 Edge server role。  <br/>  Lync 2013 Server 環境和 Lync 2013 Edge 伺服器角色。  <br/><br/>  **商務用 Skype Online 混合式**  <br/>  單一內部部署 Active Directory 樹系。  <br/>  單一 Active Directory 帳戶樹系 + 和資源樹系 (Exchange 及/或商務用 Skype) 拓撲。  <br/>  多個 Active Directory 帳戶樹系，其中一個樹系是具有 Exchange 和/或商務用 Skype 的集中式 Active Directory 帳戶樹系。  <br/>  商務用 Skype Server 2015 環境包括商務用 Skype Edge server role。  <br/><br/> **附註**  此額外的服務適用於設定及驗證分割網域 (混合) 工作，不包含引進內部部署元件 (例如，Lync 2013 系統管理工具或 Lync 2013/商務用 Skype Online 伺服器，或 Lync 2010、Lync 2013 或 商務用 Skype Edge Server)。**    <br/><br/>        **會議室裝置**  <br/>  建立在[商務用 Skype 解決方案目錄](https://go.microsoft.com/fwlink/?LinkId=615775)中 [會議室系統] 索引標籤上所列的已支援會議室裝置所需的線上帳戶。  <br/><br/>  **啟用音訊會議**  <br/>  會議橋接預設設定的組織設定。  <br/>  對授權使用者會議橋接的指派。  <br/><br/>  **啟用電話系統和通話方案指引 (僅限美國)**  <br/>  雲端語音預設設定的組織設定。  <br/>  授權使用者號碼的指派。  <br/>  透過使用者介面 (UI) 的本機號碼移轉指引最多至 999。  <br/>  本機號碼移轉服務要求 (SR) 支援超過 999。  <br/><br/>  **啟用商務用 Skype 會議廣播指引上架**  <br/>  針對會議廣播服務同盟的組織設定。   |
 |**Outlook for iOS 和 Android**  | 已在適用於 Office 365 的 Azure Active Directory 中啟用識別。  <br/>已設定 Exchange Online 並指派授權。 |
-| **服務上架**，包含：  <br/>  *Exchange Online  <br/>  SharePoint Online  <br/>  商務用 OneDrive  <br/> Microsoft Teams  <br/> 商務用 Skype Online  <br/>    Power BI  <br/>  Project Online  <br/>  Yammer  <br/>  Office 365 專業增強版  <br/>  iOS 和 Android 版 Outlook *   |線上用戶端軟體 (如 Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、商務用 OneDrive 同步用戶端、Power BI Desktop 和 商務用 Skype) 必須採用 [Office 的系統需求](https://go.microsoft.com/fwlink/?LinkID=723597)中所定義的最低層級。  <br/> Microsoft Teams Windows 安裝程式和 Mac 桌面用戶端可以從這裡下載：[https://go.microsoft.com/fwlink/?linkid=839411](https://go.microsoft.com/fwlink/?linkid=839411)。   |
+| **服務上架**，包含：  <br/>  *Exchange Online  <br/>  SharePoint Online  <br/>  商務用 OneDrive  <br/> Microsoft Teams  <br/> 商務用 Skype Online  <br/>    Power BI  <br/>  Project Online  <br/>  Yammer  <br/>  Microsoft 365 Apps  <br/>  iOS 和 Android 版 Outlook *   |線上用戶端軟體 (如 Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、商務用 OneDrive 同步用戶端、Power BI Desktop 和 商務用 Skype) 必須採用 [Office 的系統需求](https://go.microsoft.com/fwlink/?LinkID=723597)中所定義的最低層級。  <br/> Microsoft Teams Windows 安裝程式和 Mac 桌面用戶端可以從這裡下載：[https://go.microsoft.com/fwlink/?linkid=839411](https://go.microsoft.com/fwlink/?linkid=839411)。   |
    
 \*如需有關 Office 365 US Government 來源環境預期的資訊，請參閱 [Office 365 US Government 的來源環境預期](US-Gov-appendix-source-environment-expectations.md)。
   

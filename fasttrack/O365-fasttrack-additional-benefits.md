@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Exchange Online 租用戶購買至少 20,000 個授權的客戶符合 FastTrack Center 附加服務的資格。如需詳細資料，請參閱合格服務與計劃。
-ms.openlocfilehash: 1317992820ba385e70ccb5908c0eab3a2dd7c140
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 62d0f5cf99624fbfb69a3bcb950f4718e0372512
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098179"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666109"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>附錄 B：FastTrack Center 其他權益
 
@@ -38,9 +38,9 @@ Exchange Online 租用戶購買至少 20,000 個授權的客戶符合 FastTrack 
 
 針對 商務用 Skype Online，我們提供內部部署 Lync 與 商務用 Skype 使用者遷移至 商務用 Skype Online 的指南。
   
-## <a name="office-365-proplus"></a>Office 365 專業增強版
+## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
-針對 Office 365 專業增強版，我們提供下列指引︰ 
+針對 Microsoft 365 Apps，我們提供下列指引︰ 
 - 評估與規劃著重於預備您的環境，用於符合 Microsoft 最佳做法的初始部署及管理更新。 
 - 使用 Office 365 部署工具和 Office 自訂工具，開發部署組態和更新設定。 
 - Microsoft Endpoint Configuration Manager 的套件部署。  
@@ -127,7 +127,7 @@ Exchange Online 租用戶購買至少 20,000 個授權的客戶符合 FastTrack 
 
 - 提供在 商務用 Skype 混合部署 (保留使用者的連絡人清單) 中批次移轉使用者的指引。
     
-## <a name="office-365-proplus"></a>Office 365 專業增強版
+## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
 - 提供指導與協助︰  
   - 評估與規劃符合 Microsoft 最佳做法的初始部署及管理更新。

@@ -9,17 +9,17 @@ ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: 適用於 Windows 10 的 FastTrack 中心權益提供對於應用程式保證的存取，應用程式保證為一項服務，其設計目的是要解決 Windows 10 和 Office 365 專業增強版應用程式相容性的問題。
-ms.openlocfilehash: 28dc90e87ce937882c59450e58f29a77280bbd1c
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+description: 適用於 Windows 10 的 FastTrack 中心權益提供對於應用程式保證的存取，應用程式保證為一項服務，其設計目的是要解決 Windows 10 和 Microsoft 365 Apps 應用程式相容性的問題。
+ms.openlocfilehash: 7f6b27bf00cab900c216f69f0d35f26ef81b558f
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098087"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665845"
 ---
 # <a name="app-assure"></a>應用程式保證
 
-適用於 Windows 10 的 FastTrack 中心權益提供對於應用程式保證的存取，應用程式保證為一項服務，其設計目的是要解決 Windows 10 和 Office 365 專業增強版應用程式相容性的問題。 要求應用程式保證服務時，若具備符合資格的訂閱，Microsoft 工程人員會與您合作來解決有效的應用程式問題，而不需額外的費用。 我們也會為在部署 Windows 虛擬桌面和新的 Microsoft Edge 時面臨相容性問題的客戶提供指導方針。 
+適用於 Windows 10 的 FastTrack 中心權益提供對於應用程式保證的存取，應用程式保證為一項服務，其設計目的是要解決 Windows 10 和 Microsoft 365 Apps 應用程式相容性的問題。 要求應用程式保證服務時，若具備符合資格的訂閱，Microsoft 工程人員會與您合作來解決有效的應用程式問題，而不需額外的費用。 我們也會為在部署 Windows 虛擬桌面和新的 Microsoft Edge 時面臨相容性問題的客戶提供指導方針。 
 
 若要取得協助，請填寫[應用程式保證服務要求](https://go.microsoft.com/fwlink/?linkid=2022721)。
 

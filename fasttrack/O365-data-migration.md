@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 專家提供將資料移轉至 Office 365 的步驟指引。這適用於 Exchange Online、商務用 OneDrive 和 SharePoint Online 的 Office 365 服務所有符合資格的客戶。
-ms.openlocfilehash: d7fdf8a6f751e2443449c8ef29e33df2978695a5
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 00fca4f9baabd1c68fbeb7024bec10791d050f67
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098135"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665881"
 ---
 # <a name="data-migration"></a>資料移轉
 
@@ -88,7 +88,7 @@ FastTrack 專家提供將資料移轉到 Office 365 的步驟指引。我們將�
 |**Exchange 2003+**|系統轉換| 電子郵件 <br/> 信箱規則 <br/> 委派 <br/> 信箱連絡人 <br/> 行事曆 <br/> 工作 <br/> 受版權管理的電子郵件 <br/> 加密的電子郵件| 公用資料夾 <br/> 個人連絡人 <br/> 擁有郵件功能的使用者 <br/> 遭封鎖或非作用中的使用者 <br/> 簽章 <br/> 信箱暫放 <br/>  任何超過郵件大小限制的電子郵件 <br/> 封存資料 <br/> 損毀的項目 <br/>  非使用中的信箱 |
 |**Exchange 2003 和 Exchange 2007**|接移| 電子郵件 <br/> 信箱規則 <br/> 委派 <br/> 信箱連絡人 <br/> 行事曆 <br/> 工作 <br/> 受版權管理的電子郵件 <br/> 加密的電子郵件| 公用資料夾 <br/> 個人連絡人 <br/> 擁有郵件功能的使用者 <br/> 遭封鎖或非作用中的使用者 <br/> 簽章 <br/> 信箱暫放 <br/> 任何超過郵件大小限制的電子郵件 <br/> 封存資料 <br/> 損毀的項目 <br/> 非使用中的信箱 |
 |**Exchange 2010、Exchange 2013 及 Exchange 2016** <br/><br/> **附註** *如需內部部署 Exchange 相依性的詳細資訊，請參閱＜[混合部署必要條件](https://go.microsoft.com/fwlink/?LinkId=787528)＞。*           |混合部署移轉| 電子郵件 <br/> 信箱規則 <br/> 委派 <br/> 信箱連絡人 <br/> 行事曆 <br/> Tasks <br/> 簽章 <br/> 隨著使用者信箱移轉的個人封存 <br/> 可復原的項目 <br/> 受版權管理的電子郵件 <br/> 加密的電子郵件| 公用資料夾 <br/> 任何超過郵件大小限制的電子郵件 <br/> 日誌封存或任何協力廠商封存解決方案 <br/> 遭封鎖或非作用中的使用者 <br/> 從個人存放區資料表 (PST) 檔案封存的資料 <br/> 損毀的項目 <br/> 非使用中的信箱 |
-|**G Suite 環境 (僅限 Gmail、連絡人和行事曆)** <br/> <br/> **附註** *您的 G Suite 環境必須啟用 Google API 和 Google Admin SDK 才能擴充功能。* <br/>          |轉換或分段| 電子郵件 <br/> 信箱連絡人 <br/> 行事曆 <br/> 標籤 | 規則 <br/> 委派 <br/> 簽章 <br/> Tasks <br/> 大於 35 MB 的任何電子郵件或附件 <br/> 遭封鎖或非作用中的使用者 <br/> 從 PST 檔案或任何協力廠商封存解決方案 (例如 Google Vault) 封存的資料 <br/> 權限管理或加密的電子郵件 <br/> 損毀的項目 <br/> Google Hangouts <br/> Google Groups <br/> 資源信箱 <br/> 非使用中的信箱 <br/> 假期設定和自動回覆設定 <br/> 共用行事曆、雲端附件、Google Hangout 連結和活動色彩 <br/> 連絡人：每個連絡人最多會移轉三個電子郵件地址|
+|**G Suite 環境 (僅限 Gmail、連絡人和行事曆)** <br/> <br/> **附註** *您的 G Suite 環境必須啟用 Google API 和 Google Admin SDK 才能擴充功能。* <br/>          |轉換或分段| 電子郵件 <br/> 信箱連絡人\*  <br/> 行事曆 <br/> 標籤 <br/> \*每個連絡人最多會移轉三個電子郵件地址| 規則 <br/> 委派 <br/> 簽章 <br/> 工作 <br/> 任何超過郵件大小限制的電子郵件或附件 <br/> 遭封鎖或非作用中的使用者 <br/> 從 PST 檔案或任何協力廠商封存解決方案 (例如 Google Vault) 封存的資料 <br/> 權限管理或加密的電子郵件 <br/> 損毀的項目 <br/> Google Hangouts\*\* <br/> Google Groups <br/> 資源信箱 <br/> 非使用中的信箱 <br/> 假期設定和自動回覆設定 <br/> 共用行事曆、雲端附件、Google Hangout 連結和活動色彩 <br/>\*\*會移轉儲存為標籤的 Hangout 交談 |
 |**IBM Domino 7.0.3+** ([附錄 A：從 IBM Domino 移轉至 Exchange Online](O365-from-ibm-domino-to-exchange-online.md))|接移| 電子郵件 - 過去 90 天 <br/> 行事曆 - 過去 90 天和未來的項目 <br/> 信箱連絡人 - 全部 <br/> 工作 - 全部 <br/> 會議室和資源 - 假設是使用標準範本實作 <br/> 郵件檔案 (包括共用郵件檔) 必須使用標準郵件範本 | 簽章 <br/> 信箱規則 <br/> 委派 <br/> 加密的項目 <br/> 文件連結 <br/> 使用者信箋 <br/> 任何超過郵件大小限制的電子郵件 <br/> 遭封鎖或非作用中的使用者 <br/> 封存資料 <br/> 損毀的項目 <br/> 行事曆共存 <br/> 非使用中的信箱 |
 |**Novell GroupWise** |使用原生 IMAP4 工具進行的移轉| 電子郵件 | 規則 <br/> Proxy/委派/存取控制清單 (ACL) 轉換 <br/> 簽章 <br/> 搜尋資料夾 <br/> 遭封鎖或非作用中的使用者 <br/> 封存資料 <br/> 權利管理或加密的項目 <br/> 損毀的項目 <br/> 行事曆共存 <br/> 擁有郵件功能的使用者 <br/> 信箱連絡人 <br/> 個人群組 <br/> 行事曆 <br/> 工作 <br/> 任何超過郵件大小限制的電子郵件 |
 |**IMAP4 來源** |使用原生 IMAP4 工具進行的移轉| 電子郵件 | 規則 <br/> 委派 <br/> 通訊群組清單 <br/> 外部連絡人 <br/> 擁有郵件功能的使用者 <br/> 遭封鎖或非作用中的使用者 <br/> 信箱連絡人 <br/> 行事曆 <br/> 簽章 <br/> 工作 <br/> 任何超過郵件大小限制的電子郵件 <br/> 封存資料 <br/> 加密的電子郵件 <br/> 損毀的項目 <br/> 非使用中的信箱 |
@@ -112,7 +112,7 @@ FastTrack 專家會在移轉期間執行下列工作：
 您會在移轉期間執行下列工作：
 - 完成 Exchange Online 上架或使用 FastTrack Center 通過必要的檢查。
 - 處理所有與使用者的通訊。  
-- 依 Office 365 指導方針安裝適當層級的用戶端軟體。如需更多資訊，請參閱＜[商務用 Office 365](https://go.microsoft.com/fwlink/?linkid=2005429)＞。 
+- 依 Office 365 指導方針安裝適當層級的用戶端軟體。 如需詳細資訊，請參閱[現代化工作場所](https://transform.microsoft.com/download?assetname=assets%2FMicrosoft%20365%20%20Security%20Group%20Marketing%20Field%20Advisory%20%20Renaming%20Office%20365%20SMB%20Products%20and%20Office%20365%20ProPlus.msg)。 
 - 驗證來源郵件環境與 Office 365 Exchange Online 之間的 SMTP 郵件路由共存 (若適用)。
 - 以定義的方法針對每個移轉事件提供排程和要移轉的特定信箱清單。
 - 進行移轉批次前，從排程卸除 24 小時前的信箱。 

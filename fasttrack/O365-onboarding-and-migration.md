@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 上架有四個主要階段 - 起始、評估、修復與啟用。您可以在這些階段後面選擇接著資料移轉階段。
-ms.openlocfilehash: d4e6447ced77c6a12cda8b6947633b97ba1fb755
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 0a64f10e0a0fe1be6e26801d1722a06fc0ef5e73
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098287"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666157"
 ---
 # <a name="onboarding-and-migration-phases"></a>上架及移轉階段
 
@@ -201,19 +201,19 @@ FastTrack 專家會提供將資料移轉到 Office 365 的指引，方法是使�
 
 對於 Yammer Enterprise，我們提供啟用 Yammer Enterprise 服務的指引。
   
-## <a name="office-365-proplus"></a>Office 365 專業增強版
+## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
-對於 Office 365 專業增強版，我們提供下列項目的指引：
+針對 Microsoft 365 Apps，我們提供以下指引︰
 - 解決部署問題。   
 - 使用 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 指派以使用者和以裝置為基礎的授權。 
-- 使用隨選即用從 Office 365 入口網站安裝 Office 365 專業增強版。   
-- 在您的 iOS、Android 或 Windows Mobile 裝置上安裝 Office Mobile 應用程式 (如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile)。   
+- 使用隨選即用從 Office 365 入口網站安裝 Microsoft 365 Apps。   
+- 在 iOS 或 Android 裝置上安裝 Office Mobile 應用程式 (如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile)。   
 - 使用 Office 365 部署工具來設定更新設定。   
 - 本地或雲端安裝的選取項目和設定。 
 - 使用 Office 自訂工具或原生 XML 建立 Office 部署工具，以設定部署套件。  
 - 使用 Microsoft Endpoint Configuration Manager 部署，包含協助建立 Microsoft Endpoint Configuration Manager 套件。
     
-![Office 專業增強版上架步驟](media/O365-Onboarding-Enable-OProPlus.png)
+![Office 專業增強版上架步驟](media/o365-onboarding-enable-m365-apps-2.png)
   
 ## <a name="outlook-for-ios-and-android"></a>Outlook for iOS 和 Android
 

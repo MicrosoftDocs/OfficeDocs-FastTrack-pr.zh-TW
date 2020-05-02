@@ -3,19 +3,19 @@ title: FastTrack 責任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 在上架期間 FastTrack 專家需擔負下列責任。
-ms.openlocfilehash: 6968d49dadaba3b95665cc03408a222000e59c4a
-ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
+ms.openlocfilehash: 78abfd26506f457858bc2e56f3ccfd1407c4cbdf
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43666169"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999817"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 責任
 

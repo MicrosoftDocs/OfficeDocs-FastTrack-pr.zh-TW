@@ -3,19 +3,19 @@ title: Office 365 美國政府的 FastTrack 責任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 在上架期間 FastTrack 專家需擔負下列責任。
-ms.openlocfilehash: f0f52400b0400267d00d2033ea2431277f4e2f33
-ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
+ms.openlocfilehash: d223176bbfd856048604a1c1dfd5f12c72dce1bf
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43665857"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999781"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 美國政府的 FastTrack 責任
 
@@ -192,12 +192,12 @@ ms.locfileid: "43665857"
 > [!NOTE]
 > Yammer Enterprise 不是 Office 365 美國政府的元件，但可免費提供給在 GCC 中為 Office 365 授權的每位使用者提供的獨立功能。 這項優惠目前僅限於以企業合約和企業訂閱協定購買 Office 365 GCC 的客戶。 在 GCC 高或 DoD 方案中無法使用 Yammer。
   
-## <a name="microsoft-365-apps"></a>Microsoft 365 應用程式
+## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
 提供以下的相關指引：
 - 解決部署問題。   
 - 使用 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 指派使用者授權。  
-- 使用 Click-to-Run 從 Office 365 入口網站安裝 Microsoft 365 應用程式。   
+- 使用隨選即用從 Office 365 入口網站安裝 Microsoft 365 Apps。   
 - 在您的 iOS、Android 或 Windows Mobile 裝置上安裝 Office Mobile 應用程式 (如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile)。   
 - 使用 Office 2016 部署工具或群組原則範本來設定更新設定。   
 - 設定 Microsoft 365 應用程式的單一內部網站發佈伺服器，包含建立與 Office 365 部署工具搭配使用的 config.xml 檔案的協助。   

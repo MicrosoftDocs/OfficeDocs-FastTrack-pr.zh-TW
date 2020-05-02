@@ -3,19 +3,19 @@ title: 資料移轉
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 專家提供將資料移轉至 Office 365 的步驟指引。這適用於 Exchange Online、商務用 OneDrive 和 SharePoint Online 的 Office 365 服務所有符合資格的客戶。
-ms.openlocfilehash: 00fca4f9baabd1c68fbeb7024bec10791d050f67
-ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
+ms.openlocfilehash: 48a493deab932a6422866e59d64018ef78986cfc
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43665881"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999865"
 ---
 # <a name="data-migration"></a>資料移轉
 
@@ -224,7 +224,7 @@ FastTrack 專家會在移轉期間執行下列工作：
 - 規劃及實作變更管理與使用者通訊 (若適用)。   
 - 管理和設定來源系統和裝置 (成功完成評估及移轉活動所需) 的任何變更。
 - 至少提前三 (3) 天提供已定義方法的排程和要在每個移轉事件移轉的特定使用者資料清單。
-- 進行移轉批次前，從排程卸除 24 小時前的使用者資料。 這應該會對應到最後的移轉批次。
+- 從排程中刪除使用者資料，直到移轉批次處理前 24 小時。這應該與最終的移轉批次相對應。
 > [!NOTE]
 > Microsoft 不保證檔案移轉的速度。
     

@@ -3,19 +3,19 @@ title: 您的 Office 365 美國政府的責任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 在上架期間您需擔負下列責任。
-ms.openlocfilehash: 159f38e85340308bd97eaf31eb20f58fec1d0554
-ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
+ms.openlocfilehash: 27d1309b0cfdd610ab56767765665d9bc887fc8b
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43665809"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999745"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>您的 Office 365 美國政府的責任
 
@@ -61,7 +61,7 @@ ms.locfileid: "43665809"
 - 為上架合作關係設定共同作業的 Microsoft 團隊空間，並邀請 FastTrack Center 小組成員（不適用於 GCC 高或 DoD 計畫）。   
 - 與 FastTrack 專家合作開始將合格服務上架。    
 - 參與專案啟動會議、管理並領導組織的參與者，並確認修復時間表。    
-- 提供您的 Office 365 服務目標（例如，SharePoint Online、Exchange Online、Microsoft 團隊和 Microsoft 365 應用程式）及組織目標。
+- 針對 Office 365 服務 (例如：SharePoint Online、Exchange Online、Microsoft Teams 和 Microsoft 365 Apps) 提供您的目標，以及組織目標。
     
 ## <a name="assess-phase"></a>評估階段
 

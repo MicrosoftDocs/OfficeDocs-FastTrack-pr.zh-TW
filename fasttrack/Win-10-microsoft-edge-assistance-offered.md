@@ -3,19 +3,19 @@ title: 提供的協助
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 當您購買任何 Windows 10 或 Microsoft 365 服務 (如「適用的服務與方案」中所述)，如果您有可搭配 Internet Explorer 或 Google Chrome 使用的 Web 應用程式或網站，FastTrack 專家可提供遠端部署指導方針和相容性協助。
-ms.openlocfilehash: 1a843d087560f728aa44a26a66403900df8fad3b
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 2de928647dff3b08b3e080d8e106552d8b9a8d76
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097727"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999627"
 ---
 # <a name="assistance-offered"></a>提供的協助
 

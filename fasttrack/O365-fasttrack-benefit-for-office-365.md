@@ -3,7 +3,7 @@ title: 適用於 Office 365 的 FastTrack 中心權益
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 當您為 Office 365 租用戶購買至少 150 份合格服務或方案時，可使用「適用於 Office 365 的 FastTrack 中心權益」。您接著可與 FastTrack 專家合作來評估、修復、啟用、移轉及促進使用這些服務。這些專家也提供移轉指引。
-ms.openlocfilehash: 5bf7e1d6376adc1c2224e4a0f9919b0b051bf3f1
-ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
+ms.openlocfilehash: 3cda5d2785f89927678cd4fb95464d76910a4177
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43665797"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999853"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>適用於 Office 365 的 FastTrack 中心權益
 
@@ -52,6 +52,13 @@ ms.locfileid: "43665797"
 - Microsoft Intune
 - Azure Active Directory Premium 
 - Azure 資訊保護
+
+您是否正在尋找[適用於 Windows 10 的 FastTrack 中心權益](Win-10-fasttrack-benefit-for-Windows-10.md)？ 它包含這些相關資訊:
+
+- Windows 10
+- 應用程式保證
+- 新版 Microsoft Edge
+- Windows Defender 進階威脅防護
     
 > [!NOTE]
 > 僅供參考之用。 

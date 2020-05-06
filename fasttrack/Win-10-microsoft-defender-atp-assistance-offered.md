@@ -3,19 +3,19 @@ title: 提供的協助
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 當您購買任何 Windows 10 或 Microsoft 365 服務時，FastTrack 專家會為您提供遠端部署指引以保護端點。 我們的服務會針對每個客戶的環境和需求而量身打造。
-ms.openlocfilehash: 0e4dc5c08c66839d63c2e09958a26da96325b132
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: be9d4ee5f8b35e7ff48793d25a6116978d45d733
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098191"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999685"
 ---
 # <a name="assistance-offered"></a>提供的協助  
 
@@ -29,22 +29,34 @@ ms.locfileid: "43098191"
 
 FastTrack 提供下列各項的遠端指導方針：
 - 說明如何使用上線端點部署 ATP 代理設定檔，以啟用 Microsoft Defender ATP 服務。
-- 提供如何設定 Microsoft Defender ATP 組態設定檔 (包括端點保護和裝置限制) 的指導方針。
-- 提供如何設定安全中心設定，以個人化 Microsoft Defender ATP 處理您個人需求方式的指導方針。
-- 相關教學：
-    - 模擬和教學課程 (例如練習案例、假惡意程式碼和自動化調查)。
-    - 報告和威脅分析。
+- 在以下方面提供部署指導方針、設定協助及教育：
     - 威脅與弱點管理。
-    - 瀏覽 Microsoft Defender 安全中心入口網站。
+    - 縮小攻擊面。
+    - 新一代防護。
+    - 端點偵測及回應。
+    - 自動化調查與補救措施。
+    - 安全分數。
+- 複習模擬和教學課程 (例如練習案例、假惡意程式碼和自動化調查)。
+- 深入探索報告和威脅分析。
+- 整合 Office 365 ATP 和 Microsoft Defender ATP。
+- 提供 Microsoft Defender 資訊安全中心入口網站的逐步指引。
 
 ## <a name="out-of-scope"></a>超出範圍
 
 FastTrack 服務不包含：
 - 客戶修正活動的專案管理。
 - 現場支援。
+- 持續性管理和威脅因應。
 - 下列 Microsoft Defender ATP 代理程式的上線或組態：
    - Windows Server
    - macOS
    - Linux
-- 硬體隔離、應用程式控制、入侵防護和網路防火牆指引。
-- 持續性管理和威脅因應。
+- 設定以下能縮小攻擊面的功能：
+    - 硬體隔離。
+    - 應用程式控制。
+    - 入侵防護。
+    - 網路防火牆。
+- 註冊或設定 Microsoft 威脅專家。
+- 設定或訓練：檢閱 API 或安全性資訊和事件管理 (SIEM) 連線。
+- 註冊或設定 Microsoft 威脅防護 (MTP)。
+- 涵蓋進階搜尋功能的訓練或指導方針。

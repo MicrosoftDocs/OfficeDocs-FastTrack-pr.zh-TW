@@ -1,22 +1,22 @@
 ---
-title: 附錄 D：適用於 Office 365 US Government 的 FastTrack Center 權益概觀
+title: 附錄 C-Office 365 美國政府的 FastTrack 中心權益綜述
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 description: 透過 Office 365 的 FastTrack 中心權益，您可以與 FastTrack 專家遠端合作，讓您的 Office 365 環境做好使用，並規劃組織內的首展和使用方式。
-ms.openlocfilehash: 5d500872832232fd8fd85de227f9cda85f0d1ef4
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: e302819d456ba6ff9582a5e9f5330554bd139979
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999769"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44472150"
 ---
-# <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a>附錄 D：適用於 Office 365 US Government 的 FastTrack Center 權益概觀
+# <a name="appendix-c---fasttrack-center-benefit-overview-for-office-365-us-government"></a>附錄 C-Office 365 美國政府的 FastTrack 中心權益綜述
 
 透過 Office 365 的 FastTrack 中心權益，您可以與 FastTrack 專家遠端合作，讓您的 Office 365 環境做好使用，並規劃組織內的首展和使用方式。 
   
@@ -31,6 +31,5 @@ ms.locfileid: "43999769"
 - [Office 365 美國政府的上架和遷移階段](US-Gov-appendix-onboarding-and-migration.md)
 - [資料移轉](O365-data-migration.md)    
 - [Office 365 美國政府的 FastTrack 責任](US-Gov-appendix-fasttrack-responsibilities.md)   
-- [您的 Office 365 美國政府的責任](US-Gov-appendix-your-responsibilities.md) 
-- [附錄 A：從 IBM Domino 移轉至 Exchange Online](O365-from-ibm-domino-to-exchange-online.md)   
-- [附錄 B：FastTrack 中心其他權益](O365-fasttrack-additional-benefits.md)
+- [您的 Office 365 美國政府的責任](US-Gov-appendix-your-responsibilities.md)    
+- [附錄 A-FastTrack 中心其他權益](O365-fasttrack-additional-benefits.md)

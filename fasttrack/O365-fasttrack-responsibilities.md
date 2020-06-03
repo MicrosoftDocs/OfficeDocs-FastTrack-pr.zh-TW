@@ -3,19 +3,19 @@ title: FastTrack 責任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 在上架期間 FastTrack 專家需擔負下列責任。
-ms.openlocfilehash: 78abfd26506f457858bc2e56f3ccfd1407c4cbdf
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
-ms.translationtype: HT
+ms.openlocfilehash: ad0aea76c45d728dd81707e4d1057e6e2a6c5881
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999817"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44472198"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 責任
 
@@ -118,6 +118,41 @@ ms.locfileid: "43999817"
 - 選取並設定本地或雲端安裝。
 - 使用 Office 自訂工具或原生 XML 建立 Office 部署工具，以設定部署套件。
 - 使用 Microsoft Endpoint Configuration Manager 部署，包含協助建立 Microsoft Endpoint Configuration Manager 套件。
+
+## <a name="microsoft-information-governance"></a>Microsoft 資訊管理 
+
+提供以下的相關指引：
+- 記錄管理。
+  - 套用記錄管理的許可權。
+  - 將檔計畫及保留排程轉換成標籤和原則的指導方針。
+  - 建立保留標籤和原則。
+  - 建立刪除原則。
+  - 審閱要進行處置的專案。
+- 有問必答風險管理。
+  - 啟用 Office 365 審核記錄檔。
+  - 設定內幕人士風險管理中的設定。
+  - 使用內建行動手冊建立有問必答風險原則。
+  - 設定通訊規範的許可權。
+  - 使用可自訂的範本建立通訊相容性原則。
+  - 監視及檢查提醒。
+- 資訊控管。
+  - 套用資訊管理的許可權。
+  - 建立保留標籤。
+  - 發佈保留標籤（手動和自動）。
+  - 建立匯入工作。
+
+## <a name="microsoft-information-protection"></a>Microsoft 資訊保護
+
+提供以下的相關指引：
+- 資料分類。
+- 敏感資訊類型。
+- 建立靈敏度標籤。
+- 套用敏感度標籤。 
+- 統一的標籤。
+- Trainable 分類符。
+- 使用內容瀏覽器和活動瀏覽器知道您的資料。
+- 使用原則發佈標籤（手動和自動）。
+- 建立 Microsoft 小組聊天和頻道的資料遺失防護（DLP）原則。
 
 ## <a name="microsoft-teams"></a>Microsoft Teams
 

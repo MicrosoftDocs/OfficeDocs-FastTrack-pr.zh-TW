@@ -3,19 +3,19 @@ title: 新版 Microsoft Edge
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 適用於 Windows 10 的 FastTrack 權益為具備 150 個或更多個基座的 Windows 10 企業版客戶提供新版 Microsoft Edge 的部署指導方針。
-ms.openlocfilehash: f24fc38dc192ce36a604a2250c3dc2a28bbb7c53
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
-ms.translationtype: HT
+ms.openlocfilehash: c72aab8bbedcacce03de89a47483cf310bf8c808
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999615"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44472024"
 ---
 # <a name="the-new-microsoft-edge"></a>新版 Microsoft Edge
 

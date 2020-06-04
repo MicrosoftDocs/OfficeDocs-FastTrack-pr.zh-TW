@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 8f340e3f3adb96038424663e7af0d641e1f845c7
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: b190e4c3c27717988ee4f5e2e21deff56233a670
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999079"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44471490"
 ---
 # <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a>適用於 Enterprise Mobility + Security (EMS) 的 FastTrack 中心權益程序
 如果您的組織符合 EMS 的 FastTrack 中心權益資格，您可以透過遠端方式與 FastTrack 專家合作來預備使用 Microsoft Azure Active Directory 進階版、Microsoft Intune 和 Azure 資訊保護。 您也可以透過 [FastTrack 網站](https://www.microsoft.com/fasttrack/microsoft-365/ems)取得 Azure 資訊保護和 Microsoft 雲端 App 安全性的使用協助。 若要了解貴組織是否符合資格，請參閱[符合資格的服務與方案](M365-eligible-services-and-plans.md)。

@@ -3,19 +3,19 @@ title: 來源環境預期
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 中心權益可為您提供指引，幫助您設定 Windows 10 部署來源環境的整合程度。
-ms.openlocfilehash: 96ce7e58d2b9b87e5fc014996bd5f2d250051fda
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: 0ec6cb67c82518db60ad270f41a1557de58459f3
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44471982"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011499"
 ---
 # <a name="source-environment-expectations"></a>來源環境預期
 

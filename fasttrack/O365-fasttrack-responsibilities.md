@@ -3,19 +3,19 @@ title: FastTrack 責任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 在上架期間 FastTrack 專家需擔負下列責任。
-ms.openlocfilehash: ad0aea76c45d728dd81707e4d1057e6e2a6c5881
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: f7a519e0f5fd6b5b8d458fd326826e5a16797a67
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472198"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011427"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 責任
 
@@ -82,7 +82,7 @@ ms.locfileid: "44472198"
       - 設定 Azure Active Directory 通過驗證 (如有必要)。\*\*
       - 設定 Azure Active Directory 無縫單一登入 (SSO)，(如有必要)。\*\*\*
     > [!NOTE]
-    > 如果在您的 Active Directory 之間有樹系信任且正確配置了名稱尾碼路由，則會支援多重樹系環境的Azure Active Directory 通過驗證。其他代理程式可安裝在多個內部部署伺服器，以提供高可用性的登入要求。如需詳細資訊，請參閱 [：快速入門](https://go.microsoft.com/fwlink/?linkid=860094)與 [Azure Active Directory 無縫單一登入：快速入門](https://go.microsoft.com/fwlink/?linkid=860095)。 
+    > Azure Active Directory Pass-through Authentication for multiple-forest environments is supported if there are forest trusts between your Active Directory forests and if name suffix routing is correctly configured. Additional agents can be installed on multiple on-premises servers to provide high availability for sign-in requests. For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://go.microsoft.com/fwlink/?linkid=860094) and [Azure Active Directory Seamless Single Sign-On: Quick start](https://go.microsoft.com/fwlink/?linkid=860095). 
 - 對於當同盟身分識別為目標時的單一樹系： 
   - 若需要，在單一站台、容錯組態中，針對向 Office 365 的本機網域驗證安裝和設定 AD FS。
   - 安裝和設定 WAP 以在必要時將您的 AD FS 基礎結構發佈至網路中。
@@ -140,6 +140,15 @@ ms.locfileid: "44472198"
   - 建立保留標籤。
   - 發佈保留標籤（手動和自動）。
   - 建立匯入工作。
+- Advanced eDiscovery。
+  - 非 Office 365 資料。
+  - 設定許可權。
+  - 建立案例。
+  - 新增保管人。 
+  - 法律保留。
+  - 搜索。
+  - 複查集。
+  - 匯出內容。
 
 ## <a name="microsoft-information-protection"></a>Microsoft 資訊保護
 

@@ -3,7 +3,7 @@ title: FastTrack Center 權益概觀
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -11,17 +11,17 @@ f1_keywords:
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: 利用「適用於 Office 365 的 FastTrack Center 權益」，您可以遠端與 FastTrack 專家合作，使 Office 365 環境準備就緒可供使用並計劃組織內的推行和使用。若要深入了解是否合格，請參閱＜適用於 Office 365 的 FastTrack Center 權益＞。
-ms.openlocfilehash: a403178c2e94cd3415fa04bc9c2ecc68514557ec
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+description: With FastTrack Center Benefit for Office 365, you work remotely with FastTrack Specialists to get your Office 365 environment ready for use and plan rollout and usage within your organization. To learn more about eligibility, see FastTrack Center Benefit for Office 365.
+ms.openlocfilehash: 3537f6effa5bd2c65f542496ea42ab70075621ce
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44471706"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011331"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>FastTrack Center 權益概觀
 
-利用「適用於 Office 365 的 FastTrack Center 權益」，您可以遠端與 FastTrack 專家合作，使 Office 365 環境準備就緒可供使用並計劃組織內的推行和使用。若要深入了解是否合格，請參閱＜[適用於 Office 365 的 FastTrack Center 權益](O365-fasttrack-benefit-for-office-365.md)＞。
+With FastTrack Center Benefit for Office 365, you work remotely with FastTrack Specialists to get your Office 365 environment ready for use and plan rollout and usage within your organization. To learn more about eligibility, see [FastTrack Center Benefit for Office 365](O365-fasttrack-benefit-for-office-365.md).
   
 我們將說明下列主題：
 - [FastTrack 處理程序](O365-fasttrack-process.md) 
@@ -34,11 +34,11 @@ ms.locfileid: "44471706"
 - [附錄 B：FastTrack 中心 HIPAA 商業夥伴合約](O365-hipaa-business-associate-agreement.md)
 - [附錄 C：適用於 Office 365 US Government 的 FastTrack 中心權益概觀](US-Gov-appendix-overview.md)
     
-上架完畢後，您的 Office 365 租用戶會建立。取得授權的使用者可以使用下列任一個身分識別選項來存取 Office 365：
+Your Office 365 tenant is created at the completion of onboarding. Licensed users can access Office 365 by using one of the following identity options:
 - 包含唯一 Office 365 帳戶的雲端身分識別。
-- 同步處理的身分識別：使用 Azure Active Directory Connect (密碼雜湊同步處理或通過驗證) 從您的內部部署 Active Directory 同步處理的 Office 365 帳戶。適用於下列條件的客戶：
+- Synchronized Identities with Office 365 accounts synchronized from your on-premises Active Directory with Azure Active Directory Connect (Password Hash Sync or Pass-through Authentication). These are for customers with:
   - 單一 Active Directory 樹系環境。
-  - 支援的多樹系 Active Directory 拓撲。如需支援的拓撲，請參閱＜[來源環境的期望](O365-source-environment-expectations.md)＞。
+  - Supported multi-forests Active Directory topology. For supported topologies, see [Source Environment Expectations](O365-source-environment-expectations.md).
 - 包含下列情況的 Office 365 帳戶同盟身分識別：
   - 針對具有下列組態的客戶，從 Active Directory 與 Azure Active Directory Connect 工具進行同步處理︰
       - 單一 Active Directory 樹系設定。

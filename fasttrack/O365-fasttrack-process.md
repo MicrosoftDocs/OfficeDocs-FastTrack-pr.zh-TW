@@ -3,19 +3,19 @@ title: FastTrack 處理程序
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 程序提供上架和使用者採用服務。
-ms.openlocfilehash: 33faf34376c4f427ccf0f706f6de909dfa286820
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
-ms.translationtype: MT
+ms.openlocfilehash: 271a78c8d203c90e2bb49a7569283a748b66f443
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472210"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011367"
 ---
 # <a name="the-fasttrack-process"></a>FastTrack 處理程序
 
@@ -23,13 +23,13 @@ FastTrack 程序提供上架和使用者採用服務。
   
 上架包含︰
   
-- *核心上架*  意指租用戶組態和與 Azure Active Directory (Azure AD) 整合 (若有需要) 所需的工作。核心上架也能成為將其他合格之服務上架的基準。 
-- *服務上架和移轉* - 服務上架工作會啟用您租用戶中的案例。[資料移轉](O365-data-migration.md)中涵蓋資料移轉 (包括電子郵件和檔案)。 
+- *Core onboarding* — These are tasks required for tenant configuration and integration with Azure Active Directory (Azure AD) if needed. Core onboarding also provides the baseline for onboarding other eligible services. 
+- *Service onboarding and migration* — Service onboarding tasks enable scenarios in your tenant. Data migration (including email and files) is covered in [Data Migration](O365-data-migration.md). 
     
-使用者採用服務由數項工作所組成，提供您指引以確保您的使用者知道適合的服務，並用來促進商業價值。
+User adoption services are comprised of tasks that provide guidance for you to ensure your users are aware of the eligible services and can use them to drive business value. This assistance occurs in parallel to onboarding activities.
   
 > [!NOTE]
-> FastTrack 提供客戶建議的方法、指引和最佳作法，設計用來提供快速且可預測的結果。如果您選擇在本指南之外部署，您的上架體驗和服務使用方式可能會受到影響。指引是指口頭協助和書面協助的組合。當 FastTrack 專家提供指引時，FastTrack 人員便無法代替您作業。只要有最新的訂閱，您就可以使用 FastTrack 服務上架並採用任何合格的產品工作負載。 
+> FastTrack provides customers with a recommended approach, guidance, and best practices engineered to deliver quick and predictable outcomes. If you choose to deploy outside of this guidance, your onboarding experience and usage of the service may be impacted. Guidance is defined as a combination of verbal and written assistance. When FastTrack Specialists provide guidance, FastTrack personnel cannot act on your behalf. You can use FastTrack services to onboard and adopt any qualifying product workload as long as your subscription is current. 
   
 ## <a name="the-onboarding-process"></a>上架程序
 
@@ -50,7 +50,7 @@ FastTrack 程序提供上架和使用者採用服務。
     
  一旦上架協助啟動，我們將設定線上會議的排程。
     
-合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。作法如下：
+Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
 1.    登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
 2.    選取 **[我的客戶]**。
 3.    搜尋您的客戶或從客戶清單中選取他們。

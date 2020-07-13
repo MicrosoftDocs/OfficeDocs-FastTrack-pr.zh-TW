@@ -3,30 +3,32 @@ title: 資料移轉
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: FastTrack 專家提供將資料移轉至 Office 365 的步驟指引。這適用於 Exchange Online、商務用 OneDrive 和 SharePoint Online 的 Office 365 服務所有符合資格的客戶。
-ms.openlocfilehash: 48a493deab932a6422866e59d64018ef78986cfc
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+description: FastTrack Specialists provide guidance on steps for data migration to Office 365. This is available for all eligible customers with Office 365 services for Exchange Online, OneDrive for Business, and SharePoint Online.
+ms.openlocfilehash: 7780af3d5edcdbdf21acba1d421bf379967305fa
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999865"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011307"
 ---
 # <a name="data-migration"></a>資料移轉
 
-FastTrack 專家提供將資料移轉到 Office 365 的步驟指引。我們將使用工具和文件的組合，並在適用且可行的情況下執行設定工作，為您提供指引。這適用於 Exchange Online、商務用 OneDrive 和 SharePoint Online 的 Office 365 服務所有符合資格的客戶。
+您可能具有必須移轉到 Office 365 的來源環境中資料。
+
+**如果您使用的是含150-499 授權的 Office 365 租用戶：** 我們會使用工具和文件組合來提供指導方針，讓您順利進行移轉。 
+
+**針對擁有500 或更多授權的 Office 365 租用戶\*：** 的資料移轉服務可供 Exchange Online、SharePoint Online 和商務用 OneDrive 使用。 您的 FastTrack 權益包括為您提供來源環境整合與移轉資料的指導方針。
   
-下表所述的資料移轉服務可供擁有 500 個或更多 Office 365 授權的租用戶使用。\*例如，您可能有資料在來源環境中，且必須移轉到 Office 365。FastTrack Center 優惠包含提供來源環境整合的指引以便於移轉內容。
-  
-\* 如果您在 2017 年 9 月 1 日之前購買或更新商業方案，您目前訂閱期間的最小基座要求是 150 個基座，以獲得移轉優惠。教育版方案僅限教職員付費授權具有移轉服務的資格。 
+\*If you purchased or renewed a commercial plan prior to 9/1/2017, 150 seats is the minimum seat requirement throughout your current subscription period in order to receive the migration benefit. For education plans, only paid faculty and staff licenses are eligible for migration services. 
   
 > [!NOTE]
-> 透過 FastTrack 服務來轉移的資料，得於任何一處 Microsoft 的維護設備間進行傳輸、儲存及處理 (除非您特定的 FastTrack 合約另有規定)。FastTrack 服務並非專為受特殊法律或法規規範所約束之資料而設計。 
+> Data migrated through the FastTrack services may be transferred to, stored, and processed anywhere that Microsoft maintains facilities (except as otherwise provided for your particular FastTrack engagement). The FastTrack services aren't designed or intended for data subject to special legal or regulatory requirements. 
   
 > [!NOTE]
 > 未預期的問題 (包含但不限於來源環境中無法讀取或毀損的項目) 可能會使某些項目無法進行移轉。 
@@ -45,9 +47,9 @@ FastTrack 專家提供將資料移轉到 Office 365 的步驟指引。我們將�
 
 |**活動**|**來源環境預期**|
 |:-----|:-----|
-|**Exchange Online 移轉**  <br/> | Microsoft 會移轉下列來源環境的任意組合，一次一個。我們可以使用 FastTrack Center 來移轉上架郵件系統，或如果它通過 FastTrack Center 檢查。這包含：<br/>  若以 Exchange 2010+ 為基礎的混合式已實作於個別組織且 Exchange 郵件系統是 2003+，則為擁有單一或多個 Exchange 組織的單一或多個 Active Directory 樹系。  <br/> 單一 IBM Domino 7.0.3+ 環境 ([附錄 A：從 IBM Domino 移轉至 Exchange Online](O365-from-ibm-domino-to-exchange-online.md))。  <br/>  具備單一 IMAP 功能的電子郵件環境。  <br/>  G Suite 環境 (僅限 Gmail、連絡人和行事曆)。  <br/> 單一 Novell GroupWise 環境。 <br/> **附註** *移轉之前，必須先完成 Exchange Online 上架。* <br/> <br/> **附註** *FastTrack 只會移轉至作用中的 Office 365 信箱。* <br/> <br/> **附註** *如需內部部署 Exchange 相依性的詳細資訊，請參閱＜[混合部署必要條件](https://go.microsoft.com/fwlink/?LinkId=787528)＞。* <br/><br/> **附註** *移轉多個來源郵件環境 (如多個 Exchange 組織或多個 Domino 組織 ) 時，這些移轉會依序進行。*| 
-|**SharePoint Online 移轉**  <br/> | 檔案共用 (支援 SMB 2.0+ 之裝置的伺服器訊息區 (SMB) 檔案共用)。  <br/>  Box (Starter、Business、Enterprise)。  <br/> |
-|**商務用 OneDrive 移轉**  <br/> | 檔案共用 (支援 SMB 2.0+ 之裝置的 SMB 檔案共用)。  <br/>  單一 G Suite 環境 (僅限 Google 雲端硬碟)。  <br/>  Box (Starter、Business、Enterprise)。 <br/> <br/> **附註** *FastTrack 只會移轉至作用中的 Office 365 磁碟機。 *|
+|**Exchange Online 移轉**  <br/> | Microsoft migrates any combination of the source environments listed below, each one at a time. We can migrate the onboarded messaging system using the FastTrack Center or if it's passed the FastTrack Center checks. This includes:  <br/>  若以 Exchange 2010+ 為基礎的混合式已實作於個別組織且 Exchange 郵件系統是 2003+，則為擁有單一或多個 Exchange 組織的單一或多個 Active Directory 樹系。  <br/>  具備單一 IMAP 功能的電子郵件環境。  <br/>  G Suite 環境 (僅限 Gmail、連絡人和行事曆)。 <br/> <br/> **附註** *移轉之前，必須先完成 Exchange Online 上架。* <br/> <br/> **附註** *FastTrack 只會移轉至作用中的 Office 365 信箱。* <br/> <br/> **附註** *如需內部部署 Exchange 相依性的詳細資訊，請參閱＜[混合部署必要條件](https://go.microsoft.com/fwlink/?LinkId=787528)＞。* <br/><br/> **附註** *移轉多個來源郵件環境 (如多個 Exchange 組織或多個 Domino 組織 ) 時，這些移轉會依序進行。*| 
+|**SharePoint Online 移轉**  <br/> | 檔案共用 (支援 SMB 2.0+ 之裝置的伺服器訊息區 (SMB) 檔案共用)。 <br/> 單一 G Suite 環境 (僅限 Google 雲端硬碟)。<br/>  Box (Starter、Business、Enterprise)。  <br/> Dropbox for Teams (標準版和進階版)。<br/> |
+|**商務用 OneDrive 移轉**  <br/> | 檔案共用 (支援 SMB 2.0+ 之裝置的 SMB 檔案共用)。  <br/>  單一 G Suite 環境 (僅限 Google 雲端硬碟)。  <br/>  Box (Starter、Business、Enterprise)。 <br/> Dropbox for Teams (標準版和進階版)。<br/><br/> **附註** *FastTrack 只會移轉至作用中的 Office 365 磁碟機。 *|
    
 ## <a name="migration-to-exchange-online"></a>遷移至 Exchange Online
 ''
@@ -63,11 +65,11 @@ FastTrack 專家提供將資料移轉到 Office 365 的步驟指引。我們將�
 
 #### <a name="commercial-and-uk-government"></a>商業版及英國政府機構
 
-移轉進行的方式採取標準預先安排制：在預先定義的移轉時段中，以每天 24 小時，每週七 (7) 個工作日 (24x7) 為基礎。每個移轉日有三個移轉批次。
+Migrations are done on a standardized prescheduled 24 hours a day, seven (7) business days a week (24x7) basis in predefined migration time slots. There are three migration batches per migration day.
 
 #### <a name="us-governmentdod"></a>美國政府/DOD
 
-移轉進行的方式採取標準預先安排制：在預先定義的移轉時段中，以每天 24 小時，每週五 (5) 個工作日 (24x5) 為基礎。每個移轉日有三個移轉批次。每周有五個移轉日，從星期一上午2:00 國際標準時間 (UTC) 到星期五午夜 UTC。這表示上次排程的移轉是星期五下午 8:00 UTC。
+Migrations are done on standardized prescheduled 24 hours a day, five (5) business days a week (24x5) basis in predefined migration time slots. There are three migration batches per migration day. There are five migration days in a week from Monday 2:00AM Coordinated Universal Time (UTC) to Friday midnight UTC. This means that the last scheduled migration is Friday 8:00 PM UTC.
     
  ### <a name="end-state"></a>結束狀態
   
@@ -80,21 +82,19 @@ FastTrack 專家提供將資料移轉到 Office 365 的步驟指引。我們將�
 - 如下表所述，要移轉的資料類型視來源環境而定。
     
 > [!NOTE]
-> 在啟用階段結束時，所有來源環境必須在來源環境中個別產品的最新 Service Pack (SP) 和彙總套件 (RU)/累積更新 (CU) 層級上。除了 Microsoft 控制項，資料移轉服務還會受到外部因素所限制，例如協力廠商應用程式發展介面 (API) 的變更，其可能造成這些服務產生變動、延遲或暫停的情況。在 FastTrack 服務期間，您提供給 Microsoft 的資料，可以從 Microsoft 及其供應商維護設備中的任何一處進行存取與儲存。 
+> All source environments need to be on the latest service packs (SP) and rollup (RU)/cumulative update (CU) level for the respective product in the source environment at the end of the Enable phase. Data migration services are subject to external factors beyond Microsoft's control, like changes to third-party application programming interfaces (APIs), which could result in changes to, delays in, or suspension of these services. For the duration of the FastTrack services, data you make available to Microsoft is accessible from and stored anywhere that Microsoft and its suppliers maintain facilities. 
   
 |||||
 |:-----|:-----|:-----|:-----|
 |**來源環境**|**移轉類型**|**會從來源信箱移轉的內容**|**不會移轉哪些內容**|
 |**Exchange 2003+**|系統轉換| 電子郵件 <br/> 信箱規則 <br/> 委派 <br/> 信箱連絡人 <br/> 行事曆 <br/> 工作 <br/> 受版權管理的電子郵件 <br/> 加密的電子郵件| 公用資料夾 <br/> 個人連絡人 <br/> 擁有郵件功能的使用者 <br/> 遭封鎖或非作用中的使用者 <br/> 簽章 <br/> 信箱暫放 <br/>  任何超過郵件大小限制的電子郵件 <br/> 封存資料 <br/> 損毀的項目 <br/>  非使用中的信箱 |
 |**Exchange 2003 和 Exchange 2007**|接移| 電子郵件 <br/> 信箱規則 <br/> 委派 <br/> 信箱連絡人 <br/> 行事曆 <br/> 工作 <br/> 受版權管理的電子郵件 <br/> 加密的電子郵件| 公用資料夾 <br/> 個人連絡人 <br/> 擁有郵件功能的使用者 <br/> 遭封鎖或非作用中的使用者 <br/> 簽章 <br/> 信箱暫放 <br/> 任何超過郵件大小限制的電子郵件 <br/> 封存資料 <br/> 損毀的項目 <br/> 非使用中的信箱 |
-|**Exchange 2010、Exchange 2013 及 Exchange 2016** <br/><br/> **附註** *如需內部部署 Exchange 相依性的詳細資訊，請參閱＜[混合部署必要條件](https://go.microsoft.com/fwlink/?LinkId=787528)＞。*           |混合部署移轉| 電子郵件 <br/> 信箱規則 <br/> 委派 <br/> 信箱連絡人 <br/> 行事曆 <br/> Tasks <br/> 簽章 <br/> 隨著使用者信箱移轉的個人封存 <br/> 可復原的項目 <br/> 受版權管理的電子郵件 <br/> 加密的電子郵件| 公用資料夾 <br/> 任何超過郵件大小限制的電子郵件 <br/> 日誌封存或任何協力廠商封存解決方案 <br/> 遭封鎖或非作用中的使用者 <br/> 從個人存放區資料表 (PST) 檔案封存的資料 <br/> 損毀的項目 <br/> 非使用中的信箱 |
+|**Exchange 2010、Exchange 2013、Exchange 2016 和 Exchange 2019** <br/><br/> **附註** *如需內部部署 Exchange 相依性的詳細資訊，請參閱＜[混合部署必要條件](https://go.microsoft.com/fwlink/?LinkId=787528)＞。*           |混合部署移轉| 電子郵件 <br/> 信箱規則 <br/> 委派 <br/> 信箱連絡人 <br/> 行事曆 <br/> Tasks <br/> 簽章 <br/> 隨著使用者信箱移轉的個人封存 <br/> 可復原的項目 <br/> 受版權管理的電子郵件 <br/> 加密的電子郵件| 公用資料夾 <br/> 任何超過郵件大小限制的電子郵件 <br/> 日誌封存或任何協力廠商封存解決方案 <br/> 遭封鎖或非作用中的使用者 <br/> 從個人存放區資料表 (PST) 檔案封存的資料 <br/> 損毀的項目 <br/> 非使用中的信箱 |
 |**G Suite 環境 (僅限 Gmail、連絡人和行事曆)** <br/> <br/> **附註** *您的 G Suite 環境必須啟用 Google API 和 Google Admin SDK 才能擴充功能。* <br/>          |轉換或分段| 電子郵件 <br/> 信箱連絡人\*  <br/> 行事曆 <br/> 標籤 <br/> \*每個連絡人最多會移轉三個電子郵件地址| 規則 <br/> 委派 <br/> 簽章 <br/> 工作 <br/> 任何超過郵件大小限制的電子郵件或附件 <br/> 遭封鎖或非作用中的使用者 <br/> 從 PST 檔案或任何協力廠商封存解決方案 (例如 Google Vault) 封存的資料 <br/> 權限管理或加密的電子郵件 <br/> 損毀的項目 <br/> Google Hangouts\*\* <br/> Google Groups <br/> 資源信箱 <br/> 非使用中的信箱 <br/> 假期設定和自動回覆設定 <br/> 共用行事曆、雲端附件、Google Hangout 連結和活動色彩 <br/>\*\*會移轉儲存為標籤的 Hangout 交談 |
-|**IBM Domino 7.0.3+** ([附錄 A：從 IBM Domino 移轉至 Exchange Online](O365-from-ibm-domino-to-exchange-online.md))|接移| 電子郵件 - 過去 90 天 <br/> 行事曆 - 過去 90 天和未來的項目 <br/> 信箱連絡人 - 全部 <br/> 工作 - 全部 <br/> 會議室和資源 - 假設是使用標準範本實作 <br/> 郵件檔案 (包括共用郵件檔) 必須使用標準郵件範本 | 簽章 <br/> 信箱規則 <br/> 委派 <br/> 加密的項目 <br/> 文件連結 <br/> 使用者信箋 <br/> 任何超過郵件大小限制的電子郵件 <br/> 遭封鎖或非作用中的使用者 <br/> 封存資料 <br/> 損毀的項目 <br/> 行事曆共存 <br/> 非使用中的信箱 |
-|**Novell GroupWise** |使用原生 IMAP4 工具進行的移轉| 電子郵件 | 規則 <br/> Proxy/委派/存取控制清單 (ACL) 轉換 <br/> 簽章 <br/> 搜尋資料夾 <br/> 遭封鎖或非作用中的使用者 <br/> 封存資料 <br/> 權利管理或加密的項目 <br/> 損毀的項目 <br/> 行事曆共存 <br/> 擁有郵件功能的使用者 <br/> 信箱連絡人 <br/> 個人群組 <br/> 行事曆 <br/> 工作 <br/> 任何超過郵件大小限制的電子郵件 |
-|**IMAP4 來源** |使用原生 IMAP4 工具進行的移轉| 電子郵件 | 規則 <br/> 委派 <br/> 通訊群組清單 <br/> 外部連絡人 <br/> 擁有郵件功能的使用者 <br/> 遭封鎖或非作用中的使用者 <br/> 信箱連絡人 <br/> 行事曆 <br/> 簽章 <br/> 工作 <br/> 任何超過郵件大小限制的電子郵件 <br/> 封存資料 <br/> 加密的電子郵件 <br/> 損毀的項目 <br/> 非使用中的信箱 |
+|**IMAP4 來源 (例如 Domino、GroupWise 和 Zimbra)** |使用原生 IMAP4 工具進行的移轉| 電子郵件 | 規則 <br/> 委派 <br/> 通訊群組清單 <br/> 外部連絡人 <br/> 擁有郵件功能的使用者 <br/> 遭封鎖或非作用中的使用者 <br/> 信箱連絡人 <br/> 行事曆 <br/> 簽章 <br/> 工作 <br/> 任何超過郵件大小限制的電子郵件 <br/> 封存資料 <br/> 加密的電子郵件 <br/> 損毀的項目 <br/> 非使用中的信箱 |
    
 > [!NOTE]
-> 如果通訊群組清單 (MailEnabledGroup 物件) 和外部連絡人 (MailEnabledContact 物件) 是在內部部署 Active Directory 中，它們可以使用 Azure AD Connect 進行同步處理。不過，它們不是信箱資料移轉的一部分。如需詳細資訊，請參閱**核心**中的 [身分識別整合](O365-onboarding-and-migration.md#core) 範例。 
+> If distribution lists (MailEnabledGroup objects) and external contacts (MailEnabledContact objects) are in the on-premises Active Directory, they can be synchronized using Azure AD Connect. However, they aren't a part of mailbox data migration. For more information, see the **Identity integration** example in [Core](O365-onboarding-and-migration.md#core). 
   
 FastTrack 專家會在移轉期間執行下列工作：
 - 提供標準範本以便排程信箱移轉。
@@ -104,7 +104,7 @@ FastTrack 專家會在移轉期間執行下列工作：
 - 在 Exchange 和 IMAP4 來源環境中，信箱內容最多只能移轉使用者信箱儲存空間限制的 85% (例如，如果信箱儲存空間限制為 50 GB，則 Microsoft 最多會移轉 50 GB 儲存空間限制的 85%)。 
 - 啟用來源訊息環境與 Office 365 Exchange Online 之間的 SMTP 郵件路由共存 (使用轉換移轉時除外)。
 - 提供移轉後報告。
-- 提供移轉後的重大問題協助。下列問題會被視為重大問題：
+- Provide post-migration assistance for critical issues. The following issues are considered critical:
   - 在移轉期間遺失資料。
   - 在移轉期間無法使用來源環境。
   - 移轉活動導致來源環境發生問題。
@@ -127,32 +127,32 @@ FastTrack 專家會在移轉期間執行下列工作：
 |\>10000  <br/> |1500  <br/> |
    
    > [!NOTE]
-   > 這些數字是以最佳作法為基礎，不過，每日移轉的信箱數目會隨著環境、整備程度及商業條件約束而有所不同。Microsoft 無法保證信箱移轉速度。 
+   > These numbers are based on best practice. However, the number of mailboxes that migrate per day will vary based on environment, readiness, and business constraints. Microsoft can't guarantee the speed of mailbox migration. 
   
 - 在移轉批次中最少排程 35 個信箱。 
 - 如果適用的話，修正移轉前失敗。  
 - 將來源環境的存取權和權限提供給 FastTrack 專家以執行移轉活動。 
 - 在 Office 365 中取得及/或提供已授權的管理帳戶以執行移轉活動 (視需要而定)。 
 - 協助用戶端遷移問題，必要時執行移轉後作業。 
-- 如有需要，移轉用戶端資料。這包含但不限於本機通訊錄、本機 PST 檔案中的資料、Outlook 規則和本機 Outlook 設定。   
+- Migrate client-side data if desired. This includes, but is not limited to, local address books, data in local PST files, Outlook rules, and local Outlook settings.   
 - 如果適用的話，將信箱大小縮小為低於目標 Office 365 信箱限制的 85%。   
 - 處理移轉後報告中的動作，包括未移動的信箱。  
 - 如果適用的話，修正移轉後失敗並重新排程信箱。   
-- 參與移轉後的重大問題協助。下列問題會被視為重大問題：
+- Engage in post-migration assistance for critical issues. The following issues are considered critical:
   - 在移轉期間遺失資料。
   - 在移轉期間無法使用來源環境。
   - 移轉活動導致來源環境發生問題。
     
-您必須遵循標準移轉程序並與 Microsoft 密切合作。做法是提供來源和 Office 365 環境的存取權和權限、提供移轉排程、更正移轉錯誤的任何原因等。您也需要與使用者進行通訊、討論信箱移轉排程，以及處理使用者的移轉相關問題。
+You need to follow the standard migration process and engage with Microsoft appropriately. This includes providing access and permissions to source and Office 365 environments, providing migration schedules, correcting any causes for migration errors, and so on. You also need to engage with end users for communications, mailbox migration schedule, and handling end user migration-related issues.
   
 > [!NOTE]
-> 移轉僅會使用依循上架期間所定義之安全需求的帳戶。如果您沒有使用此類帳戶，您的移轉可能會遭到延遲。 
+> Migrations only use accounts that adhere to security requirements defined during onboarding. If you don't use such accounts, you may experience migration delays. 
   
 ## <a name="migration-to-sharepoint-online"></a>移轉至 SharePoint Online
 
 ### <a name="enable-to-migrate"></a>啟用即可移轉
   
-如果您使用 Microsoft 來移轉您的資料，我們將提供相關指引讓 SharePoint Online 與來源環境均可進行移轉。根據來源而定，我們可能會執行各種啟用步驟。我們將使用工具和文件的組合，並在適用且可行的情況下執行設定工作，為您提供指引。
+If you use Microsoft to migrate your data, we provide guidance to enable both SharePoint Online and the source environment for migration. Depending on the source, we may perform various Enable steps. We provide guidance for you by using a combination of tools and documentation and by performing configuration tasks where applicable and feasible.
   
 您需要提供適當的存取權和權限給 Microsoft，以執行某些活動。
   
@@ -163,11 +163,11 @@ FastTrack 專家會在移轉期間執行下列工作：
 
 #### <a name="commercial-and-uk-government"></a>商業版及英國政府機構
 
-移轉進行的方式採取標準預先安排制：在預先定義的移轉時段中，以每天 24 小時，每週七 (7) 個工作日 (24x7) 為基礎。每個移轉日有三個移轉批次。
+Migrations are done on a standardized prescheduled 24 hours a day, seven (7) business days a week (24x7) basis in predefined migration time slots. There are three migration batches per migration day.
 
 #### <a name="us-governmentdod"></a>美國政府/DOD
 
-移轉進行的方式採取標準預先安排制：在預先定義的移轉時段中，以每天 24 小時，每週五 (5) 個工作日 (24x5) 為基礎。每個移轉日有三個移轉批次。每周有五個移轉日，從星期一上午2:00 國際標準時間 (UTC) 到星期五午夜 UTC。這表示上次排程的移轉是星期五下午 8:00 UTC。
+Migrations are done on standardized prescheduled 24 hours a day, five (5) business days a week (24x5) basis in predefined migration time slots. There are three migration batches per migration day. There are five migration days in a week from Monday 2:00AM Coordinated Universal Time (UTC) to Friday midnight UTC. This means that the last scheduled migration is Friday 8:00 PM UTC.
 
 - 所有移轉都受限於 [SharePoint Online 和商務用 OneDrive 軟體的界限及限制](https://go.microsoft.com/fwlink/?LinkID=616612)中所述的 SharePoint Online 配額。   
 - 移轉的整體資料數量將受限於您有權使用的整體 SharePoint Online 儲存空間配額的 75% (包括您可能需要另外購買的額外儲存空間)。
@@ -186,7 +186,9 @@ FastTrack 專家會在移轉期間執行下列工作：
 |:-----|:-----|:-----|:-----|
 |**來源環境** <br/> |**移轉類型** <br/> |**什麼會移轉** <br/> |**不會移轉哪些內容** <br/> |
 |**任何支援 SMB 2.0+ 的檔案共用裝置**  <br/> |單一或多個階段  <br/> | 文件  <br/>  檔案與資料夾結構  <br/>  使用者層級檔案和資料夾權限\*  <br/>  群組層級檔案和資料夾權限\*  <br/>  小於 15 GB 的檔案  <br/>  基本文件與資料夾的中繼資料：  <br/>  建立日期  <br/>  修改日期  <br/>  建立者  <br/>  上次修改者  <br/><br/> \**需要設定目錄同步處理。只移轉公開給 [Windows 檔案總管] 的 NTFS 權限。不移轉直接在檔案共用裝置上管理的權限。若資料儲存在 SMB 2.0 裝置上，將會移轉 SMB 通訊協定公開的 NTFS 等同權限。* <br/> | 擁有權歷程記錄與先前的版本  <br/>  內容中的內嵌 URL 轉換  <br/>  舊版  <br/>  Windows 檔案和資料夾屬性 (例如唯讀、隱藏)  <br/>  非 Windows New Technology File System (NTFS) 和 NTFS 的進階權限和特殊設定：  <br/>  明確拒絕權限 (在移轉之後移除，內容受限於平行權限或上層資料夾權限)  <br/>  NTFS 稽核組態  <br/>  檔案分類基礎結構 (FCI) 提供的其他檔案中繼資料  <br/>  無法存取或損毀的文件  <br/>  隱藏的共用  <br/>  共用 (例如共用層級授與的權限)  <br/>  檔案或資料夾超過目前 [Sharepoint 的規定和限制](https://go.microsoft.com/fwlink/?linkid=846724) <br/> |
-|**Box (Starter、Business、Enterprise)**  <br/> |單一或多個階段  <br/> | 文件  <br/>  檔案與資料夾結構  <br/>  使用者層級資料夾權限  <br/>  群組層級資料夾權限  <br/>  小於 15 GB 的檔案  <br/>  基本文件與資料夾的中繼資料：  <br/>  建立日期  <br/>  修改日期  <br/>  建立者  <br/>  上次修改者  <br/>  正在移轉之 Box 帳戶所擁有的共用內容 (如果明確與使用者或群組共用)\*  <br/><br/> \**使用 Box 報告來識別外部帳戶。指示使用者在移轉之後再度分享其內容。* <br/> | 擁有權歷程記錄、先前的版本和註解 <br/>  使用者層級檔案權限  <br/>  群組層級檔案權限  <br/>  檔案與資料夾描述  <br/>  Box 標記和進階中繼資料  <br/>  檔案鎖定屬性  <br/>  內容中的內嵌 URL 轉換  <br/>  丟到垃圾筒的項目  <br/>  無法存取或損毀的文件  <br/>  遭封鎖或非作用中的使用者  <br/>  Box 附註 (因移轉時未轉換而無功能)  <br/>  Box 應用程式、書籤、我的最愛及工作流程  <br/>  內容不屬於移轉之 Box 帳戶 (共用資料夾)  <br/>  外部使用者的權限和中繼資料\*  <br/>  檔案或資料夾超過目前 [Sharepoint 的規定和限制](https://go.microsoft.com/fwlink/?linkid=846724) <br/> |
+|**單一 G Suite 環境 (僅限 Google 雲端硬碟)**  <br/> |單一或多個階段  <br/> | <br/>  Google 文件、試算表及投影片 (檔案轉換為 Office 等同格式) ，包括超過 10 MB 的檔案。 <br/>  檔案與資料夾結構  <br/>  使用者層次資料夾權限  <br/>  群組層級資料夾權限 <br/>  小於 15 GB 的檔案  <br/> 基本文件與資料夾的中繼資料： <br/> 建立日期  <br/>  修改日期  <br/>  建立者  <br/>  上次修改者  <br/> 共用的磁碟 (資料夾和檔案) <br/>  正在移轉之 Google 雲端硬碟所擁有的共用內容 (如果明確與使用者或群組共用)\*  <br/><br/> \**使用 Google 雲端硬碟系統管理員來識別外部帳戶。指示使用者在移轉之後重新共用其內容。* <br/> | 擁有權歷程記錄、先前的版本和註解 <br/>  檔案與資料夾描述、資料夾顏色  <br/>  使用者層次檔案權限  <br/>  群組層級檔案權限  <br/>  進階中繼資料  <br/>  檔案鎖定屬性  <br/>  內容中的內嵌 URL 轉換  <br/>  丟到垃圾筒的項目  <br/>  無法存取或損毀的文件  <br/>  遭封鎖或非作用中的使用者  <br/>  Google 相簿、表單、地圖及其他連線的應用程式  <br/>  Google 繪圖  <br/>  組織外部的共用內容  <br/> 內容不是由移轉中的 Google 雲端硬碟帳戶所擁有 <br/>外部使用者的權限和中繼資料  <br/> 共用的磁碟機成員權限\* <br/> 檔案或資料夾超過目前 [Sharepoint 的規定和限制](https://go.microsoft.com/fwlink/?linkid=846724) <br/> <br/> \**使用 Google 雲端硬碟系統管理員來識別外部帳戶。指示使用者在移轉之後重新共用其內容。* <br/>|
+|**Box (Starter、Business、Enterprise)**  <br/> |單一或多個階段  <br/> | 文件  <br/>  檔案與資料夾結構  <br/>  使用者層級資料夾權限  <br/>  群組層級資料夾權限  <br/>  小於 15 GB 的檔案  <br/>  基本文件與資料夾的中繼資料：  <br/>  建立日期  <br/>  修改日期  <br/>  建立者  <br/>  上次修改者  <br/>  正在移轉之 Box 帳戶所擁有的共用內容 (如果明確與使用者或群組共用)\*  <br/><br/> \**使用 Box 報告來識別外部帳戶。指示使用者在移轉之後再度分享其內容。* <br/> | 擁有權歷程記錄、先前的版本和註解 <br/>  使用者層級檔案權限  <br/>  群組層級檔案權限  <br/>  檔案與資料夾描述  <br/>  Box 標記和進階中繼資料  <br/>  檔案鎖定屬性  <br/>  內容中的內嵌 URL 轉換  <br/>  丟到垃圾筒的項目  <br/>  無法存取或損毀的文件  <br/>  遭封鎖或非作用中的使用者  <br/>  Box 附註 (因移轉時未轉換而無功能)  <br/>  Box 應用程式、書籤、我的最愛及工作流程  <br/>  內容不屬於移轉之 Box 帳戶 (共用資料夾)  <br/>  外部使用者的權限和中繼資料\*  <br/>  檔案或資料夾超過目前 [Sharepoint 的規定和限制](https://go.microsoft.com/fwlink/?linkid=846724) <br/> <br/>\**使用 Google 雲端硬碟系統管理員來識別共用磁碟機成員資格。指示使用者在移轉前先組態目標的成員資格設定。* |
+|**Dropbox for Teams (標準版和進階版)**  <br/> |單一或多個階段  <br/> | 文件  <br/>  檔案與資料夾結構  <br/>  使用者層次資料夾權限  <br/>  群組層級資料夾權限  <br/>  小於 15 GB 的檔案  <br/>  基本文件與資料夾的中繼資料：  <br/>  建立日期  <br/>  修改日期  <br/>  建立者  <br/>  上次修改者  <br/> 共用的小組資料夾和內容 <br/>  正在移轉之 Dropbox 帳戶所擁有的共用內容 (如果明確與使用者或群組共用)\*  <br/> <br/> \**使用 Dropbox 報告來識別外部帳戶。指示使用者在移轉之後再度分享其內容。* <br/> | 擁有權歷程記錄、先前的版本和註解 <br/>  檔案與資料夾描述 <br/>  使用者層次檔案權限  <br/>  群組層級檔案權限    <br/> 進階中繼資料  <br/>  檔案鎖定屬性  <br/>  內容中的內嵌 URL 轉換  <br/>  丟到垃圾筒的項目  <br/>  無法存取或損毀的文件  <br/>  已卸載的 Dropbox 資料夾 <br/>  已刪除或中斷連線的使用者 <br/>  Dropbox Paper、Showcases 和 Spaces  <br/> Dropbox 應用程式和我的最愛 (釘選/星號) <br/> 不是由已移轉的 Dropbox 帳戶所擁有的內容  <br/>  外部使用者的權限和中繼資料\*  <br/>  檔案或資料夾超過目前 [Sharepoint 的規定和限制](https://go.microsoft.com/fwlink/?linkid=846724) <br/> <br/> \**使用 Dropbox 報告來識別外部帳戶。指示使用者在移轉之後再度分享其內容。* <br/> |
    
 FastTrack 專家會在移轉期間執行下列工作： 
 - 舉行一場移轉逐步研習會，並涵蓋所選取移轉案例的程序與方法。
@@ -206,14 +208,14 @@ FastTrack 專家會在移轉期間執行下列工作：
 - 在移轉完成後至多五天，於使用者接受度測試中提供移轉後協助。
     
 您會在移轉期間執行下列工作： 
-- 提供建議用於評估與移轉活動的專案資源。包括： 
+- Provide project resources recommended for assessment and migration activities. These include: 
   - 專案管理。 
   - 使用者接受度測試 (UAT)。  
   - 系統管理員負責來源和目標內容平台。  
 - 針對評估和移轉活動提供基礎結構必要條件 (如有必要)。  
 - 將來源及目標環境的存取權和權限提供給 FastTrack 專家以執行移轉活動 (如有必要)。
     > [!NOTE]
-    > 移轉僅會使用依循上架期間所定義之安全需求的帳戶。如果您沒有使用此類帳戶，您的移轉可能會遭到延遲。 
+    > Migrations only use accounts that adhere to security requirements defined during onboarding. If you don't use such accounts, you may experience migration delays. 
 - 提供必要條件並執行支援評定和移轉所需的活動。   
 - 安裝由 FastTrack 所提供的評估工具，並完成評估資料收集活動 (如果適用)。   
 - 在內部部署安裝由 FastTrack 所提供的移轉軟體 (如果適用)。   
@@ -224,7 +226,7 @@ FastTrack 專家會在移轉期間執行下列工作：
 - 規劃及實作變更管理與使用者通訊 (若適用)。   
 - 管理和設定來源系統和裝置 (成功完成評估及移轉活動所需) 的任何變更。
 - 至少提前三 (3) 天提供已定義方法的排程和要在每個移轉事件移轉的特定使用者資料清單。
-- 從排程中刪除使用者資料，直到移轉批次處理前 24 小時。這應該與最終的移轉批次相對應。
+- 進行移轉批次前，從排程卸除 24 小時前的使用者資料。 這應該會對應到最後的移轉批次。
 > [!NOTE]
 > Microsoft 不保證檔案移轉的速度。
     
@@ -232,9 +234,9 @@ FastTrack 專家會在移轉期間執行下列工作：
 
  ### <a name="enable-to-migrate"></a>啟用即可移轉
   
-如果您使用 Microsoft 來移轉您的資料，我們將提供相關指引讓 商務用 OneDrive 與來源環境均可進行遷移。根據來源而定，我們可能會執行各種啟用步驟。我們將協助您使用各種工具、文件和指引，以及執行適用且可行的設定工作，以便進行某些活動。
+If you use Microsoft to migrate your data, we provide guidance to enable both OneDrive for Business and the source environment for migration. Depending on the source, we may perform various Enable steps. We help you with some activities by using a combination of tools, documentation, and guidance, and by performing configuration tasks where applicable and feasible.
   
-您可能需要提供適當的存取權和權限給 Microsoft，以執行某些活動。如果您不提供存取權及/或權限，您就必須利用 Microsoft 的指引自行執行某些已定義的工作。 
+You may need to provide appropriate access and permissions to Microsoft to perform some activities. If you don't provide access and/or permissions, you need to perform certain defined tasks yourself with guidance from Microsoft. 
   
 ### <a name="migration-policy-and-steps"></a>移轉原則和步驟
   
@@ -243,11 +245,11 @@ FastTrack 專家會在移轉期間執行下列工作：
 
 #### <a name="commercial-and-uk-government"></a>商業版及英國政府機構
 
-移轉進行的方式採取標準預先安排制：在預先定義的移轉時段中，以每天 24 小時，每週七 (7) 個工作日 (24x7) 為基礎。每個移轉日有三個移轉批次。
+Migrations are done on a standardized prescheduled 24 hours a day, seven (7) business days a week (24x7) basis in predefined migration time slots. There are three migration batches per migration day.
 
 #### <a name="us-governmentdod"></a>美國政府/DOD
 
-移轉進行的方式採取標準預先安排制：在預先定義的移轉時段中，以每天 24 小時，每週五 (5) 個工作日 (24x5) 為基礎。每個移轉日有三個移轉批次。每周有五個移轉日，從星期一上午2:00 國際標準時間 (UTC) 到星期五午夜 UTC。這表示上次排程的移轉是星期五下午 8:00 UTC。
+Migrations are done on standardized prescheduled 24 hours a day, five (5) business days a week (24x5) basis in predefined migration time slots. There are three migration batches per migration day. There are five migration days in a week from Monday 2:00AM Coordinated Universal Time (UTC) to Friday midnight UTC. This means that the last scheduled migration is Friday 8:00 PM UTC.
     
 - 所有移轉都需要來源環境的適當存取權和權限。   
 - 所有移轉都受限於 [SharePoint Online 和商務用 OneDrive：軟體界限及限制](https://go.microsoft.com/fwlink/?LinkId=698855)中所述的商務用 OneDrive 配額。
@@ -265,9 +267,10 @@ FastTrack 專家會在移轉期間執行下列工作：
 |||||
 |:-----|:-----|:-----|:-----|
 |**來源環境**|**移轉類型**|**什麼會移轉**|**不會移轉哪些內容**|
-|**單一 G Suite 環境 (僅限 Google 雲端硬碟)**  <br/> |單一或多個階段  <br/> | Google 文件、試算表及投影片 (檔案轉換為 Office 等同格式)  <br/>  檔案與資料夾結構  <br/>  使用者層級資料夾權限  <br/>  群組層級資料夾權限  <br/>  小於 15 GB 的檔案  <br/>  基本文件與資料夾的中繼資料：  <br/>  建立日期  <br/>  修改日期  <br/>  建立者  <br/>  上次修改者  <br/>  正在移轉之 Google 雲端硬碟所擁有的共用內容 (如果明確與使用者或群組共用)*  <br/> | 擁有權歷程記錄、先前的版本和註解  <br/>  檔案與資料夾描述、資料夾顏色  <br/>  內容中的內嵌 URL 轉換  <br/>  使用者層級檔案權限  <br/>  群組層級檔案權限  <br/> 丟到垃圾筒的項目  <br/>  無法存取或損毀的文件  <br/>  遭封鎖或非作用中的使用者  <br/>  組織外部的共用內容  <br/>  Google 相簿、表單、地圖及其他連線的應用程式  <br/>  Google 繪圖  <br/>  檔案或資料夾超過目前 [Sharepoint 的規定和限制](https://go.microsoft.com/fwlink/?linkid=846724) <br/> |
 |**任何支援 SMB 2.0+ 的檔案共用裝置**  <br/> |單一或多個階段  <br/> | 文件  <br/>  檔案與資料夾結構  <br/>  使用者層級檔案和資料夾權限\*  <br/>  群組層級檔案和資料夾權限\*  <br/>  小於 15 GB 的檔案  <br/>  基本文件與資料夾的中繼資料：  <br/>  建立日期  <br/>  修改日期  <br/>  建立者  <br/>  上次修改者  <br/> <br/>\**需要設定目錄同步處理。只移轉公開給 [Windows 檔案總管] 的 NTFS 權限。不移轉直接在檔案共用裝置上管理的權限。若資料儲存在 SMB 2.0 裝置上，將會移轉 SMB 通訊協定公開的 NTFS 等同權限。* <br/> | 擁有權歷程記錄與先前的版本  <br/>  內容中的內嵌 URL 轉換  <br/>  舊版  <br/>  Windows 檔案和資料夾屬性 (例如唯讀、隱藏)  <br/>  非 Windows New Technology File System (NTFS) 和 NTFS 的進階權限和特殊設定：  <br/>  明確拒絕權限 (在移轉之後移除，內容受限於平行權限或上層資料夾權限)  <br/>  NTFS 稽核組態  <br/>  FCI 提供的其他檔案中繼資料  <br/>  無法存取或損毀的文件  <br/>  隱藏的共用  <br/>  共用 (例如共用層級授與的權限)  <br/>  檔案或資料夾超過目前 [Sharepoint 的規定和限制](https://go.microsoft.com/fwlink/?linkid=846724) <br/> |
+|**單一 G Suite 環境 (僅限 Google 雲端硬碟)**  <br/> |單一或多個階段  <br/> | Google 文件、試算表及投影片 (檔案轉換為 Office 等同格式 ，包括超過 10 MB 的檔案)  <br/>  檔案與資料夾結構  <br/>  使用者層次資料夾權限  <br/>  群組層級資料夾權限  <br/>  小於 15 GB 的檔案  <br/>  基本文件與資料夾的中繼資料：  <br/>  建立日期  <br/>  修改日期  <br/>  建立者  <br/>  上次修改者  <br/> 共用的磁碟 (資料夾和檔案) <br/> 正在移轉之 Google 雲端硬碟所擁有的共用內容 (如果明確與使用者或群組共用)\* <br/> <br/>\**使用 Google 雲端硬碟系統管理員來識別外部帳戶。指示使用者在移轉之後重新共用其內容。* <br/> | 擁有權歷程記錄、先前的版本和註解  <br/>  檔案與資料夾描述、資料夾顏色  <br/>   使用者層次檔案權限  <br/>  群組層級檔案權限  <br/> 進階中繼資料 <br/>  檔案鎖定屬性 <br/> 內容中的內嵌 URL 轉換  <br/> 丟到垃圾筒的項目 <br/> 無法存取或損毀的文件 <br/> 遭封鎖或非作用中的使用者 <br/> Google 相簿 <br/> 表單、地圖及其他連線的應用程式 <br/> Google 繪圖 <br/> 組織外部的共用內容 <br/> 內容不是由移轉中的 Google 雲端硬碟帳戶所擁有 <br/> 外部使用者的權限和中繼資料<br/> 共用的磁碟機成員權限\*<br/> 檔案或資料夾超過目前 [Sharepoint 的規定和限制](https://go.microsoft.com/fwlink/?linkid=846724) <br/><br/> \**使用 Google 雲端硬碟系統管理員來識別共用磁碟機成員資格。指示使用者在移轉前先組態目標的成員資格設定。* <br/> |
 |**Box (Starter、Business、Enterprise)**  <br/> |單一或多個階段  <br/> | 文件  <br/>  檔案與資料夾結構  <br/>  使用者層級資料夾權限  <br/>  群組層級資料夾權限  <br/>  小於 15 GB 的檔案  <br/>  基本文件與資料夾的中繼資料：  <br/>  建立日期  <br/>  修改日期  <br/>  建立者  <br/>  上次修改者  <br/>  正在移轉之 Box 帳戶所擁有的共用內容 (如果明確與使用者或群組共用)\*  <br/><br/> \**使用 Box 報告來識別外部帳戶。指示使用者在移轉之後再度分享其內容。* <br/> | 擁有權歷程記錄、先前的版本和註解  <br/>  檔案與資料夾描述  <br/>  使用者層級檔案權限  <br/>  群組層級檔案權限  <br/>  Box 標記和進階中繼資料  <br/>  檔案鎖定屬性  <br/>  內容中的內嵌 URL 轉換  <br/>  丟到垃圾筒的項目  <br/>  無法存取或損毀的文件  <br/>  遭封鎖或非作用中的使用者  <br/>  Box 附註 (因移轉時未轉換而無功能)  <br/>  Box 應用程式、書籤、我的最愛及工作流程  <br/>  內容不屬於移轉之 Box 帳戶 (共用資料夾)  <br/>  外部使用者的權限和中繼資料\*  <br/>  檔案或資料夾超過目前 [Sharepoint 的規定和限制](https://go.microsoft.com/fwlink/?linkid=846724) <br/> |
+|**Dropbox for Teams (標準版和進階版)**  <br/> |單一或多個階段  <br/> | 文件  <br/>  檔案與資料夾結構  <br/>  使用者層次資料夾權限  <br/>  群組層級資料夾權限  <br/>  小於 15 GB 的檔案  <br/>  基本文件與資料夾的中繼資料：  <br/>  建立日期  <br/>  修改日期  <br/>  建立者  <br/>  上次修改者  <br/> 共用的小組資料夾和內容 <br/> 正在移轉之 Dropbox 帳戶所擁有的共用內容 (如果明確與使用者或群組共用)\*  <br/> <br/> \**使用 Dropbox 報告來識別外部帳戶。指示使用者在移轉之後再度分享其內容。* <br/> | 擁有權歷程記錄、先前的版本和註解 <br/>  檔案與資料夾描述 <br/>  使用者層次檔案權限  <br/>  群組層級檔案權限    <br/> 進階中繼資料  <br/>  檔案鎖定屬性  <br/>  內容中的內嵌 URL 轉換  <br/>  丟到垃圾筒的項目  <br/>  無法存取或損毀的文件  <br/>  已卸載的 Dropbox 資料夾 <br/>  已刪除或中斷連線的使用者 <br/>  Dropbox Paper、Showcases 和 Spaces  <br/> Dropbox 應用程式和我的最愛 (釘選/星號) <br/> 不是由已移轉的 Dropbox 帳戶所擁有的內容  <br/>  外部使用者的權限和中繼資料\*  <br/>  檔案或資料夾超過目前 [Sharepoint 的規定和限制](https://go.microsoft.com/fwlink/?linkid=846724) <br/> <br/> \**使用 Dropbox 報告來識別外部帳戶。指示使用者在移轉之後再度分享其內容。* <br/> |
    
 FastTrack 專家會在移轉期間執行下列工作：  
 - 舉行一場移轉逐步研習會，並涵蓋所選取移轉案例的程序與方法。   
@@ -287,20 +290,20 @@ FastTrack 專家會在移轉期間執行下列工作：
 - 在移轉完成後至多五天，於使用者接受度測試中提供移轉後協助。
    
 您會在移轉期間執行下列工作：
-- 提供建議用於評估與移轉活動的專案資源。包括：
+- Provide project resources recommended for assessment and migration activities. These include:
   - 專案管理。
   - UAT。
   - 系統管理員負責來源和目標內容平台。
 - 針對評估和移轉活動提供基礎結構必要條件 (如有必要)。   
 - 將來源及目標環境的存取權和權限提供給 FastTrack 專家以執行移轉活動 (如有必要)。  
     > [!NOTE]
-    > 移轉僅會使用依循上架期間所定義之安全需求的帳戶。如果您沒有使用此類帳戶，您的移轉可能會遭到延遲。 
+    > Migrations only use accounts that adhere to security requirements defined during onboarding. If you don't use such accounts, you may experience migration delays. 
 - 安裝由 FastTrack 所提供的評估工具，並完成評估資料收集活動 (如果適用)。
 - 在內部部署安裝由 FastTrack 所提供的移轉軟體 (如果適用)。  
 - 完成 FastTrack 所提供的補救報告中所述的補救動作　(如果適用)。   
 - 使用 FastTrack 範本和指引來提供移轉排程。 
 - 提供已定義方法的排程和要在每個移轉事件移轉的特定使用者資料清單。
-- 從排程中刪除使用者資料，直到移轉批次處理前 24 小時。這應該與最終的移轉批次相對應。
+- Drop user data from the schedule until 24 hours in advance of the migration batch. This should correspond to the final migration batch.
 - 執行移轉品質保證和使用者接受度測試。   
 - 執行移轉後的移轉補救措施 (如果適用)。  
 - 規劃及實作變更管理與使用者通訊 (若適用)。  

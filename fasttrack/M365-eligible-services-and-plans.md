@@ -3,19 +3,19 @@ title: 適用的服務與方案
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 當您購買任何 Microsoft 365 服務，FastTrack 專家可提供您 Microsoft 365 的上架指引，讓您即刻開始使用。
-ms.openlocfilehash: 9b6c7272d1b8083acd3d5765687ce841e08d086a
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: c5d959a40e11bf17382887d31494eac9e4ed9a93
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999829"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011223"
 ---
 # <a name="eligible-services-and-plans"></a>適用的服務與方案
 
@@ -33,7 +33,7 @@ ms.locfileid: "43999829"
 2.    從您的登陸頁面頂端的 [快速動作]**** 選取 [要求協助使用 Microsoft 365]****，或選取部署卡片上的 [要求協助使用 Microsoft 365]****。
 3.    填妥 [要求協助使用 Microsoft 365]**** 表單。
   
-合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。作法如下：
+Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
 1.    登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
 2.    選取 **[我的客戶]**。
 3.    搜尋您的客戶或從客戶清單中選取他們。
@@ -53,7 +53,9 @@ FastTrack 中心提供下列服務的協助：
 - Azure 資訊保護
 - Exchange Online 
 - Microsoft 365 Apps
-- Windows Defender 進階威脅防護
+- Microsoft Defender 進階威脅防護
+- Microsoft 資訊控管
+- Microsoft 資訊保護
 - Microsoft Intune
 - Microsoft Teams
 - Office 365 進階威脅防護
@@ -75,6 +77,10 @@ FastTrack 中心提供下列服務的協助：
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
 - Microsoft 365 E5 Security\*
+- Microsoft 365 E5 合規性\*
+- Microsoft 365 E5 電子文件探索和稽核\*
+- Microsoft 365 E5 資訊保護和控管\*
+- Microsoft 365 E5 測試人員風險管理\*
 - Microsoft 365 F1\*
 - Microsoft 365 商務版\*
 - Microsoft 365 Apps 企業版\*
@@ -91,6 +97,10 @@ FastTrack 中心提供下列服務的協助：
 - Microsoft 365 A3\*
 - Microsoft 365 A5\*
 - Microsoft 365 A5 安全性\*
+- Microsoft 365 A5 合規性\*
+- Microsoft 365 A5 電子文件探索和稽核\*
+- Microsoft 365 A5 資訊保護和控管\*
+- Microsoft 365 A5 內部風險管理\*
 - Microsoft 365 Apps 教育版 (裝置)\*
  
 ## <a name="eligible-office-365-plans"></a>適用的 Office 365 方案
@@ -227,5 +237,5 @@ FastTrack 中心提供下列服務的協助：
   
 ## <a name="fasttrack-center-additional-benefit-eligibility"></a>FastTrack 中心其他權益適用性
 
-為 Office 365 租用戶購買至少 20,000 個授權的客戶符合 FastTrack Center 附加服務的資格。如需詳細資訊，請參閱＜[附錄 B：FastTrack Center 其他權益](O365-fasttrack-additional-benefits.md)＞。
+為 Office 365 租用戶購買至少 20,000 個授權的客戶符合 FastTrack 中心其他服務的資格。 如需詳細資訊，請參閱[附錄 A：FastTrack 中心其他權益](O365-fasttrack-additional-benefits.md)。
   

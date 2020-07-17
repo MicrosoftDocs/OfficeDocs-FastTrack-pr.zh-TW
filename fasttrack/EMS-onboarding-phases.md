@@ -82,7 +82,7 @@ FastTrack 中心也會提供如何驅動成功採用合格服務的相關指引�
 
 ![上線啟用階段 - 核心功能](./media/ft-enable-phase-core-02.png)
 > [!NOTE]
-> WAP stands for Web Application Proxy. SSL stands for Secure Sockets Layer. SDS stands for School Data Sync. For more information on SDS, see [Welcome to Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480).
+> WAP 代表 Web 應用程式 Proxy。SSL 代表安全通訊端層。SDS 代表學校資料同步處理。有關 SDS 的詳細資訊，請參閱[歡迎使用 Microsoft 學校資料同步處理](https://go.microsoft.com/fwlink/?linkid=871480)。
 
 > [!NOTE]
 > 受管理的驗證方法包括但不限於密碼雜湊同步處理。 身分識別整合為一次性活動，而且不包括移轉或解除委任現有的驗證方法，例如受管理的驗證或同盟驗證。

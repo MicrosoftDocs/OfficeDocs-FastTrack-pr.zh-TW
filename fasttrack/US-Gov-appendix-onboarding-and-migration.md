@@ -19,7 +19,7 @@ ms.locfileid: "45011271"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 美國政府的上架和遷移階段
 
-Office 365 onboarding has four primary phases—Initiate, Assess, Remediate, and Enable. You can follow these phases with an optional data migration phase as shown in the following figure.
+Office 365 上架有四個主要階段 - 起始、評估、修復與啟用。您可以在這些階段後面選擇接著資料移轉階段，如下圖所示。
   
 ![上架權益的階段](media/O365-Onboarding-Phases.png)
   
@@ -38,7 +38,7 @@ Office 365 onboarding has four primary phases—Initiate, Assess, Remediate, and
 2.    從登陸頁面頂端的 [**快速動作**] 或選取 [部署卡片上的**Microsoft 365 的要求協助**] 中，選取 [**要求 microsoft 365 的協助]。**
 3. 填妥 [要求協助使用 Microsoft 365]**** 表單。 
 
-Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
+合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。作法如下：
 1.    登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
 2.    選取 **[我的客戶]**。
 3.    搜尋您的客戶或從客戶清單中選取他們。
@@ -55,11 +55,11 @@ Partners can also get help through the [FastTrack site](https://go.microsoft.com
   
 ## <a name="assess-phase"></a>評估階段
 
-Your FastTrack Manager conducts an interactive success planning call with you and your adoption team. This introduces you to the capabilities of the eligible services you purchased, the key foundations you need for success, the methodology for driving usage of the service, and scenarios you can use to get value from the services. We assist you in success planning and provide feedback on key areas (as needed).
+您的 FastTrack 專案經理會透過電話與您和您的採用小組針對如何做出成功的規劃進行互動討論。在討論過程中，他會為您介紹您購買的合格服務的功能、讓計劃成功所需的關鍵基礎、促進服務使用量的方法，以及您可以用來獲取服務價值的案例。我們會協助您做出成功的規劃，並 (視需要) 就關鍵領域提供意見。
   
 FastTrack 專家會與您一起評估您的來源環境和需求。 我們為您提供工具，以收集有關您環境的資料，並引導您評估頻寬需求，以及評估 internet 瀏覽器、用戶端作業系統、網域名稱系統（DNS）、網路、基礎結構和身分識別系統，以判斷上架是否需要進行任何變更。 
   
-Based on your current setup, we provide a remediation plan that brings your source environment up to the minimum requirements for successful onboarding to Office 365 and, if needed, for successful mailbox and/or data migration. We provide a set of suggested activities to increase end user value and adoption. We also set up appropriate checkpoint calls for the Remediate phase.
+根據您目前的設定，我們將提供修復方案，該方案最高可將您的來源環境帶至成功上架為 Office 365 的最低系統需求，以及成功進行信箱和/或資料移轉 (如果需要)。我們會提供一組建議活動來增加使用者價值和採用率。我們也將對修復階段設定適當的檢查點通話。
   
 ![評估階段的上架步驟](media/O365.png)
   
@@ -69,7 +69,7 @@ Based on your current setup, we provide a remediation plan that brings your sour
   
 ![修復階段期間的上架步驟](media/O365-Onboarding-Remediate.png)
   
-We also provide a set of suggested activities to increase end user value and adoption. Before beginning the Enable phase, we jointly verify the outcomes of the remediation activities to make sure you're ready to proceed. 
+我們也會提供一組建議活動來增加使用者價值和採用率。開始「啟用」階段之前，我們會一起驗證修復活動的成果，以確定您已準備就緒可繼續進行。 
   
 在此階段，您的 FastTrack 專案經理會與您合作以設計出成功的規劃，引導您找到合適的資源與最佳作法，提供指引以利您提供服務給您的組織並促進服務之間的使用量。
   
@@ -79,25 +79,25 @@ We also provide a set of suggested activities to increase end user value and ado
   
 ## <a name="core"></a>核心
 
-Core onboarding involves service provisioning and tenant and identity integration. It also includes steps for providing a foundation for onboarding services like Exchange Online, SharePoint Online, and Skype for Business Online. You and your FastTrack Manager continue to have success planning checkpoint meetings to evaluate progress against your goals and determine what further assistance you need.
+核心上架包括服務佈建和租用戶與身分識別整合。它還包括提供基礎以讓 Exchange Online、SharePoint Online 和 商務用 Skype Online 等服務上架的步驟。您和您的 FastTrack 專案經理仍會舉行成功規劃檢查點會議，以評估目標進度並判斷您需要哪些進一步的協助。
   
 ![啟用階段_1 期間的核心上架步驟](media/O365-Onboarding-Enable-Core.png)
   
 ![啟用階段_2 期間的核心上架步驟](media/204bbb6c-f7fe-4401-aa69-dd828ed44963.png)
   
 > [!NOTE]
-> WAP stands for Web Application Proxy. SSL stands for Secure Sockets Layer. SDS stands for School Data Sync. For more information on SDS, see [Welcome to Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480). 
+> WAP 代表 Web 應用程式 Proxy。SSL 代表安全通訊端層。SDS 代表學校資料同步處理。有關 SDS 的詳細資訊，請參閱[歡迎使用 Microsoft 學校資料同步處理](https://go.microsoft.com/fwlink/?linkid=871480)。 
   
 將一或多個合格服務上架的動作可以從核心上架完成時開始。
   
 ## <a name="exchange-online"></a>Exchange Online
 
-For Exchange Online, we guide you through the process to get your organization ready to use email. The exact steps, depending on your source environment and your email migration plans, can include providing guidance for:
+對於 Exchange Online，我們將引導您讓組織準備好使用電子郵件的程序。確切步驟因您的來源環境和電子郵件移轉方案有所不同，可能包含提供下列項目的指引：
   
 - 針對在 Office 365 中驗證的所有已啟用郵件的網域設定 Exchange Online Protection (EOP) 功能。   
     > [!NOTE]
     > 您的郵件交換 (MX) 記錄必須指向 Office 365。   
-- Setting up the Exchange Online Advanced Threat Protection (ATP) feature if it's part of your subscription service once your MX records point to Office 365. This feature is configured as part of the Exchange Online Protection antimalware settings.   
+- 設定 Exchange Online 進階威脅防護 (ATP) 功能，如果它在您的 MX 記錄指向 Office 365 之後是訂閱服務的一部分。這項功能設定為 Exchange Online Protection 反惡意程式碼設定的一部分。   
 - 設定防火牆連接埠。   
 - 視需要設定 DNS、併入需要的自動探索、寄件者原則架構 (SPF) 和 MX 記錄。     
 - 如果需要，則設定您的來源訊息環境與 Exchange Online 間的電子郵件流程。   

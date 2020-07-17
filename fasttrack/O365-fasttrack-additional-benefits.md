@@ -8,7 +8,7 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
-description: Customers who purchase at least 20,000 licenses for an Exchange Online tenant are eligible for FastTrack Center additional services. See Eligible Services and Plans for more details.
+description: Exchange Online 租用戶購買至少 20,000 個授權的客戶符合 FastTrack Center 附加服務的資格。如需詳細資料，請參閱合格服務與計劃。
 ms.openlocfilehash: 619ba9bf27116a94a40e74b38a4f4bbdd4d6c99d
 ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
@@ -18,7 +18,7 @@ ms.locfileid: "45010983"
 ---
 # <a name="appendix-a---fasttrack-center-additional-benefit"></a>附錄 A：FastTrack 中心其他權益
 
-Customers who purchase at least 20,000 licenses for an Exchange Online tenant are eligible for FastTrack Center additional services. See [Eligible Services and Plans](M365-eligible-services-and-plans.md) for more details. 
+Exchange Online 租用戶購買至少 20,000 個授權的客戶符合 FastTrack Center 附加服務的資格。如需詳細資料，請參閱＜[合格服務與計劃](M365-eligible-services-and-plans.md)＞。 
   
 ## <a name="onboarding-and-migration-phases"></a>上架及移轉階段
 
@@ -48,7 +48,7 @@ Customers who purchase at least 20,000 licenses for an Exchange Online tenant ar
     
 ## <a name="fasttrack-responsibilities"></a>FastTrack 責任
 
-FastTrack Specialists have the following responsibilities during onboarding. These may be in addition to or replace the activities defined in [FastTrack Responsibilities](O365-fasttrack-responsibilities.md).
+在上架期間 FastTrack 專家需擔負下列責任。這些可能是取代＜[FastTrack 責任](O365-fasttrack-responsibilities.md)＞中所定義的活動或活動之外的部分。
   
 ## <a name="general"></a>一般
 
@@ -64,7 +64,7 @@ FastTrack Specialists have the following responsibilities during onboarding. The
 
 ### <a name="geo-redundant-ad-fs-guidance"></a>異地備援 AD FS 指引
 
-- Provide standard reference architecture design for a geo-redundant AD FS topology spanning two (2) data centers. The standard architecture provides for:
+- 提供專為跨兩個 (2) 資料中心的異地備援 AD FS 拓撲所設計的標準參考架構。標準架構提供：
   - FastTrack Center 效益範圍內的服務同盟驗證。 
   - 單一站台恢復。  
   - [高可用性] 和 [容錯移轉]。  
@@ -79,7 +79,7 @@ FastTrack Specialists have the following responsibilities during onboarding. The
 ### <a name="ad-fs-client-access-policy-guidance"></a>AD FS 用戶端存取原則指引
 
 - 檢閱保護 Office 365 資源所需的原則及組態。  
-- Provide guidance and assistance with configuring the AD FS client access policy for identified client access scenarios within the boundaries of supported scenarios. For more information, see [Limiting Access to Office 365 Services Based on the Location of the Client](https://go.microsoft.com/fwlink/?LinkID=525689). 
+- 針對支援案例界限內的識別用戶端存取案例，提供設定 AD FS 用戶端存取原則的指引與協助。如需詳細資訊，請參閱[根據用戶端的位置限制存取 Office 365 服務](https://go.microsoft.com/fwlink/?LinkID=525689)。 
 - 針對具有最多 10 個使用者的識別用戶端存取案例驗證具有修改的用戶端存取原則的同盟驗證功能。
     
 ## <a name="exchange-online"></a>Exchange Online
@@ -96,7 +96,7 @@ FastTrack Specialists have the following responsibilities during onboarding. The
   - UM 自動語音應答連絡人和 Outlook 語音信箱將使用者重新導向至 Exchange Online。 
   - 協助建立聯盟所要求的服務位置 (SRV) 記錄。
 > [!NOTE]
-> UM can be configured with supported UM IP gateways and session border controllers (SBCs). For more information, see [Telephone system integration with UM](https://go.microsoft.com/fwlink/?LinkID=809293). 
+> 可使用支援的 UM IP 通訊閘和工作階段邊界控制器 (SBCs) 來設定 UM。如需詳細資訊，請參閱＜[UM 電話系統整合](https://go.microsoft.com/fwlink/?LinkID=809293)＞。 
   
 ### <a name="public-folder-coexistence-guidance"></a>公用資料夾共存指引
 
@@ -135,7 +135,7 @@ FastTrack Specialists have the following responsibilities during onboarding. The
   
 ## <a name="your-responsibilities"></a>您的責任
 
-You have the following responsibilities during onboarding. These are in addition to the responsibilities defined in the [Your Responsibilities](O365-your-responsibilities.md) section. 
+在上架期間您需擔負下列責任。這些是＜[您的責任](O365-your-responsibilities.md)＞一節中所定義的責任以外的部分。 
   
 - 根據專案計劃指派及管理資源。  
 - 採取即時動作來減輕風險，並解決由客戶、合作夥伴專案經理和 FastTrack 專案經理所提出的問題。   

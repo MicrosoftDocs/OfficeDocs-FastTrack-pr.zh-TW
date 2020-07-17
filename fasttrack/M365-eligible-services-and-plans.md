@@ -33,7 +33,7 @@ ms.locfileid: "45011223"
 2.    從您的登陸頁面頂端的 [快速動作]**** 選取 [要求協助使用 Microsoft 365]****，或選取部署卡片上的 [要求協助使用 Microsoft 365]****。
 3.    填妥 [要求協助使用 Microsoft 365]**** 表單。
   
-Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
+合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。作法如下：
 1.    登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
 2.    選取 **[我的客戶]**。
 3.    搜尋您的客戶或從客戶清單中選取他們。

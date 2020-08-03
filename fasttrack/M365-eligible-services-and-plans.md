@@ -10,19 +10,19 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 當您購買任何 Microsoft 365 服務，FastTrack 專家可提供您 Microsoft 365 的上架指引，讓您即刻開始使用。
-ms.openlocfilehash: c5d959a40e11bf17382887d31494eac9e4ed9a93
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: bdd1ce3f98a807d6c07002741b5092390463bf86
+ms.sourcegitcommit: 21e02f51145485e20c00670e0ebe172f7def46e6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011223"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46534034"
 ---
 # <a name="eligible-services-and-plans"></a>適用的服務與方案
 
 當您購買任何 Microsoft 365 服務，FastTrack 專家可提供您 Microsoft 365 的上架指引，讓您即刻開始使用。
 
 > [!IMPORTANT]
-> 您必須從以下列出的適用方案中購買**「至少」150 個授權，才能獲得 FastTrack 服務。 Microsoft 於 2020 年 3 月推出新功能，提供六個月的「Office 365 E1」[](https://docs.microsoft.com/microsoftteams/e1-trial-license)和「Office 365 G1」[](https://docs.microsoft.com/microsoftteams/g1-trial-license)試用版授權，以幫助客戶因應 COVID-19 疫情爆發進行遠端工作和學習需求。 FastTrack 將破例於 2020 年 3 月到 2020 年 8 月這段時間協助學生加入這些免費試用版授權以及「Office 365 A1」[](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)。 Microsoft 保留不經通知即可取消、變更或暫停此優惠的權利。   
+> 您必須從以下列出的適用方案中購買**「至少」150 個授權，才能獲得 FastTrack 服務。  
   
 您可以透過 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)或 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助。 
 

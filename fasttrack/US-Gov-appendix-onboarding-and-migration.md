@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 上架 for Office 365 US 政府具有四個主要階段： Initiate、評估、修正及啟用。 您可以在這些階段後面選擇接著資料移轉階段，如下圖所示。
-ms.openlocfilehash: 8d4e396694af010f4233a3aeb8cedd6237baf203
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: a1c18b08e1be0cbb0afc26e9736d9b13c027de8f
+ms.sourcegitcommit: 7da7b0966b08486a0ede148240af958408a271f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011271"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634215"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 美國政府的上架和遷移階段
 
@@ -35,17 +35,17 @@ Office 365 上架有四個主要階段 - 起始、評估、修復與啟用。您
 
 若要透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助： 
 1.    登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.    從登陸頁面頂端的 [**快速動作**] 或選取 [部署卡片上的**Microsoft 365 的要求協助**] 中，選取 [**要求 microsoft 365 的協助]。**
-3. 填妥 [要求協助使用 Microsoft 365]**** 表單。 
-
+2.    從 [登陸] 頁面頂端的 [**快速動作**] 中，選取 [**以 Microsoft 365 要求協助**]。
+3.    **使用 Microsoft 365**表單完成要求協助。
+  
 合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。作法如下：
 1.    登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.    選取 **[我的客戶]**。
-3.    搜尋您的客戶或從客戶清單中選取他們。
-4.    選取 [服務]****。
-5.    填妥 [要求協助使用 Microsoft 365]**** 表單。   
+2.    從 [登陸] 頁面頂端的 [**快速動作**] 中，選取 [**以 Microsoft 365 要求協助**]。
+3.    輸入客戶名稱、網域或 TPID，以搜尋您的客戶。
+4.    從搜尋結果中選取 [客戶]。
+5.    **使用 Microsoft 365**表單完成要求協助。
 
-您也可以從租用戶的可用服務清單中的 FastTrack Center[FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)要求協助。 
+您也可以從租用戶的可用服務清單中的 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698) 要求 FastTrack Center 協助。 
     
 在這個階段期間，我們將討論上架程序、驗證資料並設定啟動會議。
   
@@ -57,7 +57,7 @@ Office 365 上架有四個主要階段 - 起始、評估、修復與啟用。您
 
 您的 FastTrack 專案經理會透過電話與您和您的採用小組針對如何做出成功的規劃進行互動討論。在討論過程中，他會為您介紹您購買的合格服務的功能、讓計劃成功所需的關鍵基礎、促進服務使用量的方法，以及您可以用來獲取服務價值的案例。我們會協助您做出成功的規劃，並 (視需要) 就關鍵領域提供意見。
   
-FastTrack 專家會與您一起評估您的來源環境和需求。 我們為您提供工具，以收集有關您環境的資料，並引導您評估頻寬需求，以及評估 internet 瀏覽器、用戶端作業系統、網域名稱系統（DNS）、網路、基礎結構和身分識別系統，以判斷上架是否需要進行任何變更。 
+FastTrack 專家會與您一起評估您的來源環境和需求。 我們為您提供工具，以收集有關您環境的資料，並引導您評估頻寬需求，並評估您的網際網路瀏覽器、用戶端作業系統、網域名稱系統 (DNS) 、網路、基礎結構和身分識別系統，以判斷上架是否需要進行任何變更。 
   
 根據您目前的設定，我們將提供修復方案，該方案最高可將您的來源環境帶至成功上架為 Office 365 的最低系統需求，以及成功進行信箱和/或資料移轉 (如果需要)。我們會提供一組建議活動來增加使用者價值和採用率。我們也將對修復階段設定適當的檢查點通話。
   
@@ -132,8 +132,8 @@ FastTrack 專家會提供將資料移轉到 Office 365 的指引，方法是使�
 - 設立 DNS。    
 - 建立任何會議室系統裝置的帳戶。    
 - 部署支援的 商務用 Skype Online 用戶端。   
-- 在您的內部部署 Lync 2010、Lync 2013 或商務用 Skype 2015 伺服器環境和商務用 Skype Online 租使用者之間建立分割域伺服器設定（如果適用）。
-- 啟用通話方案、Skype 會議廣播和電話系統和通話方案（在可用的市場中–無法在 GCC 高或 DoD 方案中使用）。 
+- 在您的內部部署 Lync 2010、Lync 2013 或商務用 skype 2015 伺服器環境和商務用 Skype Online 租使用者之間建立分割域伺服器設定（如果適用) ，則為商務用 Skype Online 租使用者 (）。
+- 啟用可用市場中 (的通話方案、Skype 會議廣播和電話系統和通話方案–無法在 GCC 高或 DoD 方案) 中使用。 
     
 ![啟用階段_1 期間的 Lync 上架步驟](media/O365-Onboarding-Enable-Lync.png)
   

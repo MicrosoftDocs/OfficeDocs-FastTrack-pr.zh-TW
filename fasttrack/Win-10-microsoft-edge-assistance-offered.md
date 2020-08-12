@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 當您購買任何 Windows 10 或 Microsoft 365 服務 (如「適用的服務與方案」中所述)，如果您有可搭配 Internet Explorer 或 Google Chrome 使用的 Web 應用程式或網站，FastTrack 專家可提供遠端部署指導方針和相容性協助。
-ms.openlocfilehash: 2e295d43ac037d0908a78c0a9f2bb03f2dce177c
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
-ms.translationtype: MT
+ms.openlocfilehash: 29a38add3ca5787faaf083e96ec858661fe823b0
+ms.sourcegitcommit: 7da7b0966b08486a0ede148240af958408a271f7
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011559"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634179"
 ---
 # <a name="assistance-offered"></a>提供的協助
 
@@ -33,16 +33,15 @@ FastTrack 提供下列各項的遠端指導方針：
 
 若要透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助： 
 1.    登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.    從您的登陸頁面頂端的 [快速動作]**** 選取 [要求協助使用 Microsoft 365]****，或選取部署卡片上的 [要求協助使用 Microsoft 365]****。
-3.    填妥 [要求協助使用 Microsoft 365]**** 表單。
+2.    從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助**。
+3.    填妥**使用 Microsoft 365 要求協助** 表單。
   
 合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。作法如下：
 1.    登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.    選取 **[我的客戶]**。
-3.    搜尋您的客戶或從客戶清單中選取他們。
-4.    選取 [服務]****。
-5.    選取 [要求協助使用 Microsoft 365]**** 表單。
-6.    選取 **Microsoft Edge** 產品選項並完成表單。
+2.    從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助**。
+3.    輸入客戶名稱、網域或 TPID 來搜尋您的客戶。
+4.    從搜尋結果中選取客戶。
+5.    填妥**使用 Microsoft 365 要求協助** 表單。
  
 若要取得應用程式相容性協助，請填寫[應用程式保證服務要求](https://go.microsoft.com/fwlink/?linkid=2022721)。
 

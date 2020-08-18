@@ -3,19 +3,19 @@ title: Office 365 美國政府的 FastTrack 責任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/01/2020
+ms.date: 8/17/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 在上架期間 FastTrack 專家需擔負下列責任。
-ms.openlocfilehash: fdd8970a88b70a8746200a8dc66e20562c9b9b19
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: bc8c0e76a11f9e159303b7f4140e3f9fd9144ce2
+ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011619"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46776475"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 美國政府的 FastTrack 責任
 
@@ -79,8 +79,8 @@ ms.locfileid: "45011619"
   - 在您的 Active Directory 網域服務 (AD DS) 和 Office 365 之間安裝目錄同步作業伺服器 (如有必要)。   
   - 使用 Azure Active Directory Connect 工具設定密碼同步處理 (密碼雜湊) 至 Office 365 (Azure Active Directory) (如有需要)。  
   - 單一與多重樹系環境：
-      - 設定 Azure Active Directory 通過驗證（如有需要）（不適用於 GCC 高或 DoD 計畫）。
-      - 設定 Azure Active Directory 無縫單一 Sign-On （SSO）（如果需要的話）（不適用於 GCC 高或 DoD 計畫）。
+      - 設定 Azure Active Directory 通過驗證（如有需要） (無法在 GCC 高階或 DoD 方案) 中使用。
+      - 設定 Azure Active Directory 無縫單一 Sign-On (SSO) （如有必要， (無法在 GCC 高階或 DoD 方案) 中使用）。
     > [!NOTE]
     > 如果在您的 Active Directory 之間有樹系信任且正確配置了名稱尾碼路由，則會支援多重樹系環境的Azure Active Directory 通過驗證。其他代理程式可安裝在多個內部部署伺服器，以提供高可用性的登入要求。如需詳細資訊，請參閱 [：快速入門](https://go.microsoft.com/fwlink/?linkid=860094)與 [Azure Active Directory 無縫單一登入：快速入門](https://go.microsoft.com/fwlink/?linkid=860095)。[!NOTE]
     > 如需通過驗證的詳細資訊，請參閱＜[Azure Active Directory 傳遞驗證：目前的限制](https://go.microsoft.com/fwlink/?linkid=860356)＞。[!NOTE]
@@ -100,9 +100,9 @@ ms.locfileid: "45011619"
 - 啟用來源訊息系統與 Office 365 環境間的電子郵件路由。    
 - 設定 Exchange Online Protection 功能 (包括 Exchange Online 進階威脅防護 功能，如果在您的訂閱中可用)，並確認您的 MX 記錄針對所有已驗證已啟用郵件的網域指向 Office 365。   
 - 在單一內部部署 Exchange 組織與 Office 365 之間，「或者」** 在多重內部部署 Exchange 組織與 Office 365 之間進行混合設定。 
-- 設定整合通訊（UM）與 Exchange Online （UM 在 GCC DoD 方案中不可用）。 
+- 在 GCC DoD 方案) 中，使用 Exchange Online (UM) 設定整合通訊 (UM 無法使用。 
     
-如需資料移轉責任的詳細資訊，請參閱[資料移轉](O365-data-migration.md)。
+如需資料移轉責任的詳細資訊，請參閱[資料移轉](data-migration.md)。
   
 ## <a name="sharepoint-online"></a>SharePoint Online
 
@@ -147,12 +147,12 @@ ms.locfileid: "45011619"
 - 啟用音訊會議：   
   - 會議橋接預設設定的組織設定。   
   - 對授權使用者會議橋接的指派。 
-- 啟用電話系統（在 GCC 高或 DoD 方案中無法使用）：  
+- 在 GCC 高或 DoD 方案中，啟用電話系統 (無法使用) ：  
   - 啟用電話系統和通話方案上架 (在可用的市場)。 
   - 授權使用者號碼的指派。  
   - 透過 UI 的本機號碼移轉指引最多至 999。  
   - 本機號碼移轉 SR 支援超過 999。  
-- 啟用商務用 Skype 會議廣播（在 GCC 高階或 DoD 方案中無法使用）：  
+- 啟用商務用 Skype 會議廣播 (無法在 GCC 高或 DoD 計畫) 中使用：  
   - 啟用商務用 Skype 會議廣播上架指引。  
   - 針對會議廣播服務同盟的組織設定。
     

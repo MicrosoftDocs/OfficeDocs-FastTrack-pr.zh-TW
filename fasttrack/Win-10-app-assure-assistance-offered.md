@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: 當您購買任何 Windows 10 或 Microsoft 365 服務時，FastTrack 專家會提供部署至 Windows 10 和 Microsoft 365 Apps 的建議和修復指引，並且讓您保持在最新狀態而不需額外成本 (具有合格訂用帳戶)。
-ms.openlocfilehash: c291ddb37146b6a2f4151be971570dbba806fe2e
-ms.sourcegitcommit: a293da96a47a7e1d97d09e1665fdb17ea0506944
+ms.openlocfilehash: 874a23083e9c838486fad93d5da46e269f12282a
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46795070"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817686"
 ---
 # <a name="assistance-offered"></a>提供的協助  
 

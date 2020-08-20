@@ -7,15 +7,15 @@ ms.date: 8/17/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: 在本主題中，我們概括了從購買 Microsoft 365 授權的 FastTrack 專家那裡收到導向協助的資格要求，並詳細說明涵蓋的特定產品和功能。
-ms.openlocfilehash: f89c4f090ca08795d7ba7bc311e7f218e004da9f
-ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
+ms.openlocfilehash: ce37dd547b93dd2a66b18d5250626c14ed20ff53
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46776683"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817566"
 ---
 # <a name="eligibility"></a>資格
 

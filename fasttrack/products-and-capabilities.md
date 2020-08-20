@@ -1,5 +1,5 @@
 ---
-title: 產品及功能
+title: 產品與功能
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
@@ -7,17 +7,17 @@ ms.date: 8/17/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: 本主題包括 FastTrack 所支援之工作負載案例的詳細資料，以及在開始之前所需的來源環境預期。 根據您目前的設定，我們會與您合作，建立修復計畫，以將來源環境帶入成功上架的最低需求。
-ms.openlocfilehash: 1b1ffa5812905630723b5d8a23196fbbc18a9c32
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: d25c1df8e628f14487952cacc86ccf8fb9dad8c1
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800965"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817698"
 ---
-# <a name="products-and-capabilities"></a>產品及功能
+# <a name="products-and-capabilities"></a>產品與功能
 
 ## <a name="services-and-scenarios-supported-by-fasttrack"></a>FastTrack 所支援的服務和案例
 
@@ -660,7 +660,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 </ul>
 
 <tr class="odd">
-<td><strong>Microsoft Defender 高級威脅防護 (ATP) </strong></td>
+<td><strong>Microsoft Defender 進階威脅防護 (ATP)</strong></td>
 <td>  Microsoft Defender 進階威脅防護 (ATP) 是一個平台，其設計訴求是要協助企業網路預防、偵測、調查及回應進階威脅。  
   我們提供下列專案的遠端指導：
 <ul>

@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: Windows 10 上架有四個主要階段 - 起始、評估、修復與啟用。
-ms.openlocfilehash: 5781c71ee9748579097adc1a0ea103e7dc64945d
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: a7047bbec148fa6bbe49d8bb84f8a73f2a132e0d
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800677"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817554"
 ---
 # <a name="onboarding-phases"></a>上架階段
 

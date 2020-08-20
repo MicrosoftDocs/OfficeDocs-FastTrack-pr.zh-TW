@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: 當您購買任何 Windows 10 或 Microsoft 365 服務時，FastTrack 專家會為您提供遠端部署指引以保護端點。 我們的服務會針對每個客戶的環境和需求而量身打造。
-ms.openlocfilehash: 05b466e1136344294da3e277c9a0e60370e42588
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: bf488a2cbe1c61083425171de6942b5db59e58ad
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800713"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817650"
 ---
 # <a name="assistance-offered"></a>提供的協助  
 

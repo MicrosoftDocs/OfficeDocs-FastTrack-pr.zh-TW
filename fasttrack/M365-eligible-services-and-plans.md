@@ -12,233 +12,233 @@ ms.collection: FastTrack
 description: 當您購買任何 Microsoft 365 服務，FastTrack 專家可提供您 Microsoft 365 的上架指引，讓您即刻開始使用。
 ms.openlocfilehash: 8b538abb0ffd5efc6ca2fbc6813c6535cae39ff8
 ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 08/18/2020
 ms.locfileid: "46800953"
 ---
-# <a name="eligible-services-and-plans"></a><span data-ttu-id="d89d6-103">適用的服務與方案</span><span class="sxs-lookup"><span data-stu-id="d89d6-103">Eligible Services and Plans</span></span>
+# <a name="eligible-services-and-plans"></a><span data-ttu-id="e9d7b-103">適用的服務與方案</span><span class="sxs-lookup"><span data-stu-id="e9d7b-103">Eligible Services and Plans</span></span>
 
 > [!CAUTION]
-> <span data-ttu-id="d89d6-104">此內容已不再是最新的，且已排程為待移除。</span><span class="sxs-lookup"><span data-stu-id="d89d6-104">This content is no longer current and is scheduled for removal.</span></span> <span data-ttu-id="d89d6-105">使用目前內容左側導覽中的目錄。</span><span class="sxs-lookup"><span data-stu-id="d89d6-105">Use the table of contents in the left-hand navigation for current content.</span></span>
+> <span data-ttu-id="e9d7b-104">此內容已不再是最新的，且已排定移除。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-104">This content is no longer current and is scheduled for removal.</span></span> <span data-ttu-id="e9d7b-105">請使用目前內容左側瀏覽的目錄。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-105">Use the table of contents in the left-hand navigation for current content.</span></span>
 
-<span data-ttu-id="d89d6-106">當您購買任何 Microsoft 365 服務，FastTrack 專家可提供您 Microsoft 365 的上架指引，讓您即刻開始使用。</span><span class="sxs-lookup"><span data-stu-id="d89d6-106">When you purchase any of the Microsoft 365 services, FastTrack Specialists provide guidance for you to onboard to Microsoft 365 and start making use of them.</span></span>
+<span data-ttu-id="e9d7b-106">當您購買任何 Microsoft 365 服務，FastTrack 專家可提供您 Microsoft 365 的上架指引，讓您即刻開始使用。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-106">When you purchase any of the Microsoft 365 services, FastTrack Specialists provide guidance for you to onboard to Microsoft 365 and start making use of them.</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="d89d6-107">您必須從以下列出的適用方案中購買\*\*「至少」150 個授權，才能獲得 FastTrack 服務。</span><span class="sxs-lookup"><span data-stu-id="d89d6-107">You must purchase *at least* 150 licenses from the listed eligible plans to receive FastTrack services.</span></span>  
+> <span data-ttu-id="e9d7b-107">您必須從以下列出的適用方案中購買\*\*「至少」150 個授權，才能獲得 FastTrack 服務。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-107">You must purchase *at least* 150 licenses from the listed eligible plans to receive FastTrack services.</span></span>  
   
-<span data-ttu-id="d89d6-108">您可以透過 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)或 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助。</span><span class="sxs-lookup"><span data-stu-id="d89d6-108">You can get help through the [Microsoft 365 admin center](https://go.microsoft.com/fwlink/?linkid=2032704) or the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698).</span></span> 
+<span data-ttu-id="e9d7b-108">您可以透過 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)或 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-108">You can get help through the [Microsoft 365 admin center](https://go.microsoft.com/fwlink/?linkid=2032704) or the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698).</span></span> 
 
-<span data-ttu-id="d89d6-109">若要透過 [Microsoft 365 系統管理員中心](https://go.microsoft.com/fwlink/?linkid=2032704)取得協助，您的系統管理員需要登入至系統管理員中心，然後按一下 **[需要協助？]** Widget。</span><span class="sxs-lookup"><span data-stu-id="d89d6-109">To get help through the [Microsoft 365 admin center](https://go.microsoft.com/fwlink/?linkid=2032704), your admin signs into the admin center and then clicks the **Need help?** widget.</span></span> 
+<span data-ttu-id="e9d7b-109">若要透過 [Microsoft 365 系統管理員中心](https://go.microsoft.com/fwlink/?linkid=2032704)取得協助，您的系統管理員需要登入至系統管理員中心，然後按一下 **[需要協助？]** Widget。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-109">To get help through the [Microsoft 365 admin center](https://go.microsoft.com/fwlink/?linkid=2032704), your admin signs into the admin center and then clicks the **Need help?** widget.</span></span> 
 
-<span data-ttu-id="d89d6-110">若要透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助：</span><span class="sxs-lookup"><span data-stu-id="d89d6-110">To get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698):</span></span> 
-1.    <span data-ttu-id="d89d6-111">登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。</span><span class="sxs-lookup"><span data-stu-id="d89d6-111">Sign in to the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698).</span></span> 
-2.    <span data-ttu-id="d89d6-112">從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助**。</span><span class="sxs-lookup"><span data-stu-id="d89d6-112">Select **Request assistance with Microsoft 365** from the **quick actions** on the top of your landing page.</span></span>
-3.    <span data-ttu-id="d89d6-113">填妥**使用 Microsoft 365 要求協助** 表單。</span><span class="sxs-lookup"><span data-stu-id="d89d6-113">Complete the **Request Assistance with Microsoft 365** form.</span></span>
+<span data-ttu-id="e9d7b-110">若要透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助：</span><span class="sxs-lookup"><span data-stu-id="e9d7b-110">To get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698):</span></span> 
+1.    <span data-ttu-id="e9d7b-111">登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-111">Sign in to the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698).</span></span> 
+2.    <span data-ttu-id="e9d7b-112">從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助**。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-112">Select **Request assistance with Microsoft 365** from the **quick actions** on the top of your landing page.</span></span>
+3.    <span data-ttu-id="e9d7b-113">填妥**使用 Microsoft 365 要求協助** 表單。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-113">Complete the **Request Assistance with Microsoft 365** form.</span></span>
   
-<span data-ttu-id="d89d6-p102">合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。作法如下：</span><span class="sxs-lookup"><span data-stu-id="d89d6-p102">Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:</span></span>
-1.    <span data-ttu-id="d89d6-116">登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。</span><span class="sxs-lookup"><span data-stu-id="d89d6-116">Sign in to the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698).</span></span> 
-2.    <span data-ttu-id="d89d6-117">從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助**。</span><span class="sxs-lookup"><span data-stu-id="d89d6-117">Select **Request assistance with Microsoft 365** from the **quick actions** on the top of your landing page.</span></span>
-3.    <span data-ttu-id="d89d6-118">輸入客戶名稱、網域或 TPID 來搜尋您的客戶。</span><span class="sxs-lookup"><span data-stu-id="d89d6-118">Search for your customer by entering the customer name, domain, or TPID.</span></span>
-4.    <span data-ttu-id="d89d6-119">從搜尋結果中選取客戶。</span><span class="sxs-lookup"><span data-stu-id="d89d6-119">Select customer from the search results.</span></span>
-5.    <span data-ttu-id="d89d6-120">填妥**使用 Microsoft 365 要求協助** 表單。</span><span class="sxs-lookup"><span data-stu-id="d89d6-120">Complete the **Request Assistance with Microsoft 365** form.</span></span>
+<span data-ttu-id="e9d7b-p102">合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。作法如下：</span><span class="sxs-lookup"><span data-stu-id="e9d7b-p102">Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:</span></span>
+1.    <span data-ttu-id="e9d7b-116">登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-116">Sign in to the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698).</span></span> 
+2.    <span data-ttu-id="e9d7b-117">從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助**。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-117">Select **Request assistance with Microsoft 365** from the **quick actions** on the top of your landing page.</span></span>
+3.    <span data-ttu-id="e9d7b-118">輸入客戶名稱、網域或 TPID 來搜尋您的客戶。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-118">Search for your customer by entering the customer name, domain, or TPID.</span></span>
+4.    <span data-ttu-id="e9d7b-119">從搜尋結果中選取客戶。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-119">Select customer from the search results.</span></span>
+5.    <span data-ttu-id="e9d7b-120">填妥**使用 Microsoft 365 要求協助** 表單。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-120">Complete the **Request Assistance with Microsoft 365** form.</span></span>
 
-<span data-ttu-id="d89d6-121">您也可以從租用戶的可用服務清單中的 FastTrack Center[FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)要求協助。</span><span class="sxs-lookup"><span data-stu-id="d89d6-121">You can also ask for FastTrack Center help from the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) in the list of available services for your tenant.</span></span> 
+<span data-ttu-id="e9d7b-121">您也可以從租用戶的可用服務清單中的 FastTrack Center[FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)要求協助。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-121">You can also ask for FastTrack Center help from the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) in the list of available services for your tenant.</span></span> 
 
 > [!NOTE]
-> <span data-ttu-id="d89d6-122">您的內部部署環境必須先通過 FastTrack Center 檢查，否則 FastTrack 專家無法提供任何指引。</span><span class="sxs-lookup"><span data-stu-id="d89d6-122">Your on-premises environment must pass the FastTrack Center checks before FastTrack Specialists can offer any guidance.</span></span> 
+> <span data-ttu-id="e9d7b-122">您的內部部署環境必須先通過 FastTrack Center 檢查，否則 FastTrack 專家無法提供任何指引。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-122">Your on-premises environment must pass the FastTrack Center checks before FastTrack Specialists can offer any guidance.</span></span> 
   
-## <a name="eligible-services"></a><span data-ttu-id="d89d6-123">適用的服務</span><span class="sxs-lookup"><span data-stu-id="d89d6-123">Eligible services</span></span>
+## <a name="eligible-services"></a><span data-ttu-id="e9d7b-123">適用的服務</span><span class="sxs-lookup"><span data-stu-id="e9d7b-123">Eligible services</span></span>
 
-<span data-ttu-id="d89d6-124">FastTrack 中心提供下列服務的協助：</span><span class="sxs-lookup"><span data-stu-id="d89d6-124">FastTrack Center provides assistance for the following  services:</span></span>
+<span data-ttu-id="e9d7b-124">FastTrack 中心提供下列服務的協助：</span><span class="sxs-lookup"><span data-stu-id="e9d7b-124">FastTrack Center provides assistance for the following  services:</span></span>
   
-- <span data-ttu-id="d89d6-125">Azure Active Directory Premium</span><span class="sxs-lookup"><span data-stu-id="d89d6-125">Azure Active Directory Premium</span></span>
-- <span data-ttu-id="d89d6-126">Azure 資訊保護</span><span class="sxs-lookup"><span data-stu-id="d89d6-126">Azure Information Protection</span></span>
-- <span data-ttu-id="d89d6-127">Exchange Online</span><span class="sxs-lookup"><span data-stu-id="d89d6-127">Exchange Online</span></span> 
-- <span data-ttu-id="d89d6-128">Microsoft 365 Apps</span><span class="sxs-lookup"><span data-stu-id="d89d6-128">Microsoft 365 Apps</span></span>
-- <span data-ttu-id="d89d6-129">Microsoft Defender 進階威脅防護</span><span class="sxs-lookup"><span data-stu-id="d89d6-129">Microsoft Defender Advanced Threat Protection</span></span>
-- <span data-ttu-id="d89d6-130">Microsoft 資訊控管</span><span class="sxs-lookup"><span data-stu-id="d89d6-130">Microsoft Information Governance</span></span>
-- <span data-ttu-id="d89d6-131">Microsoft 資訊保護</span><span class="sxs-lookup"><span data-stu-id="d89d6-131">Microsoft Information Protection</span></span>
-- <span data-ttu-id="d89d6-132">Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="d89d6-132">Microsoft Intune</span></span>
-- <span data-ttu-id="d89d6-133">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="d89d6-133">Microsoft Teams</span></span>
-- <span data-ttu-id="d89d6-134">Office 365 進階威脅防護</span><span class="sxs-lookup"><span data-stu-id="d89d6-134">Office 365 Advanced Threat Protection</span></span>
-- <span data-ttu-id="d89d6-135">商務用 OneDrive</span><span class="sxs-lookup"><span data-stu-id="d89d6-135">OneDrive for Business</span></span>
-- <span data-ttu-id="d89d6-136">Power BI</span><span class="sxs-lookup"><span data-stu-id="d89d6-136">Power BI</span></span>
-- <span data-ttu-id="d89d6-137">Project Online</span><span class="sxs-lookup"><span data-stu-id="d89d6-137">Project Online</span></span>
-- <span data-ttu-id="d89d6-138">SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="d89d6-138">SharePoint Online</span></span>
-- <span data-ttu-id="d89d6-139">商務用 Skype Online</span><span class="sxs-lookup"><span data-stu-id="d89d6-139">Skype for Business Online</span></span>
-- <span data-ttu-id="d89d6-140">Windows 10</span><span class="sxs-lookup"><span data-stu-id="d89d6-140">Windows 10</span></span>
-- <span data-ttu-id="d89d6-141">Yammer Enterprise</span><span class="sxs-lookup"><span data-stu-id="d89d6-141">Yammer Enterprise</span></span> 
+- <span data-ttu-id="e9d7b-125">Azure Active Directory Premium</span><span class="sxs-lookup"><span data-stu-id="e9d7b-125">Azure Active Directory Premium</span></span>
+- <span data-ttu-id="e9d7b-126">Azure 資訊保護</span><span class="sxs-lookup"><span data-stu-id="e9d7b-126">Azure Information Protection</span></span>
+- <span data-ttu-id="e9d7b-127">Exchange Online</span><span class="sxs-lookup"><span data-stu-id="e9d7b-127">Exchange Online</span></span> 
+- <span data-ttu-id="e9d7b-128">Microsoft 365 Apps</span><span class="sxs-lookup"><span data-stu-id="e9d7b-128">Microsoft 365 Apps</span></span>
+- <span data-ttu-id="e9d7b-129">Microsoft Defender 進階威脅防護</span><span class="sxs-lookup"><span data-stu-id="e9d7b-129">Microsoft Defender Advanced Threat Protection</span></span>
+- <span data-ttu-id="e9d7b-130">Microsoft 資訊控管</span><span class="sxs-lookup"><span data-stu-id="e9d7b-130">Microsoft Information Governance</span></span>
+- <span data-ttu-id="e9d7b-131">Microsoft 資訊保護</span><span class="sxs-lookup"><span data-stu-id="e9d7b-131">Microsoft Information Protection</span></span>
+- <span data-ttu-id="e9d7b-132">Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="e9d7b-132">Microsoft Intune</span></span>
+- <span data-ttu-id="e9d7b-133">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="e9d7b-133">Microsoft Teams</span></span>
+- <span data-ttu-id="e9d7b-134">Office 365 進階威脅防護</span><span class="sxs-lookup"><span data-stu-id="e9d7b-134">Office 365 Advanced Threat Protection</span></span>
+- <span data-ttu-id="e9d7b-135">商務用 OneDrive</span><span class="sxs-lookup"><span data-stu-id="e9d7b-135">OneDrive for Business</span></span>
+- <span data-ttu-id="e9d7b-136">Power BI</span><span class="sxs-lookup"><span data-stu-id="e9d7b-136">Power BI</span></span>
+- <span data-ttu-id="e9d7b-137">Project Online</span><span class="sxs-lookup"><span data-stu-id="e9d7b-137">Project Online</span></span>
+- <span data-ttu-id="e9d7b-138">SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="e9d7b-138">SharePoint Online</span></span>
+- <span data-ttu-id="e9d7b-139">商務用 Skype Online</span><span class="sxs-lookup"><span data-stu-id="e9d7b-139">Skype for Business Online</span></span>
+- <span data-ttu-id="e9d7b-140">Windows 10</span><span class="sxs-lookup"><span data-stu-id="e9d7b-140">Windows 10</span></span>
+- <span data-ttu-id="e9d7b-141">Yammer Enterprise</span><span class="sxs-lookup"><span data-stu-id="e9d7b-141">Yammer Enterprise</span></span> 
 
 > [!NOTE]
-> <span data-ttu-id="d89d6-142">Office 365 專業增強版已重新命名為 Microsoft 365 Apps。</span><span class="sxs-lookup"><span data-stu-id="d89d6-142">Office 365 ProPlus has been renamed to Microsoft 365 Apps.</span></span> <span data-ttu-id="d89d6-143">在某些情況下，您可能會看到使用舊版的名稱。</span><span class="sxs-lookup"><span data-stu-id="d89d6-143">In some cases, you may find uses of the legacy name.</span></span> <span data-ttu-id="d89d6-144">如需有關此變更生效時間的詳細資料，請參閱 [Office 365 專業增強版的名稱變更](https://docs.microsoft.com/deployoffice/name-change)。</span><span class="sxs-lookup"><span data-stu-id="d89d6-144">For details of when this change takes effect see [Name change for Office 365 ProPlus](https://docs.microsoft.com/deployoffice/name-change).</span></span> 
+> <span data-ttu-id="e9d7b-142">Office 365 專業增強版已重新命名為 Microsoft 365 Apps。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-142">Office 365 ProPlus has been renamed to Microsoft 365 Apps.</span></span> <span data-ttu-id="e9d7b-143">在某些情況下，您可能會看到使用舊版的名稱。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-143">In some cases, you may find uses of the legacy name.</span></span> <span data-ttu-id="e9d7b-144">如需有關此變更生效時間的詳細資料，請參閱 [Office 365 專業增強版的名稱變更](https://docs.microsoft.com/deployoffice/name-change)。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-144">For details of when this change takes effect see [Name change for Office 365 ProPlus](https://docs.microsoft.com/deployoffice/name-change).</span></span> 
 
-## <a name="eligible-microsoft-365-plans"></a><span data-ttu-id="d89d6-145">適用的 Microsoft 365 方案</span><span class="sxs-lookup"><span data-stu-id="d89d6-145">Eligible Microsoft 365 plans</span></span>
+## <a name="eligible-microsoft-365-plans"></a><span data-ttu-id="e9d7b-145">適用的 Microsoft 365 方案</span><span class="sxs-lookup"><span data-stu-id="e9d7b-145">Eligible Microsoft 365 plans</span></span>
   
- <span data-ttu-id="d89d6-146">**Microsoft 365 企業版**</span><span class="sxs-lookup"><span data-stu-id="d89d6-146">**Microsoft 365 Enterprise**</span></span>
+ <span data-ttu-id="e9d7b-146">**Microsoft 365 企業版**</span><span class="sxs-lookup"><span data-stu-id="e9d7b-146">**Microsoft 365 Enterprise**</span></span>
 
-- <span data-ttu-id="d89d6-147">Microsoft 365 E3\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-147">Microsoft 365 E3\*</span></span>
-- <span data-ttu-id="d89d6-148">Microsoft 365 E5\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-148">Microsoft 365 E5\*</span></span>
-- <span data-ttu-id="d89d6-149">Microsoft 365 E5 Security\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-149">Microsoft 365 E5 Security\*</span></span>
-- <span data-ttu-id="d89d6-150">Microsoft 365 E5 合規性\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-150">Microsoft 365 E5 Compliance\*</span></span>
-- <span data-ttu-id="d89d6-151">Microsoft 365 E5 電子文件探索和稽核\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-151">Microsoft 365 E5 eDiscovery & Audit\*</span></span>
-- <span data-ttu-id="d89d6-152">Microsoft 365 E5 資訊保護和控管\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-152">Microsoft 365 E5 Information Protection & Governance\*</span></span>
-- <span data-ttu-id="d89d6-153">Microsoft 365 E5 測試人員風險管理\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-153">Microsoft 365 E5 Insider Risk Management\*</span></span>
-- <span data-ttu-id="d89d6-154">Microsoft 365 F1\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-154">Microsoft 365 F1\*</span></span>
-- <span data-ttu-id="d89d6-155">Microsoft 365 商務版\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-155">Microsoft 365 Business\*</span></span>
-- <span data-ttu-id="d89d6-156">Microsoft 365 Apps 企業版\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-156">Microsoft 365 Apps for enterprise\*</span></span>
-- <span data-ttu-id="d89d6-157">Microsoft 365 Apps 企業版 (裝置)\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-157">Microsoft 365 Apps for enterprise (device)\*</span></span>
+- <span data-ttu-id="e9d7b-147">Microsoft 365 E3\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-147">Microsoft 365 E3\*</span></span>
+- <span data-ttu-id="e9d7b-148">Microsoft 365 E5\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-148">Microsoft 365 E5\*</span></span>
+- <span data-ttu-id="e9d7b-149">Microsoft 365 E5 Security\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-149">Microsoft 365 E5 Security\*</span></span>
+- <span data-ttu-id="e9d7b-150">Microsoft 365 E5 合規性\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-150">Microsoft 365 E5 Compliance\*</span></span>
+- <span data-ttu-id="e9d7b-151">Microsoft 365 E5 電子文件探索和稽核\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-151">Microsoft 365 E5 eDiscovery & Audit\*</span></span>
+- <span data-ttu-id="e9d7b-152">Microsoft 365 E5 資訊保護和控管\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-152">Microsoft 365 E5 Information Protection & Governance\*</span></span>
+- <span data-ttu-id="e9d7b-153">Microsoft 365 E5 測試人員風險管理\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-153">Microsoft 365 E5 Insider Risk Management\*</span></span>
+- <span data-ttu-id="e9d7b-154">Microsoft 365 F1\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-154">Microsoft 365 F1\*</span></span>
+- <span data-ttu-id="e9d7b-155">Microsoft 365 商務版\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-155">Microsoft 365 Business\*</span></span>
+- <span data-ttu-id="e9d7b-156">Microsoft 365 Apps 企業版\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-156">Microsoft 365 Apps for enterprise\*</span></span>
+- <span data-ttu-id="e9d7b-157">Microsoft 365 Apps 企業版 (裝置)\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-157">Microsoft 365 Apps for enterprise (device)\*</span></span>
     
- <span data-ttu-id="d89d6-158">**Microsoft 365 商務版**</span><span class="sxs-lookup"><span data-stu-id="d89d6-158">**Microsoft 365 Business**</span></span>
+ <span data-ttu-id="e9d7b-158">**Microsoft 365 商務版**</span><span class="sxs-lookup"><span data-stu-id="e9d7b-158">**Microsoft 365 Business**</span></span>
 
- - <span data-ttu-id="d89d6-159">Microsoft 365 商務基本版\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-159">Microsoft 365 Business Basic\*</span></span>
- - <span data-ttu-id="d89d6-160">Microsoft 365 商務標準版\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-160">Microsoft 365 Business Standard\*</span></span>
- - <span data-ttu-id="d89d6-161">Microsoft 365 Apps 商務版\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-161">Microsoft 365 Apps for business\*</span></span>
+ - <span data-ttu-id="e9d7b-159">Microsoft 365 商務基本版\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-159">Microsoft 365 Business Basic\*</span></span>
+ - <span data-ttu-id="e9d7b-160">Microsoft 365 商務標準版\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-160">Microsoft 365 Business Standard\*</span></span>
+ - <span data-ttu-id="e9d7b-161">Microsoft 365 Apps 商務版\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-161">Microsoft 365 Apps for business\*</span></span>
  
- <span data-ttu-id="d89d6-162">**Microsoft 365 教育版**</span><span class="sxs-lookup"><span data-stu-id="d89d6-162">**Microsoft 365 Education**</span></span>
+ <span data-ttu-id="e9d7b-162">**Microsoft 365 教育版**</span><span class="sxs-lookup"><span data-stu-id="e9d7b-162">**Microsoft 365 Education**</span></span>
 
-- <span data-ttu-id="d89d6-163">Microsoft 365 A3\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-163">Microsoft 365 A3\*</span></span>
-- <span data-ttu-id="d89d6-164">Microsoft 365 A5\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-164">Microsoft 365 A5\*</span></span>
-- <span data-ttu-id="d89d6-165">Microsoft 365 A5 安全性\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-165">Microsoft 365 A5 Security\*</span></span>
-- <span data-ttu-id="d89d6-166">Microsoft 365 A5 合規性\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-166">Microsoft 365 A5 Compliance\*</span></span>
-- <span data-ttu-id="d89d6-167">Microsoft 365 A5 電子文件探索和稽核\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-167">Microsoft 365 A5 eDiscovery & Audit\*</span></span>
-- <span data-ttu-id="d89d6-168">Microsoft 365 A5 資訊保護和控管\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-168">Microsoft 365 A5 Information Protection & Governance\*</span></span>
-- <span data-ttu-id="d89d6-169">Microsoft 365 A5 內部風險管理\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-169">Microsoft 365 A5 Insider Risk Management\*</span></span>
-- <span data-ttu-id="d89d6-170">Microsoft 365 Apps 教育版 (裝置)\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-170">Microsoft 365 Apps for Education (device)\*</span></span>
+- <span data-ttu-id="e9d7b-163">Microsoft 365 A3\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-163">Microsoft 365 A3\*</span></span>
+- <span data-ttu-id="e9d7b-164">Microsoft 365 A5\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-164">Microsoft 365 A5\*</span></span>
+- <span data-ttu-id="e9d7b-165">Microsoft 365 A5 安全性\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-165">Microsoft 365 A5 Security\*</span></span>
+- <span data-ttu-id="e9d7b-166">Microsoft 365 A5 合規性\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-166">Microsoft 365 A5 Compliance\*</span></span>
+- <span data-ttu-id="e9d7b-167">Microsoft 365 A5 電子文件探索和稽核\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-167">Microsoft 365 A5 eDiscovery & Audit\*</span></span>
+- <span data-ttu-id="e9d7b-168">Microsoft 365 A5 資訊保護和控管\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-168">Microsoft 365 A5 Information Protection & Governance\*</span></span>
+- <span data-ttu-id="e9d7b-169">Microsoft 365 A5 內部風險管理\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-169">Microsoft 365 A5 Insider Risk Management\*</span></span>
+- <span data-ttu-id="e9d7b-170">Microsoft 365 Apps 教育版 (裝置)\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-170">Microsoft 365 Apps for Education (device)\*</span></span>
  
-## <a name="eligible-office-365-plans"></a><span data-ttu-id="d89d6-171">適用的 Office 365 方案</span><span class="sxs-lookup"><span data-stu-id="d89d6-171">Eligible Office 365 plans</span></span>
+## <a name="eligible-office-365-plans"></a><span data-ttu-id="e9d7b-171">適用的 Office 365 方案</span><span class="sxs-lookup"><span data-stu-id="e9d7b-171">Eligible Office 365 plans</span></span>
 
-<span data-ttu-id="d89d6-172">**Office 365 企業版**</span><span class="sxs-lookup"><span data-stu-id="d89d6-172">**Office 365 Enterprise**</span></span>
+<span data-ttu-id="e9d7b-172">**Office 365 企業版**</span><span class="sxs-lookup"><span data-stu-id="e9d7b-172">**Office 365 Enterprise**</span></span>
 
-- <span data-ttu-id="d89d6-173">Office 365 企業版 E1</span><span class="sxs-lookup"><span data-stu-id="d89d6-173">Office 365 Enterprise E1</span></span>
-- <span data-ttu-id="d89d6-174">Office 365 Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="d89d6-174">Office 365 Enterprise E3</span></span>
-- <span data-ttu-id="d89d6-175">Office 365 Enterprise E4</span><span class="sxs-lookup"><span data-stu-id="d89d6-175">Office 365 Enterprise E4</span></span>  
-- <span data-ttu-id="d89d6-176">Office 365 企業版 E5</span><span class="sxs-lookup"><span data-stu-id="d89d6-176">Office 365 Enterprise E5</span></span>
-- <span data-ttu-id="d89d6-177">Office 365 企業版 F1</span><span class="sxs-lookup"><span data-stu-id="d89d6-177">Office 365 Enterprise F1</span></span>
-- <span data-ttu-id="d89d6-178">Office 365 美國政府版 G1\*\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-178">Office 365 US Government G1\*\*</span></span>
-- <span data-ttu-id="d89d6-179">Office 365 美國政府版 G3\*\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-179">Office 365 US Government G3\*\*</span></span>
-- <span data-ttu-id="d89d6-180">Office 365 美國政府版 G4\*\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-180">Office 365 US Government G4\*\*</span></span>
-- <span data-ttu-id="d89d6-181">Office 365 美國政府版 G5\*\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-181">Office 365 US Government G5\*\*</span></span>
-- <span data-ttu-id="d89d6-182">Office 365 美國政府版 F1\*\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-182">Office 365 US Government F1\*\*</span></span>
+- <span data-ttu-id="e9d7b-173">Office 365 企業版 E1</span><span class="sxs-lookup"><span data-stu-id="e9d7b-173">Office 365 Enterprise E1</span></span>
+- <span data-ttu-id="e9d7b-174">Office 365 Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="e9d7b-174">Office 365 Enterprise E3</span></span>
+- <span data-ttu-id="e9d7b-175">Office 365 Enterprise E4</span><span class="sxs-lookup"><span data-stu-id="e9d7b-175">Office 365 Enterprise E4</span></span>  
+- <span data-ttu-id="e9d7b-176">Office 365 企業版 E5</span><span class="sxs-lookup"><span data-stu-id="e9d7b-176">Office 365 Enterprise E5</span></span>
+- <span data-ttu-id="e9d7b-177">Office 365 企業版 F1</span><span class="sxs-lookup"><span data-stu-id="e9d7b-177">Office 365 Enterprise F1</span></span>
+- <span data-ttu-id="e9d7b-178">Office 365 美國政府版 G1\*\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-178">Office 365 US Government G1\*\*</span></span>
+- <span data-ttu-id="e9d7b-179">Office 365 美國政府版 G3\*\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-179">Office 365 US Government G3\*\*</span></span>
+- <span data-ttu-id="e9d7b-180">Office 365 美國政府版 G4\*\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-180">Office 365 US Government G4\*\*</span></span>
+- <span data-ttu-id="e9d7b-181">Office 365 美國政府版 G5\*\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-181">Office 365 US Government G5\*\*</span></span>
+- <span data-ttu-id="e9d7b-182">Office 365 美國政府版 F1\*\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-182">Office 365 US Government F1\*\*</span></span>
 
-<span data-ttu-id="d89d6-183">**Office 365 教育版**</span><span class="sxs-lookup"><span data-stu-id="d89d6-183">**Office 365 Education**</span></span>
+<span data-ttu-id="e9d7b-183">**Office 365 教育版**</span><span class="sxs-lookup"><span data-stu-id="e9d7b-183">**Office 365 Education**</span></span>
   
-- <span data-ttu-id="d89d6-184">Office 365 A3</span><span class="sxs-lookup"><span data-stu-id="d89d6-184">Office 365 A3</span></span>
-- <span data-ttu-id="d89d6-185">Office 365 A5</span><span class="sxs-lookup"><span data-stu-id="d89d6-185">Office 365 A5</span></span>
+- <span data-ttu-id="e9d7b-184">Office 365 A3</span><span class="sxs-lookup"><span data-stu-id="e9d7b-184">Office 365 A3</span></span>
+- <span data-ttu-id="e9d7b-185">Office 365 A5</span><span class="sxs-lookup"><span data-stu-id="e9d7b-185">Office 365 A5</span></span>
 
-<span data-ttu-id="d89d6-186">**Exchange Online**</span><span class="sxs-lookup"><span data-stu-id="d89d6-186">**Exchange Online**</span></span>
+<span data-ttu-id="e9d7b-186">**Exchange Online**</span><span class="sxs-lookup"><span data-stu-id="e9d7b-186">**Exchange Online**</span></span>
   
-- <span data-ttu-id="d89d6-187">Exchange Online Plan 1</span><span class="sxs-lookup"><span data-stu-id="d89d6-187">Exchange Online Plan 1</span></span>
-- <span data-ttu-id="d89d6-188">Exchange Online Plan 2</span><span class="sxs-lookup"><span data-stu-id="d89d6-188">Exchange Online Plan 2</span></span> 
-- <span data-ttu-id="d89d6-189">Exchange Online Kiosk</span><span class="sxs-lookup"><span data-stu-id="d89d6-189">Exchange Online Kiosk</span></span>
-- <span data-ttu-id="d89d6-190">Exchange Online Protection</span><span class="sxs-lookup"><span data-stu-id="d89d6-190">Exchange Online Protection</span></span>
-- <span data-ttu-id="d89d6-191">Office 365 進階威脅防護</span><span class="sxs-lookup"><span data-stu-id="d89d6-191">Office 365 Advanced Threat Protection</span></span>
+- <span data-ttu-id="e9d7b-187">Exchange Online Plan 1</span><span class="sxs-lookup"><span data-stu-id="e9d7b-187">Exchange Online Plan 1</span></span>
+- <span data-ttu-id="e9d7b-188">Exchange Online Plan 2</span><span class="sxs-lookup"><span data-stu-id="e9d7b-188">Exchange Online Plan 2</span></span> 
+- <span data-ttu-id="e9d7b-189">Exchange Online Kiosk</span><span class="sxs-lookup"><span data-stu-id="e9d7b-189">Exchange Online Kiosk</span></span>
+- <span data-ttu-id="e9d7b-190">Exchange Online Protection</span><span class="sxs-lookup"><span data-stu-id="e9d7b-190">Exchange Online Protection</span></span>
+- <span data-ttu-id="e9d7b-191">Office 365 進階威脅防護</span><span class="sxs-lookup"><span data-stu-id="e9d7b-191">Office 365 Advanced Threat Protection</span></span>
     
- <span data-ttu-id="d89d6-192">**Microsoft Project Online**</span><span class="sxs-lookup"><span data-stu-id="d89d6-192">**Project Online**</span></span>
+ <span data-ttu-id="e9d7b-192">**Microsoft Project Online**</span><span class="sxs-lookup"><span data-stu-id="e9d7b-192">**Project Online**</span></span>
   
-- <span data-ttu-id="d89d6-193">Microsoft Project Online 基本版</span><span class="sxs-lookup"><span data-stu-id="d89d6-193">Project Online Essentials</span></span>  
-- <span data-ttu-id="d89d6-194">Microsoft Project Online 專業版</span><span class="sxs-lookup"><span data-stu-id="d89d6-194">Project Online Professional</span></span>
-- <span data-ttu-id="d89d6-195">Microsoft Project Online 進階版</span><span class="sxs-lookup"><span data-stu-id="d89d6-195">Project Online Premium</span></span>
+- <span data-ttu-id="e9d7b-193">Microsoft Project Online 基本版</span><span class="sxs-lookup"><span data-stu-id="e9d7b-193">Project Online Essentials</span></span>  
+- <span data-ttu-id="e9d7b-194">Microsoft Project Online 專業版</span><span class="sxs-lookup"><span data-stu-id="e9d7b-194">Project Online Professional</span></span>
+- <span data-ttu-id="e9d7b-195">Microsoft Project Online 進階版</span><span class="sxs-lookup"><span data-stu-id="e9d7b-195">Project Online Premium</span></span>
     
- <span data-ttu-id="d89d6-196">**SharePoint Online**</span><span class="sxs-lookup"><span data-stu-id="d89d6-196">**SharePoint Online**</span></span>
+ <span data-ttu-id="e9d7b-196">**SharePoint Online**</span><span class="sxs-lookup"><span data-stu-id="e9d7b-196">**SharePoint Online**</span></span>
   
-- <span data-ttu-id="d89d6-197">SharePoint Online 方案 1</span><span class="sxs-lookup"><span data-stu-id="d89d6-197">SharePoint Online Plan 1</span></span>
-- <span data-ttu-id="d89d6-198">SharePoint Online 方案 2</span><span class="sxs-lookup"><span data-stu-id="d89d6-198">SharePoint Online Plan 2</span></span>
+- <span data-ttu-id="e9d7b-197">SharePoint Online 方案 1</span><span class="sxs-lookup"><span data-stu-id="e9d7b-197">SharePoint Online Plan 1</span></span>
+- <span data-ttu-id="e9d7b-198">SharePoint Online 方案 2</span><span class="sxs-lookup"><span data-stu-id="e9d7b-198">SharePoint Online Plan 2</span></span>
     
- <span data-ttu-id="d89d6-199">**商務用 OneDrive**</span><span class="sxs-lookup"><span data-stu-id="d89d6-199">**OneDrive for Business**</span></span>
+ <span data-ttu-id="e9d7b-199">**商務用 OneDrive**</span><span class="sxs-lookup"><span data-stu-id="e9d7b-199">**OneDrive for Business**</span></span>
   
-- <span data-ttu-id="d89d6-200">商務用 OneDrive 與 Office</span><span class="sxs-lookup"><span data-stu-id="d89d6-200">OneDrive for Business with Office</span></span>
-- <span data-ttu-id="d89d6-201">商務用 OneDrive 方案 1</span><span class="sxs-lookup"><span data-stu-id="d89d6-201">OneDrive for Business Plan 1</span></span>
-- <span data-ttu-id="d89d6-202">商務用 OneDrive 方案 2</span><span class="sxs-lookup"><span data-stu-id="d89d6-202">OneDrive for Business Plan 2</span></span>
+- <span data-ttu-id="e9d7b-200">商務用 OneDrive 與 Office</span><span class="sxs-lookup"><span data-stu-id="e9d7b-200">OneDrive for Business with Office</span></span>
+- <span data-ttu-id="e9d7b-201">商務用 OneDrive 方案 1</span><span class="sxs-lookup"><span data-stu-id="e9d7b-201">OneDrive for Business Plan 1</span></span>
+- <span data-ttu-id="e9d7b-202">商務用 OneDrive 方案 2</span><span class="sxs-lookup"><span data-stu-id="e9d7b-202">OneDrive for Business Plan 2</span></span>
     
- <span data-ttu-id="d89d6-203">**商務用 Skype Online**</span><span class="sxs-lookup"><span data-stu-id="d89d6-203">**Skype for Business Online**</span></span>
+ <span data-ttu-id="e9d7b-203">**商務用 Skype Online**</span><span class="sxs-lookup"><span data-stu-id="e9d7b-203">**Skype for Business Online**</span></span>
   
--  <span data-ttu-id="d89d6-204">電話系統\*\*\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-204">Phone System\*\*\*</span></span> 
--  <span data-ttu-id="d89d6-205">通話方案\*\*\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-205">Calling Plan\*\*\*</span></span> 
--  <span data-ttu-id="d89d6-206">音訊會議\*\*\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-206">Audio Conferencing\*\*\*</span></span>
--  <span data-ttu-id="d89d6-207">商務用 Skype Online 方案 1</span><span class="sxs-lookup"><span data-stu-id="d89d6-207">Skype for Business Online Plan 1</span></span>  
--  <span data-ttu-id="d89d6-208">商務用 Skype Online 方案 2</span><span class="sxs-lookup"><span data-stu-id="d89d6-208">Skype for Business Online Plan 2</span></span>
+-  <span data-ttu-id="e9d7b-204">電話系統\*\*\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-204">Phone System\*\*\*</span></span> 
+-  <span data-ttu-id="e9d7b-205">通話方案\*\*\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-205">Calling Plan\*\*\*</span></span> 
+-  <span data-ttu-id="e9d7b-206">音訊會議\*\*\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-206">Audio Conferencing\*\*\*</span></span>
+-  <span data-ttu-id="e9d7b-207">商務用 Skype Online 方案 1</span><span class="sxs-lookup"><span data-stu-id="e9d7b-207">Skype for Business Online Plan 1</span></span>  
+-  <span data-ttu-id="e9d7b-208">商務用 Skype Online 方案 2</span><span class="sxs-lookup"><span data-stu-id="e9d7b-208">Skype for Business Online Plan 2</span></span>
     
- <span data-ttu-id="d89d6-209">**Yammer**</span><span class="sxs-lookup"><span data-stu-id="d89d6-209">**Yammer**</span></span>
+ <span data-ttu-id="e9d7b-209">**Yammer**</span><span class="sxs-lookup"><span data-stu-id="e9d7b-209">**Yammer**</span></span>
   
-- <span data-ttu-id="d89d6-210">Yammer Enterprise</span><span class="sxs-lookup"><span data-stu-id="d89d6-210">Yammer Enterprise</span></span> 
+- <span data-ttu-id="e9d7b-210">Yammer Enterprise</span><span class="sxs-lookup"><span data-stu-id="e9d7b-210">Yammer Enterprise</span></span> 
 
-<span data-ttu-id="d89d6-211">\*僅適用此權益描述中所列之有資格獲得 FastTrack 協助的雲端服務和功能。</span><span class="sxs-lookup"><span data-stu-id="d89d6-211">\*Available only for FastTrack-eligible cloud services and features described in this benefit description.</span></span>
+<span data-ttu-id="e9d7b-211">\*僅適用此權益描述中所列之有資格獲得 FastTrack 協助的雲端服務和功能。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-211">\*Available only for FastTrack-eligible cloud services and features described in this benefit description.</span></span>
 
-<span data-ttu-id="d89d6-212">\*\*如需有關適用於美國政府的 FastTrack 權益詳細資訊，請參閱 [Office 365 美國政府](https://aka.ms/aboutgovcloud)。</span><span class="sxs-lookup"><span data-stu-id="d89d6-212">\*\*For more information on the FastTrack Benefit for the US Government, see [Office 365 US Government](https://aka.ms/aboutgovcloud).</span></span>
+<span data-ttu-id="e9d7b-212">\*\*如需有關適用於美國政府的 FastTrack 權益詳細資訊，請參閱 [Office 365 美國政府](https://aka.ms/aboutgovcloud)。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-212">\*\*For more information on the FastTrack Benefit for the US Government, see [Office 365 US Government](https://aka.ms/aboutgovcloud).</span></span>
 
-<span data-ttu-id="d89d6-213">\*\*\*商務用 Skype Online 和 Microsoft Teams 授權使用者皆可使用。</span><span class="sxs-lookup"><span data-stu-id="d89d6-213">\*\*\*Can be used for both Skype for Business Online and Microsoft Teams licensed users.</span></span> <span data-ttu-id="d89d6-214">需要合格購買商務用 Skype 或 Microsoft Teams。</span><span class="sxs-lookup"><span data-stu-id="d89d6-214">Requires qualifying purchase of Skype for Business or Microsoft Teams.</span></span> 
+<span data-ttu-id="e9d7b-213">\*\*\*商務用 Skype Online 和 Microsoft Teams 授權使用者皆可使用。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-213">\*\*\*Can be used for both Skype for Business Online and Microsoft Teams licensed users.</span></span> <span data-ttu-id="e9d7b-214">需要合格購買商務用 Skype 或 Microsoft Teams。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-214">Requires qualifying purchase of Skype for Business or Microsoft Teams.</span></span> 
 
 > [!NOTE]
-> <span data-ttu-id="d89d6-215">需購買上述適用方案的付費授權，才適用 FastTrack 中心權益。</span><span class="sxs-lookup"><span data-stu-id="d89d6-215">Eligibility for the FastTrack Center Benefit is based on purchase of paid licenses for the previously mentioned eligible plans.</span></span> <span data-ttu-id="d89d6-216">Microsoft 於 2020 年 3 月推出新功能，提供六個月的 [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) 和 [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) 試用版授權，以幫助客戶因應 COVID-19 (新型冠狀病毒) 疫情爆發進行遠端工作和學習需求。</span><span class="sxs-lookup"><span data-stu-id="d89d6-216">New in March 2020, Microsoft is making available six-month [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) and [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) trial licenses to assist with remote work and learning as customers respond to COVID-19 (coronavirus) outbreak.</span></span> <span data-ttu-id="d89d6-217">這是例外情況，FastTrack 將於 2020 年 3 月到 2020 年 8 月這段時間協助您加入這些免費授權。</span><span class="sxs-lookup"><span data-stu-id="d89d6-217">As an exception, FastTrack is assisting with onboarding to these free licenses from March 2020 to August 2020.</span></span> 
+> <span data-ttu-id="e9d7b-215">需購買上述適用方案的付費授權，才適用 FastTrack 中心權益。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-215">Eligibility for the FastTrack Center Benefit is based on purchase of paid licenses for the previously mentioned eligible plans.</span></span> <span data-ttu-id="e9d7b-216">Microsoft 於 2020 年 3 月推出新功能，提供六個月的 [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) 和 [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) 試用版授權，以幫助客戶因應 COVID-19 (新型冠狀病毒) 疫情爆發進行遠端工作和學習需求。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-216">New in March 2020, Microsoft is making available six-month [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) and [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) trial licenses to assist with remote work and learning as customers respond to COVID-19 (coronavirus) outbreak.</span></span> <span data-ttu-id="e9d7b-217">這是例外情況，FastTrack 將於 2020 年 3 月到 2020 年 8 月這段時間協助您加入這些免費授權。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-217">As an exception, FastTrack is assisting with onboarding to these free licenses from March 2020 to August 2020.</span></span> 
  
-<span data-ttu-id="d89d6-218">如需詳細資訊，請參閱 [適用於 Office 365 的 FastTrack 中心權益](https://go.microsoft.com/fwlink/?linkid=2044752)。</span><span class="sxs-lookup"><span data-stu-id="d89d6-218">For more information, see [FastTrack Center Benefit for Office 365](https://go.microsoft.com/fwlink/?linkid=2044752).</span></span>
+<span data-ttu-id="e9d7b-218">如需詳細資訊，請參閱 [適用於 Office 365 的 FastTrack 中心權益](https://go.microsoft.com/fwlink/?linkid=2044752)。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-218">For more information, see [FastTrack Center Benefit for Office 365](https://go.microsoft.com/fwlink/?linkid=2044752).</span></span>
 
-## <a name="eligible-enterprise-mobility--security-plans"></a><span data-ttu-id="d89d6-219">適用的 Enterprise Mobility + Security 方案</span><span class="sxs-lookup"><span data-stu-id="d89d6-219">Eligible Enterprise Mobility + Security plans</span></span>
+## <a name="eligible-enterprise-mobility--security-plans"></a><span data-ttu-id="e9d7b-219">適用的 Enterprise Mobility + Security 方案</span><span class="sxs-lookup"><span data-stu-id="e9d7b-219">Eligible Enterprise Mobility + Security plans</span></span>
 
-<span data-ttu-id="d89d6-220">**Enterprise Mobility + Security**</span><span class="sxs-lookup"><span data-stu-id="d89d6-220">**Enterprise Mobility + Security**</span></span> 
+<span data-ttu-id="e9d7b-220">**Enterprise Mobility + Security**</span><span class="sxs-lookup"><span data-stu-id="e9d7b-220">**Enterprise Mobility + Security**</span></span> 
 
-- <span data-ttu-id="d89d6-221">Enterprise Mobility + Security (EMS) E3\*\*\*\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-221">Enterprise Mobility + Security (EMS) E3\*\*\*\*</span></span>
-- <span data-ttu-id="d89d6-222">Enterprise Mobility + Security (EMS) E5\*\*\*\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-222">Enterprise Mobility + Security (EMS) E5\*\*\*\*</span></span>
+- <span data-ttu-id="e9d7b-221">Enterprise Mobility + Security (EMS) E3\*\*\*\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-221">Enterprise Mobility + Security (EMS) E3\*\*\*\*</span></span>
+- <span data-ttu-id="e9d7b-222">Enterprise Mobility + Security (EMS) E5\*\*\*\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-222">Enterprise Mobility + Security (EMS) E5\*\*\*\*</span></span>
 
-<span data-ttu-id="d89d6-223">**Azure Active Directory Premium**</span><span class="sxs-lookup"><span data-stu-id="d89d6-223">**Azure Active Directory Premium**</span></span>
+<span data-ttu-id="e9d7b-223">**Azure Active Directory Premium**</span><span class="sxs-lookup"><span data-stu-id="e9d7b-223">**Azure Active Directory Premium**</span></span>
 
-- <span data-ttu-id="d89d6-224">Azure Active Directory Premium 方案 1</span><span class="sxs-lookup"><span data-stu-id="d89d6-224">Azure Active Directory Premium Plan 1</span></span>
-- <span data-ttu-id="d89d6-225">Azure Active Directory Premium 方案 2</span><span class="sxs-lookup"><span data-stu-id="d89d6-225">Azure Active Directory Premium Plan 2</span></span>
+- <span data-ttu-id="e9d7b-224">Azure Active Directory Premium 方案 1</span><span class="sxs-lookup"><span data-stu-id="e9d7b-224">Azure Active Directory Premium Plan 1</span></span>
+- <span data-ttu-id="e9d7b-225">Azure Active Directory Premium 方案 2</span><span class="sxs-lookup"><span data-stu-id="e9d7b-225">Azure Active Directory Premium Plan 2</span></span>
 
-<span data-ttu-id="d89d6-226">**Azure 資訊保護**</span><span class="sxs-lookup"><span data-stu-id="d89d6-226">**Azure Information Protection**</span></span>
+<span data-ttu-id="e9d7b-226">**Azure 資訊保護**</span><span class="sxs-lookup"><span data-stu-id="e9d7b-226">**Azure Information Protection**</span></span>
 
-- <span data-ttu-id="d89d6-227">Azure 資訊保護方案 2\*\*\*\*\*</span><span class="sxs-lookup"><span data-stu-id="d89d6-227">Azure Information Protection Plan 2\*\*\*\*\*</span></span>
+- <span data-ttu-id="e9d7b-227">Azure 資訊保護方案 2\*\*\*\*\*</span><span class="sxs-lookup"><span data-stu-id="e9d7b-227">Azure Information Protection Plan 2\*\*\*\*\*</span></span>
 
-<span data-ttu-id="d89d6-228">**Microsoft Intune**</span><span class="sxs-lookup"><span data-stu-id="d89d6-228">**Microsoft Intune**</span></span>
+<span data-ttu-id="e9d7b-228">**Microsoft Intune**</span><span class="sxs-lookup"><span data-stu-id="e9d7b-228">**Microsoft Intune**</span></span>
 
-- <span data-ttu-id="d89d6-229">Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="d89d6-229">Microsoft Intune</span></span>
+- <span data-ttu-id="e9d7b-229">Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="e9d7b-229">Microsoft Intune</span></span>
 
-<span data-ttu-id="d89d6-230">**Microsoft Intune 和 Configuration Manager**</span><span class="sxs-lookup"><span data-stu-id="d89d6-230">**Microsoft Intune and Configuration Manager**</span></span>
+<span data-ttu-id="e9d7b-230">**Microsoft Intune 和 Configuration Manager**</span><span class="sxs-lookup"><span data-stu-id="e9d7b-230">**Microsoft Intune and Configuration Manager**</span></span>
 
-- <span data-ttu-id="d89d6-231">Microsoft Intune 和 Configuration Manager</span><span class="sxs-lookup"><span data-stu-id="d89d6-231">Microsoft Intune and Configuration Manager</span></span>
+- <span data-ttu-id="e9d7b-231">Microsoft Intune 和 Configuration Manager</span><span class="sxs-lookup"><span data-stu-id="e9d7b-231">Microsoft Intune and Configuration Manager</span></span>
 
-<span data-ttu-id="d89d6-232">**Microsoft Intune 教育版**</span><span class="sxs-lookup"><span data-stu-id="d89d6-232">**Microsoft Intune for Education**</span></span>
+<span data-ttu-id="e9d7b-232">**Microsoft Intune 教育版**</span><span class="sxs-lookup"><span data-stu-id="e9d7b-232">**Microsoft Intune for Education**</span></span>
 
-- <span data-ttu-id="d89d6-233">Microsoft Intune 教育版</span><span class="sxs-lookup"><span data-stu-id="d89d6-233">Microsoft Intune for Education</span></span>
+- <span data-ttu-id="e9d7b-233">Microsoft Intune 教育版</span><span class="sxs-lookup"><span data-stu-id="e9d7b-233">Microsoft Intune for Education</span></span>
 
-<span data-ttu-id="d89d6-234">\*\*\*\*適用於符合 FastTrack 權益的雲端服務。</span><span class="sxs-lookup"><span data-stu-id="d89d6-234">\*\*\*\*Available for cloud services that are eligible for FastTrack benefits.</span></span> <span data-ttu-id="d89d6-235">否則，這會轉交給 FastTrack 專家或取得合作夥伴轉介。</span><span class="sxs-lookup"><span data-stu-id="d89d6-235">Otherwise this is routed to a FastTrack Specialist or for partner referral.</span></span>
+<span data-ttu-id="e9d7b-234">\*\*\*\*適用於符合 FastTrack 權益的雲端服務。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-234">\*\*\*\*Available for cloud services that are eligible for FastTrack benefits.</span></span> <span data-ttu-id="e9d7b-235">否則，這會轉交給 FastTrack 專家或取得合作夥伴轉介。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-235">Otherwise this is routed to a FastTrack Specialist or for partner referral.</span></span>
 
-<span data-ttu-id="d89d6-236">\*\*\*\*\*適用於 P2，以隨附於 E5 方式或以獨立方案形式。</span><span class="sxs-lookup"><span data-stu-id="d89d6-236">\*\*\*\*\*Available for P2, as part of E5, or as a standalone plan.</span></span> <span data-ttu-id="d89d6-237">適用於符合 FastTrack 權益的雲端服務。</span><span class="sxs-lookup"><span data-stu-id="d89d6-237">Available for cloud services that are eligible for FastTrack benefits.</span></span> <span data-ttu-id="d89d6-238">若為雲端服務 P1，FastTrack 會共用自我部署指南。</span><span class="sxs-lookup"><span data-stu-id="d89d6-238">For Cloud Services P1, FastTrack shares the self-deployment guide.</span></span>
+<span data-ttu-id="e9d7b-236">\*\*\*\*\*適用於 P2，以隨附於 E5 方式或以獨立方案形式。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-236">\*\*\*\*\*Available for P2, as part of E5, or as a standalone plan.</span></span> <span data-ttu-id="e9d7b-237">適用於符合 FastTrack 權益的雲端服務。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-237">Available for cloud services that are eligible for FastTrack benefits.</span></span> <span data-ttu-id="e9d7b-238">若為雲端服務 P1，FastTrack 會共用自我部署指南。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-238">For Cloud Services P1, FastTrack shares the self-deployment guide.</span></span>
 
-<span data-ttu-id="d89d6-239">如需詳細資訊，請參閱[適用於 Enterprise Mobility + Security (EMS) 的 FastTrack 中心權益](EMS-fasttrack-benefit-for-EMS.md)。</span><span class="sxs-lookup"><span data-stu-id="d89d6-239">For more information, see [FastTrack Center Benefit for Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md).</span></span>
+<span data-ttu-id="e9d7b-239">如需詳細資訊，請參閱[適用於 Enterprise Mobility + Security (EMS) 的 FastTrack 中心權益](EMS-fasttrack-benefit-for-EMS.md)。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-239">For more information, see [FastTrack Center Benefit for Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md).</span></span>
 
-## <a name="eligible-windows-10-plans"></a><span data-ttu-id="d89d6-240">適用的 Windows 10 方案</span><span class="sxs-lookup"><span data-stu-id="d89d6-240">Eligible Windows 10 plans</span></span>
+## <a name="eligible-windows-10-plans"></a><span data-ttu-id="e9d7b-240">適用的 Windows 10 方案</span><span class="sxs-lookup"><span data-stu-id="e9d7b-240">Eligible Windows 10 plans</span></span>
 
-<span data-ttu-id="d89d6-241">**Windows 企業版**</span><span class="sxs-lookup"><span data-stu-id="d89d6-241">**Windows Enterprise**</span></span>
+<span data-ttu-id="e9d7b-241">**Windows 企業版**</span><span class="sxs-lookup"><span data-stu-id="e9d7b-241">**Windows Enterprise**</span></span>
 
-- <span data-ttu-id="d89d6-242">Windows 10 E3</span><span class="sxs-lookup"><span data-stu-id="d89d6-242">Windows 10 E3</span></span>
-- <span data-ttu-id="d89d6-243">Windows 10 E5</span><span class="sxs-lookup"><span data-stu-id="d89d6-243">Windows 10 E5</span></span>
-- <span data-ttu-id="d89d6-244">附軟體保證的 Windows 10 企業版</span><span class="sxs-lookup"><span data-stu-id="d89d6-244">Windows 10 Enterprise with Software Assurance</span></span>
+- <span data-ttu-id="e9d7b-242">Windows 10 E3</span><span class="sxs-lookup"><span data-stu-id="e9d7b-242">Windows 10 E3</span></span>
+- <span data-ttu-id="e9d7b-243">Windows 10 E5</span><span class="sxs-lookup"><span data-stu-id="e9d7b-243">Windows 10 E5</span></span>
+- <span data-ttu-id="e9d7b-244">附軟體保證的 Windows 10 企業版</span><span class="sxs-lookup"><span data-stu-id="e9d7b-244">Windows 10 Enterprise with Software Assurance</span></span>
 
-<span data-ttu-id="d89d6-245">**Windows 教育版**</span><span class="sxs-lookup"><span data-stu-id="d89d6-245">**Windows Education**</span></span>
+<span data-ttu-id="e9d7b-245">**Windows 教育版**</span><span class="sxs-lookup"><span data-stu-id="e9d7b-245">**Windows Education**</span></span>
 
-- <span data-ttu-id="d89d6-246">Windows 10 A3</span><span class="sxs-lookup"><span data-stu-id="d89d6-246">Windows 10 A3</span></span>
-- <span data-ttu-id="d89d6-247">Windows 10 A5</span><span class="sxs-lookup"><span data-stu-id="d89d6-247">Windows 10 A5</span></span>
+- <span data-ttu-id="e9d7b-246">Windows 10 A3</span><span class="sxs-lookup"><span data-stu-id="e9d7b-246">Windows 10 A3</span></span>
+- <span data-ttu-id="e9d7b-247">Windows 10 A5</span><span class="sxs-lookup"><span data-stu-id="e9d7b-247">Windows 10 A5</span></span>
 
-<span data-ttu-id="d89d6-248">如需詳細資訊，請參閱[適用於 Windows 10 的 FastTrack 中心權益](https://go.microsoft.com/fwlink/?linkid=2044661)。</span><span class="sxs-lookup"><span data-stu-id="d89d6-248">For more information, see [FastTrack Center Benefit for Windows 10](https://go.microsoft.com/fwlink/?linkid=2044661).</span></span>
+<span data-ttu-id="e9d7b-248">如需詳細資訊，請參閱[適用於 Windows 10 的 FastTrack 中心權益](https://go.microsoft.com/fwlink/?linkid=2044661)。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-248">For more information, see [FastTrack Center Benefit for Windows 10](https://go.microsoft.com/fwlink/?linkid=2044661).</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="d89d6-249">商業獨立軟體廠商 (ISV) 建立 Windows 10 應用程式時沒有最低的授權需求。</span><span class="sxs-lookup"><span data-stu-id="d89d6-249">There's no minimum licensing requirement for commercial independent software vendors (ISVs) building Windows 10 apps.</span></span> <span data-ttu-id="d89d6-250">所有應用程式要求都必須針對目前位於主流服務視窗內的 Windows 10 或 Microsoft 365 Apps 版本。</span><span class="sxs-lookup"><span data-stu-id="d89d6-250">All app requests must be targeting a Windows 10 or Microsoft 365 Apps version that's currently within the mainstream servicing window.</span></span>
+> <span data-ttu-id="e9d7b-249">商業獨立軟體廠商 (ISV) 建立 Windows 10 應用程式時沒有最低的授權需求。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-249">There's no minimum licensing requirement for commercial independent software vendors (ISVs) building Windows 10 apps.</span></span> <span data-ttu-id="e9d7b-250">所有應用程式要求都必須針對目前位於主流服務視窗內的 Windows 10 或 Microsoft 365 Apps 版本。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-250">All app requests must be targeting a Windows 10 or Microsoft 365 Apps version that's currently within the mainstream servicing window.</span></span>
 
-## <a name="ineligible-plans"></a><span data-ttu-id="d89d6-251">不適用的方案</span><span class="sxs-lookup"><span data-stu-id="d89d6-251">Ineligible plans</span></span>
+## <a name="ineligible-plans"></a><span data-ttu-id="e9d7b-251">不適用的方案</span><span class="sxs-lookup"><span data-stu-id="e9d7b-251">Ineligible plans</span></span>
 
-<span data-ttu-id="d89d6-252">不適用於 FastTrack 服務的方案包含 (但不限於)：</span><span class="sxs-lookup"><span data-stu-id="d89d6-252">Plans not eligible for FastTrack services include (but aren't limited to):</span></span>
+<span data-ttu-id="e9d7b-252">不適用於 FastTrack 服務的方案包含 (但不限於)：</span><span class="sxs-lookup"><span data-stu-id="e9d7b-252">Plans not eligible for FastTrack services include (but aren't limited to):</span></span>
     
 
-|<span data-ttu-id="d89d6-253">方案</span><span class="sxs-lookup"><span data-stu-id="d89d6-253">Plan</span></span>  |<span data-ttu-id="d89d6-254">詳細資料</span><span class="sxs-lookup"><span data-stu-id="d89d6-254">Details</span></span>  |
+|<span data-ttu-id="e9d7b-253">方案</span><span class="sxs-lookup"><span data-stu-id="e9d7b-253">Plan</span></span>  |<span data-ttu-id="e9d7b-254">詳細資料</span><span class="sxs-lookup"><span data-stu-id="e9d7b-254">Details</span></span>  |
 |---------|---------|
-|<span data-ttu-id="d89d6-255">**Exchange Online 封存**</span><span class="sxs-lookup"><span data-stu-id="d89d6-255">**Exchange Online Archiving**</span></span>    |   <span data-ttu-id="d89d6-256">透過適用的方案 (例如企業版 E3 和 E5) 取得此方案，即可獲得 FastTrack 指引。</span><span class="sxs-lookup"><span data-stu-id="d89d6-256">FastTrack guidance for this plan is available when obtained through an eligible plan, like Enterprise E3 and E5.</span></span>      |
-|<span data-ttu-id="d89d6-257">**由 21Vianet 運作的 Office 365**</span><span class="sxs-lookup"><span data-stu-id="d89d6-257">**Office 365 operated by 21Vianet**</span></span>      |    <span data-ttu-id="d89d6-258">如需適用於由 21Vianet 運作之 Office 365 的 FastTrack 權益詳細資訊，請連絡 [21Vianet 支援](https://go.microsoft.com/fwlink/?linkid=852156)。</span><span class="sxs-lookup"><span data-stu-id="d89d6-258">For more information on the FastTrack Benefit for Office 365 operated by 21Vianet, contact [21Vianet support](https://go.microsoft.com/fwlink/?linkid=852156).</span></span>     |
-|<span data-ttu-id="d89d6-259">**Microsoft Office 365 Dedicated 和 ITAR/聯邦方案**</span><span class="sxs-lookup"><span data-stu-id="d89d6-259">**Microsoft Office 365 Dedicated and ITAR/Federal Plans**</span></span>      |         |
-|<span data-ttu-id="d89d6-260">**免費方案 (例如 Office 365 A1 或學生使用優惠方案)**</span><span class="sxs-lookup"><span data-stu-id="d89d6-260">**No-cost plans (like Office 365 A1 or the student use benefit plan)**</span></span>      |         |
+|<span data-ttu-id="e9d7b-255">**Exchange Online 封存**</span><span class="sxs-lookup"><span data-stu-id="e9d7b-255">**Exchange Online Archiving**</span></span>    |   <span data-ttu-id="e9d7b-256">透過適用的方案 (例如企業版 E3 和 E5) 取得此方案，即可獲得 FastTrack 指引。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-256">FastTrack guidance for this plan is available when obtained through an eligible plan, like Enterprise E3 and E5.</span></span>      |
+|<span data-ttu-id="e9d7b-257">**由 21Vianet 運作的 Office 365**</span><span class="sxs-lookup"><span data-stu-id="e9d7b-257">**Office 365 operated by 21Vianet**</span></span>      |    <span data-ttu-id="e9d7b-258">如需適用於由 21Vianet 運作之 Office 365 的 FastTrack 權益詳細資訊，請連絡 [21Vianet 支援](https://go.microsoft.com/fwlink/?linkid=852156)。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-258">For more information on the FastTrack Benefit for Office 365 operated by 21Vianet, contact [21Vianet support](https://go.microsoft.com/fwlink/?linkid=852156).</span></span>     |
+|<span data-ttu-id="e9d7b-259">**Microsoft Office 365 Dedicated 和 ITAR/聯邦方案**</span><span class="sxs-lookup"><span data-stu-id="e9d7b-259">**Microsoft Office 365 Dedicated and ITAR/Federal Plans**</span></span>      |         |
+|<span data-ttu-id="e9d7b-260">**免費方案 (例如 Office 365 A1 或學生使用優惠方案)**</span><span class="sxs-lookup"><span data-stu-id="e9d7b-260">**No-cost plans (like Office 365 A1 or the student use benefit plan)**</span></span>      |         |
   
-## <a name="fasttrack-center-additional-benefit-eligibility"></a><span data-ttu-id="d89d6-261">FastTrack 中心其他權益適用性</span><span class="sxs-lookup"><span data-stu-id="d89d6-261">FastTrack Center additional benefit eligibility</span></span>
+## <a name="fasttrack-center-additional-benefit-eligibility"></a><span data-ttu-id="e9d7b-261">FastTrack 中心其他權益適用性</span><span class="sxs-lookup"><span data-stu-id="e9d7b-261">FastTrack Center additional benefit eligibility</span></span>
 
-<span data-ttu-id="d89d6-262">為 Office 365 租用戶購買至少 20,000 個授權的客戶符合 FastTrack 中心其他服務的資格。</span><span class="sxs-lookup"><span data-stu-id="d89d6-262">Customers who purchase at least 20,000 licenses for an Office 365 tenant are eligible for additional services from the FastTrack Center.</span></span> <span data-ttu-id="d89d6-263">如需詳細資訊，請參閱[附錄 A：FastTrack 中心其他權益](O365-fasttrack-additional-benefits.md)。</span><span class="sxs-lookup"><span data-stu-id="d89d6-263">For more information, see [Appendix A - FastTrack Center Additional Benefit](O365-fasttrack-additional-benefits.md).</span></span>
+<span data-ttu-id="e9d7b-262">為 Office 365 租用戶購買至少 20,000 個授權的客戶符合 FastTrack 中心其他服務的資格。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-262">Customers who purchase at least 20,000 licenses for an Office 365 tenant are eligible for additional services from the FastTrack Center.</span></span> <span data-ttu-id="e9d7b-263">如需詳細資訊，請參閱[附錄 A：FastTrack 中心其他權益](O365-fasttrack-additional-benefits.md)。</span><span class="sxs-lookup"><span data-stu-id="e9d7b-263">For more information, see [Appendix A - FastTrack Center Additional Benefit](O365-fasttrack-additional-benefits.md).</span></span>
   

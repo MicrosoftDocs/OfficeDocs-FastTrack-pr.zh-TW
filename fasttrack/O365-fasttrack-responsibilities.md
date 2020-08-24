@@ -12,7 +12,7 @@ ms.collection: FastTrack
 description: 在上架期間 FastTrack 專家需擔負下列責任。
 ms.openlocfilehash: c881976636243b258623c61ca1406a179177a063
 ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 08/18/2020
 ms.locfileid: "46800857"
@@ -20,7 +20,7 @@ ms.locfileid: "46800857"
 # <a name="fasttrack-responsibilities"></a>FastTrack 責任
 
 > [!CAUTION]
-> 此內容已不再是最新的，且已排程為待移除。 使用目前內容左側導覽中的目錄。
+> 此內容已不再是最新的，且已排定移除。 請使用目前內容左側瀏覽的目錄。
 
 在上架期間 FastTrack 專家需擔負下列責任。\*
   
@@ -122,49 +122,49 @@ ms.locfileid: "46800857"
 - 使用 Office 自訂工具或原生 XML 建立 Office 部署工具，以設定部署套件。
 - 使用 Microsoft Endpoint Configuration Manager 部署，包含協助建立 Microsoft Endpoint Configuration Manager 套件。
 
-## <a name="microsoft-information-governance"></a>Microsoft 資訊管控 
+## <a name="microsoft-information-governance"></a>Microsoft 資訊控管 
 
 提供以下的相關指引：
 - 記錄管理。
-  - 套用記錄管理的許可權。
-  - 將檔計畫及保留排程轉換成標籤和原則的指導方針。
+  - 針對記錄管理套用存取權限。
+  - 針對檔案計畫和保留排程轉譯成標籤和原則的指引。
   - 建立保留標籤和原則。
   - 建立刪除原則。
-  - 審閱要進行處置的專案。
-- 有問必答風險管理。
-  - 啟用 Office 365 審核記錄檔。
-  - 設定內幕人士風險管理中的設定。
-  - 使用內建行動手冊建立有問必答風險原則。
-  - 設定通訊規範的許可權。
-  - 使用可自訂的範本建立通訊相容性原則。
-  - 監視及檢查提醒。
-- 資訊管控。
-  - 套用資訊管理的許可權。
+  - 檢閱處置項目。
+- 測試人員風險管理。
+  - 啟用 Microsoft Office 365 稽核記錄。
+  - 設定測試人員風險管理中的設定。
+  - 使用內建手冊建立測試人員風險原則。
+  - 設定通訊合規性的權限。
+  - 使用可自訂的範本建立通訊合規性原則。
+  - 監控和檢視通知。
+- 資訊控管。
+  - 套用資訊控管的權限。
   - 建立保留標籤。
-  - 發佈保留標籤 (手動和自動) 。
-  - 建立匯入工作。
+  - 發佈保留標籤 (手動和自動)。
+  - 建立匯入動作。
 - 進階電子文件探索。
-  - 非 Office 365 資料。
-  - 設定許可權。
+  - 非 Office 365 的資料。
+  - 設定權限。
   - 建立案例。
-  - 新增保管人。 
+  - 新增監管人。 
   - 法律保留。
-  - 搜索。
-  - 複查集。
+  - 搜尋。
+  - 檢閱集。
   - 匯出內容。
 
-## <a name="microsoft-information-protection"></a>Microsoft 資訊保護
+## <a name="microsoft-information-protection"></a>Microsoft 資訊保護。
 
 提供以下的相關指引：
 - 資料分類。
-- 敏感資訊類型。
-- 建立靈敏度標籤。
+- 敏感性資訊類型。
+- 建立敏感度標籤。
 - 套用敏感度標籤。 
 - 統一標籤。
-- Trainable 分類符。
-- 使用內容瀏覽器和活動瀏覽器知道您的資料。
-- 使用原則發佈標籤 (手動和自動) 。
-- 建立資料遺失防護 (適用于 Microsoft 團隊聊天和頻道的 DLP) 原則。
+- 可訓練的分類器。
+- 使用內容總管和活動總管瞭解您的資料。
+- 使用原則（手動和自動）發布標籤。
+- 為 Microsoft Teams 聊天和頻道建立資料外洩防護 (data loss prevention (DLP)) 原則。
 
 ## <a name="microsoft-teams"></a>Microsoft Teams
 

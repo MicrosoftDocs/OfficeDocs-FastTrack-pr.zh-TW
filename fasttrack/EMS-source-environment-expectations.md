@@ -9,21 +9,21 @@ ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 7d9921daf56aa14589a6a050e736f94676b10143
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 285dee7b2372af0615673ecd330051fc50f49212
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817518"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338339"
 ---
 # <a name="source-environment-expectations"></a>來源環境預期
 > [!CAUTION]
-> 此內容已不再是最新的，且已排程為待移除。 使用目前內容左側導覽中的目錄。
+> 此內容已不再是最新的，且已排定移除。 請使用目前內容左側瀏覽的目錄。
 
 當您使用 [Enterprise Mobility + Security (EMS) 適用的 FastTrack 中心權益](EMS-fasttrack-benefit-for-EMS.md)來讓 Microsoft Azure Active Directory Premium、Microsoft Intune 和 Azure 資訊保護可供使用，您的環境必須符合下列各節中所述的預期。
 

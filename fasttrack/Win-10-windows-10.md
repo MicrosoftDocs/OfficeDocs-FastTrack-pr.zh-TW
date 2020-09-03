@@ -7,20 +7,20 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: FastTrack 提供 Windows 10 部署指引，可幫助您從 Windows 7 專業版和 Windows 8.1 專業版升級到 Windows 10 企業版。
-ms.openlocfilehash: 0b19ada41624d8c8fa8d3ab5e85a14b42edd53f3
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: e4cebb463833c71cc9129155e86821c69f180a27
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817134"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338123"
 ---
 # <a name="windows-10"></a>Windows 10
 
 > [!CAUTION]
-> 此內容已不再是最新的，且已排程為待移除。 使用目前內容左側導覽中的目錄。
+> 此內容已不再是最新的，且已排定移除。 請使用目前內容左側瀏覽的目錄。
 
 FastTrack 提供 Windows 10 部署指引，可幫助您從 Windows 7 專業版和 Windows 8.1 專業版升級到 Windows 10 企業版。 與 FastTrack 專家合作進行以下工作：
 

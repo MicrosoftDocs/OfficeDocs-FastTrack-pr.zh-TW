@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 適用於 Windows 10 的 FastTrack 權益為具備 150 個或更多個基座的 Windows 10 企業版客戶提供新版 Microsoft Edge 的部署指導方針。
-ms.openlocfilehash: b0a0523749cfa834d0ade55c72e29ae9b0c2506e
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 521249edbcca687432074792b1cdf86f4298b263
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817614"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338483"
 ---
 # <a name="the-new-microsoft-edge"></a>新版 Microsoft Edge
 
@@ -23,4 +23,4 @@ ms.locfileid: "46817614"
 
 FastTrack 專家會您合作，使用 Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager 或 Microsoft Intune) 或 Microsoft Intune 在 Windows 10 企業版上部署 Microsoft Edge。
 
-
+如需 FastTrack 權益的詳細資訊，請參閱 [適用于 Microsoft 365 的 FastTrack 中心權益](introduction.md)。

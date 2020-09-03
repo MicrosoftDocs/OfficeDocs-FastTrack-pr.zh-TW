@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
-localization_priority: Priority
+localization_priority: None
 ms.collection: FastTrack
 description: 當您購買任何 Microsoft 365 服務，FastTrack 專家可提供您 Microsoft 365 的上架指引，讓您即刻開始使用。
-ms.openlocfilehash: 8b538abb0ffd5efc6ca2fbc6813c6535cae39ff8
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
-ms.translationtype: HT
+ms.openlocfilehash: 0a8549399ea73b2e509696a16783aa7e94b4cf0b
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800953"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338279"
 ---
 # <a name="eligible-services-and-plans"></a>適用的服務與方案
 

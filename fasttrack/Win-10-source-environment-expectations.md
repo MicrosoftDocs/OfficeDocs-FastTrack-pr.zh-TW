@@ -7,20 +7,20 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: FastTrack 中心權益可為您提供指引，幫助您設定 Windows 10 部署來源環境的整合程度。
-ms.openlocfilehash: 84f026176cd93892272917ac5aa91fff62e6c37a
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: e9289f534ec0686655e58c12c5e12379b1849b33
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817266"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338159"
 ---
 # <a name="source-environment-expectations"></a>來源環境預期
 
 > [!CAUTION]
-> 此內容已不再是最新的，且已排程為待移除。 使用目前內容左側導覽中的目錄。
+> 此內容已不再是最新的，且已排定移除。 請使用目前內容左側瀏覽的目錄。
 
 FastTrack 中心權益可為您提供指引，幫助您設定來源環境的整合程度。
   

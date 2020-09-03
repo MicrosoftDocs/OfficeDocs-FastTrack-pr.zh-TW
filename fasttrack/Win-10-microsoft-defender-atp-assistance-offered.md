@@ -7,20 +7,20 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: 當您購買任何 Windows 10 或 Microsoft 365 服務時，FastTrack 專家會為您提供遠端部署指引以保護端點。 我們的服務會針對每個客戶的環境和需求而量身打造。
-ms.openlocfilehash: bf488a2cbe1c61083425171de6942b5db59e58ad
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: a649f5a5959d877b75ad1f08edfbb18a015ba5bb
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817650"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338554"
 ---
 # <a name="assistance-offered"></a>提供的協助  
 
 > [!CAUTION]
-> 此內容已不再是最新的，且已排程為待移除。 使用目前內容左側導覽中的目錄。
+> 此內容已不再是最新的，且已排定移除。 請使用目前內容左側瀏覽的目錄。
 
 當您購買任何 Windows 10 或 Microsoft 365 服務時 (詳情請見[合格服務與方案](M365-eligible-services-and-plans.md))，FastTrack 專家會為您提供遠端部署指引以保護端點。 我們的服務會針對每個客戶的環境和需求而量身打造。 FastTrack 專家：
 - 評估作業系統版本和裝置管理 (包括 Microsoft Intune、Microsoft Endpoint Configuration Manager、群組原則物件 (GPO) 和第三方組態)。

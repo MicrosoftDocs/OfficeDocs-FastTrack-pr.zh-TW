@@ -7,19 +7,19 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: 在 Windows 10 上架期間您需擔負下列責任。
-ms.openlocfilehash: f86a889f1819afa8a8dceefb45ab9dc1ab439535
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 7a6ec109d0a07c255925c86f20b24df4ea2f0ed8
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817146"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338111"
 ---
 # <a name="your-responsibilities"></a>您的責任
 > [!CAUTION]
-> 此內容已不再是最新的，且已排程為待移除。 使用目前內容左側導覽中的目錄。
+> 此內容已不再是最新的，且已排定移除。 請使用目前內容左側瀏覽的目錄。
 
 在上架期間您需擔負下列責任。
 

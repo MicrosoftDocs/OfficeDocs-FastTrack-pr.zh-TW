@@ -7,19 +7,19 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: None
 description: Exchange Online 租用戶購買至少 20,000 個授權的客戶符合 FastTrack Center 附加服務的資格。如需詳細資料，請參閱合格服務與計劃。
-ms.openlocfilehash: 48559090e5fe55cf0001a5e11793dec75a12dfaf
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 7b98f341bf645b83a91e11eec1a1f2347380d97a
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817542"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338435"
 ---
 # <a name="appendix-a---fasttrack-center-additional-benefit"></a>附錄 A：FastTrack 中心其他權益
 
 > [!CAUTION]
-> 此內容已不再是最新的，且已排程為待移除。 使用目前內容左側導覽中的目錄。
+> 此內容已不再是最新的，且已排定移除。 請使用目前內容左側瀏覽的目錄。
 
 為 Exchange Online 租使用者購買至少20000個授權的客戶，都有資格享受 FastTrack Center 其他服務。 如需詳細資訊，請參閱 [資格](eligibility.md) 。 
   

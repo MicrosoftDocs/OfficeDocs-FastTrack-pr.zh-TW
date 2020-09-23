@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 當您購買任何 Windows 10 或 Microsoft 365 服務時，FastTrack 專家會提供部署至 Windows 10 和 Microsoft 365 Apps 的建議和修復指引，並且讓您保持在最新狀態而不需額外成本 (具有合格訂用帳戶)。
-ms.openlocfilehash: 874a23083e9c838486fad93d5da46e269f12282a
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 5252f880f126dd20de792e5cbdb18abc2473764d
+ms.sourcegitcommit: dd7b2975ade7feaa12be079c8e54fa5612383538
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817686"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48206250"
 ---
 # <a name="assistance-offered"></a>提供的協助  
 
@@ -36,6 +36,13 @@ FastTrack 提供下列 Microsoft 產品上部署之應用程式的修復協助�
 
 - 可在 Windows 7、Windows 8.1、Office 2010 和 Office 2013 中執行的應用程式也適用於 Windows 10 和 Microsoft 365 Apps。
 
+### <a name="windows-10-on-arm"></a>ARM 上的 Windows 10
+
+- 在 Windows 7、Office 2010 或更新版本上運作的應用程式可在 ARM64 裝置上的 Windows 10 和 Microsoft 365 應用程式上運作。
+
+> [!NOTE]
+> Windows 10 on ARM 排除和限制包括依賴不相容 ARM 之軟體驅動程式的應用程式、使用 OpenGL 或 OpenCL，或是只在64位 (x64) 中提供。
+
 ### <a name="the-new-microsoft-edge"></a>新版 Microsoft Edge
 
 - 如果您的 Web 應用程式或網站可在 Internet Explorer 11、支援的 Google Chrome 版本或 Microsoft Edge 的任何版本上執行，則也能在新的 Microsoft Edge 上執行。
@@ -45,13 +52,14 @@ FastTrack 提供下列 Microsoft 產品上部署之應用程式的修復協助�
 ### <a name="windows-virtual-desktop"></a>Windows 虛擬桌面
 
 - 在 Windows Server 遠端桌面工作階段主機 (RDSH) 上執行的虛擬化應用程式，也能隨著 Windows 虛擬桌面的一部分在 Windows 10 企業版多重工作階段上執行。
-- 在任何 Windows 7 或 Windows 10 虛擬桌面基礎結構 (VDI) 環境上執行的應用程式，也能隨著 Windows 虛擬桌面的一部分在 Windows 7 企業版和 Windows 10 企業版上執行。*
-- 在 Windows 7 或 Windows 10 用戶端裝置上執行的應用程式，也能隨著 Windows 虛擬桌面的一部分在 Windows 7 企業版和 Windows 10 企業版上執行。\*
+- 在任何 Windows 7 或 Windows 10 虛擬桌面基礎結構上執行的應用程式 (VDI) 環境也會在 windows 7 企業版和 Windows 10 Enterprise 上執行，成為 Windows 虛擬桌面的一部分。
+- 在 Windows 7 或 Windows 10 用戶端裝置上執行的應用程式，也能隨著 Windows 虛擬桌面的一部分在 Windows 7 企業版和 Windows 10 企業版上執行。
 
-\*Windows 10 企業版多重工作階段相容性排除與限制包括：
-- 有限的硬體重新導向。
-- A/V 密集型應用程式可能會以降低的容量執行。
-- 64 位元 Windows 虛擬桌面不支援 16 位元應用程式。
+> [!NOTE]
+> Windows 10 企業版多重工作階段相容性排除與限制包括： 
+> - 有限的硬體重新導向。
+> - A/V 密集型應用程式可能會以降低的容量執行。
+> - 64 位元 Windows 虛擬桌面不支援 16 位元應用程式。
 
 如需詳細資訊，請參閱[什麼是 Windows 虛擬桌面？](https://docs.microsoft.com/azure/virtual-desktop/overview)和 [Windows 10 企業版多重工作階段常見問題](https://docs.microsoft.com/azure/virtual-desktop/windows-10-multisession-faq)。
 

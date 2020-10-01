@@ -3,19 +3,19 @@ title: 產品與功能
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 本主題包括 FastTrack 所支援之工作負載案例的詳細資料，以及在開始之前所需的來源環境預期。 根據您目前的設定，我們會與您合作，建立修復計畫，以將來源環境帶入成功上架的最低需求。
-ms.openlocfilehash: d25c1df8e628f14487952cacc86ccf8fb9dad8c1
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: a3477be6958dea88874bbc042445bbc693c10ffb
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817698"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48320029"
 ---
 # <a name="products-and-capabilities"></a>產品與功能
 
@@ -29,8 +29,9 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
   - [Office 365](#office-365)
   - [企業行動性 & 安全性](#enterprise-mobility--security)
   - [Windows 10](#windows-10)
-  - [應用程式保證](Win-10-app-assure.md)
-  - [新版 Microsoft Edge](Win-10-microsoft-edge.md)
+  - [Windows 虛擬桌面](#windows-virtual-desktop)
+  - [應用程式保證](#app-assure)
+  - [新版 Microsoft Edge](#the-new-microsoft-edge)
 
 > [!NOTE]
 > 如需 Office 365 美國政府的來源環境預期資訊，請參閱 [office 365 Us 政府的來源環境預期](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations)。
@@ -167,7 +168,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>  記錄管理。  </li>
 <li>  刪除原則。  </li>
 <li>  通訊合規性。  </li>
-<li>  有問必答風險管理。  </li>
+<li>  測試人員風險管理。  </li>
 <li>  進階電子文件探索。  </li>
 </ul></td>
 <td>除了<a href="#general">一般</a>的<strong>核心上架</strong>部分之外，沒有最低的系統需求。</td>
@@ -177,14 +178,14 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <td>  我們提供下列專案的遠端指導：
 <ul>
 <li>  資料分類。  </li>
-<li>  敏感資訊類型。  </li>
-<li>  建立靈敏度標籤。  </li>
+<li>  敏感性資訊類型。  </li>
+<li>  建立敏感度標籤。  </li>
 <li>  套用敏感度標籤。  </li>
 <li>  統一標籤。  </li>
-<li>  Trainable 分類符。  </li>
-<li>  使用內容瀏覽器和活動瀏覽器知道您的資料。  </li>
-<li>  使用原則發佈標籤 (手動和自動) 。  </li>
-<li>  建立資料遺失防護 (適用于 Microsoft 團隊聊天和頻道的 DLP) 原則。  </li>
+<li>  可訓練的分類器。  </li>
+<li>  使用內容總管和活動總管瞭解您的資料。  </li>
+<li>  使用原則（手動和自動）發布標籤。  </li>
+<li>  為 Microsoft Teams 聊天和頻道建立資料外洩防護 (data loss prevention (DLP)) 原則。  </li>
 </ul></td>
 <td>除了<a href="#general">一般</a>的<strong>核心上架</strong>部分之外，沒有最低的系統需求。</td>
 </tr>
@@ -209,18 +210,13 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 如果適用，我們也會提供下列專案的指引。。
 <ul>
 <li>  Microsoft 團隊會議室裝置：  </li>
-</ul>
 <ul>
 <li>  為 <a href="https://go.microsoft.com/fwlink/?linkid=2066478">小組裝置目錄</a>中所列的支援電話語音和會議室裝置建立所需的線上帳戶。  </li>
-</ul>
-<ul>
+<li>  遠端協助，包含已認證 Microsoft 團隊聊天室裝置的服務端設定。  </li>
 <li>  啟用音訊會議：  </li>
-</ul>
-<ul>
 <li>  會議橋接預設設定的組織設定。  </li>
 <li>  對授權使用者會議橋接的指派。  </li>
 </ul>
-<ul>
 <li>  電話系統：
 <ul>
 <li>  雲端語音預設設定的組織設定。  </li>
@@ -232,11 +228,20 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 </ul></li>
 <li>  直接路由指引：
 <ul>
-<li>  組織設定指南，適用於合作夥伴託管案例的直接路由設計或單一網站的客戶部署案例。  </li>
+<li>  組織安裝指導，以供協力廠商託管案例的直接路由設計，或最多10個網站的客戶部署案例。  </li>
+<li> 會話邊界控制器 (SBC) 設定複查。 </li>
+
+<li> 使用撥號對應表設定的遠端協助。 </li>
+
+<li> 語音路由設定。</li>
+
+<li> 媒體旁路和本機媒體優化。 </li>
+
 </ul></li>
 </ul></li>
 <li>  啟用 Teams 即時活動。  </li>
 <li>  組織設定與 Microsoft Stream 整合。  </li>
+<li>  商務用 Skype to 小組的指導方針。  </li>
 </ul></td>
 <td><ul>
 <li>  Azure AD for Office 365 中啟用的身分識別。  </li>
@@ -342,62 +347,6 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
   <strong>附注：</strong> SharePoint 伺服器的內部部署 SharePoint 環境升級為不在範圍內。 請與 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作夥伴</a> 聯繫以取得協助。 如需詳細資訊，請參閱 <a href="https://go.microsoft.com/fwlink/?linkid=853548">SharePoint 混合式功能的最小公用更新層級</a><em>。</em>  <br>
   <strong>附注：</strong> 如需多地理位置功能的詳細資訊，請參閱 <a href="https://go.microsoft.com/fwlink/?linkid=831056">Office 365 中 OneDrive 和 SharePoint Online 中的多地理位置功能</a><em>。</em>  </td>
 </tr>
-<tr class="odd">
-<td><strong>商務用 Skype Online</strong></td>
-<td>  我們提供下列專案的遠端指導：
-<ul>
-<li>  設定防火牆連接埠。  </li>
-
-<li>  設立 DNS。  </li>
-<li>  網路評估：
-<ul>
-<li>  連接埠和端點檢查。  </li>
-<li>  連線品質檢查。  </li>
-<li>  頻寬估計。  </li>
-</ul></li>
-<li>  建立任何會議室系統裝置的帳戶。  </li>
-<li>  部署支援的 商務用 Skype Online 用戶端。  </li>
-<li>  在您的內部部署 Lync 2010、Lync 2013 或 商務用 Skype 2015 伺服器環境與商務用 Skype Online 租用戶 (如果適用)、通話方案、Skype 會議廣播，以及電話系統和通話方案 (在可用的市場) 之間建立分割網域伺服器組態。  
-  如果適用的話，FastTrack 也會引導您完成下列作業：  </li>
-<li>  設定會議室系統裝置：
-<ul>
-<li>  為 <a href="https://go.microsoft.com/fwlink/?LinkId=615775">商務用 Skype 方案目錄</a>中的 [會議室系統] 索引標籤上所列的支援的會議室裝置建立所需的線上帳戶。  </li>
-</ul></li>
-<li>  設定混合和分割的域伺服器。  </li>
-<li>  設定音訊會議：
-<ul>
-<li>  會議橋接預設設定的組織設定。  </li>
-<li>  對授權使用者會議橋接的指派。  </li>
-</ul></li>
-<li>  設定電話系統預設值：
-<ul>
-<li>  通話方案：
-<ul>
-<li>  授權使用者的號碼指派。  </li>
-<li>  透過使用者介面到99的本機號碼移植指導  </li>
-<li>  本機號碼移植服務要求支援超過999  </li>
-</ul></li>
-</ul></li>
-<li>  設定商務用 Skype 會議廣播：
-<ul>
-<li>  針對會議廣播服務同盟的組織設定。  </li>
-</ul></li>
-</ul></td>
-<td>  <strong>對於 Lync 混合：</strong>  
-<ul>
-<li>  單一內部部署 Active Directory 樹系。  </li>
-<li>  Lync 2010 Server 環境與 Lync 2013 系統管理工具或 商務用 Skype 2015 系統管理工具和 Lync 2010 Edge server role。  </li>
-<li>  Lync 2013 Server 環境和 Lync 2013 Edge 伺服器角色。  </li>
-</ul>
-  <strong>針對商務用 Skype 混合：</strong>  
-<ul>
-<li>  單一內部部署 Active Directory 樹系。  </li>
-<li>  單一 Active Directory 帳戶樹系 + 和資源樹系 (Exchange 及/或商務用 Skype) 拓撲。  </li>
-<li>  多個 Active Directory 帳戶樹系，其中一個樹系是具有 Exchange 和/或商務用 Skype 的集中式 Active Directory 帳戶樹系。  </li>
-<li>  商務用 Skype Server 2015 環境包括商務用 Skype Edge server role。  </li>
-</ul>
-  <strong>附注：</strong> 這項額外的服務是用於設定和驗證分割網域 (混合式) 任務，但不包括引入內部部署元件 (例如，Lync 2013 系統管理工具或 Lync 2013/商務用 skype Online server，或 Lync 2010、Lync 2013 或商務用 Skype edge server) 。  </td>
-</tr>
 <tr class="even">
 <td><strong>Yammer Enterprise</strong></td>
 <td><ul>
@@ -493,7 +442,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>  瞭解受保護金鑰管理的任何規章限制。  </li>
 </ul>
   
-<strong>Azure 資訊保護掃描器</strong>  
+<strong>Azure 資訊保護掃描程式</strong>  
   
 您應該已經：  
 <ul>
@@ -524,7 +473,6 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>  透過網頁連結或深層連結，為每個支援的平臺部署應用程式。  </li>
 <li>  條件式存取原則。  </li>
 <li>  如果您的組織中有現有的憑證授權單位、無線網路或 VPN 基礎結構，則部署電子郵件、無線網路和 VPN) 設定檔。  </li>
-<li>  設定 Microsoft Intune Exchange Connector (如果適用)。  </li>
 <li>  連接至 Intune 資料倉儲。  </li>
 <li>  整合 Intune 與：
 <ul>
@@ -553,11 +501,9 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 
   我們將引導您完成 cloud-附上現有 Configuration Manager 環境與 Intune 的準備工作。 確切的步驟取決於您的來源環境。 這些步驟可能包括：  
 <ul>
-<li>  說明雲端附加 Configuration Manager 和 Intune 的優點。  </li>
 <li>  授權使用者。  </li>
 <li>  利用內部部署 Active Directory 和雲端身分識別來設定 Intune 將使用的身分識別。  </li>
 <li>  將使用者新增到您的 Intune 訂用帳戶、定義 IT 系統管理員角色，以及建立使用者和裝置群組。  </li>
-<li>  在 Configuration Manager 主控台中啟用雲端附加。  </li>
 <li>  提供指導方針設定混合式 Azure AD 聯結。  </li>
 <li>  提供設定適用于 MDM 自動註冊之 Azure AD 的指導方針。  </li>
 <li>  提供如何設定雲端管理閘道的相關指引。  </li>
@@ -582,10 +528,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
   </td>
 <td>  在規劃使用 Intune 部署無線網路和 VPN 設定檔時，IT 系統管理員必須具備實際執行環境中使用的憑證授權、無線網路和 VPN 基礎結構。  
   <strong>附注</strong>： FastTrack 服務權益不包括設定或設定憑證授權機構、無線網路、VPN 基礎結構或 Apple MDM push 憑證 for Intune 的協助。  
-
-<strong>雲端附加設定管理員</strong>  
-
- 使用雲端附加，IT 系統管理員負責準備內部部署環境。 這可能包括導致您無法使用 Intune 將 Configuration Manager 環境附加至雲端的問題修復。  
+ 
   <strong>附註</strong>: FastTrack 服務權益不包含協助將設定管理員站台伺服器或將設定管理員用戶端設定或升級，以滿足對支援雲端附加所需的最低需求。 請與 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作夥伴</a> 聯繫以取得協助。
 
   <strong>Intune 與 Microsoft Defender 進階威脅防護 (ATP) 整合</strong> 
@@ -618,7 +561,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <tbody>
 <tr class="odd">
 <td><strong>Windows 10</strong></td>
-<td>  我們提供指導方針，可協助您從 Windows 7 Professional 和 Windows 8.1 專業版升級至 Windows 10 企業版。  
+<td>  我們提供將 Windows 7 Professional 和 Windows 8.1 專業版升級至 Windows 10 企業版的指導方針。  
   我們提供下列專案的遠端指導：
 <ul>
 <li>  瞭解您的 Windows 10 意圖。  </li>
@@ -627,13 +570,11 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>  建議您評估 Windows 10 應用程式的選項。  </li>
 <li>  啟用桌面 analytics 的使用，以及建立桌面分析部署計畫的指導方針。  </li>
 <li>  Microsoft 365 應用程式相容性評估的方式是利用 Configuration Manager 中的 Office 365 準備儀表板，或搭配 Office 的獨立準備人工具組，以及部署 Microsoft 365 應用程式的協助。  </li>
-<li>  評估您的現代管理原則，包括雲端附加 Configuration Manager 與 Microsoft Intune 或部署 Intune 做為唯一的雲端管理解決方案。  </li>
 <li>  針對成功部署的最低需求，建立修復檢查清單，以達到您需要執行的動作。  </li>
 <li>  在 Windows 10 企業版滿足必要的裝置硬體需求時，提供現有裝置的升級指導方針。  </li>
 <li>  提供升級指導以支援現有的部署動作。 FastTrack 會建議並提供 Windows 10 就地升級的指引。 也提供 Windows 全新映像安裝和 Windows Autopilot 部署案例的指引。  </li>
 <li>  使用 Configuration Manager 部署 Microsoft 365 應用程式做為 Windows 10 部署的一部分。   </li>
 <li>  提供指導方針，以協助您的組織使用您現有的 Configuration Manager 環境或 Microsoft 365 來保持最新的 Windows 10 企業版和 Microsoft 365 應用程式。  </li>
-<li>  提供指導，讓雲端將 Configuration Manager 與 Intune 或部署 Intune 獨立 (（必要) ）進行現代化管理。  </li>
 </ul>
   <strong>下列超出範圍 </strong>  
 <ul>
@@ -799,5 +740,212 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 </ul></td>
 <td></td>
 
+</tbody>
+</table>
+
+## <a name="windows-virtual-desktop"></a>Windows 虛擬桌面
+
+<table>
+<thead>
+<tr class="header">
+<th><strong>服務</strong></th>
+<th><strong>FastTrack 指引詳細資料</strong></th>
+<th><strong>來源環境預期</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Windows 虛擬桌面</strong></td>
+<td><p>我們為上架至 Windows Virtual Desktop 提供部署指導 (桌面和應用程式虛擬化服務) 。 Windows 虛擬桌面利用 Windows 10 多會話體驗，並針對使用 Microsoft 365 的整合式安全性和管理，針對適用于企業的 Microsoft 365 應用程式進行優化。</p>
+<p>我們提供下列專案的遠端指導：</p>
+<ul>
+<li>使用下列各項部署 Windows 虛擬桌面環境與 Windows 10 企業版的多重會話和 Microsoft 365 應用程式（適用于企業）：
+<ul>
+<li>Azure Marketplace 影像。</li>
+<li>共用圖像。</li>
+<li>Office 部署工具組 (ODT) 。</li>
+</ul></li>
+<li>設定 FSLogix：
+<ul>
+<li>使用設定檔容器部署 FSLogix 代理程式。</li>
+<li>使用 Office 容器部署 FSLogix 代理程式。</li>
+<li>使用內容排除設定 FSLogix 資料夾。</li>
+</ul></li>
+<li>部署 Microsoft Edge。</li>
+<li>部署 Microsoft 團隊。</li>
+<li>使用 Windows 虛擬桌面用戶端連接。</li>
+</ul>
+
+<strong>下列超出範圍</strong>
+<ul>
+<li>客戶 Windows 虛擬桌面部署的專案管理。</li>
+<li>現場支援。</li>
+<li>協力廠商應用程式虛擬化和部署。</li>
+<li>自訂圖像。</li>
+<li>涉及 VMware 和 Citrix 的遷移和案例。</li>
+<li>Linux 案例。</li>
+<li>轉換或遷移使用者設定檔。</li>
+</ul>
+請與 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作夥伴</a>聯繫   以取得這些服務。</td>
+<td>您應該已經具備下列專案：
+<ul>
+<li><a href="https://docs.microsoft.com/azure/virtual-desktop/overview#requirements">Windows 虛擬桌面授權的需求</a>。</li>
+<li>Azure 網路：
+<ul>
+<li>虛擬網路 (VNET) 建立及子網。</li>
+<li>防火牆和網路安全性群組。</li>
+<li>VPN 和 ExpressRoute。</li>
+<li>從內部部署路由傳送至 Azure。</li>
+<li>允許連線至 Windows 虛擬桌面的防火牆規則。
+</ul>
+如需詳細資訊，請參閱 <a href="https://docs.microsoft.com/azure/virtual-desktop/overview#supported-remote-desktop-clients"> 支援的遠端桌面用戶端</a>。
+</ul>
+<ul><li>Azure AD 一般設定：
+<ul>
+<li>身分識別策略 <i> (您只能使用下列三個選項) 中的其中一項：</i>
+<ul>
+<li>Azure 中使用 Azure AD Connect 的 Active Directory。</li>
+<li>使用 Azure AD 的 Active Directory Connect over VPN 或 ExpressRoute 的內部部署。</li>
+<li>Active Directory 網域服務 (AD DS) 。</li>
+</ul></li>
+</ul></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+## <a name="app-assure"></a>應用程式保證
+
+
+<table>
+<thead>
+<tr class="header">
+<th><strong>服務</strong></th>
+<th><strong>FastTrack 指引詳細資料</strong></th>
+<th><strong>支援的產品</strong></th>
+</tr>
+</thead>
+<tbody>
+</tr>
+<tr class="even">
+<td><strong>應用程式保證</strong></td>
+<td>  應用程式保證是一種服務，旨在解決 Windows 10 和 Microsoft 365 應用程式相容性的問題。 當您要求 App 保證服務時，我們會與您合作，以免費處理有效的應用程式問題，不需要您購買合格的訂閱。 我們也會在部署 Windows 虛擬桌面和新的 Microsoft Edge 時，提供客戶面臨相容性問題的指導，並盡每一種合理的努力，以解決相容性問題。 我們會為下列 Microsoft 產品上部署的應用程式提供修正協助：
+<ul>
+<li>  <strong>Windows 10 </strong> (包括 ARM64 裝置) </li>
+<li> <strong>Microsoft 365 應用程式</strong>  </li>
+<li>  <strong>新的 Microsoft Edge-</strong> 如需部署指導，請參閱 <a href="https://docs.microsoft.com/DeployEdge/microsoft-edge-channels">Microsoft Edge 通道概述</a>。  </li>
+<li>  <strong>Windows 虛擬桌面</strong> - 如需詳細資訊，請參閱 <a href="https://docs.microsoft.com/azure/virtual-desktop/overview">何謂 Windows Virtual Desktop？</a> 和 <a href="https://docs.microsoft.com/azure/virtual-desktop/windows-10-multisession-faq">Windows 10 企業版多會話常見問題</a>。  </li>
+</ul>
+
+<strong>下列超出範圍 </strong>  
+<ul>
+<li>  應用程式清查和測試，以判斷可否在 Windows 10 和 Microsoft 365 Apps 上運作。 如需有關此程序的詳細指示，請瀏覽<a href="https://go.microsoft.com/fwlink/?linkid=2080140">電腦部署中心</a>。 如果您對於深入的升級整備評估有興趣，請填寫<a href="https://go.microsoft.com/fwlink/?linkid=2053818">客戶要求現代化電腦評估</a>表單。</li>
+<li>  針對 Windows 10 相容性和支援狀態，研究第三方 ISV 應用程式。 如需詳細資訊，請參閱<a href="https://docs.microsoft.com/sccm/desktop-analytics/overview">電腦分析</a>。</li>
+<li>僅限應用程式封裝的服務。 不過，應用程式保證小組會將我們針對 Windows 10 修復的應用程式封裝起來，以確保這些應用程式可以在客戶的環境中部署。</li>
+</ul>
+
+<strong>客戶責任包括</strong>  
+<ul>
+<li>  建立應用程式清查。</li>
+<li>  在 Windows 10 和 Microsoft 365 Apps 上驗證這些應用程式。</li>
+</ul>
+<strong>附注：</strong>  Microsoft 無法對您的原始程式碼進行變更。 不過，應用程式保證小組可以在原始程式碼適用於您的應用程式時，為應用程式開發人員提供指導方針。 
+
+
+  請與 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作夥伴</a> 聯繫以取得這些服務。  </td>
+
+</td>
+<td><strong>Windows 10 和 Microsoft 365 應用程式</strong>
+<ul>
+<li>  
+  可在 Windows 7、Windows 8.1、Office 2010 和 Office 2013 中執行的應用程式也適用於 Windows 10 和 Microsoft 365 Apps。  
+  </li>
+</ul>
+<strong>ARM 上的 Windows 10</strong>
+<ul>
+<li>  
+在 Windows 7、Office 2010 或更新版本上運作的應用程式可在 ARM64 裝置上的 Windows 10 和 Microsoft 365 應用程式上運作。 
+  </li>
+</ul>
+  <strong>附注：</strong> Windows 10 on ARM 排除和限制包括：
+<ul>
+<li>  
+ 依賴 ARM 中不相容之軟體驅動程式的應用程式。  
+  </li>
+<li>  
+  使用 OpenGL 或 OpenCL 的應用程式。   
+  </li>
+<li>  
+  應用程式僅能在64位 (x64) 中使用。  
+  </li>
+</ul>
+<strong>新的 Microsoft Edge</strong>
+<ul>
+<li>  
+  如果您的 Web 應用程式或網站可在 Internet Explorer 11、支援的 Google Chrome 版本或 Microsoft Edge 的任何版本上執行，則也能在新的 Microsoft Edge 上執行。  
+  </li>
+<li>  
+  當網頁不斷演變時，請務必查看此已發佈的已知 <a href="https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes">網站相容性清單-Microsoft Edge 的變更</a>。  
+  </li>
+</ul>
+  <strong>Windows 虛擬桌面 </strong>  
+<ul>
+<li>  
+  在 Windows Server 遠端桌面工作階段主機 (RDSH) 上執行的虛擬化應用程式，也能隨著 Windows 虛擬桌面的一部分在 Windows 10 企業版多重工作階段上執行。  
+  </li>
+<li>  
+  在任何 Windows 7 或 Windows 10 虛擬桌面基礎結構上執行的應用程式 (VDI) 環境也會在 windows 7 企業版和 Windows 10 Enterprise 上執行，成為 Windows 虛擬桌面的一部分。  
+  </li>
+<li>  
+  在 Windows 7 或 Windows 10 用戶端裝置上執行的應用程式，也能隨著 Windows 虛擬桌面的一部分在 Windows 7 企業版和 Windows 10 企業版上執行。  
+  </li>
+</ul>
+  <strong>附注：</strong> Windows 10 企業版多會話相容性排除和限制包括：
+<ul>
+<li>  
+  有限的硬體重新導向。  
+  </li>
+<li>  
+  A/V 密集型應用程式可能會以降低的容量執行。  
+  </li>
+<li>  
+  64 位元 Windows 虛擬桌面不支援 16 位元應用程式。  
+  </li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+## <a name="the-new-microsoft-edge"></a>新版 Microsoft Edge
+
+
+<table>
+<thead>
+<tr class="header">
+<th><strong>服務</strong></th>
+<th><strong>FastTrack 指引詳細資料</strong></th>
+<th><strong>來源環境預期</strong></th>
+</tr>
+</thead>
+<tbody>
+</tr>
+<tr class="even">
+<td>Windows 10 企業版客戶的<strong>Microsoft Edge</strong> () </td>
+<td><ul>
+<li>  我們會為下列專案提供遠端部署指導和相容性協助：在 Windows 10 企業版上使用 Microsoft 端點管理員 (Microsoft 端點 Configuration Manager 或 Intune) 部署新的 Microsoft Edge。  </li>
+<li>  Microsoft Edge 設定 (使用群組原則或 Intune 應用程式設定和應用程式原則) 。  </li>
+<li>  清點可能需要在 Internet Explorer 模式中使用的網站清單。  </li>
+<li>  啟用具有現有企業網站清單的 Internet Explorer 模式。  
+  此外，如果您有可搭配 Internet Explorer 或 Google Chrome 使用的 web 應用程式或網站，且您遇到相容性問題，我們會提供指引來解決問題，而不需額外收費。 如需詳細資訊，請參閱 <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#app-assure">應用程式</a> 。  </li>
+</ul>
+
+<strong>下列超出範圍 </strong>  
+<ul>
+<li>客戶的 Microsoft Edge 部署的專案管理。</li>
+<li>  現場支援。</li>
+
+</td>
+<td></td>
+</tr>
 </tbody>
 </table>

@@ -3,19 +3,19 @@ title: 資格
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 在本主題中，我們概括了從購買 Microsoft 365 授權的 FastTrack 專家那裡收到導向協助的資格要求，並詳細說明涵蓋的特定產品和功能。
-ms.openlocfilehash: ce37dd547b93dd2a66b18d5250626c14ed20ff53
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
-ms.translationtype: HT
+ms.openlocfilehash: 36e838da202103ee2f6623f9c709f8e558cd5b22
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817566"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48320017"
 ---
 # <a name="eligibility"></a>資格
 
@@ -46,8 +46,8 @@ FastTrack 專家可以為您提供您購買方案中可能包含的下列服務�
   - Power BI
   - Project Online
   - SharePoint Online
-  - 商務用 Skype Online
   - Windows 10
+  - Windows 虛擬桌面
   - Yammer Enterprise
 
 ## <a name="eligible-plans"></a>合格方案
@@ -65,6 +65,7 @@ FastTrack 專家可以為您提供您購買方案中可能包含的下列服務�
   - Microsoft 365 E5 電子文件探索和稽核\*
   - Microsoft 365 E5 資訊保護和控管\*
   - Microsoft 365 E5 測試人員風險管理\*
+  - Microsoft 365 F1\*
   - Microsoft 365 F3\*
   - Microsoft 365 商務版\*
   - 企業版 Microsoft 365 應用程式\*
@@ -115,6 +116,19 @@ FastTrack 專家可以為您提供您購買方案中可能包含的下列服務�
   - Exchange Online Protection
   - Office 365 進階威脅防護
 
+#### <a name="microsoft-teams"></a>Microsoft Teams
+
+  - 電話系統
+  - 通話方案
+  - 音訊會議
+  - Microsoft 團隊聊天室
+
+#### <a name="onedrive-for-business"></a>商務用 OneDrive
+
+  - 商務用 OneDrive 與 Office
+  - 商務用 OneDrive 方案 1
+  - 商務用 OneDrive 方案 2
+
 #### <a name="project-online"></a>Project Online
 
   - Microsoft Project Online 基本版
@@ -126,32 +140,16 @@ FastTrack 專家可以為您提供您購買方案中可能包含的下列服務�
   - SharePoint Online 方案 1
   - SharePoint Online 方案 2
 
-#### <a name="onedrive-for-business"></a>商務用 OneDrive
-
-  - 商務用 OneDrive 與 Office
-  - 商務用 OneDrive 方案 1
-  - 商務用 OneDrive 方案 2
-
-#### <a name="skype-for-business-online"></a>商務用 Skype Online
-
-  - 電話系統\*\*\*
-  - 通話方案\*\*\*
-  - 音訊會議\*\*\*
-  - 商務用 Skype Online 方案 1
-  - 商務用 Skype Online 方案 2
-
 #### <a name="yammer"></a>Yammer
 
   - Yammer Enterprise
-
 
 <br>
 
 \*僅適用此權益描述中所列之有資格獲得 FastTrack 協助的雲端服務和功能。  
       
 \*\*如需有關適用於美國政府的 FastTrack 權益詳細資訊，請參閱 [Office 365 美國政府](https://aka.ms/aboutgovcloud)。  
-      
-\*\*\*商務用 Skype Online 和 Teams 授權使用者皆可使用。 需要合格購買商務用 Skype 或 Teams。  
+       
       
 ### <a name="enterprise-mobility--security-plans"></a>Enterprise Mobility + Security 方案  
       

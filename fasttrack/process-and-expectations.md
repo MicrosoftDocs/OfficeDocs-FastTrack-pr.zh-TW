@@ -3,19 +3,19 @@ title: 流程與預期值
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 在此主題中，涵蓋了如何使用 FastTrack 取得協助、協助如何提供、取得成功體驗的秘訣，以及瞭解 FastTrack 和公司的重要責任。
-ms.openlocfilehash: 229679a0bd248e79cd8ebedc563b173a20756f80
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
-ms.translationtype: HT
+ms.openlocfilehash: 293cde4bd1bde0b0a8db74ea3d17f39669c9b0f0
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817578"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48319933"
 ---
 # <a name="process-and-expectations"></a>流程與預期值
 
@@ -43,6 +43,8 @@ ms.locfileid: "46817578"
 3.  輸入客戶名稱、網域或 TPID 來搜尋您的客戶。
 4.  從搜尋結果中選取您的客戶。
 5.  填妥**使用 Microsoft 365 要求協助** 表單。
+
+若要要求應用程式的協助，請完成 [應用程式確保服務要求](https://go.microsoft.com/fwlink/?linkid=2022721)。
 
 ## <a name="fasttrack-expectations"></a>FastTrack 預期值
 

@@ -3,19 +3,19 @@ title: 資料移轉
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office 365 (Exchange Online、SharePoint Online 及 [商務用 OneDrive])。 我們可以提供的協助類型取決於您的 Office 365 授權數量。
-ms.openlocfilehash: 6b2c9cc3afba415c200b14fe34e65f1c3286e450
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
-ms.translationtype: HT
+ms.openlocfilehash: a8bb82e5a0409c52fe2603d33a4412182288f24a
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817710"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48319945"
 ---
 # <a name="data-migration"></a>資料移轉
 
@@ -281,6 +281,7 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 <li> 內容不是由移轉中的 Google 雲端硬碟帳戶所擁有 </li>
 <li> 外部使用者的權限和中繼資料（<strong>注意事項</strong>：使用 Google 雲端硬碟系統管理員報告來識別與外部使用者共用的內容。 指示使用者在移轉之後，與外部使用者再次共用內容。） </li>
 <li> 共用磁碟機成員權限（<strong>注意事項</strong>：使用 Google 雲端硬碟系統管理員報告來識別共用磁碟機的成員資格。 指導使用者在進行移轉之前，在目標上設定這些成員資格的設定值。) </li>
+<li> 標記為受限或未 copyable 的檔案 </li>
 <li> 檔案或資料夾超過目前  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online 的規定和限制 </span></a> </li>
 </ul></td>
 </tr>

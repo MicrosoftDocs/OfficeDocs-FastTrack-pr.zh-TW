@@ -1,21 +1,21 @@
 ---
 title: 產品與功能
-ms.author: rberg@steyer.net
-author: rberg@steyer.net
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 本主題包括 FastTrack 所支援之工作負載案例的詳細資料，以及在開始之前所需的來源環境預期。 根據您目前的設定，我們會與您合作，建立修復計畫，以將來源環境帶入成功上架的最低需求。
-ms.openlocfilehash: a3477be6958dea88874bbc042445bbc693c10ffb
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 7071187e2bc2b52930a03b4bf9dabd4f717b88df
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48320029"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827103"
 ---
 # <a name="products-and-capabilities"></a>產品與功能
 
@@ -34,7 +34,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
   - [新版 Microsoft Edge](#the-new-microsoft-edge)
 
 > [!NOTE]
-> 如需 Office 365 美國政府的來源環境預期資訊，請參閱 [office 365 Us 政府的來源環境預期](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations)。
+> 如需有關 Office 365 US Government 來源環境預期的資訊，請參閱 [Office 365 US Government 的來源環境預期](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations)。
  
 ## <a name="general"></a>一般
 
@@ -78,7 +78,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>  多個 Active Directory 帳戶樹系和資源樹系 (Exchange 和/或 Lync 2010、Lync 2013 或 商務用 Skype) 拓樸。  </li>
 <li>  多重 Active Directory 帳戶樹系，其中一個樹系為包含 Exchange 和/或 Lync 2010、Lync 2013 或商務用 Skype 的集中式 Active Directory 帳戶樹系。  </li>
 <li>  多個 Active Directory 帳戶樹系，每個都有自己的 Exchange 組織。  </li>
-<li>  承租人設定所需的工作，以及與 Azure Active Directory 的整合（如有需要）。   </li>
+<li>  承租人設定所需的工作，以及與 Azure Active Directory 的整合（如有需要）。   </li>
 </ul>
   <strong>重要：</strong>  <ul>
 <li>  針對多樹系 Active Directory 案例，如果已部署 Lync 2010、Lync 2013 或商務用 Skype，則必須部署在與 Exchange 相同的 Active Directory 樹系中。  </li>
@@ -101,7 +101,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
   此外，如果您有使用舊版 Office 的宏或增益集，且您遇到相容性問題，我們會提供指導方針以透過應用程式保證計畫來修正相容性問題，而不需要額外收費。 如需詳細資訊，請參閱 <strong>應用程式保證</strong> 部分的 <a href="#windows-10">Windows 10</a> 。 </li>
 </ul></td>
 <td><ul>
-<li>  線上用戶端軟體必須具備 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 和 Office 的系統需求</a>中所定義的最低層級。  </li>
+<li>  線上用戶端軟體必須具備 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 和 Office 的系統需求</a>中所定義的最低層級。  </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -149,7 +149,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>  設定信箱用戶端 (Outlook for Windows、Outlook 網頁版，以及 Outlook for iOS 和 Android)。  </li>
 </ul>
   <strong>資料移轉</strong>  <br>
-如需使用 FastTrack 將資料移轉至 Office 365 的優點的詳細資訊，請參閱 <a href="https://review.docs.microsoft.com/fasttrack/data-migration">資料移轉</a>。   
+如需使用 FastTrack 將資料移轉至 Office 365 的優點的詳細資訊，請參閱 <a href="https://docs.microsoft.com/fasttrack/data-migration">資料移轉</a>。   
 <td>  您的來源環境必須具有下列其中一個基本層級：
 <ul>
 <li>  含有 Exchange Server 2003 以上版本的單一或多個 Exchange 組織。  </li>
@@ -157,7 +157,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>  單一 G Suite 環境 (僅限 Gmail、連絡人和行事曆)。  </li>
 <li>  如需多地理位置功能的詳細資訊，請參閱 <a href="https://go.microsoft.com/fwlink/?linkid=872776">Exchange Online 中的多地理位置功能</a>。  </li>
 </ul>
-線上用戶端軟體（如 Office 365 的專案）、Outlook for Windows、Outlook for iOS 和 Android、商務同步處理用戶端、Power BI Desktop 和商務用 Skype 的 OneDrive，都必須在 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 Office 的系統需求</a>中所定義的最低層級。  </td>
+線上用戶端軟體（如 Office 365 的專案）、Outlook for Windows、Outlook for iOS 和 Android、商務同步處理用戶端、Power BI Desktop 和商務用 Skype 的 OneDrive，都必須在 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 Office 的系統需求</a>中所定義的最低層級。  </td>
 </tr>
 <tr class="even">
 <td><strong>Microsoft 資訊控管</strong></td>
@@ -186,6 +186,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>  使用內容總管和活動總管瞭解您的資料。  </li>
 <li>  使用原則（手動和自動）發布標籤。  </li>
 <li>  為 Microsoft Teams 聊天和頻道建立資料外洩防護 (data loss prevention (DLP)) 原則。  </li>
+<li>  為 Microsoft 端點管理員所管理的裝置建立 DLP 原則。  </li>
 </ul></td>
 <td>除了<a href="#general">一般</a>的<strong>核心上架</strong>部分之外，沒有最低的系統需求。</td>
 </tr>
@@ -211,7 +212,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <ul>
 <li>  Microsoft 團隊會議室裝置：  </li>
 <ul>
-<li>  為 <a href="https://go.microsoft.com/fwlink/?linkid=2066478">小組裝置目錄</a>中所列的支援電話語音和會議室裝置建立所需的線上帳戶。  </li>
+<li>  建立 <a href="https://go.microsoft.com/fwlink/?linkid=2066478">Teams 裝置目錄</a>中列出的受支援電話和會議室裝置所需的線上帳戶。  </li>
 <li>  遠端協助，包含已認證 Microsoft 團隊聊天室裝置的服務端設定。  </li>
 <li>  啟用音訊會議：  </li>
 <li>  會議橋接預設設定的組織設定。  </li>
@@ -249,9 +250,9 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>  Exchange 混合式設定) 中有 (線上和內部部署的 exchange 信箱。  </li>
 <li>  啟用 Office 365 群組。  </li>
 </ul>
-  <strong>附注：</strong>  如果未使用 SharePoint 線上授權指派及啟用使用者，則在 Office 365 中不會有商務儲存 OneDrive。 檔案共用仍可在通道中運作，但是使用者無法在聊天時共用檔，但不 OneDrive Office 365 中的商務儲存。 團隊不支援內部部署 SharePoint。  <br>
-  <strong>附注：</strong>  「理想」狀態是讓所有使用者將其信箱置於 Exchange Online。 在內部部署信箱的使用者，必須透過 Azure AD Connect，將其身分識別與 Office 365 目錄同步。 針對這些 Exchange 混合式客戶，如果使用者的信箱在內部部署中，使用者就無法新增或設定連接器。  
-  您可以從 Microsoft 團隊 Windows 和 Mac 桌面用戶端下載安裝程式  <a href="https://go.microsoft.com/fwlink/?linkid=839411">https://go.microsoft.com/fwlink/?linkid=839411</a> 。  </td>
+  <strong>附注：</strong> 如果未使用 SharePoint 線上授權指派及啟用使用者，則在 Office 365 中不會有商務儲存 OneDrive。 檔案共用仍可在通道中運作，但是使用者無法在聊天時共用檔，但不 OneDrive Office 365 中的商務儲存。 團隊不支援內部部署 SharePoint。  <br>
+  <strong>附注：</strong> 「理想」狀態是讓所有使用者將其信箱置於 Exchange Online。 在內部部署信箱的使用者，必須透過 Azure AD Connect，將其身分識別與 Office 365 目錄同步。 針對這些 Exchange 混合式客戶，如果使用者的信箱在內部部署中，使用者就無法新增或設定連接器。  
+  Microsoft Teams Windows 安裝程式和 Mac 桌面用戶端可以從這裡下載：<a href="https://go.microsoft.com/fwlink/?linkid=839411">https://go.microsoft.com/fwlink/?linkid=839411</a>。  </td>
 </tr>
 <tr class="odd">
 <td><strong>Office 365 進階威脅防護（ATP）</strong></td>
@@ -284,7 +285,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>  指派 Power BI 的授權。  </li>
 <li>  部署 Power BI Desktop 應用程式。  </li>
 </ul></td>
-<td>線上用戶端軟體（如 Power BI Desktop）必須具備 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 和 Office 的系統需求</a>中所定義的最低層級。</td>
+<td>線上用戶端軟體（如 Power BI Desktop）必須具備 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 和 Office 的系統需求</a>中所定義的最低層級。</td>
 </tr>
 <tr class="even">
 <td><strong>Microsoft Project Online</strong></td>
@@ -295,7 +296,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>  設定企業資源資料庫​​ (ERP)。  </li>
 <li>  建立您的第一個專案。  </li>
 </ul></td>
-<td>線上用戶端軟體（如 365 Office 的專案）必須至少是 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 和 Office 的系統需求</a>中所定義的最低層級。</td>
+<td>線上用戶端軟體（如 365 Office 的專案）必須至少是 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 和 Office 的系統需求</a>中所定義的最低層級。</td>
 </tr>
 <tr class="odd">
 <td><strong>Project Online 專業版和 Premium</strong></td>
@@ -308,7 +309,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>  設定 Project Online 桌面用戶端的單一內部網站發佈伺服器，包含建立搭配 Office 365 部署工具使用之 configuration.xml 檔案的相關協助。  </li>
 <li>  正在將 Project Online 桌面用戶端連線至 Project Online 專業版或 Project Online 進階版。  </li>
 </ul></td>
-<td>線上用戶端軟體（如 365 Office 的專案）必須至少是 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 和 Office 的系統需求</a>中所定義的最低層級。</td>
+<td>線上用戶端軟體（如 365 Office 的專案）必須至少是 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 和 Office 的系統需求</a>中所定義的最低層級。</td>
 </tr>
 <tr class="even">
 <td><strong>SharePoint Online 和商務用 OneDrive</strong></td>
@@ -334,7 +335,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>  部署商務用戶端同步處理的 OneDrive。  </li>
 </ul>
   <strong>資料移轉</strong>  <br>
-如需使用 FastTrack 將資料移轉至 Office 365 的優點的詳細資訊，請參閱 <a href="https://review.docs.microsoft.com/fasttrack/data-migration">資料移轉</a>。
+如需使用 FastTrack 將資料移轉至 Office 365 的優點的詳細資訊，請參閱 <a href="https://docs.microsoft.com/fasttrack/data-migration">資料移轉</a>。
 </ul></td>
 <td><br><strong>SharePoint 混合：</strong>  
 <ul>
@@ -344,15 +345,15 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <ul>
 <li>  若要啟用 SharePoint 混合式，您必須具有下列其中一個內部部署 SharePoint 伺服器環境：2013、2016或2019。  </li>
 </ul>
-  <strong>附注：</strong> SharePoint 伺服器的內部部署 SharePoint 環境升級為不在範圍內。 請與 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作夥伴</a> 聯繫以取得協助。 如需詳細資訊，請參閱 <a href="https://go.microsoft.com/fwlink/?linkid=853548">SharePoint 混合式功能的最小公用更新層級</a><em>。</em>  <br>
-  <strong>附注：</strong> 如需多地理位置功能的詳細資訊，請參閱 <a href="https://go.microsoft.com/fwlink/?linkid=831056">Office 365 中 OneDrive 和 SharePoint Online 中的多地理位置功能</a><em>。</em>  </td>
+  <strong>附注：</strong> SharePoint 伺服器的內部部署 SharePoint 環境升級為不在範圍內。 請與 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作夥伴</a> 聯繫以取得協助。 如需詳細資訊，請參閱 <a href="https://go.microsoft.com/fwlink/?linkid=853548">SharePoint 混合式功能的最小公用更新層級</a><em>。</em>  <br>
+  <strong>附注：</strong> 如需多地理位置功能的詳細資訊，請參閱 <a href="https://go.microsoft.com/fwlink/?linkid=831056">Office 365 中 OneDrive 和 SharePoint Online 中的多地理位置功能</a><em>。</em>  </td>
 </tr>
 <tr class="even">
 <td><strong>Yammer Enterprise</strong></td>
 <td><ul>
 我們提供啟用 Yammer Enterprise 服務的遠端指導方針。  
 </ul></td>
-<td>線上用戶端軟體必須具備 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 和 Office 的系統需求</a>中所定義的最低層級。</td>
+<td>線上用戶端軟體必須具備 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 和 Office 的系統需求</a>中所定義的最低層級。</td>
 </tr>
 </tbody>
 </table>
@@ -402,7 +403,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
   檢查 Azure AD 使用條款。  
   </li>
 <li>  
-  使用 Azure AD 特權身分識別管理來管理和 controling 版權管理帳戶。  
+  使用 Azure AD 特權身分識別管理來管理和控制版權管理帳戶的存取。  
   </li>
 </ul>
   
@@ -597,7 +598,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 若要升級基礎結構，您必須符合以下需求：
 <ul>
 <li>  Microsoft 端點 Configuration Manager。  </li>
-<li>  Windows 10 目標版本必須支援 Configuration Manager 版本。 如需詳細資訊，請參閱 configuration <a href="https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10">manager 中 Windows 10 支援的</a>configuration manager 支援表格。  </li>
+<li>  Windows 10 目標版本必須支援 Configuration Manager 版本。 如需詳細資訊，請參閱位於<a href="https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10">Configuration Manager 對於 Windows 10 的支援</a>的 Configuration Manager 支援表格。  </li>
 </ul>
 
 <tr class="odd">
@@ -651,7 +652,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
   Windows Server 2019 Core Edition。  
   </li>
 <li>  
-  Windows Server 半年通道 (SAC) 版本1803。  
+  Windows Server Semi-Annual 通道 (SAC) 版本1803。  
   </li>
 <li>  
   macOS 版本10.13、10.14 及10.15。  
@@ -786,7 +787,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>Linux 案例。</li>
 <li>轉換或遷移使用者設定檔。</li>
 </ul>
-請與 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作夥伴</a>聯繫   以取得這些服務。</td>
+請與 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作夥伴</a> 聯繫以取得這些服務。</td>
 <td>您應該已經具備下列專案：
 <ul>
 <li><a href="https://docs.microsoft.com/azure/virtual-desktop/overview#requirements">Windows 虛擬桌面授權的需求</a>。</li>

@@ -1,7 +1,7 @@
 ---
 title: 應用程式保證
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 適用於 Windows 10 的 FastTrack 中心權益提供對於應用程式保證的存取，應用程式保證為一項服務，其設計目的是要解決 Windows 10 和 Microsoft 365 Apps 應用程式相容性的問題。
-ms.openlocfilehash: b568b1c2a0a9473318404f50c37bbbc739018b41
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: fabf275f2a1af2f7ae13e049fb87f221f7fa82ac
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817674"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827367"
 ---
 # <a name="app-assure"></a>應用程式保證
 

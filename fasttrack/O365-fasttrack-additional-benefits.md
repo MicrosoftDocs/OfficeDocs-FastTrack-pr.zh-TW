@@ -1,7 +1,7 @@
 ---
 title: 附錄 A：FastTrack 中心其他權益
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 description: Exchange Online 租用戶購買至少 20,000 個授權的客戶符合 FastTrack Center 附加服務的資格。如需詳細資料，請參閱合格服務與計劃。
-ms.openlocfilehash: 7b98f341bf645b83a91e11eec1a1f2347380d97a
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: a2b136b7d7bdae2a8f70bb0c9781e63140f9fa2b
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338435"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827067"
 ---
 # <a name="appendix-a---fasttrack-center-additional-benefit"></a>附錄 A：FastTrack 中心其他權益
 

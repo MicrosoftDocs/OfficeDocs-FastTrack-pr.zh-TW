@@ -1,7 +1,7 @@
 ---
 title: 適用的服務與方案
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: m365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 當您購買任何 Microsoft 365 服務，FastTrack 專家可提供您 Microsoft 365 的上架指引，讓您即刻開始使用。
-ms.openlocfilehash: 0a8549399ea73b2e509696a16783aa7e94b4cf0b
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 71f746cd5193c3c912e3cf08b3a89a369ad7d97c
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338279"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827055"
 ---
 # <a name="eligible-services-and-plans"></a>適用的服務與方案
 
@@ -25,7 +25,7 @@ ms.locfileid: "47338279"
 當您購買任何 Microsoft 365 服務，FastTrack 專家可提供您 Microsoft 365 的上架指引，讓您即刻開始使用。
 
 > [!IMPORTANT]
-> 您必須從以下列出的適用方案中購買**「至少」150 個授權，才能獲得 FastTrack 服務。  
+> 您必須從以下列出的適用方案中購買「至少」150 個授權，才能獲得 FastTrack 服務。  
   
 您可以透過 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)或 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助。 
 
@@ -33,15 +33,15 @@ ms.locfileid: "47338279"
 
 若要透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助： 
 1.    登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.    從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助**。
-3.    填妥**使用 Microsoft 365 要求協助** 表單。
+2.    從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助** 。
+3.    填妥 **使用 Microsoft 365 要求協助** 表單。
   
 合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。作法如下：
 1.    登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.    從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助**。
+2.    從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助** 。
 3.    輸入客戶名稱、網域或 TPID 來搜尋您的客戶。
 4.    從搜尋結果中選取客戶。
-5.    填妥**使用 Microsoft 365 要求協助** 表單。
+5.    填妥 **使用 Microsoft 365 要求協助** 表單。
 
 您也可以從租用戶的可用服務清單中的 FastTrack Center[FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)要求協助。 
 

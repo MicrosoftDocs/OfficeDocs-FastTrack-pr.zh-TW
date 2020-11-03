@@ -1,21 +1,21 @@
 ---
 title: Office 365 美國政府的 FastTrack 責任
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 在上架期間 FastTrack 專家需擔負下列責任。
-ms.openlocfilehash: e11ce3ce5bbfd04a1f821425364ba86964e8690f
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 1f381e6b7ee58316c952362c7b7f85cc2ebcda02
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48319969"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827175"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 美國政府的 FastTrack 責任
 
@@ -99,7 +99,7 @@ ms.locfileid: "48319969"
 - 建立或更新 DNS 記錄。    
 - 啟用來源訊息系統與 Office 365 環境間的電子郵件路由。    
 - 設定 Exchange Online Protection 功能 (包括 Exchange Online 進階威脅防護 功能，如果在您的訂閱中可用)，並確認您的 MX 記錄針對所有已驗證已啟用郵件的網域指向 Office 365。   
-- 在單一內部部署 Exchange 組織與 Office 365 之間，「或者」** 在多重內部部署 Exchange 組織與 Office 365 之間進行混合設定。 
+- 在單一內部部署 Exchange 組織與 Office 365 之間，「或者」在多重內部部署 Exchange 組織與 Office 365 之間進行混合設定。 
 - 在 GCC DoD 方案) 中，使用 Exchange Online (UM) 設定整合通訊 (UM 無法使用。 
     
 如需資料移轉責任的詳細資訊，請參閱[資料移轉](data-migration.md)。

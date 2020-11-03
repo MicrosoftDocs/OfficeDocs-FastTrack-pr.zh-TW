@@ -1,21 +1,21 @@
 ---
 title: 資料移轉
-ms.author: rberg@steyer.net
-author: rberg@steyer.net
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office 365 (Exchange Online、SharePoint Online 及 [商務用 OneDrive])。 我們可以提供的協助類型取決於您的 Office 365 授權數量。
-ms.openlocfilehash: a8bb82e5a0409c52fe2603d33a4412182288f24a
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 7b796ea88c884445bd7069c6c7768c8fc3e3d170
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48319945"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827646"
 ---
 # <a name="data-migration"></a>資料移轉
 
@@ -23,8 +23,8 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 
 我們提供的協助類型取決於您的 Office 365 授權數量：
 
-  - **針對有 150-499 個授權的 Microsoft Office 365 租用戶**：FastTrack 僅提供移轉指引；由您負責執行資料移轉。 我們會透過可協助您規劃及使用免費工具的文件，引導您執行自助移轉。
-  - **針對具有 500 個或更多授權數量的 Microsoft Office 365 租用戶**：FastTrack 會提供移轉指引和資料移轉服務。 我們會提供指引以協助規劃您的移轉事件、設定您的來源環境和 Office 365 租用戶，並充分利用我們的資料移轉服務來移轉您的資料。 您可以建立您的移轉事件並設定排程。 我們會依照您的排程啟動移轉事件、監控進度，並提供狀態報表。
+  - **針對有 150-499 個授權的 Microsoft Office 365 租用戶** ：FastTrack 僅提供移轉指引；由您負責執行資料移轉。 我們會透過可協助您規劃及使用免費工具的文件，引導您執行自助移轉。
+  - **針對具有 500 個或更多授權數量的 Microsoft Office 365 租用戶** ：FastTrack 會提供移轉指引和資料移轉服務。 我們會提供指引以協助規劃您的移轉事件、設定您的來源環境和 Office 365 租用戶，並充分利用我們的資料移轉服務來移轉您的資料。 您可以建立您的移轉事件並設定排程。 我們會依照您的排程啟動移轉事件、監控進度，並提供狀態報表。
 
 > [!NOTE]
 > 如果您在 9/1/2017 之前已購買或續約ㄧ個商業方案，您只需使用 150 個授權，就能獲得資料移轉服務的資格。 針對教育方案，只有您的付費教職員授權符合使用資料移轉服務的資格。
@@ -54,7 +54,7 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
   - FastTrack 只會移轉至使用中的 Office 365 信箱。
   - 如果您想要從內部部署的 Exchange 環境將資料移轉出來，您必須滿足ㄧ些特定需求。 如需詳細資訊，請參閱 [混合式部署的先決條件](https://go.microsoft.com/fwlink/?LinkId=787528)。
   - 每個來源環境都必須為其中各自相應的產品使用最新的 Service Pack (SP) 和 彙總套件 (RU)/累積更新 (CU) 層級。
-  - 存在於內部部署 Active Directory Domain Services 中的通訊群組清單（*MailEnabledGroup* 物件）和外部連絡人（*MailEnabledContact* 物件）並不屬於信箱資料移轉的一部分。 不過，您可以使用 Microsoft Azure Active Directory (Azure AD) Connect 進行同步處理。 
+  - 存在於內部部署 Active Directory Domain Services 中的通訊群組清單（ *MailEnabledGroup* 物件）和外部連絡人（ *MailEnabledContact* 物件）並不屬於信箱資料移轉的一部分。 不過，您可以使用 Microsoft Azure Active Directory (Azure AD) Connect 進行同步處理。 
 
 ## <a name="source-environments"></a>來源環境
 
@@ -79,7 +79,7 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 <tr class="odd">
 <td><strong>Exchange 2010、Exchange 2013、Exchange 2016、Exchange 2019</strong><br />
 <br />
-<strong>注意事項：</strong> 若需內部部署 Exchange 相依性資訊，請參閱 <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">混合式部署必要條件</span></a>。</td>
+<strong>附注：</strong> 如需內部部署 Exchange 相依性，請參閱 <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">混合部署必要條件</span></a>。</td>
 <td>混合部署移轉</td>
 <td><ul>
 <li>電子郵件</li>
@@ -107,7 +107,7 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 <tr class="even">
 <td><strong>G Suite 環境 (僅限 Gmail、連絡人和行事曆)</strong><br />
 <br />
-<strong>注意事項：</strong> 您的 G Suite 環境必須符合在下列章節中所述的先決條件<a href="https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration">執行 G Suite 移轉</a>。</td>
+<strong>附注：</strong> 您的 G 套件環境必須符合 <a href="https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration">執行 G Suite 遷移</a>中所述的必要條件。</td>
 <td>轉換或分段</td>
 <td><ul>
 <li> 電子郵件 </li>
@@ -242,7 +242,7 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 <li> 無法存取或損毀的文件 </li>
 <li> 隱藏的共用 </li>
 <li> 共用 (例如共用層級授與的權限) </li>
-<li> 檔案或資料夾超過目前  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online 的規定和限制 </span></a> </li>
+<li> 檔案或資料夾超過目前的<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint 線上限制和限制</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -282,7 +282,7 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 <li> 外部使用者的權限和中繼資料（<strong>注意事項</strong>：使用 Google 雲端硬碟系統管理員報告來識別與外部使用者共用的內容。 指示使用者在移轉之後，與外部使用者再次共用內容。） </li>
 <li> 共用磁碟機成員權限（<strong>注意事項</strong>：使用 Google 雲端硬碟系統管理員報告來識別共用磁碟機的成員資格。 指導使用者在進行移轉之前，在目標上設定這些成員資格的設定值。) </li>
 <li> 標記為受限或未 copyable 的檔案 </li>
-<li> 檔案或資料夾超過目前  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online 的規定和限制 </span></a> </li>
+<li> 檔案或資料夾超過目前的<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint 線上限制和限制</span></a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -317,7 +317,7 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 <li> Box 應用程式、書籤、我的最愛及工作流程 </li>
 <li> 不屬於已移轉的 Box 帳戶的內容 </li>
 <li> 外部使用者的權限和中繼資料（<strong>注意事項</strong>：使用 Box 報告來識別與外部使用者共用的內容。 指示使用者在移轉之後，與外部使用者再次共用內容。） </li>
-<li> 檔案或資料夾超過目前  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online 的規定和限制 </span></a> </li>
+<li> 檔案或資料夾超過目前的<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint 線上限制和限制</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -355,7 +355,7 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 <li> Dropbox 應用程式和我的最愛 (釘選/星號) </li>
 <li> 不是由已移轉的 Dropbox 帳戶所擁有的內容 </li>
 <li> 外部使用者的權限和中繼資料（<strong>注意事項</strong>：使用 Dropbox 報告來識別與外部使用者共用的內容。 指示使用者在移轉之後，與外部使用者再次共用內容） </li>
-<li> 檔案或資料夾超過目前  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online 的規定和限制 </span></a> </li>
+<li> 檔案或資料夾超過目前的<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint 線上限制和限制</span></a> </li>
 </ul></td>
 </tr>
 </tbody>
@@ -435,7 +435,7 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 <li> 無法存取或損毀的文件 </li>
 <li> 隱藏的共用 </li>
 <li> 共用 (例如共用層級授與的權限) </li>
-<li> 檔案或資料夾超過目前  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online 的規定和限制 </span></a> </li>
+<li> 檔案或資料夾超過目前的<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint 線上限制和限制</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -474,7 +474,7 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 <li> 內容不是由移轉中的 Google 雲端硬碟帳戶所擁有 </li>
 <li> 外部使用者的權限和中繼資料（<strong>注意事項</strong>：使用 Google 雲端硬碟系統管理員報告來識別與外部使用者共用的內容。 指示使用者在移轉之後，與外部使用者再次共用內容。） </li>
 <li> 共用磁碟機成員資格權限 (<strong>注意事項</strong>：使用 Google 雲端硬碟系統管理員報告來識別共用磁碟機的成員資格。 指導使用者在進行移轉之前，在目標上設定這些成員資格的設定值。) </li>
-<li> 檔案或資料夾超過目前  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online 的規定和限制 </span></a> </li>
+<li> 檔案或資料夾超過目前的<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint 線上限制和限制</span></a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -509,7 +509,7 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 <li> Box 應用程式、書籤、我的最愛及工作流程 </li>
 <li> 不屬於已移轉的 Box 帳戶的內容 </li>
 <li> 外部使用者的權限和中繼資料（<strong>注意事項</strong>：使用 Box 報告來識別與外部使用者共用的內容。 指示使用者在移轉之後，與外部使用者再次共用內容。） </li>
-<li> 檔案或資料夾超過目前  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online 的規定和限制 </span></a> </li>
+<li> 檔案或資料夾超過目前的<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint 線上限制和限制</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -547,7 +547,7 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 <li> Dropbox 應用程式和我的最愛 (釘選/星號) </li>
 <li> 不是由已移轉的 Dropbox 帳戶所擁有的內容 </li>
 <li> 外部使用者的權限和中繼資料（<strong>注意事項</strong>：使用 Dropbox 報告來識別與外部使用者共用的內容。 指示使用者在移轉之後，與外部使用者再次共用內容。） </li>
-<li> 檔案或資料夾超過目前  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online 的規定和限制 </span></a> </li>
+<li> 檔案或資料夾超過目前的<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint 線上限制和限制</span></a> </li>
 </ul></td>
 </tr>
 </tbody>

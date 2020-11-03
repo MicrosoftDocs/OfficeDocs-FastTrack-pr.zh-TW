@@ -1,21 +1,21 @@
 ---
 title: 流程與預期值
-ms.author: rberg@steyer.net
-author: rberg@steyer.net
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 在此主題中，涵蓋了如何使用 FastTrack 取得協助、協助如何提供、取得成功體驗的秘訣，以及瞭解 FastTrack 和公司的重要責任。
-ms.openlocfilehash: 293cde4bd1bde0b0a8db74ea3d17f39669c9b0f0
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 42855c5a246f452d241fd104b4d56cc673c83618
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48319933"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827645"
 ---
 # <a name="process-and-expectations"></a>流程與預期值
 
@@ -33,16 +33,16 @@ ms.locfileid: "48319933"
 若要直接透過 FastTrack 網站要求協助：
 
 1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。
-2.  從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助**。
-3.  填妥**使用 Microsoft 365 要求協助** 表單。
+2.  從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助** 。
+3.  填妥 **使用 Microsoft 365 要求協助** 表單。
 
 若要讓您的合作夥伴以您的 FastTrack 網站替您取得協助，請讓您的合作夥伴：
 
 1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。
-2.  從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助**。
+2.  從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助** 。
 3.  輸入客戶名稱、網域或 TPID 來搜尋您的客戶。
 4.  從搜尋結果中選取您的客戶。
-5.  填妥**使用 Microsoft 365 要求協助** 表單。
+5.  填妥 **使用 Microsoft 365 要求協助** 表單。
 
 若要要求應用程式的協助，請完成 [應用程式確保服務要求](https://go.microsoft.com/fwlink/?linkid=2022721)。
 
@@ -55,7 +55,7 @@ FastTrack 提供有關如何使用 Microsoft 365 的端對端指導方針。 在
 您可以透過下列技術交談、研討會和檢查點會議，與 FastTrack 專家遠端工作，包括：
 
   - **技術交談和研討會：** 這些提供主題深入研究和最佳做法，以加速部署 Microsoft 365 服務。 這些會議通常提供可用的文件、軟體工具和系統管理員主控台的概覽。 標準持續時間：60分鐘。
-  - **檢查點會議：** 每週或雙週接觸點，以確保您的部署處於執行狀態。 標準持續時間：30分鐘。
+  - **檢查點會議：** 每週或每週更新 touchpoints，以確保您的部署進展順利。 標準持續時間：30分鐘。
 
 ### <a name="expected-outcomes-and-key-milestones"></a>預期的結果和關鍵里程碑 
 

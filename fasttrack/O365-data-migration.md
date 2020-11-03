@@ -1,7 +1,7 @@
 ---
 title: 資料移轉
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack 專家提供將資料移轉至 Office 365 的步驟指引。這適用於 Exchange Online、商務用 OneDrive 和 SharePoint Online 的 Office 365 服務所有符合資格的客戶。
-ms.openlocfilehash: c7878e96557650a6dd340a08fb6348e2d60ab302
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 82a8bcbd39091a5cfaa024538cb64b25d5d35717
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338591"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827307"
 ---
 # <a name="data-migration"></a>資料移轉
 > [!CAUTION]
@@ -46,9 +46,9 @@ ms.locfileid: "47338591"
 
 |**活動**|**來源環境預期**|
 |:-----|:-----|
-|**Exchange Online 移轉**  <br/> | Microsoft 會移轉下列來源環境的任意組合，一次一個。我們可以使用 FastTrack Center 來移轉上架郵件系統，或如果它通過 FastTrack Center 檢查。這包含：<br/>  若以 Exchange 2010+ 為基礎的混合式已實作於個別組織且 Exchange 郵件系統是 2003+，則為擁有單一或多個 Exchange 組織的單一或多個 Active Directory 樹系。  <br/>  具備單一 IMAP 功能的電子郵件環境。  <br/>  G Suite 環境 (僅限 Gmail、連絡人和行事曆)。 <br/> <br/> **附註** *移轉之前，必須先完成 Exchange Online 上架。* <br/> <br/> **附註** *FastTrack 只會移轉至作用中的 Office 365 信箱。* <br/> <br/> **附註** *如需內部部署 Exchange 相依性的詳細資訊，請參閱＜[混合部署必要條件](https://go.microsoft.com/fwlink/?LinkId=787528)＞。* <br/><br/> **附註** *移轉多個來源郵件環境 (如多個 Exchange 組織或多個 Domino 組織 ) 時，這些移轉會依序進行。*| 
+|**Exchange Online 移轉**  <br/> | Microsoft 會移轉下列來源環境的任意組合，一次一個。我們可以使用 FastTrack Center 來移轉上架郵件系統，或如果它通過 FastTrack Center 檢查。這包含：<br/>  若以 Exchange 2010+ 為基礎的混合式已實作於個別組織且 Exchange 郵件系統是 2003+，則為擁有單一或多個 Exchange 組織的單一或多個 Active Directory 樹系。  <br/>  具備單一 IMAP 功能的電子郵件環境。  <br/>  G Suite 環境 (僅限 Gmail、連絡人和行事曆)。 <br/> <br/> **附註** *移轉之前，必須先完成 Exchange Online 上架。* <br/> <br/> **附註** *FastTrack 只會移轉至作用中的 Office 365 信箱。* <br/> <br/> **附註** *如需內部部署 Exchange 相依性的詳細資訊，請參閱＜ [混合部署必要條件](https://go.microsoft.com/fwlink/?LinkId=787528)＞。* <br/><br/> **附註** *移轉多個來源郵件環境 (如多個 Exchange 組織或多個 Domino 組織 ) 時，這些移轉會依序進行。*| 
 |**SharePoint Online 移轉**  <br/> | 檔案共用 (支援 SMB 2.0+ 之裝置的伺服器訊息區 (SMB) 檔案共用)。 <br/> 單一 G Suite 環境 (僅限 Google 雲端硬碟)。<br/>  Box (Starter、Business、Enterprise)。  <br/> Dropbox for Teams (標準版和進階版)。<br/> |
-|**商務用 OneDrive 移轉**  <br/> | 檔案共用 (支援 SMB 2.0+ 之裝置的 SMB 檔案共用)。  <br/>  單一 G Suite 環境 (僅限 Google 雲端硬碟)。  <br/>  Box (Starter、Business、Enterprise)。 <br/> Dropbox for Teams (標準版和進階版)。<br/><br/> **附註** *FastTrack 只會移轉至作用中的 Office 365 磁碟機。 *|
+|**商務用 OneDrive 移轉**  <br/> | 檔案共用 (支援 SMB 2.0+ 之裝置的 SMB 檔案共用)。  <br/>  單一 G Suite 環境 (僅限 Google 雲端硬碟)。  <br/>  Box (Starter、Business、Enterprise)。 <br/> Dropbox for Teams (標準版和進階版)。<br/><br/> **附註** *FastTrack 只會移轉至作用中的 Office 365 磁碟機。*|
    
 ## <a name="migration-to-exchange-online"></a>遷移至 Exchange Online
 ''
@@ -88,12 +88,12 @@ ms.locfileid: "47338591"
 |**來源環境**|**移轉類型**|**會從來源信箱移轉的內容**|**不會移轉哪些內容**|
 |**Exchange 2003+**|系統轉換| 電子郵件 <br/> 信箱規則 <br/> 委派 <br/> 信箱連絡人 <br/> 行事曆 <br/> 工作 <br/> 受版權管理的電子郵件 <br/> 加密的電子郵件| 公用資料夾 <br/> 個人連絡人 <br/> 擁有郵件功能的使用者 <br/> 遭封鎖或非作用中的使用者 <br/> 簽章 <br/> 信箱暫放 <br/>  任何超過郵件大小限制的電子郵件 <br/> 封存資料 <br/> 損毀的項目 <br/>  非使用中的信箱 |
 |**Exchange 2003 和 Exchange 2007**|接移| 電子郵件 <br/> 信箱規則 <br/> 委派 <br/> 信箱連絡人 <br/> 行事曆 <br/> 工作 <br/> 受版權管理的電子郵件 <br/> 加密的電子郵件| 公用資料夾 <br/> 個人連絡人 <br/> 擁有郵件功能的使用者 <br/> 遭封鎖或非作用中的使用者 <br/> 簽章 <br/> 信箱暫放 <br/> 任何超過郵件大小限制的電子郵件 <br/> 封存資料 <br/> 損毀的項目 <br/> 非使用中的信箱 |
-|**Exchange 2010、Exchange 2013、Exchange 2016 和 Exchange 2019** <br/><br/> **附註** *如需內部部署 Exchange 相依性的詳細資訊，請參閱＜[混合部署必要條件](https://go.microsoft.com/fwlink/?LinkId=787528)＞。*           |混合部署移轉| 電子郵件 <br/> 信箱規則 <br/> 委派 <br/> 信箱連絡人 <br/> 行事曆 <br/> Tasks <br/> 簽章 <br/> 隨著使用者信箱移轉的個人封存 <br/> 可復原的項目 <br/> 受版權管理的電子郵件 <br/> 加密的電子郵件| 公用資料夾 <br/> 任何超過郵件大小限制的電子郵件 <br/> 日誌封存或任何協力廠商封存解決方案 <br/> 遭封鎖或非作用中的使用者 <br/> 從個人存放區資料表 (PST) 檔案封存的資料 <br/> 損毀的項目 <br/> 非使用中的信箱 |
+|**Exchange 2010、Exchange 2013、Exchange 2016 和 Exchange 2019** <br/><br/> **附註** *如需內部部署 Exchange 相依性的詳細資訊，請參閱＜ [混合部署必要條件](https://go.microsoft.com/fwlink/?LinkId=787528)＞。*           |混合部署移轉| 電子郵件 <br/> 信箱規則 <br/> 委派 <br/> 信箱連絡人 <br/> 行事曆 <br/> Tasks <br/> 簽章 <br/> 隨著使用者信箱移轉的個人封存 <br/> 可復原的項目 <br/> 受版權管理的電子郵件 <br/> 加密的電子郵件| 公用資料夾 <br/> 任何超過郵件大小限制的電子郵件 <br/> 日誌封存或任何協力廠商封存解決方案 <br/> 遭封鎖或非作用中的使用者 <br/> 從個人存放區資料表 (PST) 檔案封存的資料 <br/> 損毀的項目 <br/> 非使用中的信箱 |
 |**G Suite 環境 (僅限 Gmail、連絡人和行事曆)** <br/> <br/> **附註** *您的 G Suite 環境必須啟用 Google API 和 Google Admin SDK 才能擴充功能。* <br/>          |轉換或分段| 電子郵件 <br/> 信箱連絡人\*  <br/> 行事曆 <br/> 標籤 <br/> \*每個連絡人最多會移轉三個電子郵件地址| 規則 <br/> 委派 <br/> 簽章 <br/> 工作 <br/> 任何超過郵件大小限制的電子郵件或附件 <br/> 遭封鎖或非作用中的使用者 <br/> 從 PST 檔案或任何協力廠商封存解決方案 (例如 Google Vault) 封存的資料 <br/> 權限管理或加密的電子郵件 <br/> 損毀的項目 <br/> Google Hangouts\*\* <br/> Google Groups <br/> 資源信箱 <br/> 非使用中的信箱 <br/> 假期設定和自動回覆設定 <br/> 共用行事曆、雲端附件、Google Hangout 連結和活動色彩 <br/>\*\*會移轉儲存為標籤的 Hangout 交談 |
 |**IMAP4 來源 (例如 Domino、GroupWise 和 Zimbra)** |使用原生 IMAP4 工具進行的移轉| 電子郵件 | 規則 <br/> 委派 <br/> 通訊群組清單 <br/> 外部連絡人 <br/> 擁有郵件功能的使用者 <br/> 遭封鎖或非作用中的使用者 <br/> 信箱連絡人 <br/> 行事曆 <br/> 簽章 <br/> 工作 <br/> 任何超過郵件大小限制的電子郵件 <br/> 封存資料 <br/> 加密的電子郵件 <br/> 損毀的項目 <br/> 非使用中的信箱 |
    
 > [!NOTE]
-> 如果通訊群組清單 (MailEnabledGroup 物件) 和外部連絡人 (MailEnabledContact 物件) 是在內部部署 Active Directory 中，它們可以使用 Azure AD Connect 進行同步處理。不過，它們不是信箱資料移轉的一部分。如需詳細資訊，請參閱**核心**中的 [身分識別整合](O365-onboarding-and-migration.md#core) 範例。 
+> 如果通訊群組清單 (MailEnabledGroup 物件) 和外部連絡人 (MailEnabledContact 物件) 是在內部部署 Active Directory 中，它們可以使用 Azure AD Connect 進行同步處理。不過，它們不是信箱資料移轉的一部分。如需詳細資訊，請參閱 **核心** 中的 [身分識別整合](O365-onboarding-and-migration.md#core) 範例。 
   
 FastTrack 專家會在移轉期間執行下列工作：
 - 提供標準範本以便排程信箱移轉。

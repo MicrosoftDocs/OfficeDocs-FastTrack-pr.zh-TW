@@ -1,7 +1,7 @@
 ---
 title: 上架及移轉階段
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 上架有四個主要階段 - 起始、評估、修復與啟用。您可以在這些階段後面選擇接著資料移轉階段。
-ms.openlocfilehash: 69b77911afc351ff48f6198049204822e5dd0d3c
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 2358700e6e7bb052869c41b1f5b7fdc15e86207b
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338255"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827007"
 ---
 # <a name="onboarding-and-migration-phases"></a>上架及移轉階段
 
@@ -41,15 +41,15 @@ Office 365 上架有四個主要階段 - 起始、評估、修復與啟用。您
 
 若要透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助： 
 1.    登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.    從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助**。
-3.    填妥**使用 Microsoft 365 要求協助** 表單。
+2.    從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助** 。
+3.    填妥 **使用 Microsoft 365 要求協助** 表單。
   
 合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。作法如下：
 1.    登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.    從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助**。
+2.    從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助** 。
 3.    輸入客戶名稱、網域或 TPID 來搜尋您的客戶。
 4.    從搜尋結果中選取客戶。
-5.    填妥**使用 Microsoft 365 要求協助** 表單。
+5.    填妥 **使用 Microsoft 365 要求協助** 表單。
 
 您也可以從租用戶的可用服務清單中的 FastTrack Center[FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)要求協助。 
     

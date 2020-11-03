@@ -1,7 +1,7 @@
 ---
 title: FastTrack Center 權益概觀
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 利用「適用於 Office 365 的 FastTrack Center 權益」，您可以遠端與 FastTrack 專家合作，使 Office 365 環境準備就緒可供使用並計劃組織內的推行和使用。若要深入了解是否合格，請參閱＜適用於 Office 365 的 FastTrack Center 權益＞。
-ms.openlocfilehash: 30d428cb5cc4e4fb8c9a267029a52618678c5ee1
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 039a1a409f35d12e61e25757e18f481c2b754571
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338219"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827079"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>FastTrack 中心權益概觀
 

@@ -1,7 +1,7 @@
 ---
 title: 提供的協助
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 當您購買任何 Windows 10 或 Microsoft 365 服務 (如「適用的服務與方案」中所述)，如果您有可搭配 Internet Explorer 或 Google Chrome 使用的 Web 應用程式或網站，FastTrack 專家可提供遠端部署指導方針和相容性協助。
-ms.openlocfilehash: 7dbbe81784e208898ee35e8036a7ac7403cfe5c3
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: e656673cbbb5130c7cb24b43219a29db4f58c130
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817626"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827319"
 ---
 # <a name="assistance-offered"></a>提供的協助
 
@@ -33,19 +33,19 @@ FastTrack 提供下列各項的遠端指導方針：
 
 若要透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助： 
 1.    登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.    從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助**。
-3.    填妥**使用 Microsoft 365 要求協助** 表單。
+2.    從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助** 。
+3.    填妥 **使用 Microsoft 365 要求協助** 表單。
   
 合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。作法如下：
 1.    登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.    從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助**。
+2.    從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助** 。
 3.    輸入客戶名稱、網域或 TPID 來搜尋您的客戶。
 4.    從搜尋結果中選取客戶。
-5.    填妥**使用 Microsoft 365 要求協助** 表單。
+5.    填妥 **使用 Microsoft 365 要求協助** 表單。
  
 若要取得應用程式相容性協助，請填寫[應用程式保證服務要求](https://go.microsoft.com/fwlink/?linkid=2022721)。
 
-合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。 若要這樣做，合作夥伴登入網站後，請選取客戶記錄並按一下 [服務]****，然後填妥**要求應用程式保證的協助**表單。
+合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。 若要這樣做，合作夥伴登入網站後，請選取客戶記錄並按一下 [服務]，然後填妥 **要求應用程式保證的協助** 表單。
 
 ## <a name="out-of-scope"></a>超出範圍
 

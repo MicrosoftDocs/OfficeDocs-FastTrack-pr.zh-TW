@@ -1,7 +1,7 @@
 ---
 title: FastTrack 處理程序
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com-msft
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack 程序提供上架和使用者採用服務。
-ms.openlocfilehash: 48469fb79fd093b1b9a9a299cd807b8dfa440843
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 6d13e6fc9247196c9a2e6cf7692abf3fa75152dc
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338543"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827043"
 ---
 # <a name="the-fasttrack-process"></a>FastTrack 處理程序
 
@@ -27,7 +27,7 @@ FastTrack 程序提供上架和使用者採用服務。
 上架包含︰
   
 - *核心上架*  意指租用戶組態和與 Azure Active Directory (Azure AD) 整合 (若有需要) 所需的工作。核心上架也能成為將其他合格之服務上架的基準。 
-- *服務上架和移轉* - 服務上架工作會啟用您租用戶中的案例。[資料移轉](O365-data-migration.md)中涵蓋資料移轉 (包括電子郵件和檔案)。 
+- *服務上架和移轉* - 服務上架工作會啟用您租用戶中的案例。 [資料移轉](O365-data-migration.md)中涵蓋資料移轉 (包括電子郵件和檔案)。 
     
 使用者採用服務由數項工作所組成，提供您指引以確保您的使用者知道適合的服務，並用來促進商業價值。
   
@@ -46,15 +46,15 @@ FastTrack 程序提供上架和使用者採用服務。
 
 若要透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助： 
 1.    登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.    從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助**。
-3.    填妥**使用 Microsoft 365 要求協助** 表單。
+2.    從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助** 。
+3.    填妥 **使用 Microsoft 365 要求協助** 表單。
   
 合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。作法如下：
 1.    登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.    從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助**。
+2.    從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助** 。
 3.    輸入客戶名稱、網域或 TPID 來搜尋您的客戶。
 4.    從搜尋結果中選取客戶。
-5.    填妥**使用 Microsoft 365 要求協助** 表單。
+5.    填妥 **使用 Microsoft 365 要求協助** 表單。
   
  您也可以從租用戶的可用服務清單中的 FastTrack Center[FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)要求協助。 
     

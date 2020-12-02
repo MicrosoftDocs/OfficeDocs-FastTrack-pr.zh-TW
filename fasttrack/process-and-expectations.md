@@ -3,19 +3,19 @@ title: 流程與預期值
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 在此主題中，涵蓋了如何使用 FastTrack 取得協助、協助如何提供、取得成功體驗的秘訣，以及瞭解 FastTrack 和公司的重要責任。
-ms.openlocfilehash: 42855c5a246f452d241fd104b4d56cc673c83618
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 0cd9d4cb727915357f0dd6460ac46ef862ee9797
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827645"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525329"
 ---
 # <a name="process-and-expectations"></a>流程與預期值
 
@@ -33,13 +33,13 @@ ms.locfileid: "48827645"
 若要直接透過 FastTrack 網站要求協助：
 
 1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。
-2.  從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助** 。
+2.  從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助**。
 3.  填妥 **使用 Microsoft 365 要求協助** 表單。
 
 若要讓您的合作夥伴以您的 FastTrack 網站替您取得協助，請讓您的合作夥伴：
 
 1.  登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。
-2.  從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助** 。
+2.  從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助**。
 3.  輸入客戶名稱、網域或 TPID 來搜尋您的客戶。
 4.  從搜尋結果中選取您的客戶。
 5.  填妥 **使用 Microsoft 365 要求協助** 表單。

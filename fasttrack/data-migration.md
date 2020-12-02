@@ -3,19 +3,19 @@ title: 資料移轉
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office 365 (Exchange Online、SharePoint Online 及 [商務用 OneDrive])。 我們可以提供的協助類型取決於您的 Office 365 授權數量。
-ms.openlocfilehash: 7b796ea88c884445bd7069c6c7768c8fc3e3d170
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 5a64bcbecffa3fd78f54b9a5e0f3f07e76d0b316
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827646"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525334"
 ---
 # <a name="data-migration"></a>資料移轉
 
@@ -23,8 +23,8 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 
 我們提供的協助類型取決於您的 Office 365 授權數量：
 
-  - **針對有 150-499 個授權的 Microsoft Office 365 租用戶** ：FastTrack 僅提供移轉指引；由您負責執行資料移轉。 我們會透過可協助您規劃及使用免費工具的文件，引導您執行自助移轉。
-  - **針對具有 500 個或更多授權數量的 Microsoft Office 365 租用戶** ：FastTrack 會提供移轉指引和資料移轉服務。 我們會提供指引以協助規劃您的移轉事件、設定您的來源環境和 Office 365 租用戶，並充分利用我們的資料移轉服務來移轉您的資料。 您可以建立您的移轉事件並設定排程。 我們會依照您的排程啟動移轉事件、監控進度，並提供狀態報表。
+  - **針對有 150-499 個授權的 Microsoft Office 365 租用戶**：FastTrack 僅提供移轉指引；由您負責執行資料移轉。 我們會透過可協助您規劃及使用免費工具的文件，引導您執行自助移轉。
+  - **針對具有 500 個或更多授權數量的 Microsoft Office 365 租用戶**：FastTrack 會提供移轉指引和資料移轉服務。 我們會提供指引以協助規劃您的移轉事件、設定您的來源環境和 Office 365 租用戶，並充分利用我們的資料移轉服務來移轉您的資料。 您可以建立您的移轉事件並設定排程。 我們會依照您的排程啟動移轉事件、監控進度，並提供狀態報表。
 
 > [!NOTE]
 > 如果您在 9/1/2017 之前已購買或續約ㄧ個商業方案，您只需使用 150 個授權，就能獲得資料移轉服務的資格。 針對教育方案，只有您的付費教職員授權符合使用資料移轉服務的資格。
@@ -54,7 +54,7 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
   - FastTrack 只會移轉至使用中的 Office 365 信箱。
   - 如果您想要從內部部署的 Exchange 環境將資料移轉出來，您必須滿足ㄧ些特定需求。 如需詳細資訊，請參閱 [混合式部署的先決條件](https://go.microsoft.com/fwlink/?LinkId=787528)。
   - 每個來源環境都必須為其中各自相應的產品使用最新的 Service Pack (SP) 和 彙總套件 (RU)/累積更新 (CU) 層級。
-  - 存在於內部部署 Active Directory Domain Services 中的通訊群組清單（ *MailEnabledGroup* 物件）和外部連絡人（ *MailEnabledContact* 物件）並不屬於信箱資料移轉的一部分。 不過，您可以使用 Microsoft Azure Active Directory (Azure AD) Connect 進行同步處理。 
+  - 存在於內部部署 Active Directory Domain Services 中的通訊群組清單（*MailEnabledGroup* 物件）和外部連絡人（*MailEnabledContact* 物件）並不屬於信箱資料移轉的一部分。 不過，您可以使用 Microsoft Azure Active Directory (Azure AD) Connect 進行同步處理。 
 
 ## <a name="source-environments"></a>來源環境
 
@@ -302,6 +302,7 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 <li> 上次修改者 </li>
 </ul></li>
 <li> 正在移轉屬於 Box 帳戶的共用內容 </li>
+<li> 方框附注 (轉換為 Word 檔案格式)  </li>
 </ul></td>
 <td><ul>
 <li> 擁有權歷程記錄、先前的版本和註解 </li>

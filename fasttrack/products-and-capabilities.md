@@ -3,19 +3,19 @@ title: 產品與功能
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 本主題包括 FastTrack 所支援之工作負載案例的詳細資料，以及在開始之前所需的來源環境預期。 根據您目前的設定，我們會與您合作，建立修復計畫，以將來源環境帶入成功上架的最低需求。
-ms.openlocfilehash: 7071187e2bc2b52930a03b4bf9dabd4f717b88df
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 3fdd57f1d0e8bf53b68f0bc54fda4665ca85f513
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827103"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525458"
 ---
 # <a name="products-and-capabilities"></a>產品與功能
 
@@ -27,7 +27,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 
   - [一般](#general)
   - [Office 365](#office-365)
-  - [企業行動性 & 安全性](#enterprise-mobility--security)
+  - [Enterprise Mobility + Security](#enterprise-mobility--security)
   - [Windows 10](#windows-10)
   - [Windows 虛擬桌面](#windows-virtual-desktop)
   - [應用程式保證](#app-assure)
@@ -163,14 +163,23 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <td><strong>Microsoft 資訊控管</strong></td>
 <td>  我們提供下列專案的遠端指導：
 <ul>
-<li>  資訊管控。  </li>
 <li>  保留標籤和原則。  </li>
 <li>  記錄管理。  </li>
 <li>  刪除原則。  </li>
 <li>  通訊合規性。  </li>
 <li>  測試人員風險管理。  </li>
 <li>  進階電子文件探索。  </li>
-</ul></td>
+</ul>
+
+  <strong>下列超出範圍 </strong>  
+<ul>
+<li> 記錄管理檔計畫的開發。</li>
+<li> 資料連線器。</li>
+<li> 資訊障礙。</li>
+<li> 特殊許可權存取管理。</li>
+<li> 在 SharePoint 中開發資訊架構。</li>
+<li> 自訂腳本和編碼。</li>
+</td>
 <td>除了<a href="#general">一般</a>的<strong>核心上架</strong>部分之外，沒有最低的系統需求。</td>
 </tr>
 <tr class="odd">
@@ -186,8 +195,20 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>  使用內容總管和活動總管瞭解您的資料。  </li>
 <li>  使用原則（手動和自動）發布標籤。  </li>
 <li>  為 Microsoft Teams 聊天和頻道建立資料外洩防護 (data loss prevention (DLP)) 原則。  </li>
-<li>  為 Microsoft 端點管理員所管理的裝置建立 DLP 原則。  </li>
-</ul></td>
+<li>  為 Windows 10 裝置建立端點 DLP 原則。  </li>
+</ul>
+
+<strong>下列超出範圍 </strong>  
+<ul>
+<li>客戶金鑰。</li>
+<li>自訂正則運算式 (RegEx 機密資訊類型) 開發。</li>
+<li>建立或修改關鍵字字典。</li>
+<li>自訂腳本和編碼。</li>
+</ul>
+<strong>附注：</strong>如需詳細資訊，請參閱<a href="#enterprise-mobility--security">Enterprise 可移動性 + Security</a>中的<strong>Azure 資訊保護</strong>。
+<ul>
+
+</td>
 <td>除了<a href="#general">一般</a>的<strong>核心上架</strong>部分之外，沒有最低的系統需求。</td>
 </tr>
 <tr class="even">
@@ -358,7 +379,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 </tbody>
 </table>
 
-## <a name="enterprise-mobility--security"></a>企業行動性 & 安全性
+## <a name="enterprise-mobility--security"></a>Enterprise Mobility + Security
 
 <table>
 <thead>
@@ -420,40 +441,36 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <td>已針對 Azure AD Premium 準備內部部署 Active Directory 及其環境，包括修正已識別的問題，以防止與 Azure AD 和 Azure AD Premium 功能整合。</td>
 </tr>
 <tr class="odd">
-<td><strong>Azure 資訊保護 (P2 或 EMS E5)</strong></td>
+<td><strong>Azure 資訊保護 </strong></td>
 <td>  我們提供下列指導：
 <ul>
 <li>  啟動並設定您的租使用者。  </li>
 <li>  建立及設定標籤和原則。  </li>
 <li>  將資訊保護套用至文件。  </li>
 <li>  在 Windows 上執行的 Office 應用程式中，使用 Azure 資訊保護用戶端自動分類資訊並加上標籤 (例如 Word、PowerPoint、Excel 和 Outlook)。  </li>
-<li>  透過 Azure 資訊保護掃描器使用待用檔案。  </li>
+<li>  使用 Azure 資訊保護掃描程式，探索存放在靜止的檔案並進行標籤。  </li>
 <li>  使用 Exchange Online 郵件流程規則監視傳輸中的電子郵件。  </li>
 </ul>
 如果您想要使用 Microsoft Azure Rights Management Services 來套用保護，我們也會提供指導方針。 (Azure RMS) ，Office 365 Message Encryption (OME) ，以及資料遺失防護 (DLP) 。  </td>
-<td>  您應該已經：
+<td>  客戶必要的責任包括：
 <ul>
-<li>  使用 Azure AD。  </li>
-<li>  使用 Windows 或 iOS (其他作業系統超出範圍) 。  
+<li>  要掃描的檔案共用位置清單。  </li>
+<li>  已核准的分類分類。 </li>
+<li> 瞭解有關金鑰管理的任何法規限制或需求。  </li>
+<li>  為您的內部部署 Active Directory 建立且與 Azure AD 同步處理的服務帳戶。 </li>
+<li>  針對分類及保護所設定的標籤。 </li>
+<li> Azure 資訊保護掃描程式的所有必要條件皆已到位。 如需詳細資訊，請參閱 <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">安裝及部署 Azure 資訊保護統一標記掃描器的必要條件</a>。 </li>
+<li>  請確定使用者裝置執行的是支援的作業系統，且已安裝必要的必要條件。 如需詳細資訊，請參閱下列各項。</li>
+<ul>
+<li> <a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">系統管理員指南：安裝 Azure 資訊保護統一標籤用戶端以供使用者</a>   </li>
+<li>  <a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">IOS 或 Android 的 Azure 資訊保護應用程式為何？</a>  </li>
+</ul>
+<li> 安裝和設定 Azure RMS 連接器和伺服器（包括 Active Directory RMS (AD RMS) 連接器）以進行混合支援。  </li>
+<li> 安裝和設定會將您自己的金鑰 (BYOK) 、雙金鑰加密 (DKE)  (整合標籤用戶端) ，或是只保留您自己的金鑰 (HYOK)  (經典用戶端您應該在部署中的其中一個選項。  </li>
   </ul>
-<strong>附注</strong>：電腦和行動裝置必須在支援 Azure 資訊保護的 <a href="https://docs.microsoft.com/azure/information-protection/requirements#client-devices">作業系統</a> 上執行。  
-<li>  您的主要檔案共用位置。  </li>
-<strong>附注</strong>：混合式支援需要 AD RMS 連接器。 
-<li>  具備已核准的分類分類。  </li>
-<li>  瞭解受保護金鑰管理的任何規章限制。  </li>
 </ul>
   
-<strong>Azure 資訊保護掃描程式</strong>  
-  
-您應該已經：  
-<ul>
-<li>  使用 Windows Server 2012 R2 或 Windows Server 2016。  </li>
-<li>  有網際網路連線。  </li>
-<li>  在本機或遠端實例中使用 Microsoft SQL Server 2012 +。  </li>
-<li>  具有為您的內部部署 Active Directory 建立的服務帳戶，並與 Azure AD 同步。  </li>
-<li>  已下載 AzInfoProtection.exe。  </li>
-<li>  具有設定為自動分類/保護的標籤。  </li>
-</ul></td>
+</td>
 </tr>
 <tr class="even">
 <td><strong>Microsoft Intune</strong></td>
@@ -473,7 +490,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <ul>
 <li>  透過網頁連結或深層連結，為每個支援的平臺部署應用程式。  </li>
 <li>  條件式存取原則。  </li>
-<li>  如果您的組織中有現有的憑證授權單位、無線網路或 VPN 基礎結構，則部署電子郵件、無線網路和 VPN) 設定檔。  </li>
+<li>  如果您的組織中有現有的憑證授權單位、無線網路或 VPN 基礎結構，則部署電子郵件、無線網路和 VPN 設定檔。  </li>
 <li>  連接至 Intune 資料倉儲。  </li>
 <li>  整合 Intune 與：
 <ul>
@@ -540,11 +557,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
  
   IT 系統管理員需負責向組織註冊他們的裝置，方法是讓硬體廠商代表他們上傳或是自行上傳其硬體識別碼到 Windows Autopilot 服務。  
   
-<strong>使用 Intune 安全地部署 iOS 和 Android 的 Outlook </strong>  
-<ul>
-<li>  Azure AD for Office 365 中啟用的使用者標識。  </li>
-<li>  設定指派使用者授權的 Exchange Online 或混合式 Exchange。  </li>
-</ul></td>
+</td>
 </tr>
 </tbody>
 </table>
@@ -865,19 +878,17 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <strong>ARM 上的 Windows 10</strong>
 <ul>
 <li>  
-在 Windows 7、Office 2010 或更新版本上運作的應用程式可在 ARM64 裝置上的 Windows 10 和 Microsoft 365 應用程式上運作。 
+在 Windows 7、Office 2010 或更新版本上運作的應用程式也可在 ARM64 裝置上的 Windows 10 和 Microsoft 365 應用程式上運作。 
   </li>
 </ul>
-  <strong>附注：</strong> Windows 10 on ARM 排除和限制包括：
+  <strong>注意：</strong> 
 <ul>
+<li> 在參與 Windows 預覽人員 <a href="https://insider.windows.com/">計畫</a>的客戶預覽中，可使用 x64 (64 位) 模擬。  </li>
 <li>  
- 依賴 ARM 中不相容之軟體驅動程式的應用程式。  
+ 針對 Windows 10 版本2004上的非 Windows 有問必答客戶 (或更新版本) ，使用 <a href="https://www.microsoft.com/p/opencl-and-opengl-compatibility-pack/9nqpsl29bfff?rtc=1&activetab=pivot:overviewtab">OpenCL 和 OpenGL 相容性套件</a>支援 ARM64 Photoshop。 
   </li>
 <li>  
-  使用 OpenGL 或 OpenCL 的應用程式。   
-  </li>
-<li>  
-  應用程式僅能在64位 (x64) 中使用。  
+  Windows 預覽體驗計畫中的客戶可以下載 OpenCL 和 OpenGL 相容性套件的有問必答版本，以與其他應用程式搭配使用。    
   </li>
 </ul>
 <strong>新的 Microsoft Edge</strong>

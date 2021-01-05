@@ -1,20 +1,20 @@
 ---
 title: 附錄 B：適用於 Office 365 US Government 的 FastTrack 中心權益概觀
-ms.author: v-bermic@microsoft.com
-author: rberg-steyer@microsoft.com
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 12/1/20
+ms.date: 1/4/2021
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 description: 透過 Office 365 的 FastTrack 中心權益，您可以與 FastTrack 專家遠端合作，讓您的 Office 365 環境做好使用，並規劃組織內的首展和使用方式。
-ms.openlocfilehash: c1fe2fbff2bd3deaa37f3cce8ea4be5f65003917
-ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
+ms.openlocfilehash: 265b8b3f564aa68cb458a7cb27c1e1f08023e8d5
+ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49525398"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49750088"
 ---
 # <a name="appendix-b---fasttrack-center-benefit-overview-for-office-365-us-government"></a>附錄 B：適用於 Office 365 US Government 的 FastTrack 中心權益概觀
 

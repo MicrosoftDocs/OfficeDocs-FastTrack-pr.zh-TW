@@ -3,21 +3,21 @@ title: 適用於 Microsoft 365 的 FastTrack 中心權益
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 12/1/20
+ms.date: 1/4/2021
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
 - microsoft-365-onboarding-benefit
-ms.service: m365-administration
+ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack 是旨在協助您部署 Microsoft 365 （包含在合格訂閱中）的優點，而不需要額外付費。 您可以透過新的或現有的合格訂閱使用 FastTrack 服務。
-ms.openlocfilehash: 21ae744242eecb581913b697e5be09d1541d014c
-ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
+ms.openlocfilehash: 58de2974475829100adbc2b9546c8d437279c094
+ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49525410"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49749990"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>適用於 Microsoft 365 的 FastTrack 中心權益
 

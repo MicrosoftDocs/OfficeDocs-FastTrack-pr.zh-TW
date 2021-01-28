@@ -3,19 +3,19 @@ title: 資格
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 在本主題中，我們概括了從購買 Microsoft 365 授權的 FastTrack 專家那裡收到導向協助的資格要求，並詳細說明涵蓋的特定產品和功能。
-ms.openlocfilehash: 976333b6999eb008024b2808674144cbe9ead586
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: 53ff3d12318a77fc66810e92ec5dae090f281035
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750016"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016457"
 ---
 # <a name="eligibility"></a>資格
 
@@ -168,7 +168,7 @@ FastTrack 專家可以為您提供您購買方案中可能包含的下列服務�
 
 #### <a name="azure-information-protection"></a>Azure 資訊保護
 
-  - Azure 資訊保護方案 2\*\*\*\*\*
+  - Azure 資訊保護
 
 #### <a name="microsoft-intune"></a>Microsoft Intune
 
@@ -184,10 +184,7 @@ FastTrack 專家可以為您提供您購買方案中可能包含的下列服務�
       
 <br>
 
-\*\*\*\*適用於符合 FastTrack 權益的雲端服務。 否則，這會轉交給 FastTrack 專家或取得合作夥伴轉介。  
-      
-\*\*\*\*\*適用於 P2，以隨附於 E5 方式或以獨立方案形式。 適用於符合 FastTrack 權益的雲端服務。 若為雲端服務 P1，FastTrack 會共用自我部署指南。  
-      
+\*\*\*\*適用於符合 FastTrack 權益的雲端服務。 否則，這會轉交給 FastTrack 專家或取得合作夥伴轉介。    
 
 ### <a name="windows-10-plans"></a>Windows 10 方案
 

@@ -3,19 +3,19 @@ title: 資料移轉
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office 365 (Exchange Online、SharePoint Online 及 [商務用 OneDrive])。 我們可以提供的協助類型取決於您的 Office 365 授權數量。
-ms.openlocfilehash: ec7bc5cf9c25ef1e386c7fae42a5fd8e1716dee5
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: 0ecfdfab7c7f7ae8879ea6374c3560dcaeb2f283
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750040"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016469"
 ---
 # <a name="data-migration"></a>資料移轉
 
@@ -83,7 +83,7 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 <td>混合部署移轉</td>
 <td><ul>
 <li>電子郵件</li>
-<li>信箱規則</li>
+<li>伺服器端信箱規則</li>
 <li>委派</li>
 <li>信箱連絡人 </li>
 <li> 行事曆 </li>
@@ -102,6 +102,7 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 <li> 從個人存放區資料表 (PST) 檔案封存的資料 </li>
 <li> 損毀的項目 </li>
 <li> 非使用中的信箱 </li>
+<li> 用戶端信箱規則</li>
 </ul></td>
 </tr>
 <tr class="even">

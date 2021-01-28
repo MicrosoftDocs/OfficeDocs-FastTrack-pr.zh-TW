@@ -10,19 +10,19 @@ ms.service: windows-10-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 當您購買「至少」 150 份合格服務或方案的授權時，可使用適用於 Windows 10 的 FastTrack 中心權益。
-ms.openlocfilehash: 851f774dda5d6ea93890f7eb3e6d85f766d9fdd8
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: d60c422ae958ffe70e92979b74ae8eed8e736034
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827343"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016433"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>適用於 Windows 10 的 FastTrack 中心權益
 
 > [!CAUTION]
 > 此內容已不再是最新的，且已排定移除。 請使用目前內容左側瀏覽的目錄。
 
-當您購買至少 150 份合格服務或方案的授權時，可使用適用於 Windows 10 的 FastTrack 中心權益。 然後您就能與 FastTrack 專家合作，以評估、補救並部署 Windows 10、新版 Microsoft Edge 或 Microsoft Defender 進階執行緒防護，並協調 Microsoft 365 Apps 的FastTrack 中心權益。 
+當您購買至少 150 份合格服務或方案的授權時，可使用適用於 Windows 10 的 FastTrack 中心權益。 然後，您可以與 FastTrack 專家一起評估、修復和部署 microsoft 365 應用程式的 Windows 10、Microsoft Edge 或 Microsoft Defender 高級執行緒保護，並協調 FastTrack 中心優勢。 
 
 適用於 Windows 10 的 FastTrack 中心權益也提供應用程式保證服務。 有了這項服務，如果您遇到應用程式相容性問題，FastTrack 專家即可為您提供建議和補救指導方針。 
 

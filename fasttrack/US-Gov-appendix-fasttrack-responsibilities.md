@@ -3,19 +3,19 @@ title: Office 365 美國政府的 FastTrack 責任
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 在上架期間 FastTrack 專家需擔負下列責任。
-ms.openlocfilehash: 42ad4053ef169470abd5de96cd59329704d1b224
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: a7860d56652de3aba80e77b7f9b054e8a80be6f4
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750076"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016667"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 美國政府的 FastTrack 責任
 
@@ -93,6 +93,13 @@ ms.locfileid: "49750076"
 - 測試 SSO 功能 (若已部署)。   
 - 驅動成功服務採用和價值。
     
+## <a name="compliance"></a>合規性
+
+提供以下的相關指引：
+- 使用 **Microsoft 資訊** 控管的遠端協助 (請參閱 [安全性和符合性](products-and-capabilities.md#security-and-compliance)) 。
+- 使用 **Microsoft 資訊保護** 的遠端協助 (請參閱 [安全性和符合性](products-and-capabilities.md#security-and-compliance)) 。
+- 使用 **Azure 資訊保護** 的遠端協助 (請參閱 [安全性和符合性](products-and-capabilities.md#security-and-compliance)) 。
+
 ## <a name="exchange-online"></a>Exchange Online
 
 提供以下的相關指引： 

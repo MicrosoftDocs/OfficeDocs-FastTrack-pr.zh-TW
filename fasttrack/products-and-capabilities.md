@@ -3,19 +3,19 @@ title: 產品與功能
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 本主題包括 FastTrack 所支援之工作負載案例的詳細資料，以及在開始之前所需的來源環境預期。 根據您目前的設定，我們會與您合作，建立修復計畫，以將來源環境帶入成功上架的最低需求。
-ms.openlocfilehash: 5e65d160822ed50840ecc65f484433bf0d485913
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: abbc97a7b2d70b0b0111f1cbe96904bbe552e463
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750100"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016685"
 ---
 # <a name="products-and-capabilities"></a>產品與功能
 
@@ -32,7 +32,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
   - [Windows 10](#windows-10)
   - [Windows 虛擬桌面](#windows-virtual-desktop)
   - [應用程式保證](#app-assure)
-  - [新版 Microsoft Edge](#the-new-microsoft-edge)
+  - [Microsoft Edge](#microsoft-edge)
 
 > [!NOTE]
 > 如需有關 Office 365 US Government 來源環境預期的資訊，請參閱 [Office 365 US Government 的來源環境預期](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations)。 
@@ -246,7 +246,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 </td>
 </tr>
 <tr class="odd">
-<td><strong>Microsoft 雲端 App 安全性</strong></td>
+<td><strong>Microsoft Cloud App Security</strong></td>
 <td>  Microsoft Cloud App Security 是雲端 Access 安全性經紀人 (CASB) ，可提供豐富的知名度、控制資料旅行，以及完善的分析，以識別和抵禦所有 Microsoft 和協力廠商雲端服務的網路威脅。 我們提供下列專案的遠端指導：
 <ul>
 <li>  設定入口網站，包括：  </li>
@@ -590,7 +590,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>  小組檢視器針對遠端協助 (需要) 小組檢視器訂閱。  </li>
 <li>  行動威脅防護 (MTD) 協力廠商解決方案 (必須) 的 MTD 訂閱。  </li>
 <li>  需要)  (電信費用管理解決方案的電訊費用管理解決方案。  </li>
-<li>  需要) microsoft Defender ATP (Windows E5 或 Microsoft 365 E5 授權。  </li>
+
 </ul></li>
 <li>  將每個支援的平台的裝置註冊到 Intune。  </li>
 </ul></li>
@@ -604,7 +604,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 </ul></li>
 <li>  提供從舊版 PC 管理到 Intune MDM 的遷移指南。  </li>
 </ul>
-  <strong>附注</strong>：舊版本的 PC 管理已不再支援從2020年10月15日。  
+ 
 </li>
 </ul>
   
@@ -617,7 +617,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>  將使用者新增到您的 Intune 訂用帳戶、定義 IT 系統管理員角色，以及建立使用者和裝置群組。  </li>
 <li>  提供指導方針設定混合式 Azure AD 聯結。  </li>
 <li>  提供設定適用于 MDM 自動註冊之 Azure AD 的指導方針。  </li>
-<li>  提供如何設定雲端管理閘道的相關指引。  </li>
+<li>  提供有關如何設定雲端管理閘道的指導方針，用作遠端網際網路型裝置管理的共同管理解決方案。  </li>
 <li>  設定要切換到 Intune 的支援工作負載。  </li>
 <li>  將 Configuration Manager 用戶端安裝在 Intune 中註冊的裝置。  </li>
 </ul> 
@@ -633,9 +633,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>  條件式存取原則。  </li>
 <li>  應用程式佈建原則。  </li>
 </ul></li>
-</ul>
-  
-  <strong>附注</strong>： FastTrack 不支援使用 Exchange mobile 裝置信箱原則來保護 IOS 和 Android 的 Outlook。 請與 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作夥伴</a> 聯繫以取得協助。  
+</ul>  
   </td>
 <td>  在規劃使用 Intune 部署無線網路和 VPN 設定檔時，IT 系統管理員必須具備實際執行環境中使用的憑證授權、無線網路和 VPN 基礎結構。  
   <strong>附注</strong>： FastTrack 服務權益不包括設定或設定憑證授權機構、無線網路、VPN 基礎結構或 Apple MDM push 憑證 for Intune 的協助。  
@@ -1052,7 +1050,6 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>  小組檢視器針對遠端協助 (需要) 小組檢視器訂閱。  </li>
 <li>  行動威脅防護 (MTD) 協力廠商解決方案 (必須) 的 MTD 訂閱。  </li>
 <li>  需要)  (電信費用管理解決方案的電訊費用管理解決方案。  </li>
-<li>  需要) microsoft Defender ATP (Windows E5 或 Microsoft 365 E5 授權。  </li>
 </ul></li>
 <li>  將每個支援的平台的裝置註冊到 Intune。  </li>
 </ul></li>
@@ -1066,7 +1063,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 </ul></li>
 <li>  提供從舊版 PC 管理到 Intune MDM 的遷移指南。  </li>
 </ul>
-  <strong>附注</strong>：舊版本的 PC 管理已不再支援從2020年10月15日。  
+  
 </li>
 </ul>
   
@@ -1079,7 +1076,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>  將使用者新增到您的 Intune 訂用帳戶、定義 IT 系統管理員角色，以及建立使用者和裝置群組。  </li>
 <li>  提供指導方針設定混合式 Azure AD 聯結。  </li>
 <li>  提供設定適用于 MDM 自動註冊之 Azure AD 的指導方針。  </li>
-<li>  提供如何設定雲端管理閘道的相關指引。  </li>
+<li>  提供有關如何設定雲端管理閘道的指導方針，用作遠端網際網路型裝置管理的共同管理解決方案。  </li>
 <li>  設定要切換到 Intune 的支援工作負載。  </li>
 <li>  將 Configuration Manager 用戶端安裝在 Intune 中註冊的裝置。  </li>
 </ul> 
@@ -1095,9 +1092,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>  條件式存取原則。  </li>
 <li>  應用程式佈建原則。  </li>
 </ul></li>
-</ul>
-  
-  <strong>附注</strong>： FastTrack 不支援使用 Exchange mobile 裝置信箱原則來保護 IOS 和 Android 的 Outlook。 請與 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作夥伴</a> 聯繫以取得協助。  
+</ul>  
   </td>
 <td>  在規劃使用 Intune 部署無線網路和 VPN 設定檔時，IT 系統管理員必須具備實際執行環境中使用的憑證授權、無線網路和 VPN 基礎結構。  
   <strong>附注</strong>： FastTrack 服務權益不包括設定或設定憑證授權機構、無線網路、VPN 基礎結構或 Apple MDM push 憑證 for Intune 的協助。  
@@ -1197,6 +1192,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>  
   自動化調查與補救措施。  
   </li>
+<li> 需要) microsoft Defender ATP (Windows E5 或 Microsoft 365 E5 授權。  </li>
 <li>  
   安全分數。  
   </li>
@@ -1396,11 +1392,11 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <tbody>
 <tr class="even">
 <td><strong>應用程式保證</strong></td>
-<td>  應用程式保證是一種服務，旨在解決 Windows 10 和 Microsoft 365 應用程式相容性的問題。 當您要求 App 保證服務時，我們會與您合作，以免費處理有效的應用程式問題，不需要您購買合格的訂閱。 我們也會在部署 Windows 虛擬桌面和新的 Microsoft Edge 時，提供客戶面臨相容性問題的指導，並盡每一種合理的努力，以解決相容性問題。 我們會為下列 Microsoft 產品上部署的應用程式提供修正協助：
+<td>  應用程式保證是一種服務，旨在解決 Windows 10 和 Microsoft 365 應用程式相容性的問題。 當您要求 App 保證服務時，我們會與您合作，以免費處理有效的應用程式問題，不需要您購買合格的訂閱。 我們也會針對在部署 Windows 虛擬桌面和 Microsoft Edge 時面臨相容性問題的客戶，提供指導，並為解決相容性問題提供各種合理的努力。 我們會為下列 Microsoft 產品上部署的應用程式提供修正協助：
 <ul>
 <li>  <strong>Windows 10 </strong> (包括 ARM64 裝置) </li>
 <li> <strong>Microsoft 365 應用程式</strong>  </li>
-<li>  <strong>新的 Microsoft Edge-</strong> 如需部署指導，請參閱 <a href="https://docs.microsoft.com/DeployEdge/microsoft-edge-channels">Microsoft Edge 通道概述</a>。  </li>
+<li>  <strong>Microsoft Edge-</strong> 如需部署指導，請參閱 <a href="https://docs.microsoft.com/DeployEdge/microsoft-edge-channels">Microsoft Edge 通道概述</a>。  </li>
 <li>  <strong>Windows 虛擬桌面</strong> - 如需詳細資訊，請參閱 <a href="https://docs.microsoft.com/azure/virtual-desktop/overview">何謂 Windows Virtual Desktop？</a> 和 <a href="https://docs.microsoft.com/azure/virtual-desktop/windows-10-multisession-faq">Windows 10 企業版多會話常見問題</a>。  </li>
 </ul>
 
@@ -1444,10 +1440,10 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
   Windows 預覽體驗計畫中的客戶可以下載 OpenCL 和 OpenGL 相容性套件的有問必答版本，以與其他應用程式搭配使用。    
   </li>
 </ul>
-<strong>新的 Microsoft Edge</strong>
+<strong>Microsoft Edge</strong>
 <ul>
 <li>  
-  如果您的 Web 應用程式或網站可在 Internet Explorer 11、支援的 Google Chrome 版本或 Microsoft Edge 的任何版本上執行，則也能在新的 Microsoft Edge 上執行。  
+  如果您的 web 應用程式或網站在 Internet Explorer 11、支援的 Google Chrome 或任何版本的 Microsoft edge 中運作，也會與 Microsoft Edge 搭配使用。  
   </li>
 <li>  
   當網頁不斷演變時，請務必查看此已發佈的已知 <a href="https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes">網站相容性清單-Microsoft Edge 的變更</a>。  
@@ -1481,7 +1477,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 </tbody>
 </table>
 
-## <a name="the-new-microsoft-edge"></a>新版 Microsoft Edge
+## <a name="microsoft-edge"></a>Microsoft Edge
 
 
 <table>
@@ -1496,7 +1492,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <tr class="even">
 <td>Windows 10 企業版客戶的<strong>Microsoft Edge</strong> () </td>
 <td><ul>
-<li>  我們會為下列專案提供遠端部署指導和相容性協助：在 Windows 10 企業版上使用 Microsoft 端點管理員 (Microsoft 端點 Configuration Manager 或 Intune) 部署新的 Microsoft Edge。  </li>
+<li>  我們會為下列專案提供遠端部署指導和相容性協助：在 Windows 10 企業版上使用 Microsoft 端點管理員 (Microsoft 端點 Configuration Manager 或 Intune) 部署 Microsoft Edge。  </li>
 <li>  Microsoft Edge 設定 (使用群組原則或 Intune 應用程式設定和應用程式原則) 。  </li>
 <li>  清點可能需要在 Internet Explorer 模式中使用的網站清單。  </li>
 <li>  啟用具有現有企業網站清單的 Internet Explorer 模式。  

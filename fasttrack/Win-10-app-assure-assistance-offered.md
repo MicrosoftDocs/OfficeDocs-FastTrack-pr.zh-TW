@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 當您購買任何 Windows 10 或 Microsoft 365 服務時，FastTrack 專家會提供部署至 Windows 10 和 Microsoft 365 Apps 的建議和修復指引，並且讓您保持在最新狀態而不需額外成本 (具有合格訂用帳戶)。
-ms.openlocfilehash: c5c13e948651de813e1351e191e4aa135382339d
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 4cd513a4e0c1edda3598a6650bdea91d90f5584f
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827415"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016419"
 ---
 # <a name="assistance-offered"></a>提供的協助  
 
@@ -43,9 +43,9 @@ FastTrack 提供下列 Microsoft 產品上部署之應用程式的修復協助�
 > [!NOTE]
 > Windows 10 on ARM 排除和限制包括依賴不相容 ARM 之軟體驅動程式的應用程式、使用 OpenGL 或 OpenCL，或是只在64位 (x64) 中提供。
 
-### <a name="the-new-microsoft-edge"></a>新版 Microsoft Edge
+### <a name="microsoft-edge"></a>Microsoft Edge
 
-- 如果您的 Web 應用程式或網站可在 Internet Explorer 11、支援的 Google Chrome 版本或 Microsoft Edge 的任何版本上執行，則也能在新的 Microsoft Edge 上執行。
+- 如果您的 web 應用程式或網站在 Internet Explorer 11、支援的 Google Chrome 或任何版本的 Microsoft edge 中運作，也會與 Microsoft Edge 搭配使用。
 
 如需 Microsoft Edge 部署的相關指導方針，請參閱 [Microsoft Edge 通道的概觀](https://docs.microsoft.com/DeployEdge/microsoft-edge-channels)。 由於網路持續演進，我們發佈了已知的 [Microsoft Edge 網站相容性影響變更](https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes)清單。
 

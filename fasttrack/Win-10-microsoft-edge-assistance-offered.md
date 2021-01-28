@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 當您購買任何 Windows 10 或 Microsoft 365 服務 (如「適用的服務與方案」中所述)，如果您有可搭配 Internet Explorer 或 Google Chrome 使用的 Web 應用程式或網站，FastTrack 專家可提供遠端部署指導方針和相容性協助。
-ms.openlocfilehash: e656673cbbb5130c7cb24b43219a29db4f58c130
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: c63a5eaac44eae8006ed8cb3d9285d57808c141c
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827319"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016613"
 ---
 # <a name="assistance-offered"></a>提供的協助
 
@@ -24,7 +24,7 @@ ms.locfileid: "48827319"
 ## <a name="assistance"></a>協助
 
 FastTrack 提供下列各項的遠端指導方針：
-- 使用 Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager 或 Microsoft Intune) 在 Windows 10 企業版上部署新版 Microsoft Edge 的指導方針。
+- 在 Windows 10 Enterprise 上使用 Microsoft 端點管理員 (Microsoft Endpoint Configuration Manager 或 Microsoft Intune) 部署 Microsoft Edge 的指導方針。
 - 有關 Microsoft Edge 組態的指導方針 (使用群組原則或 Intune 應用程式組態和應用程式原則)。
 - 清查可能要求在 Internet Explorer 模式中使用的網站清單的指導方針。
 - 使用現有的企業網站清單啟用 Internet Explorer 模式的指導方針。
@@ -33,12 +33,12 @@ FastTrack 提供下列各項的遠端指導方針：
 
 若要透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)取得協助： 
 1.    登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.    從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助** 。
+2.    從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助**。
 3.    填妥 **使用 Microsoft 365 要求協助** 表單。
   
 合作夥伴也可以透過 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)代表客戶取得協助。作法如下：
 1.    登入 [FastTrack 網站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.    從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助** 。
+2.    從登陸頁面上方的 **快速動作** 選取 **使用 Microsoft 365 要求協助**。
 3.    輸入客戶名稱、網域或 TPID 來搜尋您的客戶。
 4.    從搜尋結果中選取客戶。
 5.    填妥 **使用 Microsoft 365 要求協助** 表單。

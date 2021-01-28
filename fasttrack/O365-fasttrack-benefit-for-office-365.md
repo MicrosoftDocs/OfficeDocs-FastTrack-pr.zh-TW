@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 當您為 Office 365 租用戶購買至少 150 份合格服務或方案時，可使用「適用於 Office 365 的 FastTrack 中心權益」。您接著可與 FastTrack 專家合作來評估、修復、啟用、移轉及促進使用這些服務。這些專家也提供移轉指引。
-ms.openlocfilehash: e55ea3df161fa93aa0a0da978e39d8d0eec42ac4
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 1185b35c74b7a8f8e789004a4e43e74640c5a28e
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827127"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016481"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>適用於 Office 365 的 FastTrack 中心權益
 
@@ -62,7 +62,7 @@ ms.locfileid: "48827127"
 
 - Windows 10
 - 應用程式保證
-- 新版 Microsoft Edge
+- Microsoft Edge
 - Windows Defender 進階威脅防護
     
 > [!NOTE]

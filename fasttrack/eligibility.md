@@ -3,19 +3,19 @@ title: 資格
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/27/2021
+ms.date: 2/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 在本主題中，我們概括了從購買 Microsoft 365 授權的 FastTrack 專家那裡收到導向協助的資格要求，並詳細說明涵蓋的特定產品和功能。
-ms.openlocfilehash: 53ff3d12318a77fc66810e92ec5dae090f281035
-ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
+ms.openlocfilehash: 095d3630431265e7f584388b21614e071ea8711c
+ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50016457"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416422"
 ---
 # <a name="eligibility"></a>資格
 
@@ -36,7 +36,7 @@ FastTrack 專家可以為您提供您購買方案中可能包含的下列服務�
 > Office 365 專業增強版已重新命名為 Microsoft 365 Apps。 在某些情況下，您可能會看到使用舊版的名稱。 如需有關此變更生效時間的詳細資料，請參閱 [Office 365 專業增強版的名稱變更](https://docs.microsoft.com/deployoffice/name-change)。
 
   - Microsoft 365 Defender
-  - Microsoft Cloud App Security
+  - Microsoft 雲端應用程式安全性
   - Microsoft Defender 進階威脅防護 (ATP)
   - 適用於身分識別的 Microsoft Defender 
   - Microsoft Edge

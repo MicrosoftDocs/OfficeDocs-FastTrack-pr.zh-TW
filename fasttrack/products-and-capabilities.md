@@ -3,23 +3,23 @@ title: 產品與功能
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/27/2021
+ms.date: 2/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 本主題包括 FastTrack 所支援之工作負載案例的詳細資料，以及在開始之前所需的來源環境預期。 根據您目前的設定，我們會與您合作，建立修復計畫，以將來源環境帶入成功上架的最低需求。
-ms.openlocfilehash: abbc97a7b2d70b0b0111f1cbe96904bbe552e463
-ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
+ms.openlocfilehash: 05936adee3f21e6078933a686dfa8dc24c33d1be
+ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50016685"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416562"
 ---
 # <a name="products-and-capabilities"></a>產品與功能
 
-## <a name="services-and-scenarios-supported-by-fasttrack"></a>FastTrack 所支援的服務和案例
+## <a name="services-and-scenarios-supported-by-fasttrack"></a>FastTrack 所支援的服務和案例 
 
 本主題包括 FastTrack 所支援之工作負載案例的詳細資料，以及在開始之前所需的來源環境預期。 根據您目前的設定，我們會與您合作，建立修復計畫，以將來源環境帶入成功上架的最低需求。
 
@@ -189,34 +189,103 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 </tr>
 <tr class="odd">
 <td><strong>Azure 資訊保護 </strong></td>
+<td>  如需 Azure 資訊保護的詳細資訊，請參閱下表中的 [ <strong>Microsoft 資訊保護</strong> ]。
+
+  </td>
+<td>  
+  <tr class="odd">
+<td><strong>探索 & 回應</strong></td>
+<td>  
+
+<strong>Advanced eDiscovery</strong>
+  
+<ul>
+<li>  啟用安全連結、安全附件和防網路釣魚。  </li>
+<li>  設定自動化、調查和回應。  </li>
+<li>  使用攻擊模擬器。  </li>
+<li>  報告和威脅分析。  </li>
+</ul>
+
+只有 E5 支援的<strong>高級審計</strong> () 
+
+我們提供下列專案的遠端指導： 
+<ul>
+<li> 啟用高級審核。</li>
+<li> 執行搜尋審核記錄 UI 和基本審核 PowerShell 命令。</li>
+</ul>
+
+<strong> 合規性管理員</strong>
+
+我們提供下列專案的遠端指導：  
+
+<ul> <li>審閱角色類型。  </li>
+<li> 新增及設定評估。</li>
+<li> 實施改進動作和決定這會如何影響您的合規性分數，以評估法規遵從性。</li>
+<li> 審閱內建控制項對應及評估控制項。</li>
+<li> 在評估中產生報表。</li>
+</ul>
+
+<strong>下列超出範圍 </strong> 
+<ul>
+<li> 自訂腳本或編碼。</li>
+<li> 電子檔探索 API。 </li>
+<li> 資料連線器。 </li>
+<li> 規範界限和安全性篩選器。</li>
+<li> 資料調查。</li>
+<li> 資料主體要求。</li>
+<li> 設計、設計架構和協力廠商檔審閱。</li>
+<li> 遵守行業和地區性法規和需求。</li>
+<li> 在合規性管理員中針對評估建議的改進動作的實際執行。</li>
+</ul>
+</td>
+<td>除了<a href="#general">一般</a>的<strong>核心上架</strong>部分之外，沒有最低的系統需求。</td>
+</tr>
+
+<tr class="odd">
+<td><strong>內幕威脅管理</strong></td>
+
 <td>  我們提供下列專案的遠端指導：
 <ul>
-<li>  啟用並設定您的租使用者。  </li>
-<li>  建立及設定標籤和原則。  </li>
-<li>  將資訊保護套用至文件。  </li>
-<li>  在 Windows 上執行的 Office 應用程式中，使用 Azure 資訊保護用戶端自動分類資訊並加上標籤 (例如 Word、PowerPoint、Excel 和 Outlook)。  </li>
-<li>  使用 Azure 資訊保護掃描程式，在 rest 上探索及標記檔案。  </li>
-<li>  使用 Exchange Online 郵件流程規則監視傳輸中的電子郵件。  </li>
+<li> 建立原則及檢查設定。</li>
+<li> 存取報告和警示。</li>
+<li> 建立案例。</li>
+<li> 建立通知範本。</li>
+<li>  (HR) 連接器建立人力資源的指導方針。</li>
 </ul>
-如果您想要使用 Microsoft Azure Rights Management Services 來套用保護，我們也會提供指導方針。 (Azure RMS) ，Office 365 Message Encryption (OME) ，以及資料遺失防護 (DLP) 。  </td>
-<td>  客戶必要的責任包括：
+
+<strong> 通訊相容性 </strong> 
+
+我們提供下列專案的遠端指導： 
 <ul>
-<li>  要掃描的檔案共用位置清單。  </li>
-<li>  已核准的分類分類。 </li>
-<li> 瞭解有關金鑰管理的任何法規限制或需求。  </li>
-<li>  為您的內部部署 Active Directory 建立且與 Azure AD 同步處理的服務帳戶。 </li>
-<li>  針對分類及保護所設定的標籤。 </li>
-<li> Azure 資訊保護掃描程式的所有必要條件皆已到位。 如需詳細資訊，請參閱 <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">安裝及部署 Azure 資訊保護統一標記掃描器的必要條件</a>。 </li>
-<li>  請確定使用者裝置執行的是支援的作業系統，且已安裝必要的必要條件。 如需詳細資訊，請參閱下列各項。</li>
+<li> 建立原則及檢查設定。</li>
+<li> 存取報告和警示。</li>
+<li> 建立通知範本。</li>
+</ul>
+
+<strong> 合規性管理員</strong>
+
+我們提供下列專案的遠端指導：  
+
+<ul> <li>審閱角色類型。  </li>
+<li> 新增及設定評估。</li>
+<li> 實施改進動作和決定這會如何影響您的合規性分數，以評估法規遵從性。</li>
+<li> 審閱內建控制項對應及評估控制項。</li>
+<li> 在評估中產生報表。</li>
+</ul>
+
+<strong>下列超出範圍 </strong> 
 <ul>
-<li> <a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">系統管理員指南：安裝 Azure 資訊保護統一標籤用戶端以供使用者</a>   </li>
-<li>  <a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">IOS 或 Android 的 Azure 資訊保護應用程式為何？</a>  </li>
-</ul>
-<li> 安裝和設定 Azure RMS 連接器和伺服器（包括 Active Directory RMS (AD RMS) 連接器）以進行混合支援。  </li>
-<li> 安裝和設定會將您自己的金鑰 (BYOK) 、雙金鑰加密 (DKE)  (整合標籤用戶端) ，或是只保留您自己的金鑰 (HYOK)  (經典用戶端您應該在部署中的其中一個選項。  </li>
-  </ul>
-</ul>
-  
+<li> 建立及管理電源自動化流程。</li>
+<li> 在 HR 連接器) 以外 (的資料連線器。 </li>
+<li> 自訂正則運算式 (RegEx) 設定。</li>
+<li> 設計、設計架構和協力廠商檔審閱。</li>
+<li> 資訊障礙。</li>
+<li> 特殊許可權存取管理。</li>
+<li> 遵守行業和地區性法規和需求。</li>
+<li> 在合規性管理員中針對評估建議的改進動作的實際執行。</li>
+</ul></td>
+<td>除了<a href="#general">一般</a>的<strong>核心上架</strong>部分之外，沒有最低的系統需求。</td>
+</tr>
 </td>
 </tr>
 
@@ -246,7 +315,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 </td>
 </tr>
 <tr class="odd">
-<td><strong>Microsoft Cloud App Security</strong></td>
+<td><strong>Microsoft 雲端 App 安全性</strong></td>
 <td>  Microsoft Cloud App Security 是雲端 Access 安全性經紀人 (CASB) ，可提供豐富的知名度、控制資料旅行，以及完善的分析，以識別和抵禦所有 Microsoft 和協力廠商雲端服務的網路威脅。 我們提供下列專案的遠端指導：
 <ul>
 <li>  設定入口網站，包括：  </li>
@@ -274,8 +343,8 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li> 瞭解 Microsoft 365 Defender 入口網站中的事件關聯。</li>
 <li> 在 CASBs (的 <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">前20個使用案例</a> 中提供設定協助，包括建立或更新最多六個 (6) 原則) ，但不包括： </li>
 <ul>
-<li> 審核網際網路的設定為服務 (IaaS) 環境 ( # 18) 。</li>
-<li> 監控使用者活動，以防範 IaaS 環境中的威脅 ( # 19) 。</li>
+<li> 審核網際網路的設定為服務 (IaaS) 環境 (#18) 。</li>
+<li> 監控使用者活動，以防範 IaaS 環境中的威脅 (#19) 。</li>
 </ul>
 </ul>
 <p><strong>下列超出範圍</strong></p>
@@ -379,6 +448,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>  
   移動裝置 (Android 和 iOS) 。  
   </li>
+<li> 虛擬桌面基礎結構 (VDI)  (持續或非持續性) 。  </li>
 </ul></li>
 <li>  伺服器上架及設定：
 <ul>
@@ -418,13 +488,24 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>  
   應用程式控制。  
   </li>
+<li> 裝置控制。</li>
 <li>  
   入侵防護。  
   </li>
 <li>  
   網路防火牆。  
   </li>
+
+
+
 </ul></li>
+<li> 帳戶保護功能的設定或管理，例如： </li>
+<ul>
+
+<li> Windows Hello</li>
+<li> Credential Guard</li>
+</ul>
+<li> BitLocker 的設定或管理。</li>
 <li>  註冊或設定 Microsoft 威脅專家。  </li>
 <li>  設定或訓練檢查 API 或安全性資訊和事件管理 (SIEM) 連接。  </li>
 <li>  註冊或設定 Microsoft 威脅防護 (MTP)。  </li>
@@ -512,24 +593,40 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 
 <tr class="even">
 <td><strong>Microsoft 資訊控管</strong></td>
+
 <td>  我們提供下列專案的遠端指導：
 <ul>
-<li>  保留標籤和原則。  </li>
-<li>  記錄管理。  </li>
-<li>  刪除原則。  </li>
-<li>  通訊合規性。  </li>
-<li>  測試人員風險管理。  </li>
-<li>  進階電子文件探索。  </li>
+<li>  僅限 E5) 支援建立及發佈保留標籤和原則 (。  
+</li>
+<li>  僅限 E5) 支援記錄管理 (。  </li>
+<ul><li>  查看檔計畫建立。 </li>
+<li>  建立及記錄管理 (包括事件記錄) 。  </li>
+<li>  審閱處置。 </ul> </li>
+</ul>
+
+<strong> 合規性管理員</strong>
+
+我們提供下列專案的遠端指導：  
+
+<ul> <li>審閱角色類型。  </li>
+<li> 新增及設定評估。</li>
+<li> 實施改進動作和決定這會如何影響您的合規性分數，以評估法規遵從性。</li>
+<li> 審閱內建控制項對應及評估控制項。</li>
+<li> 在評估中產生報表。</li>
 </ul>
 
   <strong>下列超出範圍 </strong>  
 <ul>
 <li> 記錄管理檔計畫的開發。</li>
 <li> 資料連線器。</li>
-<li> 資訊障礙。</li>
-<li> 特殊許可權存取管理。</li>
 <li> 在 SharePoint 中開發資訊架構。</li>
 <li> 自訂腳本和編碼。</li>
+<li> 設計、設計架構和協力廠商檔審閱。</li>
+<li> E3 的支援。</li>
+<li> 遵守行業和地區性法規和需求。</li>
+<li> 在合規性管理員中針對評估建議的改進動作的實際執行。</li>
+</ul>
+
 </td>
 <td>除了<a href="#general">一般</a>的<strong>核心上架</strong>部分之外，沒有最低的系統需求。</td>
 </tr>
@@ -537,17 +634,41 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <td><strong>Microsoft 資訊保護</strong></td>
 <td>  我們提供下列專案的遠端指導：
 <ul>
-<li>  資料分類。  </li>
-<li>  敏感性資訊類型。  </li>
-<li>  建立敏感度標籤。  </li>
-<li>  套用敏感度標籤。  </li>
-<li>  統一標籤。  </li>
-<li>  可訓練的分類器。  </li>
-<li>  使用內容總管和活動總管瞭解您的資料。  </li>
-<li>  使用原則（手動和自動）發布標籤。  </li>
-<li>  為 Microsoft Teams 聊天和頻道建立資料外洩防護 (data loss prevention (DLP)) 原則。  </li>
-<li>  為 Windows 10 裝置建立端點 DLP 原則。  </li>
+<li>  在 E3 和 E5) 中支援資料分類 (。  </li>
+<li>  在 E3 和 E5) 中支援的敏感資訊類型 (。  </li>
+<li>  在 E3 和 E5) 中建立 (支援的靈敏度標籤。  </li>
+<li>  在 E3 和 E5) 中套用敏感度標籤 (支援。  </li>
+<li>  Trainable 中的分類器 (支援的 E5) 。  </li>
+<li>  使用 E5) 支援的內容瀏覽器和活動瀏覽器 (，知道您的資料。  </li>
+<li>  使用原則發佈標籤 (手動和自動) E5) 中 (支援。  </li>
+<li>  在 E5) 中建立 (支援 Windows 10 裝置的 (DLP) 原則的端點資料遺失防護。  </li>
+<li>  建立適用于 Microsoft 小組聊天和頻道的 DLP 原則。  </li>
 </ul>
+
+<strong> 合規性管理員</strong>
+
+我們提供下列專案的遠端指導：  
+
+<ul> <li>審閱角色類型。  </li>
+<li> 新增及設定評估。</li>
+<li> 實施改進動作和決定這會如何影響您的合規性分數，以評估法規遵從性。</li>
+<li> 審閱內建控制項對應及評估控制項。</li>
+<li> 在評估中產生報表。</li>
+</ul>
+
+<strong> Azure 資訊保護</strong>
+
+我們提供下列專案的遠端指導：  
+<ul>
+<li>  啟用並設定您的租使用者。  </li>
+<li>  在 P1 和 P2) 中建立及設定 (支援的標籤和原則。  </li>
+<li>  在 P1 和 P2) 支援的檔中套用資訊保護 (。  </li>
+<li>  在 Office 應用程式中自動分類及標記資訊 (例如 Word、PowerPoint、Excel 和 Outlook) 在 Windows 上執行，並使用 P2) 支援的 Azure 資訊保護用戶端 (。  </li>
+<li>  在使用 Azure 資訊保護掃描程式時，在 rest 上探索和標示檔案 (在 P1 和 P2) 中支援。  </li>
+<li>  使用 Exchange Online 郵件流程規則監視傳輸中的電子郵件。  </li>
+</ul>
+
+  如果您想要使用 Microsoft Azure Rights Management Services 來套用保護，我們也會提供指導方針。 (Azure RMS) ，Office 365 Message Encryption (OME) ，以及資料遺失防護 (DLP) 。
 
 <strong>下列超出範圍 </strong>  
 <ul>
@@ -555,12 +676,37 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>自訂正則運算式 (RegEx 機密資訊類型) 開發。</li>
 <li>建立或修改關鍵字字典。</li>
 <li>自訂腳本和編碼。</li>
+<li> Azure Purview。</li>
+<li> 設計、設計架構和協力廠商檔審閱。</li>
+<li> 遵守行業和地區性法規和需求。</li>
+<li> 在合規性管理員中針對評估建議的改進動作的實際執行。</li>
 </ul>
-<strong>附注：</strong>如需詳細資訊，請參閱<a href="#enterprise-mobility--security">Enterprise 可移動性 + Security</a>中的<strong>Azure 資訊保護</strong>。
+
 <ul>
 
 </td>
-<td>除了<a href="#general">一般</a>的<strong>核心上架</strong>部分之外，沒有最低的系統需求。</td>
+<td>除了<a href="#general">一般</a>的<strong>核心上架</strong>部分之外，Azure 資訊保護例外情況下沒有最低的系統需求。
+
+<strong>Azure 資訊保護</strong>
+
+客戶必要的責任包括：  
+<ul>
+<li>  要掃描的檔案共用位置清單。  </li>
+<li>  已核准的分類分類。 </li>
+<li> 瞭解有關金鑰管理的任何法規限制或需求。  </li>
+<li>  為您的內部部署 Active Directory 建立且與 Azure AD 同步處理的服務帳戶。 </li>
+<li>  針對分類及保護所設定的標籤。 </li>
+<li> Azure 資訊保護掃描程式的所有必要條件皆已到位。 如需詳細資訊，請參閱 <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">安裝及部署 Azure 資訊保護統一標記掃描器的必要條件</a>。 </li>
+<li>  請確定使用者裝置執行的是支援的作業系統，且已安裝必要的必要條件。 如需詳細資訊，請參閱下列各項。</li>
+<ul>
+<li> <a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">系統管理員指南：安裝 Azure 資訊保護統一標籤用戶端以供使用者</a>   </li>
+<li>  <a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">IOS 或 Android 的 Azure 資訊保護應用程式為何？</a>  </li>
+</ul>
+<li> 安裝和設定 Azure RMS 連接器和伺服器（包括 Active Directory RMS (AD RMS) 連接器）以進行混合支援。  </li>
+<li> 安裝和設定會將您自己的金鑰 (BYOK) 、雙金鑰加密 (DKE)  (整合標籤用戶端) ，或是只保留您自己的金鑰 (HYOK)  (經典用戶端您應該在部署中的其中一個選項。  </li>
+  </ul>
+</ul>
+</td>
 </tr>
 
 </td>
@@ -667,7 +813,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 
 ## <a name="office-365"></a>Office 365
 
-<<table>
+<table>
 <thead>
 <tr class="header">
 <th><strong>服務</strong></th>
@@ -710,22 +856,38 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <td><strong>Microsoft 資訊控管</strong></td>
 <td>  我們提供下列專案的遠端指導：
 <ul>
-<li>  保留標籤和原則。  </li>
-<li>  記錄管理。  </li>
-<li>  刪除原則。  </li>
-<li>  通訊合規性。  </li>
-<li>  測試人員風險管理。  </li>
-<li>  進階電子文件探索。  </li>
+<li>  僅限 E5) 支援建立及發佈保留標籤和原則 (。  
+</li>
+<li>  僅限 E5) 支援記錄管理 (。  </li>
+<ul><li>  查看檔計畫建立。 </li>
+<li>  建立及記錄管理 (包括事件記錄) 。  </li>
+<li>  審閱處置。 </ul> </li>
+</ul>
+
+<strong> 合規性管理員</strong>
+
+我們提供下列專案的遠端指導：  
+
+<ul> <li>審閱角色類型。  </li>
+<li> 新增及設定評估。</li>
+<li> 實施改進動作和決定這會如何影響您的合規性分數，以評估法規遵從性。</li>
+<li> 審閱內建控制項對應及評估控制項。</li>
+<li> 在評估中產生報表。</li>
 </ul>
 
   <strong>下列超出範圍 </strong>  
 <ul>
 <li> 記錄管理檔計畫的開發。</li>
 <li> 資料連線器。</li>
-<li> 資訊障礙。</li>
-<li> 特殊許可權存取管理。</li>
 <li> 在 SharePoint 中開發資訊架構。</li>
 <li> 自訂腳本和編碼。</li>
+<li> 設計、設計架構和協力廠商檔審閱。</li>
+<li> E3 的支援。</li>
+<li> 遵守行業和地區性法規和需求。</li>
+<li> 在合規性管理員中針對評估建議的改進動作的實際執行。</li>
+</ul>
+
+
 </td>
 <td>除了<a href="#general">一般</a>的<strong>核心上架</strong>部分之外，沒有最低的系統需求。</td>
 </tr>
@@ -733,17 +895,41 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <td><strong>Microsoft 資訊保護</strong></td>
 <td>  我們提供下列專案的遠端指導：
 <ul>
-<li>  資料分類。  </li>
-<li>  敏感性資訊類型。  </li>
-<li>  建立敏感度標籤。  </li>
-<li>  套用敏感度標籤。  </li>
-<li>  統一標籤。  </li>
-<li>  可訓練的分類器。  </li>
-<li>  使用內容總管和活動總管瞭解您的資料。  </li>
-<li>  使用原則（手動和自動）發布標籤。  </li>
-<li>  為 Microsoft Teams 聊天和頻道建立資料外洩防護 (data loss prevention (DLP)) 原則。  </li>
-<li>  為 Windows 10 裝置建立端點 DLP 原則。  </li>
+<li>  在 E3 和 E5) 中支援資料分類 (。  </li>
+<li>  在 E3 和 E5) 中支援的敏感資訊類型 (。  </li>
+<li>  在 E3 和 E5) 中建立 (支援的靈敏度標籤。  </li>
+<li>  在 E3 和 E5) 中套用敏感度標籤 (支援。  </li>
+<li>  Trainable 中的分類器 (支援的 E5) 。  </li>
+<li>  使用 E5) 支援的內容瀏覽器和活動瀏覽器 (，知道您的資料。  </li>
+<li>  使用原則發佈標籤 (手動和自動) E5) 中 (支援。  </li>
+<li>  在 E5) 中建立 (支援 Windows 10 裝置的 (DLP) 原則的端點資料遺失防護。  </li>
+<li>  建立適用于 Microsoft 小組聊天和頻道的 DLP 原則。  </li>
 </ul>
+
+<strong> 合規性管理員</strong>
+
+我們提供下列專案的遠端指導：  
+
+<ul> <li>審閱角色類型。  </li>
+<li> 新增及設定評估。</li>
+<li> 實施改進動作和決定這會如何影響您的合規性分數，以評估法規遵從性。</li>
+<li> 審閱內建控制項對應及評估控制項。</li>
+<li> 在評估中產生報表。</li>
+</ul>
+
+<strong> Azure 資訊保護</strong>
+
+我們提供下列專案的遠端指導：  
+<ul>
+<li>  啟用並設定您的租使用者。  </li>
+<li>  在 P1 和 P2) 中建立及設定 (支援的標籤和原則。  </li>
+<li>  在 P1 和 P2) 支援的檔中套用資訊保護 (。  </li>
+<li>  在 Office 應用程式中自動分類及標記資訊 (例如 Word、PowerPoint、Excel 和 Outlook) 在 Windows 上執行，並使用 P2) 支援的 Azure 資訊保護用戶端 (。  </li>
+<li>  在使用 Azure 資訊保護掃描程式時，在 rest 上探索和標示檔案 (在 P1 和 P2) 中支援。  </li>
+<li>  使用 Exchange Online 郵件流程規則監視傳輸中的電子郵件。  </li>
+</ul>
+  
+如果您想要使用 Microsoft Azure Rights Management Services 來套用保護，我們也會提供指導方針。 (Azure RMS) ，Office 365 Message Encryption (OME) ，以及資料遺失防護 (DLP) 。
 
 <strong>下列超出範圍 </strong>  
 <ul>
@@ -751,12 +937,36 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>自訂正則運算式 (RegEx 機密資訊類型) 開發。</li>
 <li>建立或修改關鍵字字典。</li>
 <li>自訂腳本和編碼。</li>
+<li> Azure Purview。</li>
+<li> 設計、設計架構和協力廠商檔審閱。</li>
+<li> 遵守行業和地區性法規和需求。</li>
+<li> 在合規性管理員中針對評估建議的改進動作的實際執行。</li>
 </ul>
-<strong>附注：</strong>如需詳細資訊，請參閱<a href="#enterprise-mobility--security">Enterprise 可移動性 + Security</a>中的<strong>Azure 資訊保護</strong>。
-<ul>
 
 </td>
-<td>除了<a href="#general">一般</a>的<strong>核心上架</strong>部分之外，沒有最低的系統需求。</td>
+<td>除了<a href="#general">一般</a>的<strong>核心上架</strong>部分之外，Azure 資訊保護例外情況下沒有最低的系統需求。
+
+<strong>Azure 資訊保護</strong>
+
+客戶必要的責任包括：  
+<ul>
+<li>  要掃描的檔案共用位置清單。  </li>
+<li>  已核准的分類分類。 </li>
+<li> 瞭解有關金鑰管理的任何法規限制或需求。  </li>
+<li>  為您的內部部署 Active Directory 建立且與 Azure AD 同步處理的服務帳戶。 </li>
+<li>  針對分類及保護所設定的標籤。 </li>
+<li> Azure 資訊保護掃描程式的所有必要條件皆已到位。 如需詳細資訊，請參閱 <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">安裝及部署 Azure 資訊保護統一標記掃描器的必要條件</a>。 </li>
+<li>  請確定使用者裝置執行的是支援的作業系統，且已安裝必要的必要條件。 如需詳細資訊，請參閱下列各項。</li>
+<ul>
+<li> <a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">系統管理員指南：安裝 Azure 資訊保護統一標籤用戶端以供使用者</a>   </li>
+<li>  <a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">IOS 或 Android 的 Azure 資訊保護應用程式為何？</a>  </li>
+</ul>
+<li> 安裝和設定 Azure RMS 連接器和伺服器（包括 Active Directory RMS (AD RMS) 連接器）以進行混合支援。  </li>
+<li> 安裝和設定會將您自己的金鑰 (BYOK) 、雙金鑰加密 (DKE)  (整合標籤用戶端) ，或是只保留您自己的金鑰 (HYOK)  (經典用戶端您應該在部署中的其中一個選項。  </li>
+  </ul>
+</ul>.
+
+</td>
 </tr>
 <tr class="even">
 <td><strong>Microsoft Teams</strong></td>
@@ -995,33 +1205,8 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 </tr>
 <tr class="odd">
 <td><strong>Azure 資訊保護 </strong></td>
-<td>  我們提供下列專案的遠端指導：
-<ul>
-<li>  啟用並設定您的租使用者。  </li>
-<li>  建立及設定標籤和原則。  </li>
-<li>  將資訊保護套用至文件。  </li>
-<li>  在 Windows 上執行的 Office 應用程式中，使用 Azure 資訊保護用戶端自動分類資訊並加上標籤 (例如 Word、PowerPoint、Excel 和 Outlook)。  </li>
-<li>  使用 Azure 資訊保護掃描程式，在 rest 上探索及標記檔案。  </li>
-<li>  使用 Exchange Online 郵件流程規則監視傳輸中的電子郵件。  </li>
-</ul>
-如果您想要使用 Microsoft Azure Rights Management Services 來套用保護，我們也會提供指導方針。 (Azure RMS) ，Office 365 Message Encryption (OME) ，以及資料遺失防護 (DLP) 。  </td>
-<td>  客戶必要的責任包括：
-<ul>
-<li>  要掃描的檔案共用位置清單。  </li>
-<li>  已核准的分類分類。 </li>
-<li> 瞭解有關金鑰管理的任何法規限制或需求。  </li>
-<li>  為您的內部部署 Active Directory 建立且與 Azure AD 同步處理的服務帳戶。 </li>
-<li>  針對分類及保護所設定的標籤。 </li>
-<li> Azure 資訊保護掃描程式的所有必要條件皆已到位。 如需詳細資訊，請參閱 <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">安裝及部署 Azure 資訊保護統一標記掃描器的必要條件</a>。 </li>
-<li>  請確定使用者裝置執行的是支援的作業系統，且已安裝必要的必要條件。 如需詳細資訊，請參閱下列各項。</li>
-<ul>
-<li> <a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">系統管理員指南：安裝 Azure 資訊保護統一標籤用戶端以供使用者</a>   </li>
-<li>  <a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">IOS 或 Android 的 Azure 資訊保護應用程式為何？</a>  </li>
-</ul>
-<li> 安裝和設定 Azure RMS 連接器和伺服器（包括 Active Directory RMS (AD RMS) 連接器）以進行混合支援。  </li>
-<li> 安裝和設定會將您自己的金鑰 (BYOK) 、雙金鑰加密 (DKE)  (整合標籤用戶端) ，或是只保留您自己的金鑰 (HYOK)  (經典用戶端您應該在部署中的其中一個選項。  </li>
-  </ul>
-</ul>
+<td>  如需 Azure 資訊保護的詳細資訊，請參閱 <strong>Microsoft 資訊保護</strong> 的 <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance"> 安全性和合規性。  </td>
+<td>  
   
 </td>
 </tr>
@@ -1248,6 +1433,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>  
   移動裝置 (Android 和 iOS) 。  
   </li>
+<li> 虛擬桌面基礎結構 (VDI)  (持續或非持續性) 。  </li>
 </ul></li>
 <li>  伺服器上架及設定：
 <ul>
@@ -1287,13 +1473,21 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>  
   應用程式控制。  
   </li>
+<li> 裝置控制。</li>
 <li>  
   入侵防護。  
   </li>
 <li>  
   網路防火牆。  
   </li>
+
+<ul>
+<li> Windows Hello</li>
+<li> Credential Guard</li>
+</ul>
+
 </ul></li>
+<li> BitLocker 的設定或管理。</li>
 <li>  註冊或設定 Microsoft 威脅專家。  </li>
 <li>  設定或訓練檢查 API 或安全性資訊和事件管理 (SIEM) 連接。  </li>
 <li>  註冊或設定 Microsoft 威脅防護 (MTP)。  </li>
@@ -1490,13 +1684,13 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 </thead>
 <tbody>
 <tr class="even">
-<td>Windows 10 企業版客戶的<strong>Microsoft Edge</strong> () </td>
-<td><ul>
-<li>  我們會為下列專案提供遠端部署指導和相容性協助：在 Windows 10 企業版上使用 Microsoft 端點管理員 (Microsoft 端點 Configuration Manager 或 Intune) 部署 Microsoft Edge。  </li>
-<li>  Microsoft Edge 設定 (使用群組原則或 Intune 應用程式設定和應用程式原則) 。  </li>
-<li>  清點可能需要在 Internet Explorer 模式中使用的網站清單。  </li>
-<li>  啟用具有現有企業網站清單的 Internet Explorer 模式。  
-  此外，如果您有可搭配 Internet Explorer 或 Google Chrome 使用的 web 應用程式或網站，且您遇到相容性問題，我們會提供指引來解決問題，而不需額外收費。 如需詳細資訊，請參閱 <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#app-assure">應用程式</a> 。  </li>
+<td><strong>Microsoft Edge</strong> </td>
+<td>
+我們提供下列專案的遠端部署和採用指導方針和相容性協助： <ul> <li>使用 Microsoft 端點管理員 (Microsoft 端點 Configuration Manager 或 Intune) ，在 Windows 10 上部署 Microsoft Edge。  </li>
+<li>  使用群組原則或 Intune 應用程式設定和應用程式原則) 設定 Microsoft Edge (。  </li>
+<li>  清查可能需要在 Internet Explorer 模式中使用的網站清單。  </li>
+<li>  啟用具有現有企業網站清單的 Internet Explorer 模式。  (如需詳細資訊，請參閱 <a href="https://docs.microsoft.com/fasttrack/process-and-expectations#engaging-fasttrack">接洽 FastTrack</a>) 。 此外，如果您有可搭配 Internet Explorer 或 Google Chrome 使用的 web 應用程式或網站，且您遇到相容性問題，我們會提供指引來解決問題，而不需額外收費。 若要向應用程式保證要求相容性支援，請登入 <a href="https://fasttrack.microsoft.com/portal#/signin">FastTrack 入口網站</a> ，以開始預訂。  </li>
+<li> Microsoft 搜尋書簽之 Edge 採用和設定指引的規劃指引。</li>
 </ul>
 
 <strong>下列超出範圍 </strong>  

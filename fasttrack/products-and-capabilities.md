@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 本主題包括 FastTrack 所支援之工作負載案例的詳細資料，以及在開始之前所需的來源環境預期。 根據您目前的設定，我們會與您合作，建立修復計畫，以將來源環境帶入成功上架的最低需求。
-ms.openlocfilehash: 05936adee3f21e6078933a686dfa8dc24c33d1be
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: e49ada61aee869785f061bbebbee4ae14aaee045
+ms.sourcegitcommit: 895a8b9df9a7cd26e27e95e5fd3145e7306c78e8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416562"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50464205"
 ---
 # <a name="products-and-capabilities"></a>產品與功能
 
@@ -208,7 +208,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 
 只有 E5 支援的<strong>高級審計</strong> () 
 
-我們提供下列專案的遠端指導： 
+我們提供下列專案的遠端指導：  
 <ul>
 <li> 啟用高級審核。</li>
 <li> 執行搜尋審核記錄 UI 和基本審核 PowerShell 命令。</li>

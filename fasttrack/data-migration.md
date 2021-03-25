@@ -3,19 +3,19 @@ title: 資料移轉
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 2/24/2021
+ms.date: 3/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office 365 (Exchange Online、SharePoint Online 及 [商務用 OneDrive])。 我們可以提供的協助類型取決於您的 Office 365 授權數量。
-ms.openlocfilehash: b02c7c863cdc689fab4a6545ac1acc84f6b03fc2
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: f518e8dbda9200318022bad2cc12d1ba68263df8
+ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416610"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51188018"
 ---
 # <a name="data-migration"></a>資料移轉
 
@@ -189,7 +189,7 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 
 ## <a name="considerations"></a>考量
 
-  - 所有的移轉動作都受到 SharePoint Online 的配額限制。 如需詳細資訊，可參照 [<span class="underline">SharePoint Online 和 [商務用 OneDrive]：軟體使用範圍及限制</span>](https://go.microsoft.com/fwlink/?LinkId=698855)。
+ - 所有的移轉動作都受到 SharePoint Online 的配額限制。 如需詳細資訊，請參閱 <a href="https://go.microsoft.com/fwlink/?LinkId=698855">SharePoint 限制</a> 。 
   - 我們建議您將移轉的總量限制在你有權使用的 SharePoint Online 儲存額度 (包含您可能另外購買的額外儲存空間) 的 75%。
 
 ## <a name="source-environment-details"></a>來源環境詳細資料
@@ -381,7 +381,7 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 
 ## <a name="considerations"></a>考量
 
-  - 所有的移轉事件都受 [商務用 OneDrive] 配額的限制。 如需詳細資訊，請參照 [<span class="underline">SharePoint Online 和 [商務用 OneDrive]：軟體使用範圍及限制</span>](https://go.microsoft.com/fwlink/?LinkId=698855)。
+  - 所有的移轉動作都受到 SharePoint Online 的配額限制。 如需詳細資訊，請參閱 <a href="https://go.microsoft.com/fwlink/?LinkId=698855"> SharePoint 限制</a> 。 
   - 我們建議您將移轉的資料總量限制在你有權使用的 SharePoint Online 儲存額度 (包含您可能另外購買的額外儲存空間) 的 75%。
   - FastTrack 只會移轉到使用中的 [商務用 OneDrive] 磁碟機。
 
@@ -566,3 +566,206 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 你也要執行下列 [商務用 OneDrive] 移轉動作特定的活動：
 
   - 使用您的移轉事件針對所有 [商務用 OneDrive] 網站進行佈建。
+
+## <a name="migration-to-microsoft-teams-and-microsoft-365-groups"></a>遷移至 Microsoft 團隊和 Microsoft 365 群組
+
+當您選擇使用 FastTrack 將檔案遷移至 Microsoft 團隊和 Microsoft 365 群組時，我們會提供遷移指南和資料移轉服務。 我們提供的指導可協助您規劃遷移、設定來源環境和團隊和 Microsoft 365 群組，並利用我們的資料移轉服務來遷移您的檔案。 您可以建立您的移轉事件並設定排程。 我們會依照您的排程啟動移轉事件、監控進度，並提供狀態報表。 當您的遷移事件完成時，您可以指望適當排程的檔案和來源環境的合格來源，已遷移到小組和 Microsoft 365 群組。 小組通道和 Microsoft 365 群組必須先由客戶預先布建，使用者才能將資料移轉至這些目的地類型。 小組和 Microsoft 365 群組會影響您對檔案目的地位置的許可權。 小組和 Microsoft 365 群組是為允許共同作業而建立的。 「小組頻道」或「Microsoft 365 群組」會決定在遷移至這些目的地時，誰可以存取這些檔案。 FastTrack 在遷移期間，不會將使用者或群組新增至任何小組通道或 Microsoft 365 群組的許可權。
+
+## <a name="considerations"></a>考量
+
+- 所有的移轉動作都受到 SharePoint Online 的配額限制。 如需詳細資訊，請參閱 <a href="https://go.microsoft.com/fwlink/?LinkId=698855"> SharePoint 限制</a> 。 
+- 我們建議您將移轉的總量限制在你有權使用的 SharePoint Online 儲存額度 (包含您可能另外購買的額外儲存空間) 的 75%。 
+
+
+## <a name="source-environment-details"></a>來源環境詳細資料
+
+我們的資料移轉服務可將資料從這些來源環境移轉出來： 
+
+- 檔案共用 (支援 SMB 2.0+ 裝置的伺服器訊息區 (SMB) 檔案共用)。
+-  單一 G Suite 環境 (僅限 Google 雲端硬碟)。 
+- Box (Starter、Business、Enterprise)。 
+- Dropbox for Teams (標準版和進階版)。 
+
+下列表格顯示每個來源環境特定的移轉詳細資料：
+
+<table>
+<thead>
+<tr class="header">
+ <th><strong>來源環境</strong></th>
+ <th><strong>移轉類型</strong></th>
+ <th><strong>可以移轉那些內容</strong></th>
+ <th><strong>不能移轉什麼內容</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>任何支援 SMB 2.0+ 的檔案共用裝置</strong></td>
+<td>單一或多個階段</td>
+<td><ul>
+<li> 文件 </li>
+<li> 檔案與資料夾結構 </li>
+<li> 使用者層級檔案和資料夾權限* </li>
+<li> 群組層級檔案和資料夾權限* </li>
+<li> 小於 15 GB 的檔案 </li>
+<li> 基本文件與資料夾的中繼資料：
+<ul>
+<li> 建立日期 </li>
+<li> 修改日期 </li>
+<li> 建立者 </li>
+<li> 上次修改者 </li>
+</ul></li>
+</ul>
+<br>
+*需要設定目錄同步處理。 只移轉公開給 [Windows 檔案總管] 的 NTFS 權限。 不移轉直接在檔案共用裝置上管理的權限。 若資料儲存在 SMB 2.0 裝置上，將會移轉 SMB 通訊協定公開的 NTFS 等同權限。 Microsoft 365 群組和/或 Microsoft 小組通道會影響許可權。 若目的地是 Microsoft 365 群組或 Microsoft 團隊通道，群組或通道會決定遷移後的檔案的最後許可權設定檔。 建議您不要在遷移至 Microsoft 365 群組或 Microsoft 團隊管道的檔案上遷移許可權。</td>
+<td><ul>
+<li> 擁有權歷程記錄與先前的版本 </li>
+<li> 內容中的內嵌 URL 轉換 </li>
+<li> 舊版 </li>
+<li> Windows 檔案和資料夾屬性 (例如唯讀、隱藏) </li>
+<li> 非 Windows New Technology File System (NTFS) 和 NTFS 的進階權限和特殊設定： </li>
+<li> 明確拒絕權限 (在移轉之後移除，內容受限於平行權限或上層資料夾權限) </li>
+<li> NTFS 稽核組態 </li>
+<li> 檔案分類基礎結構 (FCI) 提供的其他檔案中繼資料 </li>
+<li> 無法存取或損毀的文件 </li>
+<li> 隱藏的共用 </li>
+<li> 共用 (例如共用層級授與的權限) </li>
+<li> 檔案或資料夾超過目前的<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint 線上限制和限制</span></a> </li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><strong>單一 G Suite 環境 (僅限 Google 雲端硬碟)</strong></td>
+<td>單一或多個階段</td>
+<td><ul>
+<li> Google 文件、試算表及投影片 (檔案轉換為 Office 等同格式 ，包括超過 10 MB 的檔案) </li>
+<li> 檔案與資料夾結構 </li>
+<li> 使用者層級資料夾許可權 * </li>
+<li> 群組層級資料夾許可權 * </li>
+<li> 小於 15 GB 的檔案 </li>
+<li> 基本文件與資料夾的中繼資料：
+<ul>
+<li> 建立日期 </li>
+<li> 修改日期 </li>
+<li> 建立者 </li>
+<li> 上次修改者 </li>
+</ul></li>
+<li> 共用的磁碟 (資料夾和檔案) </li>
+<li> 正在移轉屬於 Google Drive 帳戶的共用內容 </li>
+</ul>
+<br>
+* 「Microsoft 365 群組」和/或 Microsoft 小組通道會影響許可權。 若目的地是 Microsoft 365 群組或 Microsoft 團隊通道，群組或通道會決定遷移後的檔案的最後許可權設定檔。 建議您不要在遷移至 Microsoft 365 群組或 Microsoft 團隊管道的檔案上遷移許可權。 
+</td>
+<td><ul>
+<li> 擁有權歷程記錄、先前的版本和註解 </li>
+<li> 檔案與資料夾描述、資料夾顏色 </li>
+<li> 使用者層次檔案權限 </li>
+<li> 群組層級檔案權限 </li>
+<li> 進階中繼資料 </li>
+<li> 檔案鎖定屬性 </li>
+<li> 內容中的內嵌 URL 轉換 </li>
+<li> 丟到垃圾筒的項目 </li>
+<li> 無法存取或損毀的文件 </li>
+<li> 遭封鎖或非作用中的使用者 </li>
+<li> Google 相簿表單、地圖及其他連線的應用程式 </li>
+<li> Google 繪圖 </li>
+<li> 組織外部的共用內容 </li>
+<li> 內容不是由移轉中的 Google 雲端硬碟帳戶所擁有 </li>
+<li> 外部使用者的權限和中繼資料（<strong>注意事項</strong>：使用 Google 雲端硬碟系統管理員報告來識別與外部使用者共用的內容。 指示使用者在移轉之後，與外部使用者再次共用內容。） </li>
+<li> 共用磁碟機成員資格權限 (<strong>注意事項</strong>：使用 Google 雲端硬碟系統管理員報告來識別共用磁碟機的成員資格。 指導使用者在進行移轉之前，在目標上設定這些成員資格的設定值。) </li>
+<li> 檔案或資料夾超過目前的<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint 線上限制和限制</span></a> </li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><strong>Box (Starter、Business、Enterprise)</strong></td>
+<td>單一或多個階段</td>
+<td><ul>
+<li> 文件 </li>
+<li> 檔案與資料夾結構 </li>
+<li> 使用者層級資料夾許可權 * </li>
+<li> 群組層級資料夾許可權 * </li>
+<li> 小於 15 GB 的檔案 </li>
+<li> 基本文件與資料夾的中繼資料：
+<ul>
+<li> 建立日期 </li>
+<li> 修改日期 </li>
+<li> 建立者 </li>
+<li> 上次修改者 </li>
+</ul></li>
+<li> 正在移轉屬於 Box 帳戶的共用內容 </li>
+<li> 方框附注 (轉換為 Word 檔案格式)  </li>
+</ul>
+<br>
+* 「Microsoft 365 群組」和/或 Microsoft 小組通道會影響許可權。 若目的地是 Microsoft 365 群組或 Microsoft 團隊通道，群組或通道會決定遷移後的檔案的最後許可權設定檔。 建議您不要在遷移至 Microsoft 365 群組或 Microsoft 團隊管道的檔案上遷移許可權。 </td>
+<td><ul>
+<li> 擁有權歷程記錄、先前的版本和註解 </li>
+<li> 檔案與資料夾描述 </li>
+<li> 使用者層次檔案權限 </li>
+<li> 群組層級檔案權限 </li>
+<li> Box 標記和進階中繼資料 </li>
+<li> 檔案鎖定屬性 </li>
+<li> 內容中的內嵌 URL 轉換 </li>
+<li> 丟到垃圾筒的項目 </li>
+<li> 無法存取或損毀的文件 </li>
+<li> 遭封鎖或非作用中的使用者 </li>
+<li> Box 應用程式、書籤、我的最愛及工作流程 </li>
+<li> 不屬於已移轉的 Box 帳戶的內容 </li>
+<li> 外部使用者的權限和中繼資料（<strong>注意事項</strong>：使用 Box 報告來識別與外部使用者共用的內容。 指示使用者在移轉之後，與外部使用者再次共用內容。） </li>
+<li> 檔案或資料夾超過目前的<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint 線上限制和限制</span></a> </li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><strong>Dropbox for Teams (標準版和進階版)</strong></td>
+<td>單一或多個階段</td>
+<td><ul>
+<li> 文件 </li>
+<li> 檔案與資料夾結構 </li>
+<li> 使用者層級資料夾許可權 * </li>
+<li> 群組層級資料夾許可權 * </li>
+<li> 小於 15 GB 的檔案 </li>
+<li> 基本文件與資料夾的中繼資料：
+<ul>
+<li> 建立日期 </li>
+<li> 修改日期 </li>
+<li> 建立者 </li>
+<li> 上次修改者 </li>
+</ul></li>
+<li> 共用的小組資料夾和內容 </li>
+<li> 正在移轉屬於 Dropbox 帳戶的共用內容 </li>
+</ul>
+<br>
+* 「Microsoft 365 群組」和/或 Microsoft 小組通道會影響許可權。 若目的地是 Microsoft 365 群組或 Microsoft 團隊通道，群組或通道會決定遷移後的檔案的最後許可權設定檔。 建議您不要在遷移至 Microsoft 365 群組或 Microsoft 團隊管道的檔案上遷移許可權。
+</td>
+<td><ul>
+<li> 擁有權歷程記錄、先前的版本和註解 </li>
+<li> 檔案與資料夾描述 </li>
+<li> 使用者層次檔案權限 </li>
+<li> 群組層級檔案權限 </li>
+<li> 進階中繼資料 </li>
+<li> 檔案鎖定屬性 </li>
+<li> 內容中的內嵌 URL 轉換 </li>
+<li> 丟到垃圾筒的項目 </li>
+<li> 無法存取或損毀的文件 </li>
+<li> 已卸載的 Dropbox 資料夾 </li>
+<li> 已刪除或中斷連線的使用者 </li>
+<li> Dropbox Paper、Showcases 和 Spaces </li>
+<li> Dropbox 應用程式和我的最愛 (釘選/星號) </li>
+<li> 不是由已移轉的 Dropbox 帳戶所擁有的內容 </li>
+<li> 外部使用者的權限和中繼資料（<strong>注意事項</strong>：使用 Dropbox 報告來識別與外部使用者共用的內容。 指示使用者在移轉之後，與外部使用者再次共用內容。） </li>
+<li> 檔案或資料夾超過目前的<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint 線上限制和限制</span></a> </li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+## <a name="fasttrack-responsibilities"></a>FastTrack 責任
+
+我們的 FastTrack 專家在進行移轉專案時執行標準動作。 如需詳細資訊，請參閱在 [流程和預期](process-and-expectations.md) 中的資料移轉責任資訊。
+
+## <a name="your-responsibilities"></a>您的責任 
+
+由您在進行移轉專案時執行標準動作。 如需詳細資訊，請參閱在 [流程和預期](process-and-expectations.md) 中的資料移轉責任資訊。
+您也可以執行下列針對 Microsoft 團隊和 Microsoft 365 群組遷移的活動： 
+
+- 將所有 Microsoft 團隊通道和 Microsoft 365 群組布建為遷移事件的目標。
+
+> [!NOTE]
+>FastTrack 未預先提供 Microsoft 團隊通道或 Microsoft 365 群組。 FastTrack 不會將使用者或群組新增至 Microsoft 小組通道或 Microsoft 365 群組。 您必須先將使用者或群組新增至所有的 Microsoft 團隊通道和 Microsoft 365 群組，再將資料移轉至這些目的地，這樣使用者才能存取這些新遷移的檔。

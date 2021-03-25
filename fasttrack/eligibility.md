@@ -3,19 +3,19 @@ title: 資格
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 2/24/2021
+ms.date: 3/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 在本主題中，我們概括了從購買 Microsoft 365 授權的 FastTrack 專家那裡收到導向協助的資格要求，並詳細說明涵蓋的特定產品和功能。
-ms.openlocfilehash: 095d3630431265e7f584388b21614e071ea8711c
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: 50f7dcc063285aae352b91595e1e79763a19cf3f
+ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416422"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51187982"
 ---
 # <a name="eligibility"></a>資格
 
@@ -36,15 +36,15 @@ FastTrack 專家可以為您提供您購買方案中可能包含的下列服務�
 > Office 365 專業增強版已重新命名為 Microsoft 365 Apps。 在某些情況下，您可能會看到使用舊版的名稱。 如需有關此變更生效時間的詳細資料，請參閱 [Office 365 專業增強版的名稱變更](https://docs.microsoft.com/deployoffice/name-change)。
 
   - Microsoft 365 Defender
-  - Microsoft 雲端應用程式安全性
-  - Microsoft Defender 進階威脅防護 (ATP)
+  - Microsoft Cloud App Security
+  - 適用於端點的 Microsoft Defender
   - 適用於身分識別的 Microsoft Defender 
+  - 適用於 Office 365 的 Microsoft Defender
   - Microsoft Edge
   - Microsoft 資訊控管
   - Microsoft 資訊保護
   - Microsoft Intune
   - Microsoft Teams
-  - Office 365 進階威脅防護（ATP）
   - 商務用 OneDrive
   - Power BI
   - Project Online
@@ -117,7 +117,7 @@ FastTrack 專家可以為您提供您購買方案中可能包含的下列服務�
   - Exchange Online Plan 2
   - Exchange Online Kiosk
   - Exchange Online Protection
-  - Office 365 進階威脅防護
+  - 適用於 Office 365 的 Microsoft Defender
 
 #### <a name="microsoft-teams"></a>Microsoft Teams
 

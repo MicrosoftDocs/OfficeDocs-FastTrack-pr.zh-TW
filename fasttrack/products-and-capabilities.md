@@ -3,19 +3,19 @@ title: 產品與功能
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 2/24/2021
+ms.date: 3/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 本主題包括 FastTrack 所支援之工作負載案例的詳細資料，以及在開始之前所需的來源環境預期。 根據您目前的設定，我們會與您合作，建立修復計畫，以將來源環境帶入成功上架的最低需求。
-ms.openlocfilehash: e49ada61aee869785f061bbebbee4ae14aaee045
-ms.sourcegitcommit: 895a8b9df9a7cd26e27e95e5fd3145e7306c78e8
+ms.openlocfilehash: 2bfca103fd9c58d95d9ba4a750e446a6e93b5719
+ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464205"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51188102"
 ---
 # <a name="products-and-capabilities"></a>產品與功能
 
@@ -62,6 +62,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>準備內部部署 Active Directory 身分識別，以同步處理至 Azure Active Directory (Azure AD) 包括安裝及設定 Azure AD Connect (單一或多樹系) 和授權 (包括群組型授權) 。</li>
 <li>建立雲端身分識別（包括使用以群組為基礎的授權在內的大量匯入和授權）。</li>
 <li>為您的雲端旅程選擇和啟用正確的驗證方法、密碼雜湊同步處理、傳遞驗證，或 Active Directory Federation Services (AD FS) 。</li>
+<li> 使用 passwordless 驗證，為您的使用者選擇及啟用更為便利的驗證經驗 (Fast Identity Online (FIDO) 2 或 Microsoft 驗證應用程式) 。</li>
 <li>針對具有單一 Active Directory 樹系的客戶，與 Azure AD Connect 工具同步處理的身分識別，啟用 AD FS。 這需要 Windows Server 2012 R2 Active Directory Federation Services 2.0 或更新版本。</li>
 <li>使用密碼雜湊同步處理或透過驗證，將驗證從 AD FS 遷移至 Azure AD。</li>
 <li>遷移預先整合的應用程式 (像 Azure AD 圖庫軟體即服務 (SaaS) 應用程式) 從 AD FS 至 Azure AD for single 登錄 (SSO) 。</li>
@@ -140,6 +141,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <strong>安全基礎結構</strong>  </ul>
 <ul>
 <li>  針對您的身分識別設定和啟用強驗證，包括使用 Azure Multi-Factor 驗證 (MFA)  (雲端僅) 、Microsoft 驗證者應用程式，以及 Azure MFA 和自助密碼重設的組合註冊 (SSPR) 。  </li>
+<li> 部署 FIDO2 或 Microsoft 驗證器應用程式。 </li>
 <li>  若為非 Azure AD Premium 客戶，會提供指導方針，以利用安全性預設值來保護您的身分識別。  </li>
 <li>  針對 Azure AD premium 客戶，提供指導方針以條件式存取來保護您的身分識別。  </li>
 <li>  使用 Azure AD 密碼保護偵測和封鎖弱密碼的使用。  </li>
@@ -197,13 +199,18 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <td><strong>探索 & 回應</strong></td>
 <td>  
 
-<strong>Advanced eDiscovery</strong>
+<strong>進階 eDiscovery</strong>
   
+我們提供下列專案的遠端指導： 
 <ul>
-<li>  啟用安全連結、安全附件和防網路釣魚。  </li>
-<li>  設定自動化、調查和回應。  </li>
-<li>  使用攻擊模擬器。  </li>
-<li>  報告和威脅分析。  </li>
+<li>  建立新的案例。   </li>
+<li>  將保管人置於保留狀態。  </li>
+<li>  執行搜尋。 </li>
+<li>  將搜尋結果新增至審閱集。 </li>
+<li>  對複查集執行分析。  </li>
+<li>  審閱及標記檔。  </li>
+<li>  從審閱集中匯出資料。 </li>
+<li>  匯入非 Office 365 資料。 </li>
 </ul>
 
 只有 E5 支援的<strong>高級審計</strong> () 
@@ -242,7 +249,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 </tr>
 
 <tr class="odd">
-<td><strong>內幕威脅管理</strong></td>
+<td><strong>有問必答風險管理</strong></td>
 
 <td>  我們提供下列專案的遠端指導：
 <ul>
@@ -315,7 +322,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 </td>
 </tr>
 <tr class="odd">
-<td><strong>Microsoft 雲端 App 安全性</strong></td>
+<td><strong>Microsoft Cloud App Security</strong></td>
 <td>  Microsoft Cloud App Security 是雲端 Access 安全性經紀人 (CASB) ，可提供豐富的知名度、控制資料旅行，以及完善的分析，以識別和抵禦所有 Microsoft 和協力廠商雲端服務的網路威脅。 我們提供下列專案的遠端指導：
 <ul>
 <li>  設定入口網站，包括：  </li>
@@ -366,8 +373,8 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 
 
 <tr class="even">
-<td><strong>Microsoft Defender 進階威脅防護 (ATP)</strong></td>
-<td>  Microsoft Defender 進階威脅防護 (ATP) 是一個平台，其設計訴求是要協助企業網路預防、偵測、調查及回應進階威脅。  
+<td><strong>適用於端點的 Microsoft Defender</strong></td>
+<td>  Microsoft Defender for Endpoint 是專門設計用來協助商業網路避免、偵測、調查和回應高級威脅的平臺。  
   我們提供下列專案的遠端指導：
 <ul>
 <li>  部署技術以保護您的端點。  </li>
@@ -375,7 +382,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>  評估 OS 版本和裝置管理 (包括 Intune、Microsoft Endpoint Configuration Manager、群組原則物件 (Gpo) 和協力廠商設定) 以及 Windows Defender AV 服務或其他端點安全性軟體的狀態。  </li>
 <li>  評估 Windows AV 服務或其他端點安全性軟體的狀態。  </li>
 <li>  評估代理及防火牆，以限制網路流量。  </li>
-<li>  透過說明如何使用板載端點部署 ATP 代理程式設定檔，啟用 Microsoft Defender ATP 服務。  </li>
+<li>  說明如何使用板載端點為端點代理程式設定檔部署 Defender，以啟用 Microsoft Defender for Endpoint service。  </li>
 <li>  部署指導方針、設定協助及教育：
 <ul>
 <li>  
@@ -399,7 +406,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 </ul></li>
 <li>  查看模擬與示教 (例如練習案例、虛假惡意程式碼和自動調查) 。  </li>
 <li>  報表和威脅分析功能的概覽。  </li>
-<li>  整合 Office 365 ATP 和 Microsoft Defender ATP。  </li>
+<li>  整合 Microsoft Defender for Office 365 與 Microsoft Defender for Endpoint。  </li>
 <li>  提供 Microsoft Defender 資訊安全中心入口網站的逐步指引。  </li>
 <li>  下列作業系統：
 <ul>
@@ -434,7 +441,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>  客戶修正活動的專案管理。  </li>
 <li>  現場支援。  </li>
 <li>  持續性管理和威脅因應。  </li>
-<li>  下列 Microsoft Defender ATP 代理程式的上線或組態：
+<li>  上架或設定下列 Microsoft Defender for Endpoint agent：
 <ul>
 <li>  
   Windows Server 2008。  
@@ -590,6 +597,19 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 </ul>
 </ul></td>
 </tr>
+
+<tr class="odd">
+<td><strong>適用於 Office 365 的 Microsoft Defender</strong></td>
+<td>  我們提供下列專案的遠端指導：
+<ul>
+<li>  啟用安全連結、安全附件和防網路釣魚。  </li>
+<li>  設定自動化、調查和回應。  </li>
+<li>  使用攻擊模擬器。  </li>
+<li>  報告和威脅分析。  </li>
+</ul></td>
+<td>除了<a href="#general">一般</a>的<strong>核心上架</strong>部分之外，沒有最低的系統需求。</td>
+</tr>
+
 
 <tr class="even">
 <td><strong>Microsoft 資訊控管</strong></td>
@@ -786,28 +806,18 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
  
   <strong>附註</strong>: FastTrack 服務權益不包含協助將設定管理員站台伺服器或將設定管理員用戶端設定或升級，以滿足對支援雲端附加所需的最低需求。 請與 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作夥伴</a> 聯繫以取得協助。
 
-  <strong>Intune 與 Microsoft Defender 進階威脅防護 (ATP) 整合</strong> 
+  <strong>與 Microsoft Defender for Endpoint 整合的 Intune</strong> 
  
-  <strong>附注</strong>：我們會提供整合 Intune 與 MICROSOFT Defender ATP 的協助，並根據其 Windows 10 風險等級評估建立裝置規範原則。 我們不會提供有關購買、授權或啟用的協助。 請與 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作夥伴</a> 聯繫以取得協助。  
+  <strong>附注</strong>：我們會提供整合 Intune 與 Microsoft Defender for Endpoint 的協助，並根據其 Windows 10 風險等級評估建立裝置規範原則。 我們不會提供有關購買、授權或啟用的協助。 請與 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作夥伴</a> 聯繫以取得協助。  
   
-<strong>Windows Autopilot</strong> (英文) 
+<strong>Windows Autopilot</strong>  
  
   IT 系統管理員需負責向組織註冊他們的裝置，方法是讓硬體廠商代表他們上傳或是自行上傳其硬體識別碼到 Windows Autopilot 服務。  
   
 </td>
 </tr>
 
-<tr class="odd">
-<td><strong>Office 365 進階威脅防護（ATP）</strong></td>
-<td>  我們提供下列專案的遠端指導：
-<ul>
-<li>  啟用安全連結、安全附件和防網路釣魚。  </li>
-<li>  設定自動化、調查和回應。  </li>
-<li>  使用攻擊模擬器。  </li>
-<li>  報告和威脅分析。  </li>
-</ul></td>
-<td>除了<a href="#general">一般</a>的<strong>核心上架</strong>部分之外，沒有最低的系統需求。</td>
-</tr>
+
 </tbody>
 </table>
 
@@ -829,7 +839,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <ul>
 <li>  針對在 Office 365 中驗證的所有已啟用郵件的網域設定 Exchange Online Protection (EOP) 功能。  </li>
 <li>  將郵件交換 (MX) 記錄指向 Office 365。  </li>
-<li>  設定 Office 365 ATP 功能（如果是訂閱服務的一部分）。 如需詳細資訊，請參閱本表中的 <strong>Office 365 高級威脅防護</strong> 部分。  </li>
+<li>  設定 Microsoft Defender for Office 365 功能（如果是訂閱服務的一部分）。 如需詳細資訊，請參閱此表格的 <strong>Microsoft Defender For Office 365</strong> 部分。  </li>
 <li>  為 Office 365 中經驗證之所有已啟用郵件的網域設定資料遺失保護 (DLP) 功能，作為訂閱服務的一部分。將您的 MX 記錄指向 Office 365 之後即完成此項設定。</li>
 <li>  為 Office 365 中經驗證之所有已啟用郵件的網域設定 Office 365 訊息加密 (OME) 功能，作為訂閱服務的一部分。將您的 MX 記錄指向 Office 365 之後即完成此項設定。</li>
 </ul>
@@ -852,119 +862,28 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 </ul>
 線上用戶端軟體（如 Office 365 的專案）、Outlook for Windows、Outlook for iOS 和 Android、商務同步處理用戶端、Power BI Desktop 和商務用 Skype 的 OneDrive，都必須在 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 Office 的系統需求</a>中所定義的最低層級。  </td>
 </tr>
+
+<td><strong>適用於 Office 365 的 Microsoft Defender</strong></td>
+<td>  如需詳細資訊，請參閱在<a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">安全性和合規性</a>中<strong>的 Microsoft Defender for Office 365</strong> 。  
+</td>
+<td></td>
+</tr>
+
+
 <tr class="even">
 <td><strong>Microsoft 資訊控管</strong></td>
-<td>  我們提供下列專案的遠端指導：
-<ul>
-<li>  僅限 E5) 支援建立及發佈保留標籤和原則 (。  
-</li>
-<li>  僅限 E5) 支援記錄管理 (。  </li>
-<ul><li>  查看檔計畫建立。 </li>
-<li>  建立及記錄管理 (包括事件記錄) 。  </li>
-<li>  審閱處置。 </ul> </li>
-</ul>
-
-<strong> 合規性管理員</strong>
-
-我們提供下列專案的遠端指導：  
-
-<ul> <li>審閱角色類型。  </li>
-<li> 新增及設定評估。</li>
-<li> 實施改進動作和決定這會如何影響您的合規性分數，以評估法規遵從性。</li>
-<li> 審閱內建控制項對應及評估控制項。</li>
-<li> 在評估中產生報表。</li>
-</ul>
-
-  <strong>下列超出範圍 </strong>  
-<ul>
-<li> 記錄管理檔計畫的開發。</li>
-<li> 資料連線器。</li>
-<li> 在 SharePoint 中開發資訊架構。</li>
-<li> 自訂腳本和編碼。</li>
-<li> 設計、設計架構和協力廠商檔審閱。</li>
-<li> E3 的支援。</li>
-<li> 遵守行業和地區性法規和需求。</li>
-<li> 在合規性管理員中針對評估建議的改進動作的實際執行。</li>
-</ul>
-
+<td>  如需詳細資訊，請參閱<a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">安全性和合規性</a>中的<strong>Microsoft 資訊管理</strong>。 
 
 </td>
-<td>除了<a href="#general">一般</a>的<strong>核心上架</strong>部分之外，沒有最低的系統需求。</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><strong>Microsoft 資訊保護</strong></td>
-<td>  我們提供下列專案的遠端指導：
-<ul>
-<li>  在 E3 和 E5) 中支援資料分類 (。  </li>
-<li>  在 E3 和 E5) 中支援的敏感資訊類型 (。  </li>
-<li>  在 E3 和 E5) 中建立 (支援的靈敏度標籤。  </li>
-<li>  在 E3 和 E5) 中套用敏感度標籤 (支援。  </li>
-<li>  Trainable 中的分類器 (支援的 E5) 。  </li>
-<li>  使用 E5) 支援的內容瀏覽器和活動瀏覽器 (，知道您的資料。  </li>
-<li>  使用原則發佈標籤 (手動和自動) E5) 中 (支援。  </li>
-<li>  在 E5) 中建立 (支援 Windows 10 裝置的 (DLP) 原則的端點資料遺失防護。  </li>
-<li>  建立適用于 Microsoft 小組聊天和頻道的 DLP 原則。  </li>
-</ul>
-
-<strong> 合規性管理員</strong>
-
-我們提供下列專案的遠端指導：  
-
-<ul> <li>審閱角色類型。  </li>
-<li> 新增及設定評估。</li>
-<li> 實施改進動作和決定這會如何影響您的合規性分數，以評估法規遵從性。</li>
-<li> 審閱內建控制項對應及評估控制項。</li>
-<li> 在評估中產生報表。</li>
-</ul>
-
-<strong> Azure 資訊保護</strong>
-
-我們提供下列專案的遠端指導：  
-<ul>
-<li>  啟用並設定您的租使用者。  </li>
-<li>  在 P1 和 P2) 中建立及設定 (支援的標籤和原則。  </li>
-<li>  在 P1 和 P2) 支援的檔中套用資訊保護 (。  </li>
-<li>  在 Office 應用程式中自動分類及標記資訊 (例如 Word、PowerPoint、Excel 和 Outlook) 在 Windows 上執行，並使用 P2) 支援的 Azure 資訊保護用戶端 (。  </li>
-<li>  在使用 Azure 資訊保護掃描程式時，在 rest 上探索和標示檔案 (在 P1 和 P2) 中支援。  </li>
-<li>  使用 Exchange Online 郵件流程規則監視傳輸中的電子郵件。  </li>
-</ul>
-  
-如果您想要使用 Microsoft Azure Rights Management Services 來套用保護，我們也會提供指導方針。 (Azure RMS) ，Office 365 Message Encryption (OME) ，以及資料遺失防護 (DLP) 。
-
-<strong>下列超出範圍 </strong>  
-<ul>
-<li>客戶金鑰。</li>
-<li>自訂正則運算式 (RegEx 機密資訊類型) 開發。</li>
-<li>建立或修改關鍵字字典。</li>
-<li>自訂腳本和編碼。</li>
-<li> Azure Purview。</li>
-<li> 設計、設計架構和協力廠商檔審閱。</li>
-<li> 遵守行業和地區性法規和需求。</li>
-<li> 在合規性管理員中針對評估建議的改進動作的實際執行。</li>
-</ul>
+<td>  
+如需詳細資訊，請參閱 <strong>Microsoft 資訊保護 </strong> 的 <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">安全性和合規性</a>。
 
 </td>
-<td>除了<a href="#general">一般</a>的<strong>核心上架</strong>部分之外，Azure 資訊保護例外情況下沒有最低的系統需求。
-
-<strong>Azure 資訊保護</strong>
-
-客戶必要的責任包括：  
-<ul>
-<li>  要掃描的檔案共用位置清單。  </li>
-<li>  已核准的分類分類。 </li>
-<li> 瞭解有關金鑰管理的任何法規限制或需求。  </li>
-<li>  為您的內部部署 Active Directory 建立且與 Azure AD 同步處理的服務帳戶。 </li>
-<li>  針對分類及保護所設定的標籤。 </li>
-<li> Azure 資訊保護掃描程式的所有必要條件皆已到位。 如需詳細資訊，請參閱 <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">安裝及部署 Azure 資訊保護統一標記掃描器的必要條件</a>。 </li>
-<li>  請確定使用者裝置執行的是支援的作業系統，且已安裝必要的必要條件。 如需詳細資訊，請參閱下列各項。</li>
-<ul>
-<li> <a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">系統管理員指南：安裝 Azure 資訊保護統一標籤用戶端以供使用者</a>   </li>
-<li>  <a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">IOS 或 Android 的 Azure 資訊保護應用程式為何？</a>  </li>
-</ul>
-<li> 安裝和設定 Azure RMS 連接器和伺服器（包括 Active Directory RMS (AD RMS) 連接器）以進行混合支援。  </li>
-<li> 安裝和設定會將您自己的金鑰 (BYOK) 、雙金鑰加密 (DKE)  (整合標籤用戶端) ，或是只保留您自己的金鑰 (HYOK)  (經典用戶端您應該在部署中的其中一個選項。  </li>
-  </ul>
-</ul>.
+<td>
 
 </td>
 </tr>
@@ -1032,17 +951,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
   <strong>附注：</strong> 「理想」狀態是讓所有使用者將其信箱置於 Exchange Online。 在內部部署信箱的使用者，必須透過 Azure AD Connect，將其身分識別與 Office 365 目錄同步。 針對這些 Exchange 混合式客戶，如果使用者的信箱在內部部署中，使用者就無法新增或設定連接器。  
   Microsoft Teams Windows 安裝程式和 Mac 桌面用戶端可以從這裡下載：<a href="https://go.microsoft.com/fwlink/?linkid=839411">https://go.microsoft.com/fwlink/?linkid=839411</a>。  </td>
 </tr>
-<tr class="odd">
-<td><strong>Office 365 進階威脅防護（ATP）</strong></td>
-<td>  我們提供下列專案的遠端指導：
-<ul>
-<li>  啟用安全連結、安全附件和防網路釣魚。  </li>
-<li>  設定自動化、調查和回應。  </li>
-<li>  使用攻擊模擬器。  </li>
-<li>  報告和威脅分析。  </li>
-</ul></td>
-<td>除了<a href="#general">一般</a>的<strong>核心上架</strong>部分之外，沒有最低的系統需求。</td>
-</tr>
+
 <tr class="even">
 <td><strong>Outlook for iOS 和 Android</strong></td>
 <td>  我們提供下列專案的遠端指導：
@@ -1066,7 +975,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <td>線上用戶端軟體（如 Power BI Desktop）必須具備 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 和 Office 的系統需求</a>中所定義的最低層級。</td>
 </tr>
 <tr class="even">
-<td><strong>Microsoft Project Online</strong></td>
+<td><strong>Project Online</strong></td>
 <td>  我們提供下列專案的遠端指導：
 <ul>
 <li>  確認 Microsoft Project Online 依賴的基本 SharePoint 功能。  </li>
@@ -1128,15 +1037,15 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 </tr>
 <tr class="even">
 <td><strong>Yammer Enterprise</strong></td>
-<td><ul>
+<td>
 我們提供啟用 Yammer Enterprise 服務的遠端指導方針。  
-</ul></td>
+</td>
 <td>線上用戶端軟體必須具備 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 和 Office 的系統需求</a>中所定義的最低層級。</td>
 </tr>
 </tbody>
 </table>
 
-## <a name="enterprise-mobility--security"></a>Enterprise Mobility + Security
+## <a name="enterprise-mobility--security"></a>Enterprise Mobility + Security 
 
 <table>
 <thead>
@@ -1149,59 +1058,8 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <tbody>
 <tr class="even">
 <td><strong>Azure Active Directory (Azure AD) 和 Azure AD Premium</strong></td>
-<td>  在下列情況下，我們會提供遠端指導來保護您的雲端身分識別。  
-
- <br/>
-
-<strong>安全基礎結構</strong>  </ul>
-<ul>
-<li>  針對您的身分識別設定和啟用強驗證，包括使用 Azure Multi-Factor 驗證 (MFA)  (雲端僅) 、Microsoft 驗證者應用程式，以及 Azure MFA 和自助密碼重設的組合註冊 (SSPR) 。  </li>
-<li>  若為非 Azure AD Premium 客戶，會提供指導方針，以利用安全性預設值來保護您的身分識別。  </li>
-<li>  針對 Azure AD premium 客戶，提供指導方針以條件式存取來保護您的身分識別。  </li>
-<li>  使用 Azure AD 密碼保護偵測和封鎖弱密碼的使用。  </li>
-<li>  使用 Azure AD 應用程式 Proxy，保護內部部署 web 應用程式的遠端存取。  </li>
-<li>  使用 Azure 身分識別保護來啟用風險型偵測和修正。  </li>
-<li>  啟用自訂的登入畫面，包括徽標、文字和具有自訂商標的影像。  </li>
-<li>  使用 Azure AD B2B 與來賓使用者安全地共用應用程式和服務。  </li>
-<li>  使用以角色為基礎的存取控制來管理 Office 365 系統管理員的 access (RBAC) 內建管理角色，以及減少特權系統管理員帳戶數目。  </li>
-<li>  設定混合式 Azure AD 聯結。  </li>
-<li>  設定 Azure AD 聯結。  </li>
-</ul>
-  
-<strong>監視與報告</strong>  
-<ul>
-<li>  
-  使用 Azure AD Connect Health，啟用適用于 AD FS、Azure AD Connect 和網域控制站的遠端監控。  
-  </li>
-</ul>
-  
-<strong>治理</strong>  
-<ul>
-<li>  
-  使用 Azure AD 版權管理來管理 Azure AD 身分識別和存取生命週期。
-  </li>
-<li>  
-  使用 Azure AD access 評論管理 Azure AD 群組成員資格、企業應用程式存取和角色指派。  
-  </li>
-<li>  
-  檢查 Azure AD 使用條款。  
-  </li>
-<li>  
-  使用 Azure AD 特權身分識別管理來管理和控制版權管理帳戶的存取。  
-  </li>
-</ul>
-  
-<strong>自動化和效率 </strong>  
-<ul>
-<li>  
-  啟用 Azure AD SSPR。  
-  </li>
-<li>  讓使用者能夠使用 Azure AD 自助群組管理來建立及管理自己的雲端安全性或 Office 365 群組。  </li>
-<li>  使用 Azure AD 委派的群組管理來管理企業應用程式的委派存取權。  </li>
-<li>  啟用 Azure AD 動態群組。  </li>
-<li>  使用集合在「我的應用程式入口網站」中組織應用程式。  </li>
-</ul></td>
-<td>已針對 Azure AD Premium 準備內部部署 Active Directory 及其環境，包括修正已識別的問題，以防止與 Azure AD 和 Azure AD Premium 功能整合。</td>
+<td>  如需詳細資訊，請參閱 <strong> Azure Active Directory (AZURE ad) 和 AZURE Ad Premium</strong> in <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">Security 和合規性</a>。</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><strong>Azure 資訊保護 </strong></td>
@@ -1212,85 +1070,9 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 </tr>
 <tr class="even">
 <td><strong>Microsoft Intune</strong></td>
-<td>  我們為您的應用程式和裝置提供準備使用 Intune 做為雲端型行動裝置管理 (MDM) 和行動應用程式管理 (MAM) 提供者的遠端指南。 確切的步驟取決於您的來源環境，而且是根據您的行動裝置和行動裝置應用程式管理需求。 步驟可能包括：
-<ul>
-<li>  授權使用者。  </li>
-<li>  利用您的內部部署 Active Directory 或雲端身分識別 (Azure AD) 設定供 Intune 使用的身分識別。  </li>
-<li>  將使用者新增到您的 Intune 訂用帳戶、定義 IT 系統管理員角色，以及建立使用者和裝置群組。  </li>
-<li>  根據您的管理需求，設定您的 MDM 授權機構，包括：
-<ul>
-<li>  當 Intune 為您唯一的 MDM 解決方案時，將 Intune 設定為 MDM 授權單位。  </li>
-</ul></li>
-<li>  為下列提供 MDM 指引：
-<ul>
-<li>  設定用於驗證 MDM 管理原則的測試群組。  </li>
-<li>  設定 MDM 管理原則和服務，例如：
-<ul>
-<li>  透過網頁連結或深層連結，為每個支援的平臺部署應用程式。  </li>
-<li>  條件式存取原則。  </li>
-<li>  如果您的組織中有現有的憑證授權單位、無線網路或 VPN 基礎結構，則部署電子郵件、無線網路和 VPN 設定檔。  </li>
-<li>  連接至 Intune 資料倉儲。  </li>
-<li>  整合 Intune 與：
-<ul>
-<li>  小組檢視器針對遠端協助 (需要) 小組檢視器訂閱。  </li>
-<li>  行動威脅防護 (MTD) 協力廠商解決方案 (必須) 的 MTD 訂閱。  </li>
-<li>  需要)  (電信費用管理解決方案的電訊費用管理解決方案。  </li>
-</ul></li>
-<li>  將每個支援的平台的裝置註冊到 Intune。  </li>
-</ul></li>
-</ul></li>
-<li>  在下列情況提供應用程式保護指導：
-<ul>
-<li>  針對每個支援的平台設定應用程式保護原則。  </li>
-<li>  為受管理的應用程式設定條件式存取原則。  </li>
-<li>  以先前所述的 MAM 原則針對適當的使用者群組。  </li>
-<li>  使用受管理的應用程式使用方式報告。  </li>
-</ul></li>
-<li>  提供從舊版 PC 管理到 Intune MDM 的遷移指南。  </li>
-</ul>
-  
-</li>
-</ul>
-  
-<strong>雲端附加</strong>  
-
-  我們將引導您完成 cloud-附上現有 Configuration Manager 環境與 Intune 的準備工作。 確切的步驟取決於您的來源環境。 這些步驟可能包括：  
-<ul>
-<li>  授權使用者。  </li>
-<li>  利用內部部署 Active Directory 和雲端身分識別來設定 Intune 將使用的身分識別。  </li>
-<li>  將使用者新增到您的 Intune 訂用帳戶、定義 IT 系統管理員角色，以及建立使用者和裝置群組。  </li>
-<li>  提供指導方針設定混合式 Azure AD 聯結。  </li>
-<li>  提供設定適用于 MDM 自動註冊之 Azure AD 的指導方針。  </li>
-<li>  提供有關如何設定雲端管理閘道的指導方針，用作遠端網際網路型裝置管理的共同管理解決方案。  </li>
-<li>  設定要切換到 Intune 的支援工作負載。  </li>
-<li>  將 Configuration Manager 用戶端安裝在 Intune 中註冊的裝置。  </li>
-</ul> 
-
-<strong>安全地部署適用于 iOS 和 Android 的 Outlook mobile</strong> 我們可以提供指導方針，協助您在組織中安全地部署 Outlook mobile for iOS 和 Android，以確保您的使用者已安裝所有必要的應用程式。  
-  使用 Intune 以安全方式部署 Outlook mobile for iOS 和 Android 的步驟，視您的來源環境而定。 它可以包含：
-<ul>
-<li>  透過 Apple App Store 或 Google Play Store，下載適用于 iOS 和 Android、Microsoft 驗證者及 Intune 公司入口網站應用程式的 Outlook。  </li>
-<li>  提供有關設定的指導方針：
-<ul>
-<li>  適用于使用 Intune 的 iOS 和 Android、Microsoft 驗證者及 Intune 公司入口網站應用程式部署的 Outlook。  </li>
-<li>  應用程式保護原則。  </li>
-<li>  條件式存取原則。  </li>
-<li>  應用程式佈建原則。  </li>
-</ul></li>
-</ul>  
+<td>  如需詳細資訊，請參閱<a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">安全性和合規性</a>中的<strong>Microsoft Intune</strong> 。
   </td>
-<td>  在規劃使用 Intune 部署無線網路和 VPN 設定檔時，IT 系統管理員必須具備實際執行環境中使用的憑證授權、無線網路和 VPN 基礎結構。  
-  <strong>附注</strong>： FastTrack 服務權益不包括設定或設定憑證授權機構、無線網路、VPN 基礎結構或 Apple MDM push 憑證 for Intune 的協助。  
- 
-  <strong>附註</strong>: FastTrack 服務權益不包含協助將設定管理員站台伺服器或將設定管理員用戶端設定或升級，以滿足對支援雲端附加所需的最低需求。 請與 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作夥伴</a> 聯繫以取得協助。
-
-  <strong>Intune 與 Microsoft Defender 進階威脅防護 (ATP) 整合</strong> 
- 
-  <strong>附注</strong>：我們會提供整合 Intune 與 MICROSOFT Defender ATP 的協助，並根據其 Windows 10 風險等級評估建立裝置規範原則。 我們不會提供有關購買、授權或啟用的協助。 請與 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作夥伴</a> 聯繫以取得協助。  
-  
-<strong>Windows Autopilot</strong> (英文) 
- 
-  IT 系統管理員需負責向組織註冊他們的裝置，方法是讓硬體廠商代表他們上傳或是自行上傳其硬體識別碼到 Windows Autopilot 服務。  
+<td>  
   
 </td>
 </tr>
@@ -1325,7 +1107,8 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>  使用 Configuration Manager 部署 Microsoft 365 應用程式做為 Windows 10 部署的一部分。   </li>
 <li>  提供指導方針，以協助您的組織使用您現有的 Configuration Manager 環境或 Microsoft 365 來保持最新的 Windows 10 企業版和 Microsoft 365 應用程式。  </li>
 </ul>
-  <strong>下列超出範圍 </strong>  
+  
+<strong>下列超出範圍 </strong>  
 <ul>
 <li>  將 Configuration Manager 升級至最新分支。  </li>
 <li>  建立適用於 Windows 10 部署的自訂映像。  </li>
@@ -1350,153 +1133,8 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 </ul>
 
 <tr class="odd">
-<td><strong>Microsoft Defender 進階威脅防護 (ATP)</strong></td>
-<td>  Microsoft Defender 進階威脅防護 (ATP) 是一個平台，其設計訴求是要協助企業網路預防、偵測、調查及回應進階威脅。  
-  我們提供下列專案的遠端指導：
-<ul>
-<li>  部署技術以保護您的端點。  </li>
-<li>  設定 endpoint protection 和裝置限制設定檔。  </li>
-<li>  評估 OS 版本和裝置管理 (包括 Intune、Microsoft Endpoint Configuration Manager、群組原則物件 (Gpo) 和協力廠商設定) 以及 Windows Defender AV 服務或其他端點安全性軟體的狀態。  </li>
-<li>  評估 Windows AV 服務或其他端點安全性軟體的狀態。  </li>
-<li>  評估代理及防火牆，以限制網路流量。  </li>
-<li>  透過說明如何使用板載端點部署 ATP 代理程式設定檔，啟用 Microsoft Defender ATP 服務。  </li>
-<li>  部署指導方針、設定協助及教育：
-<ul>
-<li>  
-  威脅與弱點管理。  
-  </li>
-<li>  
-  縮小攻擊面。  
-  </li>
-<li>  
-  新一代防護。  
-  </li>
-<li>  
-  端點偵測及回應。  
-  </li>
-<li>  
-  自動化調查與補救措施。  
-  </li>
-<li> 需要) microsoft Defender ATP (Windows E5 或 Microsoft 365 E5 授權。  </li>
-<li>  
-  安全分數。  
-  </li>
-</ul></li>
-<li>  查看模擬與示教 (例如練習案例、虛假惡意程式碼和自動調查) 。  </li>
-<li>  報表和威脅分析功能的概覽。  </li>
-<li>  整合 Office 365 ATP 和 Microsoft Defender ATP。  </li>
-<li>  提供 Microsoft Defender 資訊安全中心入口網站的逐步指引。  </li>
-<li>  下列作業系統：
-<ul>
-<li>  
-  Windows 10。  
-  </li>
-<li>  
-  Windows Server 2016。  
-  </li>
-<li>  
-  Windows Server 2019。  
-  </li>
-<li>  
-  Windows Server 2019 Core Edition。  
-  </li>
-<li>  
-  Windows Server Semi-Annual 通道 (SAC) 版本1803。  
-  </li>
-<li>  
-  macOS 版本10.13、10.14 及10.15。  
-  </li>
-</ul>
-</li>
-</ul>
-<strong>附注：</strong> 所有 Windows Server 版本都必須由最新版的 System Center Configuration Manager 2012 (版本 1012 R2、1511或 1602) 或 Microsoft Endpoint Configuration Manager (版本2002或更高版本) 。 
-
-</li>
-</ul>
-
-<strong>下列超出範圍 </strong>  
-<ul>
-<li>  客戶修正活動的專案管理。  </li>
-<li>  現場支援。  </li>
-<li>  持續性管理和威脅因應。  </li>
-<li>  下列 Microsoft Defender ATP 代理程式的上線或組態：
-<ul>
-<li>  
-  Windows Server 2008。  
-  </li>
-<li>  
-  Windows Server 2012。  
-  </li>
-<li>  
-  Linux。  
-  </li>
-<li>  
-  移動裝置 (Android 和 iOS) 。  
-  </li>
-<li> 虛擬桌面基礎結構 (VDI)  (持續或非持續性) 。  </li>
-</ul></li>
-<li>  伺服器上架及設定：
-<ul>
-<li>  
-  設定離線通訊的 proxy 伺服器。  
-  </li>
-<li>  
-  設定下層 Configuration Manager 實例和版本的 Configuration Manager 部署套件。  
-  </li>
-<li>  
-  將伺服器上架至 Azure 的安全性中心。  
-  </li>
-<li>  
-  未由 Configuration Manager 管理的伺服器。  
-  </li>
-</ul></li>
-<li>  macOS 上架及設定：
-<ul>
-<li>  
-  手動以 Intune 為基礎的部署。  
-  </li>
-<li>  
-  以 JAMF 為基礎的部署。
-  </li>
-<li>  
-  其他行動裝置管理 (MDM) 以產品為基礎的部署。  
-  </li>
-<li>  
-  手動部署。  
-  </li>
-</ul></li>
-<li>  設定以下能縮小攻擊面的功能：
-<ul>
-<li>  
-  硬體隔離。  
-  </li>
-<li>  
-  應用程式控制。  
-  </li>
-<li> 裝置控制。</li>
-<li>  
-  入侵防護。  
-  </li>
-<li>  
-  網路防火牆。  
-  </li>
-
-<ul>
-<li> Windows Hello</li>
-<li> Credential Guard</li>
-</ul>
-
-</ul></li>
-<li> BitLocker 的設定或管理。</li>
-<li>  註冊或設定 Microsoft 威脅專家。  </li>
-<li>  設定或訓練檢查 API 或安全性資訊和事件管理 (SIEM) 連接。  </li>
-<li>  註冊或設定 Microsoft 威脅防護 (MTP)。  </li>
-<li>  涵蓋進階搜尋功能的訓練或指導方針。  </li>
-<li>  訓練或指引涵蓋使用或建立 Kusto 查詢。</li>
-</li>
-</ul>
-請與 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作夥伴</a> 聯繫以取得這些服務。  
-</ul></td>
+<td><strong>適用於端點的 Microsoft Defender</strong></td>
+<td>  如需詳細資訊，請參閱<a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">安全性和合規性</a>中<strong>的 Microsoft Defender for Endpoint</strong> 。</td>
 <td></td>
 
 </tbody>

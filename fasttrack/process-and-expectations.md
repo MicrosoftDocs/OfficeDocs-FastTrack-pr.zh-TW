@@ -3,19 +3,19 @@ title: 流程與預期值
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 3/24/2021
+ms.date: 4/21/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 在此主題中，涵蓋了如何使用 FastTrack 取得協助、協助如何提供、取得成功體驗的秘訣，以及瞭解 FastTrack 和公司的重要責任。
-ms.openlocfilehash: f5e734bc51f4f32c65c395df5e62c7003b2f6049
-ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
+ms.openlocfilehash: 793fd84b5a998804b8e84feac1ad7eb248cd9a7b
+ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51187970"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "51926983"
 ---
 # <a name="process-and-expectations"></a>流程與預期值
 

@@ -1,4 +1,23 @@
-**Windows 虛擬桌面**
+---
+title: Windows 虛擬桌面
+ms.author: v-bermic
+author: rberg-steyer
+manager: jimmuir
+ms.date: 7/01/2020
+audience: ITPro
+ms.topic: overview
+ms.service: virtual-desktop
+localization_priority: None
+ms.collection: FastTrack
+description: FastTrack 提供 Windows 虛擬桌面部署指導，以協助您在此桌上型電腦上架上。
+ms.openlocfilehash: 9e8712b7a1f324d02715527b22eca3f7e4db4656
+ms.sourcegitcommit: 5d40d060bbcf4b266a0d6f3e4bbc151f94288b00
+ms.translationtype: MT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51996232"
+---
+# <a name="windows-virtual-desktop"></a>Windows 虛擬桌面
 
 <table>
 <thead>
@@ -11,10 +30,10 @@
 <tbody>
 <tr class="odd">
 <td>Windows 虛擬桌面</td>
-<td><p>FastTrack 提供 Windows 虛擬桌面部署指導，以協助您在此桌面和應用程式虛擬化服務的情況下，輕鬆使用 Windows 10 多會話體驗，並利用整合的安全性和 Microsoft 365 的管理，針對企業 M365 應用程式。</p>
+<td><p>FastTrack 提供 Windows 虛擬桌面部署指導，以協助您在此桌面和應用程式虛擬化服務的情況下，輕鬆地使用 Windows 10 多會話體驗，並利用整合的安全性和 Microsoft 365 的管理功能，針對企業的 Microsoft 365 應用程式進行優化。</p>
 <p>與 FastTrack 專家合作進行以下工作：</p>
 <ul>
-<li><p>使用 Windows 10 Enterprise 多方 session + M365 Apps for Enterprise 部署 WVD 環境，其使用方式如下：</p>
+<li><p>使用 Windows 10 Enterprise 多方 session + Microsoft 365 Apps for Enterprise 部署 WVD 環境，其使用方式如下：</p>
 <ul>
 <li><p>Azure Marketplace 影像</p></li>
 <li><p>共用影像</p></li>
@@ -40,10 +59,10 @@
 <li><p>Linux 案例。</p></li>
 <li><p>轉換或遷移使用者設定檔。</p></li>
 </ul>
-<p>請與 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作夥伴</a>聯繫   以取得這些服務。</p></td>
+<p>請與 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作夥伴</a> 聯繫以取得這些服務。</p></td>
 <td><p>您應該已經具備下列專案：</p>
 <ul>
-<li><p><a href="https://docs.microsoft.com/en-us/azure/virtual-desktop/overview#requirements">WVD 授權需求</a></p></li>
+<li><p><a href="https://docs.microsoft.com/azure/virtual-desktop/overview#requirements">WVD 授權需求</a></p></li>
 <li><p>Azure 網路：</p>
 <ul>
 <li><p>VNET 建立 &amp; 子網</p></li>
@@ -52,7 +71,7 @@
 <li><p>從內部部署路由傳送至 Azure</p></li>
 <li><p>允許連線至 WVD 的防火牆規則</p>
 <ul>
-<li><p><a href="https://docs.microsoft.com/en-us/azure/virtual-desktop/overview#supported-remote-desktop-clients">檔參考</a></p></li>
+<li><p><a href="https://docs.microsoft.com/azure/virtual-desktop/overview#supported-remote-desktop-clients">檔參考</a></p></li>
 </ul></li>
 </ul></li>
 <li><p>Azure Active Directory 一般設定</p>

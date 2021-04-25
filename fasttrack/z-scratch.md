@@ -1,4 +1,23 @@
-## <a name="security-and-compliance"></a>安全性及合規性
+---
+title: 安全性及合規性
+ms.author: v-bermic
+author: rberg-steyer
+manager: jimmuir
+ms.date: 7/01/2020
+audience: ITPro
+ms.topic: overview
+ms.service: O365-seccomp
+localization_priority: None
+ms.collection: FastTrack
+description: Microsoft 服務的 FastTrack 指引詳細資料。
+ms.openlocfilehash: 000a81c51729deba8d3f5c4d88a0baa918dcd048
+ms.sourcegitcommit: 5d40d060bbcf4b266a0d6f3e4bbc151f94288b00
+ms.translationtype: MT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51996236"
+---
+# <a name="security-and-compliance"></a>安全性及合規性
 
 <table>
 <thead>
@@ -12,7 +31,7 @@
 <tr class="odd">
 <td><strong>Microsoft 365 Defender</strong></td>
 
-<td> <p> Microsoft 365 Defender 是一種整合的後續企業防護套件，其可在端點、身分識別、電子郵件和應用程式上協調偵測、預防、調查和回應，以提供複雜攻擊的整合式防護。 我們提供下列專案的遠端指導： </p> 
+<td> <p> Microsoft 365 Defender 是一種整合的前期和破壞後的企業防護套件，其可在端點、身分識別、電子郵件和應用程式中共同協調偵測、預防、調查和回應，以提供複雜攻擊的整合式防護。 我們提供下列專案的遠端指導： </p> 
 <ul>
 <li>  提供 Microsoft 365 的安全性中心簡介。  </li>
 <li>  檢查跨產品的事件，包括確定完整的攻擊範圍、受影響的資產，以及組合在一起的自動修正動作，以著重于重要專案。  </li>
@@ -35,7 +54,7 @@
 </td>
 </tr>
 <tr class="even">
-<td><strong>Microsoft 雲端 App 安全性</strong></td>
+<td><strong>Microsoft Cloud App Security</strong></td>
 <td>  Microsoft Cloud App Security 是雲端 Access 安全性經紀人 (CASB) ，可提供豐富的知名度、控制資料旅行，以及完善的分析，以識別和抵禦所有 Microsoft 和協力廠商雲端服務的網路威脅。 我們提供下列專案的遠端指導：
 <ul>
 <li>  設定入口網站，包括：  </li>
@@ -320,7 +339,7 @@
 <li> 在 SharePoint 中開發資訊架構。</li>
 <li> 自訂腳本和編碼。</li>
 </td>
-<td>除了<a href="#general">一般</a>的<strong>核心上架</strong>部分之外，沒有最低的系統需求。</td>
+<td>除了<a href="products-and-capabilities.md#general">一般</a>的<strong>核心上架</strong>部分之外，沒有最低的系統需求。</td>
 </tr>
 <tr class="odd">
 <td><strong>Microsoft 資訊保護</strong></td>
@@ -345,11 +364,11 @@
 <li>建立或修改關鍵字字典。</li>
 <li>自訂腳本和編碼。</li>
 </ul>
-<strong>附注：</strong>如需詳細資訊，請參閱<a href="#enterprise-mobility--security">Enterprise 可移動性 + Security</a>中的<strong>Azure 資訊保護</strong>。
+<strong>附注：</strong>如需詳細資訊，請參閱<a href="products-and-capabilities.md#enterprise-mobility--security">Enterprise 可移動性 + Security</a>中的<strong>Azure 資訊保護</strong>。
 <ul>
 
 </td>
-<td>除了<a href="#general">一般</a>的<strong>核心上架</strong>部分之外，沒有最低的系統需求。</td>
+<td>除了<a href="products-and-capabilities.md#general">一般</a>的<strong>核心上架</strong>部分之外，沒有最低的系統需求。</td>
 </tr>
 
 <tr class="odd">
@@ -361,7 +380,7 @@
 <li>  使用攻擊模擬器。  </li>
 <li>  報告和威脅分析。  </li>
 </ul></td>
-<td>除了<a href="#general">一般</a>的<strong>核心上架</strong>部分之外，沒有最低的系統需求。</td>
+<td>除了<a href="products-and-capabilities.md#general">一般</a>的<strong>核心上架</strong>部分之外，沒有最低的系統需求。</td>
 </tr>
 
 
@@ -410,7 +429,7 @@
 <li> 在合規性管理員中針對評估建議的改進動作的實際執行。</li>
 </ul>
 </td>
-<td>除了<a href="#general">一般</a>的<strong>核心上架</strong>部分之外，沒有最低的系統需求。</td>
+<td>除了<a href="products-and-capabilities.md#general">一般</a>的<strong>核心上架</strong>部分之外，沒有最低的系統需求。</td>
 </tr>
 <tr class="odd">
 <td><strong>內幕威脅管理</strong></td>
@@ -455,7 +474,7 @@
 <li> 遵守行業和地區性法規和需求。</li>
 <li> 在合規性管理員中針對評估建議的改進動作的實際執行。</li>
 </ul></td>
-<td>除了<a href="#general">一般</a>的<strong>核心上架</strong>部分之外，沒有最低的系統需求。</td>
+<td>除了<a href="products-and-capabilities.md#general">一般</a>的<strong>核心上架</strong>部分之外，沒有最低的系統需求。</td>
 </tr>
 
 

@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office 365 (Exchange Online、SharePoint Online 及 [商務用 OneDrive])。 我們可以提供的協助類型取決於您的 Office 365 授權數量。
-ms.openlocfilehash: 07165233711d4d4931f8adac4809b56138078f5a
-ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
+ms.openlocfilehash: 8d74a288291907db22213f317ce8e89923590907
+ms.sourcegitcommit: 5d40d060bbcf4b266a0d6f3e4bbc151f94288b00
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51926995"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51996252"
 ---
 # <a name="data-migration"></a>資料移轉
 
@@ -160,7 +160,7 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>FastTrack 責任
+## <a name="fasttrack-responsibilities-for-exchange-online-migrations"></a>Exchange Online 遷移的 FastTrack 責任
 
 我們的 FastTrack 專家在進行移轉專案時執行標準動作。 如需詳細資訊，請參閱在 [流程和預期](process-and-expectations.md) 中的資料移轉責任資訊。
 
@@ -363,7 +363,7 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>FastTrack 責任
+## <a name="fasttrack-responsibilities-for-sharepoint-online-migrations"></a>SharePoint 線上遷移的 FastTrack 責任
 
 我們的 FastTrack 專家在進行移轉專案時執行標準動作。 如需詳細資訊，請參照在 [流程和預期](process-and-expectations.md) 中的資料移轉責任資訊
 
@@ -555,7 +555,7 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>FastTrack 責任
+## <a name="fasttrack-responsibilities-for-onedrive-for-business-migrations"></a>OneDrive 商務遷移的 FastTrack 責任
 
 我們的 FastTrack 專家在進行移轉專案時執行標準動作。 如需詳細資訊，請參閱在 [流程和預期](process-and-expectations.md) 中的資料移轉責任資訊。
 
@@ -756,7 +756,7 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>FastTrack 責任
+## <a name="fasttrack-responsibilities-for-microsoft-teams-and-microsoft-365-groups-migrations"></a>Microsoft 團隊和 Microsoft 365 群組遷移的 FastTrack 責任
 
 我們的 FastTrack 專家在進行移轉專案時執行標準動作。 如需詳細資訊，請參閱在 [流程和預期](process-and-expectations.md) 中的資料移轉責任資訊。
 

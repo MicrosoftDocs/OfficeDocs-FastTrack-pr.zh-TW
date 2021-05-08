@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 在本主題中，我們概括了從購買 Microsoft 365 授權的 FastTrack 專家那裡收到導向協助的資格要求，並詳細說明涵蓋的特定產品和功能。
-ms.openlocfilehash: 03d2b9f607ad72cc59a1d0c16c12401e8a437fe1
-ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
+ms.openlocfilehash: b4a7af935ee8223f94ac60eca2d18a0b6e53ace7
+ms.sourcegitcommit: ed3a1ad4b24b7b6b78070e21139b3a38f7a6ed69
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51927007"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "52283445"
 ---
 # <a name="eligibility"></a>資格
 
@@ -124,7 +124,7 @@ FastTrack 專家可以為您提供您購買方案中可能包含的下列服務�
   - 電話系統
   - 通話方案
   - 音訊會議
-  - Microsoft 團隊聊天室
+  - Microsoft Teams房間
 
 #### <a name="onedrive-for-business"></a>商務用 OneDrive
 
@@ -202,6 +202,9 @@ FastTrack 專家可以為您提供您購買方案中可能包含的下列服務�
       
 > [!NOTE]
 > 商業獨立軟體廠商 (ISV) 建立 Windows 10 應用程式時沒有最低的授權需求。 所有應用程式要求都必須針對目前位於主流服務視窗內的 Windows 10 或 Microsoft 365 Apps 版本。
+
+> [!NOTE]
+> 需購買上述適用方案的付費授權，才適用 FastTrack 中心權益。 在例外狀況下，FastTrack 會協助上架 Office 365 的 E1 試用版授權2021，2021年5月30日至6月30日，針對印度和巴西的合格客戶提供協助，以協助回應目前的 COVID-19 電湧。 
 
 ### <a name="ineligible-plans"></a>不適用的方案 
  不適用於 FastTrack 服務的方案包含 (但不限於)：

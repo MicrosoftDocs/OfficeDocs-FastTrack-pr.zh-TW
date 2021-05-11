@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office 365 (Exchange Online、SharePoint Online 及 [商務用 OneDrive])。 我們可以提供的協助類型取決於您的 Office 365 授權數量。
-ms.openlocfilehash: 8d74a288291907db22213f317ce8e89923590907
-ms.sourcegitcommit: 5d40d060bbcf4b266a0d6f3e4bbc151f94288b00
+ms.openlocfilehash: 0e33e8a79ebc577188644dbc69cd78707a575838
+ms.sourcegitcommit: 69a30fee5e7e199bd6830fb0837af1ae4904ef3b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51996252"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52312441"
 ---
 # <a name="data-migration"></a>資料移轉
 
@@ -79,7 +79,7 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 <tr class="odd">
 <td><strong>Exchange 2010、Exchange 2013、Exchange 2016、Exchange 2019</strong><br />
 <br />
-<strong>附注：</strong> 如需內部部署 Exchange 相依性，請參閱 <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">混合部署必要條件</span></a>。</td>
+<strong>附注：</strong>如需內部部署 Exchange 相依性，請參閱<a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">混合部署必要條件</span></a>。</td>
 <td>混合部署移轉</td>
 <td><ul>
 <li>電子郵件</li>
@@ -168,7 +168,7 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 
   -  可提供指引，以便協助您啟用在來源環境與 Exchange Online 之間並立的 SMTP 郵件路由傳送（如果適用的話）。
 
-## <a name="your-responsibilities"></a>您的責任
+### <a name="your-responsibilities"></a>您的責任
 
 由您在進行移轉專案時執行標準動作。 如需詳細資訊，請參閱在 [流程和預期](process-and-expectations.md) 中的資料移轉責任資訊。
 
@@ -187,12 +187,12 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 
 當您選擇使用 FastTrack 將您的檔案移轉到 SharePoint Online 時，我們會提供您移轉指引和資料移轉服務。 我們會提供指引以協助規劃您的移轉、設定您的來源環境和 SharePoint Online，並充分利用我們的資料移轉服務來移轉您的檔案。 您可以建立您的移轉事件並設定排程。 我們會依照您的排程啟動移轉事件、監控進度，並提供狀態報表。 當您的移轉事件完成後，您可以預期從您的來源環境中，檔案經適當排程及合格來源移轉到 SharePoint Online。
 
-## <a name="considerations"></a>考量
+### <a name="considerations"></a>考量
 
- - 所有的移轉動作都受到 SharePoint Online 的配額限制。 如需詳細資訊，請參閱 <a href="https://go.microsoft.com/fwlink/?LinkId=698855">SharePoint 限制</a> 。 
+ - 所有的移轉動作都受到 SharePoint Online 的配額限制。 如需詳細資訊，請參閱<a href="https://go.microsoft.com/fwlink/?LinkId=698855">SharePoint 限制</a>。 
   - 我們建議您將移轉的總量限制在你有權使用的 SharePoint Online 儲存額度 (包含您可能另外購買的額外儲存空間) 的 75%。
 
-## <a name="source-environment-details"></a>來源環境詳細資料
+### <a name="source-environment-details"></a>來源環境詳細資料
 
 我們的資料移轉服務可將資料從這些來源環境移轉出來：
 
@@ -367,7 +367,7 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 
 我們的 FastTrack 專家在進行移轉專案時執行標準動作。 如需詳細資訊，請參照在 [流程和預期](process-and-expectations.md) 中的資料移轉責任資訊
 
-## <a name="your-responsibilities"></a>您的責任
+### <a name="your-responsibilities"></a>您的責任
 
 由您在進行移轉專案時執行標準動作。 如需詳細資訊，請參照在 [流程和預期](process-and-expectations.md) 中的資料移轉責任資訊
 
@@ -379,13 +379,13 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 
 當您選擇使用 FastTrack 將您的檔案移轉到 商務用 OneDrive 時，我們會提供您移轉指引和資料移轉服務。 我們會提供指引以協助規劃您的移轉、設定您的來源環境和 商務用 OneDrive，並充分利用我們的資料移轉服務來移轉您的檔案。 您可以建立您的移轉事件並設定排程。 我們會依照您的排程啟動移轉事件、監控進度，並提供狀態報表。 當您的移轉事件完成後，您可以預期從您的來源環境中，檔案經適當排程及合格來源移轉到 商務用 OneDrive。
 
-## <a name="considerations"></a>考量
+### <a name="considerations"></a>考量
 
-  - 所有的移轉動作都受到 SharePoint Online 的配額限制。 如需詳細資訊，請參閱 <a href="https://go.microsoft.com/fwlink/?LinkId=698855"> SharePoint 限制</a> 。 
+  - 所有的移轉動作都受到 SharePoint Online 的配額限制。 如需詳細資訊，請參閱<a href="https://go.microsoft.com/fwlink/?LinkId=698855">SharePoint 限制</a>。 
   - 我們建議您將移轉的資料總量限制在你有權使用的 SharePoint Online 儲存額度 (包含您可能另外購買的額外儲存空間) 的 75%。
   - FastTrack 只會移轉到使用中的 [商務用 OneDrive] 磁碟機。
 
-## <a name="source-environment-details"></a>來源環境詳細資料
+### <a name="source-environment-details"></a>來源環境詳細資料
 
 我們的資料移轉服務可將資料從這些來源環境移轉出來：
 
@@ -555,11 +555,11 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities-for-onedrive-for-business-migrations"></a>OneDrive 商務遷移的 FastTrack 責任
+## <a name="fasttrack-responsibilities-for-onedrive-for-business-migrations"></a>商務用 OneDrive 遷移的 FastTrack 責任
 
 我們的 FastTrack 專家在進行移轉專案時執行標準動作。 如需詳細資訊，請參閱在 [流程和預期](process-and-expectations.md) 中的資料移轉責任資訊。
 
-## <a name="your-responsibilities"></a>您的責任
+### <a name="your-responsibilities"></a>您的責任
 
 由您在進行移轉專案時執行標準動作。 如需詳細資訊，請參閱在 [流程和預期](process-and-expectations.md) 中的資料移轉責任資訊。
 
@@ -567,17 +567,17 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 
   - 使用您的移轉事件針對所有 [商務用 OneDrive] 網站進行佈建。
 
-## <a name="migration-to-microsoft-teams-and-microsoft-365-groups"></a>遷移至 Microsoft 團隊和 Microsoft 365 群組
+## <a name="migration-to-microsoft-teams-and-microsoft-365-groups"></a>遷移至 Microsoft Teams 和 Microsoft 365 群組
 
-當您選擇使用 FastTrack 將檔案遷移至 Microsoft 團隊和 Microsoft 365 群組時，我們會提供遷移指南和資料移轉服務。 我們提供的指導可協助您規劃遷移、設定來源環境和團隊和 Microsoft 365 群組，並利用我們的資料移轉服務來遷移您的檔案。 您可以建立您的移轉事件並設定排程。 我們會依照您的排程啟動移轉事件、監控進度，並提供狀態報表。 當您的遷移事件完成時，您可以指望適當排程的檔案和來源環境的合格來源，已遷移到小組和 Microsoft 365 群組。 小組通道和 Microsoft 365 群組必須先由客戶預先布建，使用者才能將資料移轉至這些目的地類型。 小組和 Microsoft 365 群組會影響您對檔案目的地位置的許可權。 小組和 Microsoft 365 群組是為允許共同作業而建立的。 「小組頻道」或「Microsoft 365 群組」會決定在遷移至這些目的地時，誰可以存取這些檔案。 FastTrack 在遷移期間，不會將使用者或群組新增至任何小組通道或 Microsoft 365 群組的許可權。
+當您選擇使用 FastTrack 將檔案遷移至 Microsoft Teams 和 Microsoft 365 群組時，我們會提供遷移指南和資料移轉服務。 我們提供指引，協助您規劃遷移、設定來源環境及 Teams 和 Microsoft 365 群組，以及利用我們的資料移轉服務來遷移您的檔案。 您可以建立您的移轉事件並設定排程。 我們會依照您的排程啟動移轉事件、監控進度，並提供狀態報表。 當您的遷移事件完成時，您可以期望來源環境中適當排程與合格來源環境的檔案已遷移至 Teams 和 Microsoft 365 群組。 Teams 通道和 Microsoft 365 群組必須先由客戶預先布建，使用者才能將資料移轉至這些目的地類型。 Teams 和 Microsoft 365 群組會影響您對檔案目的地位置的許可權。 Teams 和 Microsoft 365 群組是為允許共同作業而建立的。 在遷移至那些目的地時，Teams 通道或 Microsoft 365 群組決定誰可以存取這些檔案。 FastTrack 在遷移期間，不會將使用者或群組新增至任何 Teams 通道或 Microsoft 365 群組的許可權。
 
-## <a name="considerations"></a>考量
+### <a name="considerations"></a>考量
 
-- 所有的移轉動作都受到 SharePoint Online 的配額限制。 如需詳細資訊，請參閱 <a href="https://go.microsoft.com/fwlink/?LinkId=698855"> SharePoint 限制</a> 。 
+- 所有的移轉動作都受到 SharePoint Online 的配額限制。 如需詳細資訊，請參閱<a href="https://go.microsoft.com/fwlink/?LinkId=698855">SharePoint 限制</a>。 
 - 我們建議您將移轉的總量限制在你有權使用的 SharePoint Online 儲存額度 (包含您可能另外購買的額外儲存空間) 的 75%。 
 
 
-## <a name="source-environment-details"></a>來源環境詳細資料
+### <a name="source-environment-details"></a>來源環境詳細資料
 
 我們的資料移轉服務可將資料從這些來源環境移轉出來： 
 
@@ -616,7 +616,7 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 </ul></li>
 </ul>
 <br>
-*需要設定目錄同步處理。 只移轉公開給 [Windows 檔案總管] 的 NTFS 權限。 不移轉直接在檔案共用裝置上管理的權限。 若資料儲存在 SMB 2.0 裝置上，將會移轉 SMB 通訊協定公開的 NTFS 等同權限。 Microsoft 365 群組和/或 Microsoft 小組通道會影響許可權。 若目的地是 Microsoft 365 群組或 Microsoft 團隊通道，群組或通道會決定遷移後的檔案的最後許可權設定檔。 建議您不要在遷移至 Microsoft 365 群組或 Microsoft 團隊管道的檔案上遷移許可權。</td>
+*需要設定目錄同步處理。 只移轉公開給 [Windows 檔案總管] 的 NTFS 權限。 不移轉直接在檔案共用裝置上管理的權限。 若資料儲存在 SMB 2.0 裝置上，將會移轉 SMB 通訊協定公開的 NTFS 等同權限。 Microsoft 365 群組和/或 Microsoft Teams 通道會影響許可權。 若目的地為 Microsoft 365 群組或 Microsoft Teams 通道，群組或通道會決定遷移後的檔案的最後許可權設定檔。 建議您不要在遷移至 Microsoft 365 群組或 Microsoft Teams 通道的檔案上遷移許可權。</td>
 <td><ul>
 <li> 擁有權歷程記錄與先前的版本 </li>
 <li> 內容中的內嵌 URL 轉換 </li>
@@ -652,7 +652,7 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 <li> 正在移轉屬於 Google Drive 帳戶的共用內容 </li>
 </ul>
 <br>
-* 「Microsoft 365 群組」和/或 Microsoft 小組通道會影響許可權。 若目的地是 Microsoft 365 群組或 Microsoft 團隊通道，群組或通道會決定遷移後的檔案的最後許可權設定檔。 建議您不要在遷移至 Microsoft 365 群組或 Microsoft 團隊管道的檔案上遷移許可權。 
+* 許可權受到 Microsoft 365 群組和/或 Microsoft Teams 通道影響。 若目的地為 Microsoft 365 群組或 Microsoft Teams 通道，群組或通道會決定遷移後的檔案的最後許可權設定檔。 建議您不要在遷移至 Microsoft 365 群組或 Microsoft Teams 通道的檔案上遷移許可權。 
 </td>
 <td><ul>
 <li> 擁有權歷程記錄、先前的版本和註解 </li>
@@ -694,7 +694,7 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 <li> 方框附注 (轉換為 Word 檔案格式)  </li>
 </ul>
 <br>
-* 「Microsoft 365 群組」和/或 Microsoft 小組通道會影響許可權。 若目的地是 Microsoft 365 群組或 Microsoft 團隊通道，群組或通道會決定遷移後的檔案的最後許可權設定檔。 建議您不要在遷移至 Microsoft 365 群組或 Microsoft 團隊管道的檔案上遷移許可權。 </td>
+* 許可權受到 Microsoft 365 群組和/或 Microsoft Teams 通道影響。 若目的地為 Microsoft 365 群組或 Microsoft Teams 通道，群組或通道會決定遷移後的檔案的最後許可權設定檔。 建議您不要在遷移至 Microsoft 365 群組或 Microsoft Teams 通道的檔案上遷移許可權。 </td>
 <td><ul>
 <li> 擁有權歷程記錄、先前的版本和註解 </li>
 <li> 檔案與資料夾描述 </li>
@@ -732,7 +732,7 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 <li> 正在移轉屬於 Dropbox 帳戶的共用內容 </li>
 </ul>
 <br>
-* 「Microsoft 365 群組」和/或 Microsoft 小組通道會影響許可權。 若目的地是 Microsoft 365 群組或 Microsoft 團隊通道，群組或通道會決定遷移後的檔案的最後許可權設定檔。 建議您不要在遷移至 Microsoft 365 群組或 Microsoft 團隊管道的檔案上遷移許可權。
+* 許可權受到 Microsoft 365 群組和/或 Microsoft Teams 通道影響。 若目的地為 Microsoft 365 群組或 Microsoft Teams 通道，群組或通道會決定遷移後的檔案的最後許可權設定檔。 建議您不要在遷移至 Microsoft 365 群組或 Microsoft Teams 通道的檔案上遷移許可權。
 </td>
 <td><ul>
 <li> 擁有權歷程記錄、先前的版本和註解 </li>
@@ -756,16 +756,16 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities-for-microsoft-teams-and-microsoft-365-groups-migrations"></a>Microsoft 團隊和 Microsoft 365 群組遷移的 FastTrack 責任
+## <a name="fasttrack-responsibilities-for-microsoft-teams-and-microsoft-365-groups-migrations"></a>FastTrack Microsoft Teams 和 Microsoft 365 群組遷移的責任
 
 我們的 FastTrack 專家在進行移轉專案時執行標準動作。 如需詳細資訊，請參閱在 [流程和預期](process-and-expectations.md) 中的資料移轉責任資訊。
 
-## <a name="your-responsibilities"></a>您的責任 
+### <a name="your-responsibilities"></a>您的責任 
 
 由您在進行移轉專案時執行標準動作。 如需詳細資訊，請參閱在 [流程和預期](process-and-expectations.md) 中的資料移轉責任資訊。
-您也可以執行下列針對 Microsoft 團隊和 Microsoft 365 群組遷移的活動： 
+您也可以針對 Microsoft Teams 和 Microsoft 365 群組遷移執行下列活動： 
 
-- 將所有 Microsoft 團隊通道和 Microsoft 365 群組布建為遷移事件的目標。
+- 將所有 Microsoft Teams 通道和 Microsoft 365 群組布建為遷移事件的目標。
 
 > [!NOTE]
->FastTrack 未預先提供 Microsoft 團隊通道或 Microsoft 365 群組。 FastTrack 不會將使用者或群組新增至 Microsoft 小組通道或 Microsoft 365 群組。 您必須先將使用者或群組新增至所有的 Microsoft 團隊通道和 Microsoft 365 群組，再將資料移轉至這些目的地，這樣使用者才能存取這些新遷移的檔。
+>FastTrack 未預先布建 Microsoft Teams 通道或 Microsoft 365 群組。 FastTrack 不會將使用者或群組新增至 Microsoft Teams 通道或 Microsoft 365 群組。 您必須先將使用者或群組新增至所有 Microsoft Teams 通道和 Microsoft 365 群組，再將資料移轉至這些目的地，這樣使用者才能存取這些新遷移的檔。

@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 本主題包括 FastTrack 所支援之工作負載案例的詳細資料，以及在開始之前所需的來源環境預期。 根據您目前的設定，我們會與您合作，建立修復計畫，以將來源環境帶入成功上架的最低需求。
-ms.openlocfilehash: f3d10392b3d5f5712ae2b40c0af36a4ddc953682
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: 56fe941acf3f5739802ac9065c843dbbc2f2525b
+ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570551"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52592446"
 ---
 # <a name="products-and-capabilities"></a>產品與功能
 
@@ -35,7 +35,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
   - [Microsoft Edge](#microsoft-edge)
 
 > [!NOTE]
-> 如需有關 Office 365 US Government 來源環境預期的資訊，請參閱 [Office 365 US Government 的來源環境預期](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations)。 
+> 如需有關 Office 365 US Government 來源環境預期的資訊，請參閱 [Office 365 US Government 的來源環境預期](/us-gov-appendix-source-environment-expectations)。 
  
 ## <a name="general"></a>一般
 
@@ -50,7 +50,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <tbody>
 <tr class="odd">
 <td><strong>核心上架</strong></td>
-<td>  我們提供核心上架的遠端指導，包含服務布建、租使用者和身分識別整合。 此外，它還包含為 Exchange Online、SharePoint 線上及 Microsoft Teams 等上架服務奠定基礎的步驟，包括<a href="https://docs.microsoft.com/office365/enterprise/office-365-network-connectivity-principles">安全性、網路連線能力及規範的討論</a>。  
+<td>  我們提供核心上架的遠端指導，包含服務布建、租使用者和身分識別整合。 此外，它還包含為 Exchange Online、SharePoint 線上及 Microsoft Teams 等上架服務奠定基礎的步驟，包括[安全性、網路連線能力及規範的討論](/office365/enterprise/office-365-network-connectivity-principles)。  
   將一或多個合格服務上架的動作可以從核心上架完成時開始。
 </li>
 </ul>  
@@ -67,7 +67,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>使用密碼雜湊同步處理或透過驗證，將驗證從 AD FS 遷移至 Azure AD。</li>
 <li>遷移預先整合的應用程式 (像 Azure AD 圖庫軟體即服務 (SaaS) 應用程式) 從 AD FS 至 Azure AD for single 登錄 (SSO) 。</li>
 <li>從 Azure AD 圖庫啟用 SaaS 應用程式與 SSO 的整合。</li>
-<li>針對 <a href="https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list">應用程式整合教學課程清單</a> 中列出的預先整合的 SaaS 應用程式啟用自動使用者布建， (限制于 Azure AD 圖庫 SaaS 應用程式和輸出布建) 。  </li>
+<li>針對 [應用程式整合教學課程清單](/azure/active-directory/saas-apps/tutorial-list) 中列出的預先整合的 SaaS 應用程式啟用自動使用者布建， (限制于 Azure AD 圖庫 SaaS 應用程式和輸出布建) 。  </li>
 </td>
 
 <td>  <strong>網路啟用 </strong>  
@@ -108,12 +108,12 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 </tr>
 <tr class="odd">
 <td><strong>網路健康情況</strong></td>
-<td>  我們提供的遠端指導，可從您的環境取得及解讀重要的網路連線資料，以顯示組織的網站與 Microsoft 的 <a href="https://docs.microsoft.com/office365/enterprise/office-365-network-connectivity-principles">網路連線原則</a>。 這會強調您的網路得分，它會直接影響到遷移速度、使用者經驗、服務效能和可靠性。  
+<td>  我們提供的遠端指導，可從您的環境取得及解讀重要的網路連線資料，以顯示組織的網站與 Microsoft 的 [網路連線原則](/office365/enterprise/office-365-network-connectivity-principles)。 這會強調您的網路得分，它會直接影響到遷移速度、使用者經驗、服務效能和可靠性。  
   我們也會引導您完成此資料所強調的任何修正步驟，以協助您提高網路得分。  </td>
 <td><ul>
 <li>  Microsoft 365Admin Center 存取。  </li>
 <li>  需要 Microsoft 365 應用程式的最新版本。  </li>
-<li>  已啟用位置服務，因為<a href="https://docs.microsoft.com/Office365/Enterprise/office-365-network-mac-perf-overview">Microsoft 365 系統管理中心的 [每個網路效能建議] (preview) </a>]。  </li>
+<li>  已啟用位置服務，因為[Microsoft 365 系統管理中心的 [每個網路效能建議] (preview) ](/Office365/Enterprise/office-365-network-mac-perf-overview)]。  </li>
 </ul>
 <h3 id="section"></h3></td>
 </tr>
@@ -339,7 +339,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li> Zscaler。</li>
 <li> iboss.</li>
 </ul>
-<li> 使用應用程式連接器連接 <a href="https://docs.microsoft.com/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps">特色應用程式</a> 。</li>
+<li> 使用應用程式連接器連接 [特色應用程式](/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps) 。</li>
 <li> 在條件式存取和雲端 App 安全性入口網站中設定條件式存取應用程式控制，以套用即時會話控制。</li>
 <li> 部署雲端 App 安全性和雲端探索儀表板。</li>
 <li> 根據組織的優先順序自訂應用程式風險分數。</li>
@@ -716,11 +716,11 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li> 瞭解有關金鑰管理的任何法規限制或需求。  </li>
 <li>  為您的內部部署 Active Directory 建立且與 Azure AD 同步處理的服務帳戶。 </li>
 <li>  針對分類及保護所設定的標籤。 </li>
-<li> Azure 資訊保護掃描程式的所有必要條件皆已到位。 如需詳細資訊，請參閱 <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">安裝及部署 Azure 資訊保護統一標記掃描器的必要條件</a>。 </li>
+<li> Azure 資訊保護掃描程式的所有必要條件皆已到位。 如需詳細資訊，請參閱 [安裝及部署 Azure 資訊保護統一標記掃描器的必要條件](/azure/information-protection/deploy-aip-scanner-prereqs)。 </li>
 <li>  請確定使用者裝置執行的是支援的作業系統，且已安裝必要的必要條件。 如需詳細資訊，請參閱下列各項。</li>
 <ul>
-<li> <a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">系統管理員指南：安裝 Azure 資訊保護統一標籤用戶端以供使用者</a>   </li>
-<li>  <a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">IOS 或 Android 的 Azure 資訊保護應用程式為何？</a>  </li>
+<li> [系統管理員指南：安裝 Azure 資訊保護統一標籤用戶端以供使用者](/azure/information-protection/rms-client/clientv2-admin-guide-install)   </li>
+<li>  [IOS 或 Android 的 Azure 資訊保護應用程式為何？](/azure/information-protection/rms-client/mobile-app-faq)  </li>
 </ul>
 <li> 安裝和設定 Azure RMS 連接器和伺服器（包括 Active Directory RMS (AD RMS) 連接器）以進行混合支援。  </li>
 <li> 安裝和設定會將您自己的金鑰 (BYOK) 、雙金鑰加密 (DKE)  (整合標籤用戶端) ，或是只保留您自己的金鑰 (HYOK)  (經典用戶端您應該在部署中的其中一個選項。  </li>
@@ -852,7 +852,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>  設定信箱用戶端 (Outlook for Windows、Outlook 網頁版，以及 Outlook for iOS 和 Android)。  </li>
 </ul>
   <strong>資料移轉</strong>  <br>
-如需使用 FastTrack Office 365 的資料移轉優點的詳細資訊，請參閱<a href="https://docs.microsoft.com/fasttrack/data-migration">資料移轉</a>。   
+如需使用 FastTrack Office 365 的資料移轉優點的詳細資訊，請參閱[資料移轉](data-migration.md)。   
 <td>  您的來源環境必須具有下列其中一個基本層級：
 <ul>
 <li>  含有 Exchange Server 2003 以上版本的單一或多個 Exchange 組織。  </li>
@@ -864,7 +864,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 </tr>
 
 <td><strong>適用於 Office 365 的 Microsoft Defender</strong></td>
-<td>  如需詳細資訊，請參閱<a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">安全性和合規性</a>中<strong>的 Microsoft Defender Office 365</strong> 。  
+<td>  如需詳細資訊，請參閱[安全性和合規性](products-and-capabilities.md#security-and-compliance)中<strong>的 Microsoft Defender Office 365</strong> 。  
 </td>
 <td></td>
 </tr>
@@ -872,7 +872,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 
 <tr class="even">
 <td><strong>Microsoft 資訊控管</strong></td>
-<td>  如需詳細資訊，請參閱<a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">安全性和合規性</a>中的<strong>Microsoft 資訊管理</strong>。 
+<td>  如需詳細資訊，請參閱[安全性和合規性](products-and-capabilities.md#security-and-compliance)中的<strong>Microsoft 資訊管理</strong>。 
 
 </td>
 <td></td>
@@ -880,7 +880,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <tr class="odd">
 <td><strong>Microsoft 資訊保護</strong></td>
 <td>  
-如需詳細資訊，請參閱 <strong>Microsoft 資訊保護 </strong> 的 <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">安全性和合規性</a>。
+如需詳細資訊，請參閱 <strong>Microsoft 資訊保護 </strong> 的 [安全性和合規性](products-and-capabilities.md#security-and-compliance)。
 
 </td>
 <td>
@@ -958,7 +958,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <ul>
 <li>  從 Apple App Store 和 Google Play 下載 Outlook for iOS 和 Android。  </li>
 <li>  設定帳戶並存取 Exchange Online 信箱。  </li>
-<li>  保護 Outlook 行動 (如需詳細資訊，請參閱<a href="https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/secure-outlook-for-ios-and-android">在 Exchange Online 中為 iOS 和 Android 提供安全 Outlook</a>) 。  </li>
+<li>  保護 Outlook 行動 (如需詳細資訊，請參閱[在 Exchange Online 中為 iOS 和 Android 提供安全 Outlook](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/secure-outlook-for-ios-and-android)) 。  </li>
 </ul></td>
 <td><ul>
 <li>  Azure AD 中為 Office 365 啟用的身分識別。  </li>
@@ -1022,7 +1022,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>  部署商務用 OneDrive 用戶端同步處理。  </li>
 </ul>
   <strong>資料移轉</strong>  <br>
-如需使用 FastTrack Office 365 的資料移轉優點的詳細資訊，請參閱<a href="https://docs.microsoft.com/fasttrack/data-migration">資料移轉</a>。
+如需使用 FastTrack Office 365 的資料移轉優點的詳細資訊，請參閱[資料移轉](data-migration.md)。
 </ul></td>
 <td><br><strong>SharePoint 混合：</strong>  
 <ul>
@@ -1058,19 +1058,19 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <tbody>
 <tr class="even">
 <td><strong>Azure Active Directory (azure ad) 和 azure ad 進階版</strong></td>
-<td>  如需詳細資訊，請參閱<strong>Azure Active Directory (Azure ad) 和 azure ad 進階版</strong>中的<a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">安全性和符合性</a>。</td>
+<td>  如需詳細資訊，請參閱<strong>Azure Active Directory (Azure ad) 和 azure ad 進階版</strong>中的[安全性和符合性](products-and-capabilities.md#security-and-compliance)。</td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="odd">#安全性與合規性
 <td><strong>Azure 資訊保護 </strong></td>
-<td>  如需 Azure 資訊保護的詳細資訊，請參閱 <strong>Microsoft 資訊保護</strong> 的 <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance"> 安全性和合規性。  </td>
+<td>  如需 Azure 資訊保護的詳細資訊，請參閱 <strong>Microsoft 資訊保護</strong> 的 [安全性和合規性](products-and-capabilities.md#security-and-compliance)。  </td>
 <td>  
   
 </td>
 </tr>
 <tr class="even">
 <td><strong>Microsoft Intune</strong></td>
-<td>  如需詳細資訊，請參閱<a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">安全性和合規性</a> <strong>Microsoft Intune</strong> 。
+<td>  如需詳細資訊，請參閱[安全性和合規性](products-and-capabilities.md#security-and-compliance) <strong>Microsoft Intune</strong> 。
   </td>
 <td>  
   
@@ -1129,12 +1129,12 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 若要升級基礎結構，您必須符合以下需求：
 <ul>
 <li>  Microsoft Endpoint Configuration Manager。  </li>
-<li>  Configuration Manager 版本必須支援 Windows 10 目標版本。 如需詳細資訊，請參閱位於<a href="https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10">Configuration Manager 對於 Windows 10 的支援</a>的 Configuration Manager 支援表格。  </li>
+<li>  Configuration Manager 版本必須支援 Windows 10 目標版本。 如需詳細資訊，請參閱位於[Configuration Manager 對於 Windows 10 的支援](/sccm/core/plan-design/configs/support-for-windows-10)的 Configuration Manager 支援表格。  </li>
 </ul>
 
 <tr class="odd">
 <td><strong>適用於端點的 Microsoft Defender</strong></td>
-<td>  如需詳細資訊，請參閱<a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">安全性和合規性</a>中<strong>的 Microsoft Defender for Endpoint</strong> 。</td>
+<td>  如需詳細資訊，請參閱[安全性和合規性](products-and-capabilities.md#security-and-compliance)中<strong>的 Microsoft Defender for Endpoint</strong> 。</td>
 <td></td>
 
 </tbody>
@@ -1185,7 +1185,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 請與 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作夥伴</a> 聯繫以取得這些服務。</td>
 <td>您應該已經具備下列專案：
 <ul>
-<li><a href="https://docs.microsoft.com/azure/virtual-desktop/overview#requirements">Windows 虛擬機器授權需求</a>。</li>
+<li>[Windows 虛擬機器授權需求](/azure/virtual-desktop/overview#requirements)。</li>
 <li>Azure 網路：
 <ul>
 <li>虛擬網路 (VNET) 建立及子網。</li>
@@ -1194,7 +1194,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <li>從內部部署路由傳送至 Azure。</li>
 <li>允許連線至 Windows 虛擬桌面的防火牆規則。
 </ul>
-如需詳細資訊，請參閱 <a href="https://docs.microsoft.com/azure/virtual-desktop/overview#supported-remote-desktop-clients"> 支援的遠端桌面用戶端</a>。
+如需詳細資訊，請參閱 [支援的遠端桌面用戶端](/azure/virtual-desktop/overview#supported-remote-desktop-clients)。
 </ul>
 <ul><li>Azure AD 一般設定：
 <ul>
@@ -1228,14 +1228,14 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 <ul>
 <li>  <strong>Windows 10</strong> (包括 ARM64 裝置) </li>
 <li> <strong>Microsoft 365 Apps</strong>  </li>
-<li>  <strong>Microsoft Edge-</strong>如需部署指導，請參閱<a href="https://docs.microsoft.com/DeployEdge/microsoft-edge-channels">Microsoft Edge 通道的概述</a>。  </li>
-<li>  <strong>Windows 虛擬機器</strong> -如需詳細資訊，請參閱<a href="https://docs.microsoft.com/azure/virtual-desktop/overview">什麼是 Windows 虛擬機器？</a>及<a href="https://docs.microsoft.com/azure/virtual-desktop/windows-10-multisession-faq">Windows 10 企業版多重會話常見問題</a>。  </li>
+<li>  <strong>Microsoft Edge-</strong>如需部署指導，請參閱[Microsoft Edge 通道的概述](/DeployEdge/microsoft-edge-channels)。  </li>
+<li>  <strong>Windows 虛擬機器</strong> -如需詳細資訊，請參閱[什麼是 Windows 虛擬機器？](/azure/virtual-desktop/overview)及[Windows 10 企業版多重會話常見問題](/azure/virtual-desktop/windows-10-multisession-faq)。  </li>
 </ul>
 
 <strong>下列超出範圍 </strong>  
 <ul>
 <li>  應用程式清查和測試，以判斷可否在 Windows 10 和 Microsoft 365 Apps 上運作。 如需有關此程序的詳細指示，請瀏覽<a href="https://go.microsoft.com/fwlink/?linkid=2080140">電腦部署中心</a>。 如果您對於深入的升級整備評估有興趣，請填寫<a href="https://go.microsoft.com/fwlink/?linkid=2053818">客戶要求現代化電腦評估</a>表單。</li>
-<li>  針對 Windows 10 相容性和支援狀態，研究第三方 ISV 應用程式。 如需詳細資訊，請參閱<a href="https://docs.microsoft.com/sccm/desktop-analytics/overview">電腦分析</a>。</li>
+<li>  針對 Windows 10 相容性和支援狀態，研究第三方 ISV 應用程式。 如需詳細資訊，請參閱[電腦分析](/sccm/desktop-analytics/overview)。</li>
 <li>僅限應用程式封裝的服務。 不過，應用程式保證小組會將我們針對 Windows 10 修復的應用程式封裝起來，以確保這些應用程式可以在客戶的環境中部署。</li>
 </ul>
 
@@ -1278,7 +1278,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
   如果您的 web 應用程式或網站在 Internet Explorer 11、支援版本的 Google Chrome 或任何版本的 Microsoft Edge 上運作，也會與 Microsoft Edge 搭配運作。  
   </li>
 <li>  
-  當網頁不斷演變時，請務必查看此已發佈的已知<a href="https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes">網站相容性清單-影響 Microsoft Edge 的變更</a>。  
+  當網頁不斷演變時，請務必查看此已發佈的已知[網站相容性清單-影響 Microsoft Edge 的變更](/microsoft-edge/web-platform/site-impacting-changes)。  
   </li>
 </ul>
   <strong>Windows虛擬桌面</strong>  
@@ -1327,7 +1327,7 @@ FastTrack 提供指引，協助您先瞭解所有 Microsoft Online) 服務 (通�
 我們提供下列專案的遠端部署和採用指導方針和相容性協助： <ul> <li>使用 Microsoft 端點管理員 (Microsoft Endpoint Configuration Manager 或 Intune) 在 Windows 10 上部署 Microsoft Edge。  </li>
 <li>  使用群組原則或 Intune 應用程式設定和應用程式原則) 設定 Microsoft Edge (。  </li>
 <li>  清查可能需要在 Internet Explorer 模式中使用的網站清單。  </li>
-<li>  使用現有的 Enterprise 網站清單啟用 Internet Explorer 模式。  (如需詳細資訊，請參閱 <a href="https://docs.microsoft.com/fasttrack/process-and-expectations#engaging-fasttrack">接洽 FastTrack</a>) 。 此外，如果您有可搭配 Internet Explorer 或 Google Chrome 使用的 web 應用程式或網站，且您遇到相容性問題，我們會提供指引來解決問題，而不需額外收費。 若要向應用程式保證要求相容性支援，請登入 <a href="https://fasttrack.microsoft.com/portal#/signin">FastTrack 入口網站</a> ，以開始預訂。  </li>
+<li>  使用現有的 Enterprise 網站清單啟用 Internet Explorer 模式。  (如需詳細資訊，請參閱 [接洽 FastTrack](process-and-expectations.md#engaging-fasttrack)) 。 此外，如果您有可搭配 Internet Explorer 或 Google Chrome 使用的 web 應用程式或網站，且您遇到相容性問題，我們會提供指引來解決問題，而不需額外收費。 若要向應用程式保證要求相容性支援，請登入 <a href="https://fasttrack.microsoft.com/portal#/signin">FastTrack 入口網站</a> ，以開始預訂。  </li>
 <li> Microsoft 搜尋書簽之 Edge 採用和設定指引的規劃指引。</li>
 </ul>
 

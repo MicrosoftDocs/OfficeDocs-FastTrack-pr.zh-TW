@@ -9,13 +9,13 @@ ms.topic: overview
 ms.service: virtual-desktop
 localization_priority: None
 ms.collection: FastTrack
-description: FastTrack 提供 Windows 虛擬桌面部署指導，以協助您在此桌上型電腦上架上。
-ms.openlocfilehash: 9e8712b7a1f324d02715527b22eca3f7e4db4656
-ms.sourcegitcommit: 5d40d060bbcf4b266a0d6f3e4bbc151f94288b00
+description: FastTrack 提供 Windows 虛擬桌面部署指導，以協助您在此桌面上架上。
+ms.openlocfilehash: bdec1f6438a34b5ec023be5159329617bc5a78f9
+ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51996232"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52592436"
 ---
 # <a name="windows-virtual-desktop"></a>Windows 虛擬桌面
 
@@ -30,14 +30,14 @@ ms.locfileid: "51996232"
 <tbody>
 <tr class="odd">
 <td>Windows 虛擬桌面</td>
-<td><p>FastTrack 提供 Windows 虛擬桌面部署指導，以協助您在此桌面和應用程式虛擬化服務的情況下，輕鬆地使用 Windows 10 多會話體驗，並利用整合的安全性和 Microsoft 365 的管理功能，針對企業的 Microsoft 365 應用程式進行優化。</p>
+<td><p>FastTrack 提供 Windows 虛擬桌面部署指導，以協助您以輕鬆的方式將此桌面和應用程式虛擬化服務連線至此桌面和應用程式虛擬化服務，以 Windows 10 利用整合的安全性和 Enterprise 的整合式安全性和管理，針對 Microsoft 365 的 Microsoft 365 Apps 優化。</p>
 <p>與 FastTrack 專家合作進行以下工作：</p>
 <ul>
-<li><p>使用 Windows 10 Enterprise 多方 session + Microsoft 365 Apps for Enterprise 部署 WVD 環境，其使用方式如下：</p>
+<li><p>使用下列各項來部署 WVD 環境 Windows 10 企業版多重會話 + Microsoft 365 Apps Enterprise：</p>
 <ul>
 <li><p>Azure Marketplace 影像</p></li>
 <li><p>共用影像</p></li>
-<li><p>Office 部署工具組 (ODT) </p></li>
+<li><p>Office部署工具組 (ODT) </p></li>
 </ul></li>
 <li><p>設定 FSLogix</p>
 <ul>
@@ -46,12 +46,12 @@ ms.locfileid: "51996232"
 <li><p>使用內容排除設定 FSLogix 資料夾</p></li>
 </ul></li>
 <li><p>部署 Microsoft Edge</p></li>
-<li><p>部署 Microsoft 團隊</p></li>
-<li><p>使用 Windows 虛擬桌面用戶端連接</p></li>
+<li><p>部署 Microsoft Teams</p></li>
+<li><p>使用 Windows 虛擬桌面用戶端的連線</p></li>
 </ul>
 <p><strong>下列超出範圍</strong></p>
 <ul>
-<li><p>客戶 Windows 虛擬桌面部署的專案管理。</p></li>
+<li><p>Project 管理客戶的 Windows 虛擬桌面部署。</p></li>
 <li><p>現場支援。</p></li>
 <li><p>協力廠商應用程式虛擬化/部署。</p></li>
 <li><p>自訂圖像。</p></li>
@@ -62,7 +62,7 @@ ms.locfileid: "51996232"
 <p>請與 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作夥伴</a> 聯繫以取得這些服務。</p></td>
 <td><p>您應該已經具備下列專案：</p>
 <ul>
-<li><p><a href="https://docs.microsoft.com/azure/virtual-desktop/overview#requirements">WVD 授權需求</a></p></li>
+<li><p>[WVD 授權需求](/azure/virtual-desktop/overview#requirements)</p></li>
 <li><p>Azure 網路：</p>
 <ul>
 <li><p>VNET 建立 &amp; 子網</p></li>
@@ -71,15 +71,15 @@ ms.locfileid: "51996232"
 <li><p>從內部部署路由傳送至 Azure</p></li>
 <li><p>允許連線至 WVD 的防火牆規則</p>
 <ul>
-<li><p><a href="https://docs.microsoft.com/azure/virtual-desktop/overview#supported-remote-desktop-clients">檔參考</a></p></li>
+<li><p>[檔參考](/azure/virtual-desktop/overview#supported-remote-desktop-clients)</p></li>
 </ul></li>
 </ul></li>
-<li><p>Azure Active Directory 一般設定</p>
+<li><p>Azure Active Directory一般設定</p>
 <ul>
 <li><p>身分識別策略 <strong> (只選取下列3個選項中的1個) </strong></p>
 <ul>
-<li><p>Azure 中的 Active Directory 與 Azure AD Connect</p></li>
-<li><p>使用 VPN/ER 于內部部署的 Active Directory 與 Azure AD 連接</p></li>
+<li><p>Azure 中使用 Azure AD 連線的 Active Directory</p></li>
+<li><p>具有 VPN/ER 之內部部署的 Azure AD 連線 Active Directory</p></li>
 <li><p>Active Directory 網域服務</p></li>
 </ul></li>
 </ul></li>

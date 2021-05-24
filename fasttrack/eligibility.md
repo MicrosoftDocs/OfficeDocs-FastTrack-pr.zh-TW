@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 在本主題中，我們概括了從購買 Microsoft 365 授權的 FastTrack 專家那裡收到導向協助的資格要求，並詳細說明涵蓋的特定產品和功能。
-ms.openlocfilehash: eb3a73f7c1c58fe84cdc92d4ccd625330b4dcc82
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: 7cadd0543f0daccadc2d522ff00e03becaf06acf
+ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570491"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52592394"
 ---
 # <a name="eligibility"></a>資格
 
@@ -33,7 +33,7 @@ FastTrack 專家可以為您提供您購買方案中可能包含的下列服務�
   - Microsoft 365 Apps
 
 > [!NOTE]
-> Office 365 專業增強版已重新命名為 Microsoft 365 Apps。 在某些情況下，您可能會看到使用舊版的名稱。 如需有關此變更生效時間的詳細資料，請參閱 [Office 365 專業增強版的名稱變更](https://docs.microsoft.com/deployoffice/name-change)。
+> Office 365 專業增強版已重新命名為 Microsoft 365 Apps。 在某些情況下，您可能會看到使用舊版的名稱。 如需有關此變更生效時間的詳細資料，請參閱 [Office 365 專業增強版的名稱變更](/deployoffice/name-change)。
 
   - Microsoft 365 Defender
   - Microsoft Cloud App Security

@@ -9,13 +9,13 @@ ms.topic: overview
 ms.service: O365-seccomp
 localization_priority: None
 ms.collection: FastTrack
-description: Microsoft 服務的 FastTrack 指引詳細資料。
-ms.openlocfilehash: 000a81c51729deba8d3f5c4d88a0baa918dcd048
-ms.sourcegitcommit: 5d40d060bbcf4b266a0d6f3e4bbc151f94288b00
+description: FastTrack Microsoft 服務的指導方針。
+ms.openlocfilehash: 67dd428de8a8f48e0d52e4f6c6daf85cbd27ec76
+ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51996236"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52592392"
 ---
 # <a name="security-and-compliance"></a>安全性及合規性
 
@@ -31,11 +31,11 @@ ms.locfileid: "51996236"
 <tr class="odd">
 <td><strong>Microsoft 365 Defender</strong></td>
 
-<td> <p> Microsoft 365 Defender 是一種整合的前期和破壞後的企業防護套件，其可在端點、身分識別、電子郵件和應用程式中共同協調偵測、預防、調查和回應，以提供複雜攻擊的整合式防護。 我們提供下列專案的遠端指導： </p> 
+<td> <p> Microsoft 365Defender 是一種整合的前期和入侵後的企業防護套件，其可在端點、身分識別、電子郵件和應用程式上協調偵測、預防、調查和回應，以提供複雜攻擊的整合式防護。 我們提供下列專案的遠端指導： </p> 
 <ul>
-<li>  提供 Microsoft 365 的安全性中心簡介。  </li>
+<li>  提供 Microsoft 365 安全性中心的概覽。  </li>
 <li>  檢查跨產品的事件，包括確定完整的攻擊範圍、受影響的資產，以及組合在一起的自動修正動作，以著重于重要專案。  </li>
-<li>  示範 Microsoft 365 Defender 如何對資產、使用者、裝置和信箱進行調查，以透過自動自我修復的方式來調查可能已遭破壞的資產、使用者、裝置和信箱。 </li>
+<li>  示範 Microsoft 365 Defender 如何對資產、使用者、裝置和信箱進行調查，以利用自動自我修復功能可能已遭攻破的情況。 </li>
 <li>  說明及提供客戶如何主動搜尋入侵企圖及破壞您的電子郵件、資料、裝置及帳戶的多個資料組的範例。   </li>
 <li> 向客戶展示如何使用 Microsoft 安全評分來複查和提升其安全性狀況 holistically。</li>
 </ul>
@@ -54,8 +54,8 @@ ms.locfileid: "51996236"
 </td>
 </tr>
 <tr class="even">
-<td><strong>Microsoft Cloud App Security</strong></td>
-<td>  Microsoft Cloud App Security 是雲端 Access 安全性經紀人 (CASB) ，可提供豐富的知名度、控制資料旅行，以及完善的分析，以識別和抵禦所有 Microsoft 和協力廠商雲端服務的網路威脅。 我們提供下列專案的遠端指導：
+<td><strong>Microsoft 雲端 App 安全性</strong></td>
+<td>  Microsoft Cloud App Security 是雲端存取安全性經紀人 (CASB) ，可提供豐富的知名度、控制資料旅行和複雜的分析，以識別和抵禦所有 Microsoft 和協力廠商雲端服務的網路威脅。 我們提供下列專案的遠端指導：
 <ul>
 <li>  設定入口網站，包括：  </li>
 <ul>
@@ -68,12 +68,12 @@ ms.locfileid: "51996236"
 <li> 設定 cloud discovery 以提供陰影，使用：</li>
 <ul>
 <li> Microsoft Defender for 端點。</li>
-<li> Zscaler.</li>
+<li> Zscaler。</li>
 <li> iboss.</li>
 </ul>
-<li> 使用應用程式連接器連接 <a href="https://docs.microsoft.com/cloud-app-security/enable-instant-visibility-protection-and-gove">特色應用程式</a> 。</li>
-<li> 在條件式 Access 和 Cloud App Security 入口網站中設定條件式存取應用程式控制，以套用即時會話控制。</li>
-<li> 部署 Cloud App Security 和 Cloud Discovery 儀表板。</li>
+<li> 使用應用程式連接器連接 [特色應用程式](/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps) 。</li>
+<li> 在條件式存取和雲端 App 安全性入口網站中設定條件式存取應用程式控制，以套用即時會話控制。</li>
+<li> 部署雲端 App 安全性和雲端探索儀表板。</li>
 <li> 根據組織的優先順序自訂應用程式風險分數。</li>
 <li> 建立應用程式標記與類別。</li>
 <li> Sanctioning 與 unsanctioning 應用程式。</li>
@@ -96,9 +96,9 @@ ms.locfileid: "51996236"
 <li> 連接自訂應用程式。</li>
 <li> 與協力廠商身分識別提供者整合 (的 Isp) 和資料遺失防護 (DLP) 提供者。</li>
 <li> 涵蓋進階搜尋功能的訓練或指導方針。</li>
-<li> 自動化調查和修正包括 Microsoft Power 自動化行動手冊。</li>
+<li> 自動調查和修正，包括 Microsoft Power Automate 行動手冊。</li>
 <li> 安全性資訊和事件管理 (SIEM) 或 API 整合 (包含 Azure Sentinel) 。</li>
-<li> 部署 Cloud App Security 做為概念證明。</li>
+<li> 以概念證明的方式部署雲端 App 安全性。</li>
 </ul></td>
 </tr>
 
@@ -111,10 +111,10 @@ ms.locfileid: "51996236"
 <ul>
 <li>  部署技術以保護您的端點。  </li>
 <li>  設定 endpoint protection 和裝置限制設定檔。  </li>
-<li>  評估 OS 版本和裝置管理 (包括 Intune、Microsoft Endpoint Configuration Manager、群組原則物件 (Gpo) 和協力廠商設定) 以及 Windows Defender AV 服務或其他端點安全性軟體的狀態。  </li>
+<li>  評估 OS 版本和裝置管理 (包括 Intune、Microsoft Endpoint Configuration Manager、群組原則物件 (gpo) 及協力廠商設定) 以及 Windows Defender AV 服務或其他端點安全性軟體的狀態。  </li>
 <li>  評估 Windows AV 服務或其他端點安全性軟體的狀態。  </li>
 <li>  評估代理及防火牆，以限制網路流量。  </li>
-<li>  透過說明如何使用板載端點部署 ATP 代理程式設定檔，啟用 Microsoft Defender ATP 服務。  </li>
+<li>  說明如何使用板載端點部署 ATP 代理設定檔，以啟用 Microsoft Defender ATP 服務。  </li>
 <li>  部署指導方針、設定協助及教育：
 <ul>
 <li>  
@@ -149,13 +149,13 @@ ms.locfileid: "51996236"
   Windows Server 2016。  
   </li>
 <li>  
-  Windows Server 2019。  
+  Windows伺服器2019。  
   </li>
 <li>  
-  Windows Server 2019 Core Edition。  
+  WindowsServer 2019 Core Edition。  
   </li>
 <li>  
-  Windows Server Semi-Annual 通道 (SAC) 版本1803。  
+  Windows伺服器 Semi-Annual 通道 (SAC) 版本1803。  
   </li>
 <li>  
   macOS 版本10.13、10.14 及10.15。  
@@ -163,7 +163,7 @@ ms.locfileid: "51996236"
 </ul>
 </li>
 </ul>
-<strong>附注：</strong> 所有 Windows Server 版本都必須由最新版的 System Center Configuration Manager 2012 (版本 1012 R2、1511或 1602) 或 Microsoft Endpoint Configuration Manager (版本2002或更高版本) 。 
+<strong>附注：</strong>所有的 Windows 伺服器版本都必須以最新版本的 System Center Configuration Manager 2012 來管理 (1012 R2、1511或 1602) 或 Microsoft Endpoint Configuration Manager (版本2002或更高) 。 
 
 </li>
 </ul>
@@ -176,7 +176,7 @@ ms.locfileid: "51996236"
 <li>  下列 Microsoft Defender ATP 代理程式的上線或組態：
 <ul>
 <li>  
-  Windows Server 2008。  
+  Windows伺服器2008。  
   </li>
 <li>  
   Windows Server 2012。  
@@ -262,7 +262,7 @@ ms.locfileid: "51996236"
 <li>  在您的網域控制站上無訊息地安裝感應器。 </li>
 <li>  將感應器部署至多樹系環境。 </li>
 </ul>
-<li>  使用 Microsoft Cloud App Security 整合 Defender 以進行身分識別不需要 (Cloud App 安全性授權) 。 </li>
+<li>  不需要使用 Microsoft Cloud App Security (整合 Defender 以進行身分識別雲端 App 安全性授權，) 。 </li>
 <li>  提供部署指導、設定協助及教育： </li>
 <ul>
 <li> 調整環境以減少「干擾」。  </li>
@@ -309,11 +309,11 @@ ms.locfileid: "51996236"
 </ul>
 <li> 執行于下列其中一項的網域控制站：</li>
 <ul>
-<li> Windows Server 2008 R2 SP1。</li>
+<li> Windows伺服器 2008 R2 SP1。</li>
 <li> Windows Server 2012。</li>
-<li> Windows Server 2012 R2。</li>
+<li> Windows Server 2012R 2。</li>
 <li> Windows Server 2016。</li>
-<li> Windows Server 2019 with KB4487044 (OS 組建 17763.316) 。</li>
+<li> Windows伺服器2019與 KB4487044 (OS 組建 17763.316) 。</li>
 </ul>
 </ul></td>
 </tr>
@@ -364,7 +364,7 @@ ms.locfileid: "51996236"
 <li>建立或修改關鍵字字典。</li>
 <li>自訂腳本和編碼。</li>
 </ul>
-<strong>附注：</strong>如需詳細資訊，請參閱<a href="products-and-capabilities.md#enterprise-mobility--security">Enterprise 可移動性 + Security</a>中的<strong>Azure 資訊保護</strong>。
+<strong>附注：</strong>如需詳細資訊，請參閱<strong>Azure information Protection</strong> in <a href="products-and-capabilities.md#enterprise-mobility--security">Enterprise Mobility + Security</a>。
 <ul>
 
 </td>
@@ -465,7 +465,7 @@ ms.locfileid: "51996236"
 
 <strong>下列超出範圍 </strong> 
 <ul>
-<li> 建立及管理電源自動化流程。</li>
+<li> 建立及管理 Power Automate 流程。</li>
 <li> 在 HR 連接器) 以外 (的資料連線器。 </li>
 <li> 自訂正則運算式 (RegEx) 設定。</li>
 <li> 設計、設計架構和協力廠商檔審閱。</li>

@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office 365 (Exchange Online、SharePoint Online 及 [商務用 OneDrive])。 我們可以提供的協助類型取決於您的 Office 365 授權數量。
-ms.openlocfilehash: 916343d73c46410990785515ac5f32de24703acf
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: 437da2c12375bfc2d9614c452b0685f18ad3d188
+ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570479"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52592424"
 ---
 # <a name="data-migration"></a>資料移轉
 
@@ -108,7 +108,7 @@ FastTrack 可協助您將來源環境中的郵件和檔案資料移轉至 Office
 <tr class="even">
 <td><strong>G Suite 環境 (僅限 Gmail、連絡人和行事曆)</strong><br />
 <br />
-<strong>附注：</strong> 您的 G 套件環境必須符合 <a href="https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration">執行 G Suite 遷移</a>中所述的必要條件。</td>
+<strong>附注：</strong> 您的 G 套件環境必須符合 [執行 G Suite 遷移](/Exchange/mailbox-migration/perform-g-suite-migration)中所述的必要條件。</td>
 <td>轉換或分段</td>
 <td><ul>
 <li> 電子郵件 </li>

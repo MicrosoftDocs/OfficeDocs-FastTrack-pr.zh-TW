@@ -1,23 +1,23 @@
 ---
-title: Office 365 美國政府的 FastTrack 責任
+title: FastTrackOffice 365 美國政府的責任
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 5/19/2021
+ms.date: 6/16/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 在上架期間 FastTrack 專家需擔負下列責任。
-ms.openlocfilehash: 10b0895536be5d4ddd0026baa6f5e3e939a52fb5
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: 57e1ba446304fba42e3c1b815351d3942c6b4e39
+ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570515"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52994902"
 ---
-# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 美國政府的 FastTrack 責任
+# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrackOffice 365 美國政府的責任
 
 在上架期間 FastTrack 專家需擔負下列責任。  
   
@@ -97,7 +97,7 @@ ms.locfileid: "52570515"
 
 提供以下的相關指引：
 - 使用 **Microsoft 資訊** 控管的遠端協助 (請參閱 [安全性和符合性](products-and-capabilities.md#security-and-compliance)) 。
-- 使用 **Microsoft 資訊保護** 的遠端協助 (請參閱 [安全性和符合性](products-and-capabilities.md#security-and-compliance)) 。
+- **Microsoft 資訊保護** (的遠端協助請參閱 [安全性和合規性](products-and-capabilities.md#security-and-compliance)) 。
 - 使用 **Azure 資訊保護** 的遠端協助 (請參閱 [安全性和符合性](products-and-capabilities.md#security-and-compliance)) 。
 
 ## <a name="exchange-online"></a>Exchange Online
@@ -154,12 +154,12 @@ ms.locfileid: "52570515"
 - 啟用音訊會議：   
   - 會議橋接預設設定的組織設定。   
   - 對授權使用者會議橋接的指派。 
-- GCC 高或 DoD 方案中，啟用電話系統 (無法使用) ：  
+- 在 GCC 高或 DoD 方案中，啟用電話系統 (無法使用) ：  
   - 啟用電話系統和通話方案上架 (在可用的市場)。 
   - 授權使用者號碼的指派。  
   - 透過 UI 的本機號碼移轉指引最多至 999。  
   - 本機號碼移轉 SR 支援超過 999。  
-- 啟用商務用 Skype 會議廣播 (GCC 高或 DoD 方案中不可用) ：  
+- 啟用商務用 Skype 會議廣播 (無法在 GCC 高或 DoD 計畫) 中使用：  
   - 啟用商務用 Skype 會議廣播上架指引。  
   - 針對會議廣播服務同盟的組織設定。
     
@@ -197,7 +197,7 @@ ms.locfileid: "52570515"
 提供將您的單一 Yammer Basic 網路轉換成單一 Yammer Enterprise 網路的指導。
 
 > [!NOTE]
-> Yammer Enterprise 不是 Office 365 美國政府的元件，但可取得，但不是以個別方式提供，以供 GCC 中 Office 365 的每位使用者使用。 這項優惠目前僅限於客戶購買 Office 365 GCC Enterprise 合約及 Enterprise 訂閱協定。 GCC 高或 DoD 方案中無法使用 Yammer。
+> Yammer Enterprise 不是 Office 365 美國政府的元件，但可免費提供給在 GCC 中為 Office 365 授權的每位使用者提供的獨立功能。 這項優惠目前僅限於以企業合約和企業訂閱協定購買 Office 365 GCC 的客戶。 在 GCC 高或 DoD 方案中無法使用 Yammer。
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
@@ -207,5 +207,5 @@ ms.locfileid: "52570515"
 - 使用隨選即用從 Office 365 入口網站安裝 Microsoft 365 Apps。   
 - 在您的 iOS、Android 或 Windows Mobile 裝置上安裝 Office Mobile 應用程式 (如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile)。   
 - 使用 Office 2016 部署工具或群組原則範本來設定更新設定。   
-- 設定 Microsoft 365 Apps 的單一內部網站發佈伺服器，包含建立 configuration.xml 檔案的協助，以搭配 Office 365 部署工具使用。   
+- 設定 Microsoft 365 應用程式的單一內部網站發佈伺服器，包含建立 configuration.xml 檔案的協助，以搭配 Office 365 部署工具使用。   
 - 使用 Microsoft Endpoint Configuration Manager 部署，包含協助建立 Microsoft Endpoint Configuration Manager 套件。

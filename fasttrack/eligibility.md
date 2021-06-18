@@ -3,19 +3,19 @@ title: 資格
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 5/19/2021
+ms.date: 6/16/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 在本主題中，我們概括了從購買 Microsoft 365 授權的 FastTrack 專家那裡收到導向協助的資格要求，並詳細說明涵蓋的特定產品和功能。
-ms.openlocfilehash: 54eb2d4156c1b74a63944942ff79de89d84bfe91
-ms.sourcegitcommit: 736a256276ead91385e1ec37b8a120b22259c4ea
+ms.openlocfilehash: 28f1c2e8907e62b3431d759ed90307d7d4dfb527
+ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52626694"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52994866"
 ---
 # <a name="eligibility"></a>資格
 
@@ -55,7 +55,7 @@ FastTrack 專家可以為您提供您購買方案中可能包含的下列服務�
 
 ## <a name="eligible-plans"></a>合格方案
 
-若要符合 FastTrack 的資格，您必須在下列其中一個方案中，為每個租使用者至少購買150個授權。 清單依產品系列分組，協助您尋找貴公司所購買的特定方案： Microsoft 365、Office 365、企業移動與安全性和 Windows 10。
+您必須從下列其中一個計畫購買至少150個授權，才可享受 FastTrack。 清單依產品系列分組，協助您尋找貴公司所購買的特定方案： Microsoft 365、Office 365、企業移動與安全性和 Windows 10。
 
 ### <a name="microsoft-365-plans"></a>Microsoft 365 方案
 
@@ -204,7 +204,7 @@ FastTrack 專家可以為您提供您購買方案中可能包含的下列服務�
 > 商業獨立軟體廠商 (ISV) 建立 Windows 10 應用程式時沒有最低的授權需求。 所有應用程式要求都必須針對目前位於主流服務視窗內的 Windows 10 或 Microsoft 365 Apps 版本。
 
 > [!NOTE]
-> 需購買上述適用方案的付費授權，才適用 FastTrack 中心權益。 在例外狀況下，FastTrack 會協助上架 Office 365 的 E1 試用版授權2021，2021年5月30日至6月30日，針對印度和巴西的合格客戶提供協助，以協助回應目前的 COVID-19 電湧。 
+> 需購買上述適用方案的付費授權，才適用 FastTrack 中心權益。 在例外狀況下，FastTrack 會協助上架 Office 365 E1 試用版授權2021，從5月30日到2021年6月30日，針對印度和巴西的合格客戶提供協助，以協助回應目前的 COVID-19 電湧。 
 
 ### <a name="ineligible-plans"></a>不適用的方案 
  不適用於 FastTrack 服務的方案包含 (但不限於)：

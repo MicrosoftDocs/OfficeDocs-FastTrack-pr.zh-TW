@@ -3,19 +3,19 @@ title: Office 365 美國政府的責任
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 5/19/2021
+ms.date: 6/16/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 在上架期間您需擔負下列責任。
-ms.openlocfilehash: 771a28beda75e9d086d0627828a926c573472e94
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: b6ab10d86248252d38e60b038241f7e7ec5d08e0
+ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570575"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52994886"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Office 365 美國政府的責任
 

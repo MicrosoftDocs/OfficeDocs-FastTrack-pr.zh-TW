@@ -9,13 +9,13 @@ ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-description: Office 365 上架 for Office 365 US 政府具有四個主要階段： Initiate、評估、修正及啟用。 您可以在這些階段後面選擇接著資料移轉階段，如下圖所示。
-ms.openlocfilehash: 0408830b2d1c2068bd22d0b575d30fd652640420
-ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
+description: Office 365 US 政府的 Office 365 上架具有四個主要階段： Initiate、評估、修正及啟用。 您可以在這些階段後面選擇接著資料移轉階段，如下圖所示。
+ms.openlocfilehash: 99bc16e1939bbc13a06aa7a93cd735918c652865
+ms.sourcegitcommit: c4f9375811fd23d01edd308108340ace15ec4db7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52994958"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53255526"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 美國政府的上架和遷移階段
 
@@ -23,7 +23,7 @@ Office 365 上架有四個主要階段 - 起始、評估、修復與啟用。您
   
 ![上架權益的階段](media/O365-Onboarding-Phases.png)
   
-如需每個階段的詳細工作，請參閱 office [365 Us 政府的 FastTrack 責任](US-Gov-appendix-fasttrack-responsibilities.md) 和 [您 Office 365 Us 政府的責任](US-Gov-appendix-your-responsibilities.md)。
+如需每個階段的詳細工作，請參閱[Office 365 us 政府的 FastTrack 責任](US-Gov-appendix-fasttrack-responsibilities.md)，以及[Office 365 美國政府的責任](US-Gov-appendix-your-responsibilities.md)。
   
 ## <a name="initiate-phase"></a>起始階段
 
@@ -92,7 +92,7 @@ FastTrack 專家會與您一起評估您的來源環境和需求。 我們為您
   
 ## <a name="exchange-online"></a>Exchange Online
 
-對於 Exchange Online，我們將引導您讓組織準備好使用電子郵件的程序。確切步驟因您的來源環境和電子郵件移轉方案有所不同，可能包含提供下列項目的指引：
+針對 Exchange Online，我們會從您的程式中逐步引導您，讓您的組織準備好使用電子郵件。 確切步驟因您的來源環境和電子郵件移轉方案有所不同，可能包含提供下列項目的指引：
   
 - 針對在 Office 365 中驗證的所有已啟用郵件的網域設定 Exchange Online Protection (EOP) 功能。   
     > [!NOTE]
@@ -109,7 +109,7 @@ FastTrack 專家會與您一起評估您的來源環境和需求。 我們為您
   
 ## <a name="sharepoint-online-and-onedrive-for-business"></a>SharePoint Online 和商務用 OneDrive
 
-對於 SharePoint Online 和商務用 OneDrive，我們提供下列項目的指引： 
+針對 SharePoint 線上及商務用 OneDrive，我們提供下列專案的遠端指導： 
 - 設立 DNS。   
 - 設定防火牆連接埠。   
 - 佈建使用者和授權。   
@@ -127,13 +127,13 @@ FastTrack 專家會提供將資料移轉到 Office 365 的指引，方法是使�
   
 ## <a name="skype-for-business-online"></a>商務用 Skype Online
 
-對於商務用 Skype Online，我們提供下列項目的指引： 
+針對商務用 Skype 線上，我們提供下列專案的遠端指導： 
 - 設定防火牆連接埠。    
 - 設立 DNS。    
 - 建立任何會議室系統裝置的帳戶。    
 - 部署支援的 商務用 Skype Online 用戶端。   
-- 在您的內部部署 Lync 2010、Lync 2013 或商務用 skype 2015 伺服器環境和商務用 Skype Online 租使用者之間建立分割域伺服器設定（如果適用) ，則為商務用 Skype Online 租使用者 (）。
-- 啟用可用市場中 (的通話方案、Skype 會議廣播和電話系統和通話方案–無法在 GCC 高或 DoD 方案) 中使用。 
+- 在您的內部部署 Lync 2010、Lync 2013 或商務用 Skype 2015 伺服器環境之間建立分割域伺服器設定，以及商務用 Skype 線上承租人 (（如果適用）) 。
+- 啟用可用市場中的通話方案、Skype 會議廣播和電話系統與通話 (方案–無法在 GCC 高或 DoD 方案) 中使用。 
     
 ![啟用階段_1 期間的 Lync 上架步驟](media/O365-Onboarding-Enable-Lync.png)
   
@@ -142,20 +142,48 @@ FastTrack 專家會提供將資料移轉到 Office 365 的指引，方法是使�
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> 在 GCC 高或 DoD 方案中無法使用下列各項。
+> FastTrack 會根據各個環境中的功能可用性來協助範圍。 如需每個環境中目前可用功能的清單，請參閱 <a href="/office365/servicedescriptions/teams-service-description#feature-availability">Feature availability</a>。
 
-對於 Microsoft Teams，我們提供下列項目的指引： 
-- 確認最低需求。   
+針對 Microsoft Teams，我們提供下列專案的遠端指導： 
+- 確認 Exchange Online 中的最低需求、SharePoint 線上、Office 365 群組及 Azure Active Directory (Azure AD) ，以支援 Teams。
 - 設定防火牆連接埠。   
 - 設立 DNS。  
 - 確認您的 Office 365 租用戶上已啟用 Microsoft Teams。    
 - 啟用或停用使用者授權。
+- Teams 的網路評估：
+    - 連接埠和端點檢查。
+    - 連線品質檢查。
+    - 頻寬估計。
+    - 設定 Teams 和 Android 應用程式 iOS 的 Teams 應用程式原則 (Teams web 應用程式、Teams 桌面應用程式和) 。
+ 
+<br> 若適用，我們提供下列專案的指引。。 </br>
+- Microsoft Teams會議室裝置：
+    - 建立 <a href="https://go.microsoft.com/fwlink/?linkid=2066478">Teams 裝置目錄</a>中列出的受支援電話和會議室裝置所需的線上帳戶。
+    - 遠端協助，含已驗證 Microsoft Teams 會議室裝置的服務端設定。
+- 啟用音訊會議：
+    - 會議橋接預設設定的組織設定。
+    - 對授權使用者會議橋接的指派。
+- 電話系統：
+    - 雲端語音預設設定的組織設定。
+    - 通話方案指引 (<a href="https://go.microsoft.com/fwlink/?linkid=2066478">可用市場</a>) ：  
+        - 授權使用者號碼的指派。
+        - 透過使用者介面 (UI) 的本機號碼移轉指引最多至 999。
+        - 本機號碼移轉服務要求 (SR) 支援超過 999。
+        - 直接路由指引：
+            - 組織安裝指導，以供協力廠商託管案例的直接路由設計，或最多10個網站的客戶部署案例。
+            - 會話邊界控制器 (SBC) 設定複查。
+            - 使用撥號對應表設定的遠端協助。
+            - 語音路由設定。
+            - 媒體旁路和本機媒體優化。
+- 啟用 Teams 即時活動。
+- 組織設定與 Microsoft Stream 整合。
+- 商務用 Skype Teams 轉換的指導方針。 
     
 ![FastTrack Microsoft Teams 圖表 (啟用階段)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
   
 ## <a name="power-bi"></a>Power BI
 
-對於 Power BI，我們提供下列項目的指引：  
+針對 Power BI，我們提供下列專案的遠端指導：  
 - 指派 Power BI 的授權。    
 - 部署 Power BI Desktop 應用程式。   
 ## <a name="project-online"></a>Microsoft Project Online
@@ -170,20 +198,20 @@ FastTrack 專家會提供將資料移轉到 Office 365 的指引，方法是使�
   
 ## <a name="yammer-enterprise"></a>Yammer Enterprise
 
-對於 Yammer Enterprise，我們提供啟用 Yammer Enterprise 服務的指引。
+針對 Yammer，我們提供啟用 Yammer Enterprise 服務的遠端指南。
 
 > [!NOTE]
-> Yammer Enterprise 不是 Office 365 美國政府的元件，但可免費提供給在 GCC 中為 Office 365 授權的每位使用者提供的獨立功能。 這項優惠目前僅限於以企業合約和企業訂閱協定購買 Office 365 GCC 的客戶。 在 GCC 高或 DoD 方案中無法使用 Yammer。 
+> Yammer Enterprise 不是 Office 365 美國政府的元件，但可取得，但不是以個別方式提供，以供 GCC 中 Office 365 的每位使用者使用。 這項優惠目前僅限於客戶購買 Office 365 GCC Enterprise 合約及 Enterprise 訂閱協定。 GCC 高或 DoD 方案中無法使用 Yammer。 
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
-針對 Microsoft 365 Apps，我們提供以下指引︰ 
+針對 Microsoft 365 Apps，我們提供下列專案的遠端指導： 
 - 解決部署問題。    
 - 使用 [Microsoft 365 系統管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 指派使用者授權。    
 - 使用隨選即用從 Office 365 入口網站安裝 Microsoft 365 Apps。    
 - 在 iOS 或 Android 裝置上安裝 Office Mobile 應用程式 (如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile)。   
 - 使用 Office 365 部署工具來設定更新設定。    
-- 設定 Microsoft 365 應用程式的單一內部網站發佈伺服器，包含建立 configuration.xml 檔案的協助，以搭配 Office 365 部署工具使用。    
+- 設定 Microsoft 365 Apps 的單一內部網站發佈伺服器，包含建立 configuration.xml 檔案的協助，以搭配 Office 365 部署工具使用。    
 - 使用 Microsoft Endpoint Configuration Manager 部署，包含協助建立 Microsoft Endpoint Configuration Manager 套件。
     
 ![Office 專業增強版上架步驟](media/o365-onboarding-enable-m365-apps-2.png)
